@@ -1,0 +1,117 @@
+Baixar um app é fácil. Difícil é decidir se vale a pena pagar por ele. A tela da loja mostra dois botões lado a lado, um gratuito e outro com preço, e a diferença quase nunca é óbvia. O gratuito promete tudo que você precisa. O pago promete a mesma coisa, só que melhor. E aí você fica parado, tentando adivinhar qual dos dois vai te dar dor de cabeça depois.
+
+A verdade é que o app gratuito raramente é de graça. Ele tem um custo, só que esse custo não aparece no preço. Aparece em anúncios, funções travadas, limites de uso, coleta de dados e, em alguns casos, numa versão tão capenga que você acaba pagando depois de qualquer jeito. Já o pago tem o problema oposto. Você paga antes de saber se ele serve para o seu dia a dia, e não existe devolução fácil na maioria das lojas.
+
+Escolher entre os dois é menos sobre preço e mais sobre entender o que você está comprando em cada caso. Um app gratuito pode ser perfeito para uma tarefa pontual. Um pago pode ser exagero para quem usa uma vez por mês. O segredo está em olhar para o modelo de negócio por trás do aplicativo, para o seu próprio uso e para o que acontece quando o dinheiro acaba ou quando o app muda de dono.
+
+## O gratuito nunca é de graça, ele cobra de outro jeito
+
+Quando um app não cobra dinheiro, ele precisa ganhar de alguma forma. Servidor custa, equipe custa, atualização custa. Então o desenvolvedor escolhe uma ou mais formas de monetizar, e cada uma afeta a sua experiência de um jeito específico.
+
+A mais comum é a publicidade. Você abre o app e lá está um banner na parte de baixo, ou um vídeo de cinco segundos antes de cada ação. Para um jogo casual ou um app de consulta rápida, isso pode ser tolerável. Para algo que você usa várias vezes ao dia, como um editor de fotos ou leitor de PDF, o anúncio vira atrito puro. Cinco segundos multiplicados por vinte usos diários viram quase dois minutos perdidos, todo santo dia.
+
+Outra forma é o modelo freemium, em que o básico é gratuito e o resto fica atrás de assinatura. Aqui a pergunta não é se o app é bom, mas se a função que você precisa está na parte paga. Muita gente baixa um editor de vídeo, edita o primeiro projeto sem problemas e só descobre na exportação que a marca d'água só sai com assinatura. O app era gratuito, a sua edição é que não era.
+
+Existe ainda o modelo de dados. O app é gratuito porque você é o produto. Seus hábitos, sua localização, sua lista de contatos em alguns casos. Isso não significa que todo app gratuito vende dados de forma ilegal, mas significa que a privacidade entra na sua conta. Um app de lanterna que pede acesso a contatos é sinal claro de que o modelo de negócio não é a lanterna.
+
+Tem também o gratuito com limite de uso. Três arquivos por dia, cinco conversões por mês, armazenamento de dois gigabytes. Para uso esporádico, funciona. Para quem depende do app, o limite vira uma parede que aparece sempre no pior momento, geralmente quando você está com pressa.
+
+## O que você realmente paga quando compra um app
+
+Quando você paga por um app, está comprando algo além da função. Está comprando tempo, atenção e previsibilidade. O app pago não precisa te interromper com anúncio porque a receita já veio. Ele não precisa esconder funções porque o modelo é vender o pacote completo. Isso muda a relação que você tem com o aplicativo.
+
+O primeiro benefício costuma ser a ausência de interrupção. Parece pouco, mas não é. Um app que não te para a cada ação respeita o seu fluxo. Você abre, faz o que precisa, fecha. Em tarefas repetitivas, essa fluidez economiza um tempo que você sente no fim do dia. Quem já usou a versão paga de um app de notas ou de lista de tarefas depois de meses na gratuita costuma notar a diferença na primeira semana.
+
+O segundo é suporte e continuidade. Apps pagos, especialmente os de compra única ou assinatura anual, tendem a ter um desenvolvedor com incentivo claro para manter o produto funcionando. Atualização de sistema, correção de bug, compatibilidade com versões novas do Android ou do iOS. Não é garantia, porque desenvolvedor independente também abandona projeto, mas o incentivo financeiro ajuda.
+
+O terceiro é a previsibilidade do modelo. Você sabe o que pagou e o que recebeu. Não existe surpresa de função que virou paga da noite para o dia, pelo menos não sem aviso. Não existe anúncio novo aparecendo depois de uma atualização. Você comprou um produto, e o produto é aquilo.
+
+O quarto benefício é menos óbvio e tem a ver com privacidade. App pago geralmente não precisa monetizar seus dados, porque já monetiza vendendo o software. Isso não torna todo app pago automaticamente seguro, mas reduz bastante a motivação para rastrear você. Em apps de saúde, finanças pessoais ou qualquer coisa que lide com informação sensível, esse ponto pesa.
+
+## Quando o gratuito é a escolha certa
+
+Existe uma tentação de tratar o app pago como sempre superior. Não é bem assim. Para boa parte das tarefas, o gratuito resolve, e pagar seria dinheiro jogado fora. O critério principal é a frequência e a profundidade do uso.
+
+Se você precisa converter um arquivo uma vez a cada dois meses, o gratuito com limite diário dá conta. Se usa o app todo dia, várias vezes ao dia, o limite vira incômodo e o pago compensa. A pergunta não é se o app é bom, é quanto você usa e quanto o atrito te custa.
+
+Outro caso em que o gratuito ganha é o teste. Você não sabe se aquele tipo de app serve para você. Talvez queira um app de meditação, mas nunca meditou na vida. Talvez queira um de finanças pessoais, mas não sabe se vai manter o hábito de registrar gastos. Nesse cenário, o gratuito funciona como teste de compatibilidade. Se você usar por um mês inteiro e sentir falta das funções pagas, aí vale considerar a compra.
+
+Tem também o app gratuito por filosofia. Alguns projetos são mantidos por comunidade, com doação opcional, e oferecem experiência sem anúncio e sem coleta de dados. São minoria, mas existem. Nesses casos, o gratuito não é versão capenga, é o produto completo. Vale apoiar com doação se você usa bastante.
+
+E existe o caso do app que você usa tão raramente que nem vale aprender a versão paga. Um scanner de documento usado duas vezes por ano não justifica assinatura. O gratuito com marca d'água leve resolve, e você nem vai lembrar que a marca existe.
+
+## O truque da assinatura disfarçada de compra única
+
+Um dos pontos que mais confunde é a diferença entre pagar uma vez e pagar todo mês. As lojas mostram os dois formatos, mas nem sempre de forma clara. Você acha que está comprando um app por trinta reais e descobre depois que aquilo era o primeiro mês de uma assinatura.
+
+Assinatura faz sentido quando o app tem custo contínuo. Armazenamento em nuvem, sincronização entre dispositivos, processamento pesado no servidor, atualização constante de base de dados. Um app de previsão do tempo que consulta dados atualizados precisa de receita recorrente. Um app de música precisa pagar licenciamento. Nesses casos, a assinatura é honesta.
+
+Assinatura vira armadilha quando o app não tem custo contínuo nenhum. Um app de anotação local, um bloco de notas, uma calculadora científica, um app de hábitos. Se o processamento acontece todo no seu celular e nada é sincronizado, a assinatura é só uma forma de extrair mais dinheiro pelo mesmo produto.
+
+A dica prática é olhar o que a assinatura entrega de recorrente. Se a resposta for nada, se o app funcionaria igual sem internet, a compra única faz mais sentido. Se você encontrar essa opção, melhor ainda. Alguns desenvolvedores oferecem as duas, e a compra única costuma sair mais barata no longo prazo, mesmo com preço inicial maior.
+
+Fique atento também ao teste gratuito. Muitos apps oferecem sete dias grátis, mas cobram automaticamente no oitavo. Coloque um lembrete no calendário para o sexto dia. Cancelar depois de esquecer é uma das formas mais comuns de pagar por algo que você nem queria.
+
+## Sinais de que o app gratuito vai te custar caro
+
+Nem todo app gratuito é problema. Mas alguns sinais indicam que a conta vai chegar de algum jeito.
+
+O primeiro é pedir permissão demais. Um app de edição de foto que quer acesso a microfone, contatos e localização precisa de explicação muito boa. Na maioria das vezes, não tem. Permissão excessiva é sinal de que o modelo de negócio depende de dados, não da função.
+
+O segundo é a ausência de política de privacidade clara, ou uma política cheia de termos vagos sobre compartilhamento com parceiros. Se você não consegue entender o que o app faz com seus dados em cinco minutos de leitura, é porque o texto foi escrito para não ser entendido.
+
+O terceiro é o app que funciona bem demais para ser gratuito. Um serviço com custo alto de servidor, como armazenamento de vídeo em alta qualidade ou processamento pesado de imagem, que não cobra nada, está bancando isso de algum jeito. Pode ser capital de investidor esperando crescimento, o que significa que uma hora o modelo muda. Pode ser venda de dados. Pode ser publicidade agressiva mais adiante.
+
+O quarto é o app que muda de dono. Quando um gratuito popular é comprado por uma empresa maior, o modelo costuma mudar. Funções viram pagas, anúncios aparecem, política de privacidade é reescrita. Não é regra, mas é padrão frequente. Se você depende de um app gratuito, vale acompanhar as notícias sobre ele de vez em quando.
+
+O quinto sinal é a dependência. Se você usa o app para trabalho, estudo ou qualquer coisa que não pode parar de funcionar de repente, o gratuito é uma aposta. O desenvolvedor pode descontinuar, o servidor pode cair, o modelo pode mudar. Em app pago, esse risco existe também, mas é menor porque a receita ajuda a manter o projeto vivo.
+
+## Como decidir na prática, um passo a passo
+
+Antes de instalar qualquer coisa, defina em uma frase o que você precisa que o app faça. Não é o que ele promete, é o que você vai usar de verdade. "Preciso editar vídeos curtos para redes sociais com legenda automática" é diferente de "preciso de um editor de vídeo completo". A primeira frase elimina uma porção de apps que seriam exagero.
+
+Agora siga estes passos.
+
+- Liste as funções que você vai usar toda semana. Se a maioria está na versão gratuita, comece por ela. Se as principais estão atrás de pagamento, o gratuito vai te frustrar.
+
+- Verifique o modelo de cobrança. É compra única, assinatura mensal, assinatura anual ou gratuito com anúncio? Cada um tem um custo diferente ao longo do tempo, e o barato inicial pode sair caro depois.
+
+- Leia a política de privacidade, pelo menos as partes sobre compartilhamento com terceiros e coleta de dados. Se não entender, procure o nome do app em fóruns e veja o que outros usuários relatam.
+
+- Teste o gratuito por uma semana inteira, como se fosse o app principal. Anote quantas vezes bateu no limite, quantos anúncios viu, quantas funções faltaram.
+
+- Some o tempo perdido. Se o gratuito te faz perder cinco minutos por dia com anúncio e limite, isso dá mais de meia hora por semana. Compare com o preço da versão paga.
+
+- Confira se existe opção de compra única antes de aceitar assinatura. Alguns apps escondem essa opção em configurações ou numa página separada.
+
+- Se for assinatura, calcule o custo anual. Um app de dez reais por mês custa cento e vinte por ano. Compare com alternativas de compra única que fazem a mesma coisa.
+
+- Antes de pagar, veja se o app permite exportar seus dados. Se você investir tempo criando conteúdo dentro dele e não puder levar nada embora depois, está preso ao desenvolvedor.
+
+- Ative o teste gratuito só quando tiver tempo de usar de verdade. Teste de sete dias que você esquece no terceiro dia é dinheiro perdido.
+
+- Anote a data de renovação no calendário do celular. Cancelar antes do fim do teste é o único jeito de não pagar sem querer.
+
+Depois de uma semana, você vai ter uma resposta clara. Se o gratuito deu conta sem te irritar, fique nele. Se sentiu falta das funções pagas toda vez que abriu o app, a compra se justifica. Se ficou na dúvida, continue no gratuito por mais uma semana. Não existe pressa.
+
+## O que fazer quando o app muda de modelo depois
+
+Uma situação comum é você escolher o gratuito, usar por meses, e um dia o desenvolvedor anunciar que agora o app é por assinatura. Ou que as funções que você usava agora são pagas. Isso irrita, mas acontece, e você precisa de um plano.
+
+O primeiro passo é verificar se a mudança afeta o que você usa. Muitas vezes o app vira pago para funções novas, mas mantém o básico gratuito. Se o seu uso é básico, talvez não mude nada. Leia o anúncio com calma antes de decidir.
+
+Se a mudança afeta você, avalie se vale pagar ou migrar. Migrar dá trabalho, mas às vezes é a melhor saída. Exporte seus dados enquanto ainda pode, porque muitos apps restringem a exportação justamente quando mudam de modelo. Procure alternativas antes de cancelar, para não ficar sem nada.
+
+Vale também considerar se o novo preço faz sentido para o seu uso. Um app que você usa todo dia e que agora custa uma assinatura anual pode continuar valendo. Um app que você usa uma vez por mês e que triplicou de preço provavelmente não. A decisão é sua, mas deve ser refeita com os números novos.
+
+E existe a opção de simplesmente aceitar o gratuito com limitações. Se o app ainda faz o essencial, você pode conviver com o anúncio ou com o limite. Não é ideal, mas é uma escolha válida. O importante é não pagar por inércia, só porque você já estava ali e não quis mudar.
+
+## O que realmente importa no fim
+
+A escolha entre app pago e gratuito não tem resposta única. Depende do seu uso, do seu bolso e da sua tolerância a interrupção. O que funciona para uma pessoa pode ser desperdício para outra. Um app de edição de foto pago pode ser essencial para quem trabalha com isso e exagero para quem posta uma foto por semana.
+
+O critério mais confiável é o custo total, não o preço inicial. O gratuito cobra em tempo, atenção e dados. O pago cobra em dinheiro. Cabe a você decidir qual moeda é mais barata no seu caso. Quem tem mais tempo do que dinheiro pode conviver com anúncio. Quem tem mais dinheiro do que tempo provavelmente vai preferir pagar.
+
+Vale lembrar que a decisão não é permanente. Você pode começar no gratuito e migrar depois. Pode pagar um mês de assinatura para testar e cancelar. Pode trocar de app se o modelo mudar. O importante é não ficar preso por falta de atenção. Ler o que você está aceitando, testar antes de pagar e revisar a decisão de tempos em tempos já evita a maior parte das armadilhas.
+
+No fim, o melhor app é aquele que você abre, usa e fecha sem pensar. Se o gratuito te faz pensar no anúncio, no limite ou na função que falta, ele não é gratuito de verdade. Se o pago te faz pensar no preço toda vez que abre, talvez você tenha pago por algo que não usa o suficiente. O equilíbrio está em observar o próprio uso com honestidade e escolher com base nele, não com base no que a loja coloca na frente.

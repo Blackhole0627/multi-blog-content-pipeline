@@ -1,0 +1,115 @@
+Você acabou de apagar um arquivo importante. Talvez tenha sido aquele trabalho da faculdade que levou a semana inteira para ficar pronto. Ou as fotos da viagem que você ainda não tinha passado para o computador. O coração acelera e a primeira reação é clicar em tudo ao mesmo tempo, achando que assim o arquivo volta por mágica.
+
+A boa notícia é que, na maioria dos casos, o arquivo não sumiu de verdade. O sistema apenas marcou aquele espaço como disponível para ser sobrescrito. Enquanto nada novo ocupar o lugar, existe chance real de recuperação. O problema é que muita gente piora a situação tentando resolver no impulso, instalando programas no disco errado ou salvando novos dados no mesmo lugar.
+
+Este guia existe para te tirar do desespero e te dar um caminho organizado. Vou explicar o que acontece por baixo do capô quando você apaga algo, quais são os primeiros socorros que fazem diferença, como usar recursos que já vêm no sistema e quando vale partir para softwares específicos. Também vou falar do cenário mais temido, aquele em que o arquivo realmente não volta, e o que fazer para nunca mais passar por isso.
+
+## O que realmente acontece quando você apaga um arquivo
+
+Quando você aperta Delete, o sistema operacional não pega um ímã gigante e apaga fisicamente os dados. Ele remove a referência daquele arquivo da tabela de conteúdos do disco, uma espécie de índice que diz onde cada coisa está guardada. O espaço ocupado passa a ser tratado como livre, disponível para a próxima gravação.
+
+Pense num livro com sumário. Apagar um arquivo é como arrancar a página do sumário que apontava para o capítulo. O capítulo continua lá, intacto, mas ninguém sabe onde ele está sem procurar. Enquanto ninguém escrever por cima daquelas páginas, o conteúdo permanece. Se você gravar um filme novo ou instalar um jogo grande, essas páginas vão sendo reescritas e o capítulo antigo se perde de vez.
+
+Isso vale para HDs mecânicos, pendrives e cartões de memória. Em SSDs a lógica é parecida, mas com um detalhe extra. Esses discos usam um recurso chamado TRIM, que avisa o próprio hardware quais blocos não são mais necessários. Isso ajuda o SSD a se manter rápido, mas pode acelerar a perda definitiva dos dados apagados. Por isso, quanto mais rápido você agir, melhor, em qualquer tipo de armazenamento.
+
+Existe também a lixeira. No Windows e no macOS, arquivos apagados normalmente vão para lá primeiro, e recuperar é trivial. O problema começa quando a lixeira é esvaziada, quando você usa Shift mais Delete, ou quando o arquivo estava num pendrive ou cartão, que muitas vezes não têm lixeira. Nesses casos, o arquivo foi direto para o limbo dos blocos livres.
+
+## Os primeiros socorros que salvam a recuperação
+
+A primeira coisa a fazer é parar de usar o disco onde o arquivo estava. Cada programa que abre, cada página que carrega, cada foto que você baixa pode ocupar exatamente o espaço que guardava o seu arquivo. Se o arquivo estava no disco C do computador, evitar usar a máquina já é um desafio, mas dá para reduzir o dano.
+
+Se o arquivo estava num pendrive ou cartão de memória, a regra é mais fácil. Retire o dispositivo da máquina e não grave nada nele. Não tire fotos novas com aquele cartão, não copie músicas para o pendrive, não formate achando que isso resolve. Formatar é justamente o tipo de operação que pode complicar a recuperação, embora em alguns casos ainda seja possível reverter.
+
+Outra medida é não instalar o programa de recuperação no mesmo disco onde estão os arquivos apagados. Se você vai baixar um software para tentar recuperar algo do disco C, instale em outro drive ou em um pendrive, e salve os arquivos recuperados em outro lugar também. Muita gente perde a chance de recuperação exatamente por instalar o programa no lugar errado.
+
+Vale também desligar a sincronização automática de serviços como OneDrive, Google Drive e Dropbox, se eles apontarem para a pasta onde o arquivo estava. Esses serviços podem perceber a exclusão e replicar a mudança para a nuvem, apagando a versão que ainda existia lá. Em alguns casos, a nuvem tem lixeira própria e versão anterior de arquivos, o que pode ser uma salvação, mas só se você agir antes da sincronização fazer estrago.
+
+## Recuperando pela lixeira e pelo histórico de versões
+
+Antes de pensar em software de recuperação, esgote as soluções que já estão no sistema. No Windows, abra a Lixeira na área de trabalho e procure o arquivo. Se ele estiver lá, clique com o botão direito e escolha Restaurar. Ele volta para a pasta original. Se você não lembra onde ele estava, a opção Restaurar arquivos deixa você escolher o destino.
+
+No macOS, a Lixeira fica no Dock. Abra, encontre o arquivo e use a opção Colocar de volta. Se a lixeira já foi esvaziada, ainda existe uma chance pelo histórico de versões do sistema, desde que o Time Machine esteja configurado. Conecte o disco de backup, entre na pasta onde o arquivo ficava e use a opção Entrar no Time Machine. Você pode navegar para trás no tempo e recuperar a versão anterior.
+
+No Windows, o recurso equivalente é o Histórico de Arquivos, que precisa ter sido ativado antes. Se você usa OneDrive, Google Drive ou Dropbox, vale checar a lixeira do serviço. O Google Drive guarda arquivos excluídos por um período, e o OneDrive tem uma lixeira própria que também segura itens por alguns dias. É comum encontrar ali o que você pensou que tinha perdido para sempre.
+
+Se o arquivo estava num pendrive, a lixeira do sistema provavelmente não vai ajudar. Nesse caso, pule direto para as ferramentas de recuperação, mas mantenha o dispositivo desconectado até lá.
+
+## Quando o arquivo foi apagado de um pendrive ou cartão
+
+Pendrives e cartões de memória são os campeões de apagamento acidental. Você tira o dispositivo sem ejetar, o sistema reclama, e às vezes os arquivos somem. Ou o cartão da câmera é formatado por engano na própria câmera. A boa notícia é que, nesses dispositivos, a recuperação costuma funcionar bem, desde que você não grave nada novo neles.
+
+O primeiro passo é conectar o dispositivo a um computador, mas não abrir nem copiar nada dele para o próprio dispositivo. Instale o programa de recuperação em outro drive. A maioria dos softwares sérios tem uma versão gratuita que permite escanear e mostrar os arquivos encontrados, mas cobra para salvar. Isso é útil porque você confirma se o arquivo ainda está lá antes de pagar.
+
+Durante a varredura, prefira a opção de busca profunda, que às vezes aparece como varredura completa ou análise setor a setor. Ela demora mais, mas encontra arquivos que a busca rápida não vê. Depois de encontrar, salve os arquivos recuperados no disco rígido do computador ou em outro pendrive, nunca no mesmo dispositivo de onde estão sendo recuperados.
+
+Um detalhe importante sobre cartões de câmera. Se você apagou fotos e continuou usando o cartão, tirando novas fotos, as chances caem bastante. As novas imagens vão ocupar os espaços das antigas. Por isso, assim que perceber o problema, pare de usar o cartão e guarde ele para a recuperação.
+
+## Ferramentas de recuperação, o que esperar delas
+
+Existem vários programas de recuperação de dados no mercado. Alguns são pagos, outros têm versão gratuita com limite de quantidade de arquivos. A maioria funciona bem para casos simples, como arquivos apagados recentemente e discos que não sofreram dano físico. Vale entender que nenhum deles faz milagre. Se o arquivo foi sobrescrito, não tem software que traga de volta.
+
+Entre os nomes conhecidos estão o Recuva, o PhotoRec, o Disk Drill e o EaseUS Data Recovery. O Recuva tem uma versão gratuita generosa e é simples de usar, bom para quem nunca mexeu com isso. O PhotoRec é gratuito e open source, mas tem interface mais técnica. O Disk Drill e o EaseUS costumam ter versões de teste que mostram o que é recuperável antes de cobrar.
+
+O ponto de atenção é a instalação. Como eu já disse, nunca instale no mesmo disco de onde vai recuperar. E cuidado com sites que prometem recuperação gratuita ilimitada. Muitos são golpes ou instalam programas indesejados. Prefira baixar direto do site oficial do fabricante, mesmo que seja mais lento.
+
+Outra opção é levar o caso para um técnico de confiança, especialmente se o disco estiver fazendo barulho estranho, se o computador não liga ou se o pendrive não é reconhecido. Nesses casos, tentar recuperar em casa pode piorar o problema. Um disco com dano físico precisa de ambiente controlado, e isso é trabalho para laboratório especializado.
+
+## O passo a passo prático para tentar a recuperação
+
+Vou organizar tudo o que falamos numa sequência que você pode seguir. A ordem importa, porque cada etapa errada reduz as chances da seguinte.
+
+- Pare de usar o disco ou dispositivo imediatamente. Não instale nada nele, não salve nada nele, não formate.
+
+- Verifique a lixeira do sistema e as lixeiras dos serviços de nuvem, como OneDrive, Google Drive e Dropbox.
+
+- Confira se existe backup. Time Machine no Mac, Histórico de Arquivos no Windows, ou cópias manuais em HD externo.
+
+- Se o arquivo estava em pendrive ou cartão, desconecte o dispositivo e só reconecte na hora de escanear.
+
+- Baixe um programa de recuperação em outro computador ou em outro drive, nunca no disco afetado.
+
+- Instale e execute o programa, escolhendo o disco ou dispositivo correto como alvo da varredura.
+
+- Faça primeiro a varredura rápida. Se não encontrar, parta para a varredura profunda, que demora mais.
+
+- Selecione os arquivos que quer recuperar e salve em um disco diferente do que está sendo recuperado.
+
+- Confira se os arquivos abrem corretamente antes de considerar o caso encerrado. Às vezes o arquivo volta corrompido.
+
+- Se nada funcionar e o conteúdo for muito importante, procure um serviço profissional de recuperação de dados.
+
+Esse roteiro serve para a maioria dos casos domésticos. O que muda é o tipo de disco e o tempo que passou desde o apagamento. Quanto antes você começar, maiores as chances.
+
+## Por que às vezes o arquivo não volta
+
+Existe um limite para o que a recuperação consegue fazer. Se o espaço do arquivo apagado já foi ocupado por outros dados, não tem como trazer o original de volta. Isso acontece mais rápido do que muita gente imagina. Em um sistema com pouco espaço livre, o computador pode reutilizar aquele bloco em minutos. Em discos com bastante espaço, o arquivo pode sobreviver por semanas.
+
+Outro caso em que a recuperação falha é quando o disco tem dano físico. Se o cabeçote de leitura está com problema, se há setores defeituosos ou se o dispositivo não é reconhecido, o software não consegue nem enxergar o conteúdo. Aí só um laboratório consegue trabalhar, e mesmo assim nem sempre dá certo.
+
+Existe ainda o caso de arquivos apagados por vírus ou por programas de limpeza. Alguns utilitários de otimização apagam arquivos temporários e, às vezes, levam junto coisas importantes. Se você usou um desses programas e percebeu a perda depois, a lógica é a mesma. Pare de usar o disco e tente a recuperação o quanto antes.
+
+Por fim, tem o cenário em que o arquivo nunca existiu de verdade, ou foi salvo em um lugar que você não lembra. Antes de entrar em pânico, vale usar a busca do sistema pelo nome do arquivo, mesmo que parcial. Às vezes ele está numa pasta diferente, com nome parecido, ou foi salvo em um local padrão que você não conferiu.
+
+## Como evitar passar por isso de novo
+
+A melhor recuperação é aquela que você nunca precisa fazer. Montar uma rotina de backup simples resolve a maior parte do problema. Não precisa de nada sofisticado. Um HD externo já ajuda muito, desde que você conecte ele com alguma regularidade. Se deixar o HD sempre plugado, ele vira parte do sistema e pode ser afetado por ransomware ou por um erro seu.
+
+A regra de ouro é ter o arquivo em pelo menos dois lugares diferentes. Se está no computador, tenha uma cópia na nuvem ou no HD externo. Se está só na nuvem, baixe de vez em quando para um disco local. Assim, se um lado falhar, o outro segura. Serviços de nuvem são práticos, mas não são infalíveis. Conta cancelada, sincronização errada e até golpes podem apagar tudo.
+
+Para fotos e vídeos, vale separar por data e guardar em mais de um lugar. Muita gente perde anos de memórias porque o celular foi roubado ou o cartão corrompeu. Se você tem filhos, guarde as fotos em pelo menos um serviço de nuvem e em um HD externo. O trabalho é pequeno perto do valor afetivo.
+
+No dia a dia, alguns hábitos ajudam. Não apague arquivos no impulso. Use a lixeira sempre que possível e só esvazie quando tiver certeza. Antes de formatar um pendrive, confira duas vezes se não tem nada importante. Ao desligar um dispositivo USB, use a opção de ejeção segura. Parece coisa de manual antigo, mas evita corrupção de dados.
+
+## Perguntas que sempre aparecem
+
+Uma dúvida comum é se dá para recuperar arquivo depois de formatar o pendrive. Em muitos casos, sim, desde que você não tenha gravado nada novo nele depois da formatação. O processo é o mesmo de uma recuperação normal. Quanto mais tempo passar e mais dados forem gravados, menores as chances.
+
+Outra pergunta frequente é sobre a lixeira do celular. No Android e no iPhone, existe uma lixeira dentro do aplicativo de fotos, que guarda itens excluídos por um período. Vale checar antes de partir para programas de recuperação. Em alguns aparelhos, a pasta de arquivos também tem lixeira própria.
+
+Tem também quem pergunte se programas gratuitos resolvem. Depende do caso. Para arquivos apagados recentemente e discos em bom estado, um programa gratuito com limite de recuperação pode dar conta. Para casos mais complexos, como disco danificado ou arquivo apagado há muito tempo, a versão paga costuma ter mais recursos, mas nem sempre vale a pena. Avalie o valor do arquivo antes de gastar.
+
+E se o arquivo for muito importante, como um documento de trabalho ou uma foto insubstituível, não tenha vergonha de procurar ajuda profissional. O custo pode ser alto, mas às vezes é a única saída. O importante é não tentar consertar sozinho o que exige equipamento específico.
+
+Recuperar arquivo apagado é uma daquelas situações em que a calma vale mais do que qualquer programa. A pressa leva a gente a instalar coisas no lugar errado, sobrescrever o que ainda dava para salvar e transformar um problema resolvível em perda definitiva. Respire, siga a ordem das etapas e dê tempo para a varredura. Na maioria dos casos domésticos, com um pouco de método, o arquivo volta.
+
+E mesmo que dessa vez não dê certo, use a experiência para montar uma rotina de backup que funcione para você. Um HD externo, uma pasta na nuvem, uma cópia de vez em quando. Não precisa ser perfeito. Precisa existir. Assim, da próxima vez que algo for apagado por engano, o desespero não vai ser o primeiro sentimento. Vai ser só um pequeno susto, seguido da lembrança de que existe uma cópia guardada em algum lugar.

@@ -1,0 +1,103 @@
+Trocar de tela parece simples, mas mexe com tudo. Você monta o setup, escolhe o jogo, ajusta mouse e teclado, e bate a dúvida. Vale mais a pena comprar um monitor dedicado ou usar aquela TV grande da sala que já está lá, parada, esperando alguém ligar o console? A resposta muda conforme o que você joga, onde joga e quanto pretende gastar.
+
+TV e monitor nasceram para públicos diferentes. A TV foi feita para você sentar longe, assistir filme, novela, futebol, com a família em volta. O monitor foi feito para sentar perto, olhar para uma tela a menos de um metro por horas seguidas, lendo texto pequeno e reagindo rápido. Isso define quase tudo. Taxa de atualização, tempo de resposta, tamanho, brilho, entrada de vídeo, som, posicionamento.
+
+Quem joga no PC costuma ter vantagem. O monitor é o caminho natural, porque o computador já foi pensado para trabalhar com ele. Já quem joga em console, PlayStation ou Xbox, muitas vezes já tem a TV na sala e fica tentado a não gastar mais. Só que os dois cenários têm armadilhas. Uma TV barata ligada ao PC pode parecer ótima no começo e virar dor de cabeça depois. Um monitor pequeno demais para o sofá pode deixar a experiência pior do que a TV antiga que você já tinha.
+
+## O que muda de verdade entre uma tela e outra
+
+A primeira diferença é a distância de uso. Monitor é feito para perto, entre cinquenta centímetros e um metro. TV é feita para longe, dois metros ou mais. Isso muda o tamanho ideal. Uma TV de cinquenta polegadas vista de dois metros e meio parece confortável. Um monitor de cinquenta polegadas visto de setenta centímetros vira um paredão que você precisa mover a cabeça para acompanhar. Em jogos competitivos isso atrapalha. Em jogos de história, pode ser imersivo, mas cansa.
+
+A segunda diferença é a taxa de atualização. Monitor gamer hoje começa em 144 Hz e sobe bastante. TV comum ainda fica em 60 Hz, e as TVs que dizem 120 Hz muitas vezes só fazem isso em resoluções específicas ou entradas específicas, como HDMI 2.1. Se você joga algo rápido, tipo tiro em primeira pessoa, corrida, jogo de luta, essa diferença é gigante. A imagem fica mais fluida, o movimento fica mais claro, e a resposta ao seu comando chega mais rápido.
+
+A terceira diferença é o tempo de resposta e o atraso de entrada. Monitor tende a ter números baixos, de um a cinco milissegundos. TV costuma ter mais, principalmente quando liga modos de melhoria de imagem. Aquele efeito de novela, que deixa o filme com cara de vídeo caseiro, é um exemplo de processamento que adiciona atraso. Em jogo, isso significa que você aperta o botão e a ação acontece um pouco depois. Em jogo de tiro, isso é morte. Em jogo de ritmo, isso é erro. Em jogo de estratégia, quase não importa.
+
+A quarta diferença é a conexão. Monitor de PC usa DisplayPort e HDMI. TV usa HDMI, e as versões importam muito. HDMI 2.0 dá conta de 4K a 60 Hz. HDMI 2.1 abre espaço para 4K a 120 Hz, VRR e outras coisas que consoles atuais gostam. Se você tem um console da geração atual e quer aproveitar tudo, precisa checar se a TV tem HDMI 2.1 de verdade, não só no papel. Muitas TVs baratas anunciam recursos que só funcionam em uma entrada ou com cabo específico.
+
+## Quando a TV é a escolha certa
+
+A TV faz sentido quando o seu jogo é de sofá. Console plugado, controle na mão, distância de dois metros, luz da sala controlada. Nesse cenário, o tamanho da tela vira parte da experiência. Jogo de corrida com volante, jogo de esporte, jogo de aventura em mundo aberto, tudo isso ganha com uma tela grande. Você vê detalhes que passariam batido num monitor de vinte e sete polegadas. A imersão é outra.
+
+Outro caso é o uso compartilhado. A TV serve para todo mundo da casa. Você joga, mas também assiste série, vê futebol, coloca desenho para a criança. Comprar um monitor só para jogar pode parecer desperdício se a sala já tem uma TV decente. E tem o fator convivência. Jogar na sala, com alguém do lado comentando, é uma experiência social que o quarto com monitor não oferece.
+
+TV também é boa para jogos casuais e para quem joga pouco. Se você liga o console duas vezes por semana, joga uma horinha, não se importa com taxa de atualização alta, a TV resolve. Não faz sentido gastar uma fortuna num monitor top de linha se o seu uso é leve. O ganho seria pequeno para o seu perfil. Melhor investir num bom controle, num headset, num jogo novo.
+
+Só tem um cuidado. Se for usar TV para jogar no PC, escolha uma que tenha modo jogo. Esse modo desliga parte do processamento de imagem e reduz o atraso. Sem ele, a experiência pode ficar ruim mesmo com a TV sendo cara. E prefira TVs com painel bom para movimento, porque painel ruim gera rastro na imagem, aquele borrão atrás do objeto em movimento. Isso incomoda bastante em jogo rápido.
+
+## Quando o monitor é a escolha certa
+
+O monitor ganha quando o PC é a plataforma principal. Você senta perto, joga com mouse e teclado, precisa de precisão. Jogo de tiro, MOBA, estratégia em tempo real, jogo de luta, tudo isso pede monitor. A taxa de atualização alta, o tempo de resposta baixo e o atraso pequeno fazem diferença real. Não é só sensação. É vantagem competitiva. Quem joga ranqueada sabe disso.
+
+Monitor também ganha em espaço. Ele fica na mesa, não domina a sala, não atrapalha a decoração. Você pode ter dois monitores, um para o jogo e um para o chat, para a stream, para o navegador. Isso é comum em quem faz live ou trabalha e joga no mesmo setup. TV não permite isso com facilidade. Ficar alternando entre janelas numa TV grande é desconfortável.
+
+Outro ponto é a ergonomia. Monitor tem suporte ajustável, sobe, desce, inclina, gira. Você ajeita a altura dos olhos, evita dor no pescoço, mantém a postura. TV fica na parede ou no rack, numa altura fixa, muitas vezes alta demais para quem senta perto. Isso gera dor nas costas e no pescoço depois de algumas horas. Quem já tentou jogar no PC ligado na TV da sala sabe como é.
+
+Monitor ainda oferece recursos que ajudam em jogo. Taxa de atualização variável, que sincroniza a imagem com a placa de vídeo e reduz o rasgo de tela. Modos de jogo com mira, cronômetro, contador de FPS. Ajuste fino de cor e brilho. Nada disso é essencial, mas ajuda. E o preço de um monitor gamer bom hoje está na faixa dos mil e poucos reais, o que não é absurdo comparado a uma TV grande.
+
+## O mito da TV barata que resolve tudo
+
+Muita gente pensa que qualquer TV serve. Liga o console, joga, pronto. Só que TV barata costuma ter painel lento, processamento pesado e modo jogo fraco. O resultado é imagem borrada em movimento, atraso nos comandos e cores estranhas. Em jogo de tiro, você atira e o tiro sai depois. Em jogo de plataforma, você pula e o pulo demora. Isso irrita e pode fazer você achar que o problema é o controle, quando é a tela.
+
+Tem também a questão do tamanho. TV grande vista de perto cansa a vista. Você precisa mover a cabeça para ver os cantos da tela. Em jogo com minimapa no canto, HUD espalhado, isso atrapalha. Monitor de tamanho moderado, entre vinte e quatro e trinta e duas polegadas, resolve melhor para quem senta perto. Acima disso, só se você tiver mesa grande e distância adequada.
+
+E tem o som. TV tem alto-falante embutido, muitas vezes ruim, mas existe. Monitor geralmente não tem som, ou tem um som fraco. Se você escolher monitor, vai precisar de headset ou caixinhas. Isso é um custo a mais que muita gente esquece. No fim, o barato pode sair caro. Melhor pensar no conjunto todo, não só na tela.
+
+## Resolução, tamanho e distância na prática
+
+A conta é simples. Quanto mais perto você senta, menor deve ser a tela e maior pode ser a resolução. Quanto mais longe, maior a tela e mais difícil notar resolução muito alta. Um monitor 4K de vinte e sete polegadas visto de sessenta centímetros mostra texto nítido, imagem limpa. Uma TV 4K de cinquenta polegadas vista de dois metros e meio também fica ótima, mas a diferença entre 1080p e 4K nessa distância é menos perceptível do que você imagina.
+
+Para PC, 1080p ainda é o mais comum e mais leve para a placa de vídeo. 1440p virou o ponto ideal para muitos jogadores, com bom equilíbrio entre nitidez e desempenho. 4K exige placa forte e ainda limita taxa de atualização em muitos casos. Para console, 4K a 60 Hz é o padrão da geração atual, com alguns jogos chegando a 120 Hz. Aí a TV com HDMI 2.1 faz diferença.
+
+Distância importa mais do que polegada. Uma tela de trinta e duas polegadas a setenta centímetros parece enorme. A mesma tela a um metro e meio parece normal. Antes de comprar, meça a distância real entre seus olhos e a tela. Isso evita arrependimento. Muita gente compra TV grande para o quarto e descobre que não cabe ou que fica desconfortável.
+
+## Passo a passo para decidir sem errar
+
+- Anote onde você joga. PC na mesa, console na sala, console no quarto, notebook. Isso define o ponto de partida.
+
+- Meça a distância entre seus olhos e a tela. Menos de um metro pede monitor. Mais de dois metros pede TV.
+
+- Liste o que você joga. Jogo rápido e competitivo pede taxa de atualização alta. Jogo de história e casual aceita TV.
+
+- Veja a plataforma. PC combina com monitor. Console combina com TV, mas aceita monitor se você joga perto.
+
+- Confira as entradas. Console atual pede HDMI 2.1 se você quer 4K a 120 Hz. PC pede DisplayPort para taxas altas.
+
+- Cheque o modo jogo da TV ou os recursos do monitor. Sem isso, a experiência pode ser pior do que você espera.
+
+- Pense no som. Monitor geralmente não tem alto-falante bom. Considere headset ou caixas no orçamento.
+
+- Defina o orçamento total. Tela, cabo, suporte, som. Tudo junto, não só o preço da tela.
+
+- Se possível, veja a tela funcionando antes de comprar. Loja física ajuda, vídeo no YouTube ajuda mais ainda.
+
+- Compre pensando em durar. Tela é algo que você troca a cada vários anos. Melhor acertar de primeira.
+
+## Erros comuns que custam caro
+
+O primeiro erro é comprar TV grande demais para o quarto. Você senta perto, a tela domina tudo, cansa a vista, e o movimento fica borrado. O segundo é comprar monitor pequeno demais para o sofá. Você senta longe, não enxerga o minimapa, não lê o texto, e a experiência fica ruim. Tamanho e distância andam juntos, sempre.
+
+Outro erro é ignorar a taxa de atualização. Quem sai de 60 Hz para 144 Hz sente a diferença na hora. Quem fica em 60 Hz achando que é suficiente não sabe o que está perdendo. Se você joga algo competitivo, isso deveria estar no topo da lista. Se você joga só coisa lenta, pode relevar. Mas saiba que a diferença existe.
+
+Tem também o erro de confiar só no anúncio. TV que diz 120 Hz, mas só em 1080p. Monitor que diz 1 ms, mas é tempo de resposta de cinza a cinza em condição ideal. Fabricante gosta de número bonito. Leia review de gente que testou de verdade. Veja se o modo jogo funciona, se o VRR funciona, se o HDMI 2.1 é completo. Isso evita surpresa ruim.
+
+E tem o erro de esquecer o cabo. HDMI 2.1 precisa de cabo HDMI 2.1 certificado. DisplayPort de alta taxa precisa de cabo adequado. Cabo velho ou barato limita tudo. Não adianta ter tela top e cabo ruim. É como comprar carro esportivo e rodar com pneu careca.
+
+## O meio termo que funciona para muita gente
+
+Existe um caminho do meio. Monitor grande, entre trinta e duas e quarenta e três polegadas, com taxa de atualização alta e HDMI 2.1. Ele serve para PC e para console. Fica na mesa ou num suporte, aceita distância um pouco maior, e resolve os dois mundos. Não é perfeito para sofá longe, mas é ótimo para quem joga no quarto ou num cômodo pequeno. O preço fica entre o monitor comum e a TV boa.
+
+Outro meio termo é ter os dois. TV na sala para console e filmes, monitor no quarto ou escritório para PC. Quem pode, faz isso. Não é luxo, é adequação. Cada tela no seu lugar, cada uma com sua função. Se o orçamento permite, é a melhor solução. Se não permite, escolha a que cobre a maior parte do seu uso.
+
+Tem ainda o caso do notebook. Se você joga em notebook, monitor externo é quase sempre um upgrade. Tela de notebook costuma ser pequena, com taxa baixa, e esquenta. Um monitor externo resolve. TV também funciona, mas a distância e o posicionamento atrapalham. Para notebook, monitor é o caminho natural.
+
+## O que olhar na hora de comprar
+
+Em monitor, olhe painel, taxa de atualização, tempo de resposta, entradas e suporte. Painel IPS tem cor boa e ângulo de visão amplo, mas contraste menor. Painel VA tem contraste melhor, preto mais fundo, mas pode ter rastro em movimento. Painel TN é rápido e barato, mas cor e ângulo ruins. Para uso geral, IPS ou VA. Para competitivo puro, TN ou IPS rápido.
+
+Em TV, olhe painel, taxa de atualização real, modo jogo, HDMI 2.1 e processamento. OLED tem preto perfeito e contraste absurdo, mas custa caro e tem risco de burn-in. LED e QLED são mais baratas e mais duráveis, mas o preto não é tão fundo. Para jogar, OLED é excelente se o orçamento permite. Se não, uma boa LED com modo jogo resolve.
+
+Verifique também o suporte. Monitor com suporte ajustável evita dor no pescoço. TV com suporte VESA permite pendurar na parede. Cabo incluso nem sempre é bom. Áudio embutido nem sempre presta. Detalhes pequenos que fazem diferença no dia a dia. Leia o manual, veja o que vem na caixa, planeje o que vai precisar comprar à parte.
+
+Não dá para dizer que um é melhor que o outro. Dá para dizer qual é melhor para você. Responda onde joga, a que distância, o que joga e quanto pode gastar. A resposta aparece sozinha. Monitor para perto, rápido, PC, competitivo. TV para longe, imersivo, console, casual. O meio termo existe e funciona. O importante é não comprar no impulso e não confiar só no anúncio.
+
+No fim, a tela certa é a que combina com o seu jeito de jogar. Não é a mais cara, nem a maior, nem a que tem mais número no papel. É a que você senta, liga e esquece que existe, porque só o jogo importa. Se a tela chama atenção para si mesma, algo está errado. Se ela desaparece e deixa você jogar tranquilo, você acertou. Pense no conjunto, meça seu espaço, respeite seu bolso e escolha com calma.

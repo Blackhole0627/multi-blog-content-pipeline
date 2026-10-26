@@ -1,0 +1,127 @@
+Carregador veicular virou item obrigatório para quem passa tempo dentro do carro. Não é só questão de manter o celular vivo para o GPS. É sobre não depender de sorte quando o app do banco pede confirmação, quando o filho quer ver vídeo na viagem ou quando a reunião de trabalho começa justamente no trajeto. A diferença entre um modelo que funciona e outro que frustra aparece nos detalhes que ninguém lê na embalagem.
+
+A oferta é enorme. Tem carregador de posto, de loja de departamento, de marketplace chinês, de marca famosa de acessórios. Variam de menos de trinta reais a mais de duzentos. E o preço nem sempre acompanha a qualidade. Já vi modelo caro esquentando demais e modelo baratinho segurando bem a carga por anos.
+
+Esta análise não vai eleger um vencedor absoluto porque ele não existe. Vai mostrar o que realmente importa na hora de escolher, onde os modelos costumam falhar e como testar o seu em casa antes de confiar nele numa viagem longa. A ideia é que você saia daqui sabendo olhar uma embalagem e identificar se aquele produto vale o que custa.
+
+## O que um carregador veicular precisa resolver
+
+A função básica é simples. Receber os doze volts da tomada do acendedor, ou os vinte e quatro volts de veículos maiores, e entregar energia na voltagem certa para o aparelho. Parece trivial, mas é aí que começa a bagunça. A tomada do carro entrega uma tensão que oscila bastante. Quando o motor dá partida, quando o ar-condicionado liga, quando o farol acende, tudo isso mexe na energia disponível. Um carregador decente filtra essas variações. Um carregador ruim deixa passar picos que, com o tempo, castigam a bateria do celular.
+
+O segundo ponto é a potência. Carregador de cinco watts, aquele padrão antigo, carrega um celular moderno em velocidade de tartaruga. Ele até serve para emergência, mas é frustrante. Um celular com bateria grande pode levar horas para sair do vermelho. Já os modelos de dezoito watts ou mais conseguem repor uma boa quantidade de carga em meia hora de trajeto. Para quem dirige pouco, essa diferença muda a rotina.
+
+O terceiro ponto é a quantidade de portas. Carro de família costuma ter mais de um aparelho disputando energia. Duas portas USB resolvem a maioria dos casos. Alguns modelos trazem três ou quatro, mas aí vale checar se a potência é dividida quando tudo está conectado. Muitos anunciam quarenta watts, mas entregam dez para cada lado quando há dois cabos plugados. O número grande na caixa nem sempre é o que chega ao seu aparelho.
+
+## Como identificar um carregador ruim antes de comprar
+
+A embalagem conta muita coisa, se você souber ler. Carregador sem especificação de potência por porta é sinal de alerta. Se a caixa só diz carregamento rápido sem informar os watts, provavelmente é marketing. Carregamento rápido é um protocolo, não um adjetivo. Ele exige que carregador, cabo e aparelho conversem no mesmo idioma.
+
+Outro indício é o peso. Carregadores muito leves costumam ter componentes internos mínimos. Falta proteção contra curto, falta fusível, falta dissipação de calor. Não é regra absoluta, mas um modelo que parece uma casca vazia merece desconfiança. Segure na mão se puder. Compare com um que você já conhece.
+
+A ausência de certificação também pesa. No Brasil, produtos eletrônicos vendidos formalmente passam por testes do Inmetro. Selo não garante qualidade premium, mas garante um mínimo de segurança. Carregador sem nenhuma marca de conformidade, vendido solto em banca, é aposta. Pode funcionar bem por anos ou pode derreter na primeira semana.
+
+Por último, olhe as avaliações de outros compradores, mas com filtro. Procure quem reclamou de esquentar demais, de parar de funcionar depois de pouco tempo, de não carregar dois aparelhos ao mesmo tempo. Esses relatos são mais úteis do que elogios genéricos.
+
+## Potência, protocolos e a confusão dos watts
+
+Existe uma sopa de letrinhas que confunde qualquer um. Quick Charge, Power Delivery, VOOC, SuperVOOC, TurboPower. Cada fabricante criou seu protocolo para carregar mais rápido. O problema é que eles não são todos compatíveis entre si. Um carregador com Quick Charge pode não ativar o carregamento rápido em um celular que usa Power Delivery, e vice-versa.
+
+O Power Delivery, conhecido como PD, é o mais universal hoje. Ele é usado por boa parte dos celulares Android recentes e pelos iPhones. Se você quer um carregador que funcione bem com diferentes aparelhos em casa, priorize um que suporte PD. Ele negocia a voltagem e a corrente com o aparelho, entregando o máximo que os dois aguentam.
+
+A potência importa, mas não é só ela. Um carregador de trinta watts com protocolo errado pode carregar mais devagar do que um de dezoito watts com o protocolo certo. É como ter um cano largo ligado a uma torneira fechada. A capacidade existe, mas não flui.
+
+Para a maioria das pessoas, um carregador veicular de vinte a trinta watts com PD resolve tudo. Celulares mais parrudos, com baterias acima de cinco mil milliampères-hora, agradecem um pouco mais de potência. Mas cuidado. Nem todo aparelho aceita carga muito rápida, e forçar além do que ele suporta não acelera nada. O próprio celular limita a entrada.
+
+## Cabos fazem metade do trabalho
+
+Tem gente que troca o carregador três vezes e continua insatisfeita. O problema estava no cabo. Cabo fino, comprado em loja de esquina, muitas vezes só suporta carga lenta. Ele não tem os fios internos necessários para transportar mais corrente. O carregador até tenta mandar energia, mas o cabo estrangula o fluxo.
+
+Cabo bom tem bitola adequada e, nos modelos USB-C, um chip que informa ao carregador a capacidade de transmissão. Sem esse chip, a conversa não acontece e tudo volta para o modo lento. Não adianta ter carregador de sessenta watts com cabo de dois reais.
+
+Outro detalhe é o comprimento. Cabo muito longo perde energia no caminho. Para uso no carro, cabos de um metro a um metro e meio são o ponto ideal. Cabos de três metros, comuns para quem quer alcançar o banco de trás, costumam ter queda de desempenho, a menos que sejam de qualidade muito boa.
+
+E tem o conector. USB-A, USB-C, Lightning. O padrão USB-C está virando dominante, mas ainda tem muito aparelho com Lightning e alguns acessórios com micro-USB. Se seu carro tem passageiros com celulares variados, um carregador com porta USB-A e outra USB-C cobre quase tudo. Só não espere que a porta USB-A entregue a mesma potência da USB-C. Na maioria dos modelos, ela é a mais lenta.
+
+## Calor, o inimigo silencioso
+
+Carregador veicular trabalha num ambiente hostil. Sol batendo no painel, carro fechado, temperatura interna passando fácil dos cinquenta graus. Some a isso o calor gerado pela própria conversão de energia. Todo carregador esquenta. O problema é o quanto.
+
+Modelo que fica desconfortável de tocar depois de meia hora está trabalhando no limite. Isso reduz a vida útil dos componentes e pode acionar a proteção do celular, que diminui a velocidade de carga para se proteger. Resultado. Você pluga, o celular marca que está carregando, mas a porcentagem quase não sobe.
+
+Carregadores com carcaça metálica dissipam melhor do que os de plástico fino. Aberturas de ventilação ajudam, mas também acumulam poeira. O ideal é um equilíbrio. Corpo que ajude a espalhar o calor sem virar uma peneira.
+
+Posicionamento também importa. Carregador enfiado embaixo de um monte de papel, de óculos, de cabo enrolado, vai esquentar mais. A tomada do acendedor costuma ficar numa área meio escondida. Vale deixar o espaço livre.
+
+E tem a questão da carga simultânea. Carregar dois celulares ao mesmo tempo dobra o trabalho do carregador. Modelos baratos não foram projetados para isso. Eles até têm duas portas, mas quando as duas estão em uso, a potência cai e o aquecimento sobe. Se você realmente precisa carregar dois aparelhos com frequência, invista num modelo com potência total mais alta, que tenha folga para dividir sem sofrer.
+
+## Onde os carregadores costumam falhar
+
+O primeiro ponto de falha é o contato com a tomada do acendedor. Aquela mola lateral que prende o plugue na tomada perde pressão com o tempo. O carregador começa a desconectar sozinho em lombadas, em curvas, em qualquer balanço. Alguns modelos têm um sistema de travamento melhor, com encaixe mais firme. Outros balançam desde o primeiro dia.
+
+O segundo é o circuito interno. Componentes de baixa qualidade degradam com o calor e com a variação de tensão. O carregador que funcionava perfeitamente começa a esquentar mais, depois começa a carregar mais devagar, depois simplesmente morre. Essa sequência é clássica em modelos muito baratos.
+
+O terceiro é o cabo fixo. Alguns carregadores veiculares vêm com cabo embutido, o que parece prático. O problema é que esse cabo não é substituível. Quando ele se rompe, e cabos embutidos costumam se romper no ponto de dobra, o carregador inteiro vira lixo. Modelo com porta e cabo separado dura mais porque você troca só o cabo quando necessário.
+
+O quarto é a interface. Carregador com botão, com display, com luzinhas piscando. Quanto mais eletrônica supérflua, mais coisa para dar errado. Display que mostra a voltagem é legal no começo, mas ninguém fica olhando aquilo enquanto dirige. E a tela é mais um componente para queimar.
+
+## Checklist para testar o seu carregador em casa
+
+Antes de confiar num carregador novo numa viagem, faça um teste simples. Isso evita surpresa na estrada.
+
+- Plugue o carregador na tomada do carro com o motor ligado e com o motor desligado. Veja se ele mantém a carga nos dois casos. Alguns modelos só funcionam direito com o motor em marcha.
+
+- Conecte o celular e observe a velocidade. Anote a porcentagem, espere quinze minutos e veja quanto subiu. Se subiu menos de dez por cento num celular comum, algo está errado.
+
+- Toque no carregador depois de vinte minutos. Se estiver quente a ponto de incomodar, mas não de queimar, está dentro do esperado. Se estiver escaldante, pare de usar.
+
+- Carregue dois aparelhos ao mesmo tempo e veja se a velocidade de ambos cai muito. Alguma queda é normal, queda drástica não é.
+
+- Balance o plugue na tomada. Se ele sai fácil, o encaixe é ruim. Pode resolver com uma fita ou com um pedaço de borracha, mas o ideal é trocar por um modelo que firme melhor.
+
+- Teste com cabos diferentes. Se um cabo carrega rápido e outro lento no mesmo carregador, o problema é o cabo, não o carregador.
+
+Esse teste leva meia hora e evita muita dor de cabeça.
+
+## Vale a pena pagar mais por um carregador veicular
+
+Depende do uso. Para quem só usa o carregador de vez em quando, para manter o celular vivo durante o trajeto curto, um modelo simples de vinte a trinta watts resolve. Não precisa gastar muito. O importante é ter protocolo compatível e cabo decente.
+
+Para quem passa horas na estrada, para motorista de aplicativo, para quem viaja com a família e carrega vários aparelhos, aí a conta muda. Um carregador melhor, na faixa dos cem a cento e cinquenta reais, entrega mais potência, esquenta menos, dura mais e não dá dor de cabeça. Não é luxo. É ferramenta de trabalho ou de rotina.
+
+O que não vale é pagar caro por enfeite. Carregador com display colorido, com luz ambiente, com formato de robô, custa mais e não carrega melhor. O dinheiro vai para o visual, não para o circuito. Se o objetivo é desempenho, foque em potência, protocolo e construção.
+
+Também não vale comprar o mais barato possível e rezar. Carregador de procedência duvidosa pode danificar o celular, e o prejuízo é muito maior do que a economia. Um celular novo custa milhares de reais. Um carregador decente custa uma fração disso.
+
+No fim, a escolha se resume a entender seu uso. Quantos aparelhos, com que frequência, por quanto tempo. A resposta define o quanto você precisa investir.
+
+## O que observar na hora da compra
+
+Leia a especificação de potência por porta, não a potência total. Carregador de trinta watts com duas portas pode entregar quinze para cada lado, o que é bom, ou vinte e quatro para uma e seis para outra, o que é aceitável. O que não pode é o anúncio dizer trinta watts e entregar cinco.
+
+Verifique se o protocolo é compatível com seu celular. Se você tem iPhone, precisa de PD. Se tem Samsung recente, também PD ou o protocolo próprio da marca. Se tem Xiaomi, pode ser que o carregamento mais rápido só funcione com o carregador original da marca, e aí nenhum modelo genérico vai atingir a velocidade máxima.
+
+Prefira modelos com porta USB-C, que é o padrão que veio para ficar. Porta USB-A ainda é útil para compatibilidade com cabos antigos, mas não deve ser a principal.
+
+Considere o tamanho. Carregador muito largo pode atrapalhar se a tomada do carro fica num espaço apertado, perto do freio de mão ou de outros botões. Meça o espaço antes, se possível.
+
+E pense no cabo. Se o carregador não vem com cabo, separe um de qualidade. Cabo ruim anula carregador bom. Cabo bom com carregador ruim ainda dá algum resultado, mas limitado.
+
+## Perguntas que aparecem na hora de escolher
+
+Muita gente se pergunta se carregador veicular vicia a bateria do celular. A resposta curta é não. O que desgasta a bateria é calor excessivo e ciclos completos de carga e descarga. Carregar no carro, desde que o carregador seja decente e não esquente demais, não é pior do que carregar na tomada de casa.
+
+Outra dúvida comum é sobre carregar com o motor desligado. Funciona, mas consome a bateria do carro. Se o carro tem bateria saudável, carregar um celular por meia hora com o motor desligado não faz diferença. Se a bateria já está no fim da vida, pode ser o empurrão que faltava para ela arriar. Melhor carregar com o motor ligado.
+
+Tem também a questão do adaptador de tomada. Muita gente usa o mesmo carregador veicular na tomada de casa, com um adaptador. Não é recomendado. Carregador veicular foi projetado para doze volts. Na tomada de casa são cento e vinte ou duzentos e vinte volts. Sem o adaptador certo, queima na hora.
+
+E tem o mito de que carregar no carro carrega mais devagar. Não é regra. Um carregador veicular de trinta watts com PD carrega tão rápido quanto um carregador de parede de trinta watts com PD. A diferença está no equipamento, não no local.
+
+## Considerações finais sobre a escolha
+
+Carregador veicular é aquele tipo de produto que a gente só lembra que existe quando precisa. E quando precisa, quer que funcione sem drama. A boa notícia é que dá para escolher bem sem gastar uma fortuna. Entender potência, protocolo, cabo e construção já coloca você à frente da maioria dos compradores.
+
+O mercado tem opções para todos os bolsos. O importante é não cair na armadilha do número mágico na caixa nem na do preço mais baixo. Um carregador que entrega o que promete, que não esquenta demais e que dura anos vale cada centavo. Um que promete o dobro e entrega metade é dinheiro jogado fora.
+
+Se você chegou até aqui, já tem o suficiente para olhar uma embalagem e separar o que presta do que é enfeite. Teste antes de confiar, escolha cabo à altura e não se deixe levar por display colorido. Seu celular agradece, e sua paciência também.
+
+No fim, a melhor análise é a do seu próprio uso. Nenhum review substitui a experiência de colocar o carregador no seu carro, com o seu celular, na sua rotina. Use o que aprendeu aqui como filtro, mas confie no teste real. É ele que vai dizer se a compra valeu.

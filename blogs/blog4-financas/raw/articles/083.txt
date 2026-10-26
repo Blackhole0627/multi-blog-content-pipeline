@@ -1,0 +1,117 @@
+Comprar criptomoeda pela primeira vez costuma começar com uma história simples. Um amigo comentou que ganhou dinheiro, um vídeo no celular prometeu liberdade financeira, ou você viu aquele assunto aparecer no grupo da família. Aí bate a curiosidade, e junto vem uma certa pressa. Parece que todo mundo já entrou e você ficou para trás.
+
+Só que cripto não é um bloco único. Tem gente usando como reserva de valor, gente especulando em prazo curto, gente tentando resolver problemas de pagamento no exterior e gente caindo em golpe achando que estava investindo. A mesma tecnologia serve para coisas muito diferentes, e o resultado depende menos do ativo escolhido e mais do que você faz com ele.
+
+Antes de colocar dinheiro nisso, vale desacelerar. A pergunta certa não é "qual moeda vai subir", e sim "o que eu estou fazendo aqui, com quanto, por quanto tempo e aguentando qual nível de oscilação". Este texto é sobre essas perguntas, não sobre qual sigla comprar.
+
+## Entenda o que você está comprando de verdade
+
+Criptomoeda é um registro digital de propriedade que existe numa rede descentralizada. Quando você "compra bitcoin", não recebe uma moeda física nem um papel. Você recebe o direito de movimentar uma quantidade registrada num sistema que milhares de computadores mantêm em sincronia. Quem tem a chave privada controla aquele saldo. Quem perde a chave perde o saldo, e não existe gerente de banco para resolver.
+
+Isso muda tudo em relação ao que você conhece de banco. Não tem agência, não tem horário comercial, não tem estorno de PIX. Uma transferência enviada para o endereço errado normalmente não volta. Não existe um número de protocolo para abrir reclamação. A responsabilidade sobre guarda e endereço é inteiramente sua, e essa é a parte que mais pega iniciante desprevenido.
+
+Também é bom separar três coisas que as pessoas misturam. A primeira é a moeda em si, como bitcoin ou ether. A segunda é a rede, a infraestrutura que processa transações. A terceira é a corretora, a empresa que faz a intermediação entre real e cripto. Você pode perder dinheiro em qualquer uma dessas camadas, e o risco de cada uma é diferente. Rede fora do ar, corretora quebrando e moeda caindo são problemas distintos.
+
+## Volatilidade não é detalhe, é o centro da experiência
+
+Quem vem da poupança ou do CDB tem uma referência de oscilação quase zero. Cripto funciona em outra escala. É comum um ativo variar dez, quinze por cento num único dia, para cima ou para baixo. Em semanas de estresse, movimentos maiores acontecem sem aviso e sem motivo claro.
+
+Isso não é defeito temporário que vai sumir quando a tecnologia amadurecer. Faz parte do desenho. O mercado é global, opera vinte e quatro horas, todos os dias, sem circuito de interrupção como existe na bolsa brasileira. Não há leilão de abertura, não há limite de queda que pare tudo. O preço se forma continuamente, e a liquidez some rápido quando o pânico aparece.
+
+O teste prático é simples. Imagine o valor que você pretende investir caindo pela metade em duas semanas. Você venderia no desespero, manteria a posição ou compraria mais? Se a resposta for vender no desespero, o valor investido está alto demais para o seu momento. Se for manter tranquilo, provavelmente está dentro do seu limite emocional e financeiro.
+
+Tem também a questão do tempo. Cripto não é lugar para dinheiro que você vai precisar em três meses. Reserva de emergência, dinheiro do aluguel, parcela do carro e verba da faculdade não entram. Quem usa esses recursos acaba vendendo na pior hora justamente porque precisa do dinheiro no curto prazo.
+
+## O dinheiro que entra precisa ser dinheiro que pode sumir
+
+Existe uma regra informal entre pessoas que investem há mais tempo. Só coloque em cripto aquilo que você aceitaria perder por completo sem mudar sua vida. Isso parece dramático, mas é realista. Golpes, erros de endereço, corretoras que fecham, projetos que morrem e moedas que caem noventa por cento e nunca se recuperam são parte do cenário.
+
+Na prática, boa parte de quem começa define um teto. Pode ser uma quantia fixa em reais, ou um percentual pequeno do patrimônio, algo como cinco por cento. O número exato importa menos do que o hábito de nunca furar esse teto na empolgação. Em semana de alta, bate a vontade de aumentar a aposta. Em semana de baixa, bate a vontade de "recuperar o prejuízo" com mais dinheiro. As duas armadilhas são comuns.
+
+Um erro clássico do iniciante brasileiro é usar o limite do cartão de crédito para comprar cripto. Além do risco do ativo, você cria uma dívida com juros altíssimos. Se a moeda cair, você deve o mesmo valor ao banco e ainda paga juros em cima. Também aparece muito o uso do cheque especial e o empréstimo com conhecido. Nenhuma dessas combinações termina bem.
+
+Outro ponto é separar o que é investimento do que é aprendizado. Muita gente coloca um valor pequeno só para entender como funciona a carteira, o envio, a conversão. Isso é válido. Só não confunda essa fase de teste com uma estratégia de longo prazo. Aprender a usar a ferramenta com pouco dinheiro é diferente de apostar o patrimônio na ferramenta.
+
+## Escolher onde guardar é metade da decisão
+
+Aqui a conversa fica prática. Existem basicamente duas formas de guardar cripto. A primeira é deixar na corretora, que funciona como uma conta. A segunda é transferir para uma carteira própria, onde só você tem a chave. Cada uma tem trade-offs reais.
+
+Deixar na corretora é mais simples. Você faz login, compra, vende, converte e saca para o banco quando quiser. O problema é que o dinheiro fica sob controle de terceiros. Se a empresa sofrer ataque, falir ou bloquear saques, você depende dela para reaver o saldo. Já aconteceu várias vezes no exterior e também com plataformas menores por aqui.
+
+A carteira própria resolve isso, mas transfere a responsabilidade para você. Existem carteiras de software, que rodam no celular ou no computador, e carteiras físicas, chamadas hardware wallets, que são aparelhos específicos para guardar chaves. As físicas costumam ser mais seguras contra invasão remota, mas custam dinheiro, geralmente na faixa dos mil reais, e exigem cuidado com backup.
+
+O ponto crítico de qualquer carteira própria é a frase de recuperação, aquela sequência de palavras que permite restaurar o acesso. Quem tem essa frase tem o dinheiro. Anote no papel, guarde em local físico seguro, nunca tire foto, nunca salve em nuvem, nunca digite em site que pediu. Golpistas criam páginas falsas pedindo exatamente isso. Se alguém com acesso remoto ao seu computador pegar essa frase, leva tudo.
+
+## Golpes que aparecem na primeira semana
+
+Iniciante é alvo preferencial porque ainda não conhece os padrões. Alguns golpes se repetem tanto que já têm cara conhecida.
+
+O primeiro é o falso suporte. Você entra num grupo de Telegram ou Discord, alguém se oferece para ajudar, pede sua frase de recuperação ou pede que você instale um programa para "sincronizar" a carteira. Nunca existe motivo legítimo para compartilhar a frase ou instalar algo assim. Suporte de verdade nunca pede isso.
+
+O segundo é o esquema de rendimento garantido. Prometem retorno fixo alto, tipo "dois por cento ao dia", com saque a qualquer momento. Nos primeiros dias, alguns até pagam, justamente para atrair mais gente. Depois o site sai do ar. Isso é pirâmide com nome novo, e o rosto bonito no vídeo não muda a mecânica.
+
+O terceiro é o presente falso. Vídeo com figura conhecida prometendo dobrar cripto enviada para um endereço. Pode ser cortador de grama, apresentador de TV ou qualquer celebridade. Nenhuma figura pública faz isso. Sempre é deepfake ou vídeo editado.
+
+O quarto é o token sem liquidez. Alguém te convence a comprar uma moeda novíssima, com gráfico subindo, comunidade animada, promessa de exchange grande em breve. Quando você tenta vender, ninguém compra. O preço some porque não há mercado real, só o número na tela. Isso rola muito em lançamentos feitos do dia para a noite.
+
+O quinto é o PIX para "investidor profissional". Alguém diz que opera por você, pede transferência direta para conta pessoal, promete multiplicar. Isso não é investimento, é transferência voluntária para desconhecido. Uma vez feito o PIX, dificilmente volta.
+
+## Impostos, contabilidade e a parte chata que ninguém comenta
+
+No Brasil, operações com cripto têm consequências fiscais. A Receita Federal exige declaração de certas operações, e exchanges nacionais costumam informar movimentações. O tratamento varia conforme o tipo de operação e o volume, então o caminho mais seguro é guardar tudo.
+
+Guarde comprovantes de compra, extratos da corretora, histórico de transferências e o valor em reais no momento de cada operação. Isso serve para declarar corretamente e também para provar origem de recursos se precisar. Quem só anota "comprei umas criptos" e nunca registra nada costuma ter dor de cabeça depois.
+
+Ganhos com venda podem estar sujeitos a imposto, com regras próprias dependendo do valor e da frequência das operações. Não vou entrar em alíquota e detalhe de norma porque isso muda, e o seu caso depende de fatores específicos. O ponto é não tratar cripto como dinheiro invisível. Não é. Existe trilha, existe registro, e a malha fina chega.
+
+Se você opera valores relevantes, vale conversar com um contador que entenda do assunto. O custo desse acompanhamento costuma ser menor que a multa por declaração errada. E se você só comprou um valor pequeno para aprender, ainda assim registre. O hábito se forma agora.
+
+## Um passo a passo para começar sem se machucar
+
+Antes de apertar o botão de compra, percorra esta lista na ordem. Ela não garante lucro nenhum, mas reduz bastante a chance de erro bobo.
+
+- Defina o valor total que você aceita perder. Escreva num papel, não confie na memória. Esse é o teto absoluto, e ele não muda em semana de euforia.
+
+- Resolva a reserva de emergência antes. Se você não tem alguns meses de despesa guardados em algo seguro e líquido, cripto não é prioridade agora.
+
+- Escolha uma corretora com reputação, tempo de mercado, suporte em português e saque funcionando. Teste o saque de um valor pequeno antes de colocar mais dinheiro.
+
+- Ative verificação em dois fatores com aplicativo autenticador, nunca por SMS. Guarde os códigos de recuperação da conta em local separado.
+
+- Comece com valor pequeno, só para aprender o fluxo de compra, conversão e transferência. Trate como aula prática, não como investimento.
+
+- Se for usar carteira própria, compre uma de boa procedência, gere a frase de recuperação em ambiente offline e anote em papel. Faça um teste de restauração com valor irrisório antes de transferir qualquer quantia relevante.
+
+- Nunca compartilhe frase de recuperação, senha ou código com ninguém. Nem com "suporte", nem com amigo, nem com parente.
+
+- Faça transferências de teste com valor baixo antes de mandar quantias maiores. Confira o endereço caractere por caractere, ou use copiar e colar com verificação.
+
+- Registre cada operação numa planilha simples com data, valor em reais, quantidade e taxa. Isso vai facilitar sua vida na declaração.
+
+- Defina com antecedência o que faria você vender ou parar. Pode ser um percentual de queda, uma necessidade de caixa ou uma data. Decidir no calor do momento costuma dar ruim.
+
+Depois dessa lista, o próximo passo é aprender a lidar com a espera. Cripto tem ciclos longos, e a maior parte do tempo é tédio, não emoção. Quem aguenta o tédio costuma se sair melhor que quem busca emoção.
+
+## Diversificação, promessas e o que ninguém controla
+
+Diversificar dentro de cripto não é a mesma coisa que diversificar em renda variável tradicional. Muitas moedas se movem juntas, puxadas pelo humor do mercado. Quando o bitcoin cai forte, boa parte do resto cai junto, às vezes mais. Então espalhar entre dez moedas pequenas não protege tanto quanto parece.
+
+O que ajuda de verdade é diversificar entre classes. Cripto ao lado de renda fixa, imóveis, ações e reserva em dinheiro. Cada uma reage diferente a juros, inflação e crise. Cripto costuma ser a parte mais agitada da carteira, e é justamente por isso que ela precisa ser pequena em relação ao todo.
+
+Sobre promessas, desconfie de qualquer coisa com prazo e valor definidos. Ninguém sabe o preço de amanhã. Analistas erram, influenciadores erram, gestores de fundo erram. Quem fala com certeza absoluta normalmente está vendendo algo, seja curso, sinal, grupo pago ou a própria posição que precisa de comprador.
+
+Existe também um limite que nenhuma estratégia resolve. Regulação pode mudar, exchange pode ser hackeada, rede pode ter falha, governo pode restringir. Você controla o tamanho da aposta, a forma de guarda e o próprio comportamento. O resto é incerteza, e aprender a conviver com ela é parte do jogo.
+
+## O que fazer depois da primeira compra
+
+Depois de comprar, o impulso natural é olhar o preço toda hora. Isso cansa e leva a decisões ruins. Verifique com menos frequência, talvez uma vez por semana, e foque em manter o processo. Registro em dia, dois fatores ativos, frase de recuperação guardada, tudo isso importa mais que acompanhar candle de cinco minutos.
+
+Aproveite para estudar o básico de segurança digital. Senhas longas e diferentes para cada serviço, gerenciador de senhas, celular com bloqueio biométrico, computador atualizado. Boa parte dos roubos não envolve quebrar criptografia, envolve convencer você a entregar acesso. A defesa é chata e eficaz.
+
+Também vale conversar com alguém de confiança sobre o que você fez. Não para pedir dica, mas para ter uma segunda cabeça caso algo estranho aconteça. Golpes geralmente exploram pressa e isolamento. Quem comenta com alguém antes de agir costuma perceber sinais que sozinho passaria batido.
+
+E lembre que este texto é educativo. Não é recomendação de compra, não é indicação de corretora, não é previsão de preço. Decisão financeira é pessoal, e se você tem dúvida sobre o seu caso específico, procure orientação profissional qualificada.
+
+Cripto pode ser uma ferramenta útil para quem entende os riscos e age com método. Também pode ser um atalho rápido para perder dinheiro, principalmente quando a pressa vence o cuidado. A diferença raramente está na moeda escolhida. Está no tamanho da aposta, na forma de guarda e na paciência de quem está começando.
+
+Se depois de ler tudo isso você ainda quiser comprar, ótimo. Faça devagar, com valor pequeno, registrando cada passo. A primeira compra não precisa ser a grande virada da sua vida financeira. Ela só precisa ser um erro que você consiga aprender sem se machucar.

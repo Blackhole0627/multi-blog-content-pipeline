@@ -1,0 +1,109 @@
+Você acorda, pega o celular na mesa de cabeceira e a tela acende antes mesmo de você pensar nisso. Desliza o dedo, abre o WhatsApp, confere o saldo do banco, tira uma foto do café. Tudo isso em segundos, sem que você pare para pensar no que acontece ali, debaixo do vidro. A tela é a parte do celular que você mais toca e mais olha, mas provavelmente é a que você menos entende.
+
+Aquele retângulo brilhante que ocupa quase toda a frente do aparelho é um sanduíche de camadas muito finas, cada uma com uma função específica. Tem vidro, tem cola, tem polarizador, tem uma camada que acende, tem outra que controla essa luz, tem sensores que percebem seu dedo. Quando você troca de app, joga Free Fire ou só rola o feed do Instagram, todas essas camadas trabalham juntas numa coreografia que dura frações de segundo.
+
+Entender como isso funciona ajuda em várias situações práticas. Na hora de comprar um celular novo e comparar as fichas técnicas que parecem escritas em grego. Quando a tela quebra e você precisa decidir se troca só o vidro ou o módulo inteiro. Ou quando percebe que a bateria está durando menos e desconfia que o brilho alto tem culpa. Vamos abrir esse sanduíche camada por camada.
+
+## As camadas que formam a tela
+
+A primeira coisa que você encosta quando toca no celular é o vidro de cobertura. Na maioria dos aparelhos vendidos no Brasil, é um vidro temperado quimicamente, aquele que passa por um banho de sais para ficar mais resistente a riscos e quedas. Fabricantes como Corning, com o Gorilla Glass, e Schott, com o Xensation, dominam esse mercado. É esse vidro que trinca quando o celular cai no chão de casa ou na calçada.
+
+Logo abaixo dele vem a camada touch. É uma grade transparente de sensores capacitivos, feita de um material chamado ITO, óxido de índio e estanho. Essa grade fica o tempo todo medindo uma coisa. A capacitância elétrica em cada ponto da tela. Quando seu dedo se aproxima, ele muda essa capacitância porque o corpo humano conduz eletricidade. O chip touch percebe essa mudança e calcula onde você tocou, com precisão de milímetros.
+
+Depois vem o polarizador, uma película que filtra a luz em uma direção específica. Ele serve para duas coisas. Melhora o contraste da imagem e permite que a luz do backlight passe de forma controlada. Em telas OLED, o polarizador ainda ajuda a reduzir reflexos externos, aquele brilho incômodo quando você usa o celular na rua em dia de sol.
+
+A camada seguinte é a mais famosa e a que mais evoluiu nos últimos anos. É onde a luz nasce ou é controlada, dependendo da tecnologia. É aqui que LCD e OLED se separam e seguem caminhos bem diferentes.
+
+## LCD, a luz que passa por filtros
+
+No LCD, que significa display de cristal líquido, a luz não nasce na tela. Ela vem de uma camada de LEDs brancos instalados atrás de tudo, chamada backlight. Essa luz atravessa o painel de cristal líquido, que funciona como uma espécie de persiana minúscula. Cada pixel tem cristais que giram conforme a tensão elétrica aplicada, deixando mais ou menos luz passar.
+
+Depois de atravessar os cristais, a luz passa por filtros coloridos vermelhos, verdes e azuis. Combinando a intensidade de cada um desses três subpixels, a tela forma todas as cores que você vê. É um processo parecido com misturar tintas, mas com luz. Por isso a sigla RGB, que aparece em tanta ficha técnica.
+
+O LCD tem vantagens claras. É mais barato de produzir, dura muito tempo sem perder qualidade e não sofre com o problema de queima de imagem. Em compensação, o preto nunca é totalmente preto, porque o backlight fica ligado o tempo todo e sempre vaza um pouco de luz. É por isso que, em cenas escuras, telas LCD parecem acinzentadas em vez de pretas de verdade.
+
+## OLED, quando cada pixel acende sozinho
+
+No OLED, display de diodos orgânicos emissores de luz, não existe backlight. Cada pixel é uma pequena lâmpada orgânica que acende sozinha quando recebe corrente elétrica. Isso muda tudo. Se você precisa mostrar preto, o pixel simplesmente não acende. O preto é absoluto, porque não há luz nenhuma saindo dali.
+
+Essa característica tem consequências enormes no dia a dia. Contraste infinito, cores mais vivas, ângulos de visão muito melhores. Também significa economia de bateria, porque pixels apagados não consomem energia. Se você usa o celular com tema escuro, a diferença na duração da bateria é real, especialmente em aparelhos com OLED.
+
+Existem variações dentro dessa família. O AMOLED, usado por Samsung e outros fabricantes, adiciona uma camada de transistor que controla cada pixel individualmente, o que permite tempos de resposta mais rápidos. O POLED, comum em celulares da Motorola e em alguns modelos intermediários, usa um substrato de plástico em vez de vidro, o que deixa a tela mais fina e resistente a impactos.
+
+O ponto fraco do OLED é a degradação. Os pixels orgânicos perdem eficiência com o tempo, e os azuis são os que sofrem mais. Se você deixa o mesmo ícone parado na tela por horas todos os dias, ele pode deixar uma marca permanente. É a famosa queima de imagem, ou burn-in. Por isso fabricantes usam técnicas como deslocar pixels de lugar sutilmente e reduzir o brilho em áreas estáticas.
+
+## A taxa de atualização e o que ela muda
+
+Você já deve ter visto celulares anunciados com tela de 120 Hz, 144 Hz ou até mais. Esse número é a taxa de atualização, quantas vezes por segundo a tela consegue redesenhar a imagem. Uma tela de 60 Hz atualiza sessenta vezes por segundo. Uma de 120 Hz faz isso o dobro de vezes.
+
+Na prática, a diferença aparece em três situações. Ao rolar o feed, o movimento fica mais fluido. Ao jogar, a resposta ao toque parece mais imediata. E ao escrever, o texto acompanha o dedo com menos atraso. Não é exagero dizer que voltar para uma tela de 60 Hz depois de usar uma de 120 Hz incomoda bastante.
+
+Mas tem um detalhe que quase ninguém explica. A taxa de atualização não é fixa. Celulares modernos usam taxas adaptativas, que variam entre 1 Hz e 120 Hz conforme o conteúdo. Se você está lendo um texto parado, a tela pode cair para 10 Hz e economizar bateria. Se está jogando, ela sobe para o máximo. Esse comportamento é controlado por um chip chamado display driver IC, que conversa com o processador o tempo todo.
+
+Existe ainda a taxa de amostragem de toque, que é diferente. Ela mede quantas vezes por segundo a tela lê a posição do seu dedo. Em celulares gamer, essa taxa pode chegar a 360 Hz ou mais, mesmo que a tela desenhe apenas 120 imagens por segundo. É isso que faz o toque parecer instantâneo em jogos competitivos.
+
+## Brilho, HDR e leitura na rua
+
+O brilho da tela é medido em nits, e essa é uma das especificações mais mal compreendidas nas lojas. Um celular pode anunciar pico de 2000 nits, mas isso só acontece em condições muito específicas, como exibir um pequeno trecho de vídeo em HDR com a tela no máximo. O brilho típico em uso normal costuma ser bem menor.
+
+Para ler na rua em pleno sol brasileiro, o que importa é o brilho sustentado, aquele que a tela consegue manter sem superaquecer. Um bom celular intermediário costuma ficar na faixa dos 600 a 800 nits em uso real. Aparelhos premium passam de 1000 nits. Abaixo disso, você vai apertar os olhos e usar a mão como sombra.
+
+O HDR é outra sigla que aparece bastante. Ele permite que a tela mostre, ao mesmo tempo, partes muito claras e muito escuras de uma cena, com mais detalhes do que o padrão comum. Em um vídeo de natureza, por exemplo, o céu não fica branco estourado e a sombra da árvore ainda mostra textura. Telas OLED levam vantagem aqui, porque conseguem apagar pixels completamente para representar preto.
+
+Vale lembrar que o conteúdo precisa ter HDR para você aproveitar. Assistir a um vídeo comum no YouTube não vai fazer mágica nenhuma, mesmo que a tela seja excelente. Netflix, Prime Video e Disney+ têm catálogos com HDR, mas nem tudo está disponível nesse formato.
+
+## Quando a tela quebra, o que realmente quebrou
+
+Essa é a dúvida que aparece em toda assistência técnica. Caiu o celular, o vidro rachou, mas a imagem continua funcionando. Nesse caso, o prejuízo é menor. O que quebrou foi só o vidro de cobertura, e o conserto envolve trocar essa camada superior, muitas vezes com uma máquina que separa o vidro do resto do módulo.
+
+Agora, se apareceram manchas pretas, listras coloridas ou partes da tela que não respondem ao toque, o problema é mais grave. Provavelmente o dano atingiu o painel ou a camada touch. Nesse caso, a troca é do módulo completo, o que custa bem mais. Em celulares intermediários, o conserto pode ficar na faixa dos trezentos a seiscentos reais. Em aparelhos premium, passa fácil dos mil reais, às vezes chegando perto do valor de um celular novo.
+
+Tem um teste simples que você pode fazer antes de levar na assistência. Ligue o celular e observe se aparecem linhas verticais ou horizontais. Toque em várias áreas da tela e veja se alguma não responde. Aumente o brilho ao máximo e olhe a tela num ambiente escuro, procurando manchas. Se a imagem está perfeita e só o vidro está trincado, o conserto tende a ser mais barato.
+
+Outro ponto importante é a diferença entre peça original e compatível. Peças originais vêm do fabricante e mantêm as características de cor, brilho e toque. Peças compatíveis são mais baratas, mas podem ter cores desbotadas, brilho menor ou resposta ao toque pior. Vale perguntar na assistência qual tipo será usado antes de autorizar o serviço.
+
+## Cuidados que prolongam a vida da tela
+
+A tela é a peça mais frágil e mais caras do celular. Alguns hábitos simples ajudam a evitar dor de cabeça. Use película de vidro temperado, mesmo que o celular já tenha vidro resistente. A película absorve o primeiro impacto e custa muito menos que um módulo novo. Capa com bordas elevadas também ajuda, porque impede que a tela encoste diretamente no chão quando o aparelho cai de bruços.
+
+Evite deixar o brilho no máximo o tempo todo. Além de consumir mais bateria, o brilho alto acelera o desgaste dos pixels orgânicos em telas OLED. Ative o brilho automático e deixe o sistema ajustar conforme a luz do ambiente. Em locais fechados, o celular vai reduzir sozinho e você nem percebe.
+
+Cuidado com a exposição prolongada ao sol. Deixar o celular no painel do carro sob o sol forte pode superaquecer o painel e causar manchas permanentes. O mesmo vale para carregar o aparelho jogando, porque a combinação de calor da bateria com calor do processamento castiga a tela.
+
+Por último, evite pressionar a tela com força. Isso vale para quem usa caneta stylus genérica, para quem apoia o dedo com raiva no joguinho e para quem guarda o celular no bolso de trás da calça. Pressão constante pode criar manchas claras no LCD e até danificar a camada touch.
+
+## Como escolher um celular olhando a tela
+
+Na hora da compra, a ficha técnica pode ser confusa. Um roteiro prático ajuda a filtrar o que importa.
+
+- Verifique a tecnologia do painel. OLED ou AMOLED costuma entregar preto mais profundo e cores melhores. LCD é mais barato e não sofre com queima de imagem.
+
+- Olhe a taxa de atualização. 120 Hz já é padrão em boa parte dos intermediários. 60 Hz só se o preço estiver muito bom.
+
+- Confira o brilho típico, não o de pico. Se a ficha só fala em pico, pesquise reviews que medem o brilho real.
+
+- Considere a resolução. Full HD ou superior é o ideal. Telas HD em aparelhos grandes deixam textos e ícones borrados.
+
+- Teste o toque na loja. Abra um jogo, role uma página, escreva uma mensagem. A resposta ao toque diz muito sobre a qualidade do conjunto.
+
+Fora da ficha técnica, tem a experiência real. Um celular com tela excelente no papel pode decepcionar se o software não calibrar bem as cores. Por outro lado, um intermediário com painel mediano pode surpreender se a fabricante fez um bom trabalho de ajuste. Sempre que possível, veja o aparelho funcionando antes de decidir.
+
+Também vale pensar no custo do conserto antes de comprar. Telas OLED costumam ser mais caras de substituir que LCD. Se você é do tipo que derruba o celular com frequência, talvez uma película boa e uma capa reforçada sejam mais importantes que a tecnologia do painel.
+
+## O futuro que já está chegando
+
+As telas continuam evoluindo, mas sem os exageros que o marketing costuma prometer. O que já está em celulares vendidos no Brasil são painéis com taxas adaptativas mais inteligentes, brilho mais alto sem esquentar e camadas touch integradas ao próprio painel, o que deixa o conjunto mais fino.
+
+As telas dobráveis também avançaram. O problema do vinco no meio ainda existe, mas ficou bem menos visível nos modelos mais recentes. O desafio maior é a durabilidade do mecanismo de dobradiça e da própria camada flexível, que sofre com o uso diário. Para quem quer um celular que dure anos sem dor de cabeça, talvez ainda não seja o momento.
+
+Outra frente é a integração do sensor de digitais embaixo da tela. A tecnologia ultrassônica, usada por Samsung e outros, já funciona bem mesmo com dedo molhado. A óptica, mais comum em intermediários, é mais barata mas exige mais precisão na hora de encostar o dedo. Nenhuma delas substitui um bom sensor lateral ou traseiro em termos de velocidade, mas a conveniência pesa.
+
+Câmeras embaixo da tela ainda engatinham. A qualidade das selfies fica comprometida porque a luz precisa atravessar o painel para chegar ao sensor. Para videochamadas e uso casual, até funciona. Para quem grava conteúdo ou tira muitas selfies, melhor esperar mais um pouco.
+
+## O que fica depois de entender tudo isso
+
+A tela do celular é uma engenharia de camadas que trabalha em silêncio. Vidro, touch, polarizador, painel, backlight ou pixels orgânicos, driver, software. Cada parte resolve um problema específico e depende das outras para funcionar. Quando você entende essa divisão, fica mais fácil diagnosticar problemas, escolher aparelhos e cuidar melhor do que já tem.
+
+Não precisa decorar sigla nenhuma. Basta lembrar que OLED acende pixel por pixel e LCD depende de uma luz de fundo. Que taxa de atualização alta deixa tudo mais fluido mas gasta mais bateria. Que brilho de pico não é brilho do dia a dia. E que vidro trincado nem sempre significa prejuízo enorme.
+
+Na próxima vez que pegar o celular para checar uma mensagem, talvez você olhe para a tela com outros olhos. Aquele retângulo brilhante faz muito mais do que parece, e agora você sabe mais ou menos como.

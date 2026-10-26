@@ -1,0 +1,113 @@
+Perder arquivos é uma daquelas coisas que a gente só leva a sério depois que acontece. Uma foto antiga da família, um trabalho de faculdade entregue na véspera, a planilha com o controle de gastos do ano inteiro. Tudo isso pode sumir em segundos por causa de um HD que resolve morrer sem aviso, um celular roubado na fila do banco ou um clique errado na hora de formatar o pendrive. O pior é que, na maioria das vezes, a pessoa até pensa em fazer backup, mas vai empurrando com a barriga até o desastre acontecer.
+
+A boa notícia é que proteger seus arquivos hoje é muito mais fácil do que era alguns anos atrás. Você não precisa ser técnico em informática, nem gastar uma fortuna. Existem caminhos gratuitos, outros que custam o equivalente a um lanche por mês, e todos eles cabem na rotina de qualquer pessoa comum. O segredo não está em ter o equipamento mais caro, mas em entender alguns princípios simples e criar o hábito certo.
+
+Vou te mostrar por que backups falham tanto, quais são os erros mais comuns, como montar uma estratégia que funcione de verdade e um passo a passo para você começar hoje mesmo, mesmo que ache que não tem nada importante para guardar. Porque você tem. Todo mundo tem.
+
+## Por que tanta gente perde arquivos mesmo sabendo que deveria fazer backup
+
+O problema raramente é falta de informação. Quase todo mundo já ouviu falar que precisa fazer backup. O problema é que a decisão de fazer isso sempre parece poder esperar mais um dia. É a mesma lógica de quem deixa para começar a academia na segunda-feira que vem. A diferença é que, com arquivos, o "amanhã" pode nunca chegar.
+
+Existe um padrão que se repete. A pessoa guarda tudo em um único lugar. Pode ser o HD interno do notebook, o cartão de memória do celular ou uma pasta na área de trabalho que ela acha que é "a pasta de verdade". Quando esse único lugar falha, não sobra nada. E falha de várias formas. HDs mecânicos têm peças móveis e se desgastam com o tempo. SSDs podem apresentar defeitos repentinos de controladora. Pen drives são frágeis, esquentam e são fáceis de perder. Celulares caem na privada, são roubados no ônibus, quebram a tela e, com ela, às vezes o acesso a tudo.
+
+Tem também o erro de confundir sincronização com backup. Muita gente usa uma pasta na nuvem e acha que está protegida. Só que sincronizar significa manter o mesmo arquivo em vários lugares ao mesmo tempo. Se você apagar um arquivo por engano no computador, ele some da nuvem também, porque a nuvem só reflete o que está no seu aparelho. Se um vírus criptografar seus arquivos, a versão criptografada sobe para a nuvem e substitui a boa. Isso não é backup. É espelhamento, e espelhamento não te salva de erro humano nem de ataque.
+
+Outro fator é emocional. A gente só valoriza o que perde. Enquanto tudo está funcionando, o backup parece um gasto desnecessário de tempo e dinheiro. Depois que o HD morre, a pessoa pagaria qualquer coisa para ter aqueles arquivos de volta. E aí descobre que recuperação de dados em laboratório custa caro, nem sempre funciona e demora dias. Prevenir é sempre mais barato e mais tranquilo.
+
+## Os três erros que mais destroem backups caseiros
+
+O primeiro erro é ter só uma cópia. Parece óbvio, mas é o mais comum. Se o arquivo existe em um único dispositivo, ele está a um acidente de distância de deixar de existir. Uma cópia não é backup. Backup é ter pelo menos duas, de preferência em lugares diferentes.
+
+O segundo erro é deixar o backup conectado o tempo todo. Aquele HD externo que fica plugado no notebook dia e noite parece prático, mas é uma armadilha. Se um ransomware entrar na máquina, ele pode criptografar não só o computador, mas também o HD externo que está conectado. Se um raio cair na rede elétrica e queimar os dois, você perde tudo de uma vez. O backup precisa ser desconectado depois de usado, ou estar em um local que o computador principal não alcança sozinho.
+
+O terceiro erro é nunca testar. Tem gente que faz backup há anos e nunca abriu a pasta para ver se os arquivos estão lá de verdade. Você pode ter um backup corrompido, incompleto ou que parou de rodar há meses sem você perceber. Descobrir isso só na hora do desespero é o pior cenário possível. Um backup que você não testa é uma promessa, não uma garantia.
+
+Existe ainda um quarto erro, menos lembrado. Guardar todas as cópias no mesmo ambiente físico. Se você tem o computador e o HD externo na mesma mesa, um incêndio, uma enchente ou um furto leva os dois juntos. Faz diferença ter uma cópia em outro endereço, na casa de um parente, no trabalho ou na nuvem.
+
+## A regra 3-2-1 explicada sem jargão
+
+Você provavelmente vai encontrar essa regra em qualquer material sério sobre backup. Ela é simples e resolve a maior parte dos problemas. Três cópias dos seus dados, em dois tipos diferentes de mídia, com uma delas fora do seu ambiente principal.
+
+Na prática, funciona assim. A cópia um é o arquivo original, no seu computador ou celular, aquele que você usa no dia a dia. A cópia dois é um backup local, em um HD externo, um SSD portátil ou até um segundo computador. A cópia três é um backup remoto, que pode ser um serviço de nuvem ou um HD guardado na casa de alguém de confiança.
+
+O "dois tipos de mídia" serve para você não depender de uma tecnologia só. Se você tem tudo em HDs mecânicos e todos eles estão sujeitos ao mesmo tipo de falha, não há redundância real. Misturar HD externo com nuvem, ou pendrive com armazenamento em servidor, já atende bem.
+
+O "uma fora do ambiente" é o que te protege de desastres grandes. Incêndio, roubo, enchente. Se todas as cópias estão no mesmo apartamento, um evento só acaba com tudo. Ter uma cópia na nuvem ou na casa da sua mãe muda completamente o jogo.
+
+Você não precisa seguir a regra ao pé da letra para estar protegido. Mesmo duas cópias em locais diferentes já resolvem a maioria dos casos. Mas se o conteúdo é realmente importante, vale montar a estrutura completa.
+
+## O que merece backup e o que pode ficar de fora
+
+Fazer backup de tudo é inviável e desnecessário. Você não precisa salvar programas instalados, porque eles podem ser baixados de novo. Não precisa salvar arquivos temporários do sistema, cache de navegador ou pastas que o próprio Windows e o macOS recriam sozinhos.
+
+O que realmente importa cabe em algumas categorias. Documentos pessoais, como RG, CPF, contratos, comprovantes, declaração de imposto de renda. Fotos e vídeos, que são insubstituíveis. Trabalhos profissionais, planilhas, apresentações, projetos. Conversas e contatos que você não quer perder. Senhas e chaves de acesso, que merecem um cuidado extra. E arquivos de configuração de programas que você personalizou bastante.
+
+Uma forma de descobrir o que é essencial é imaginar o seguinte cenário. Se o seu computador fosse roubado agora e você tivesse que recomeçar do zero, o que você correria para recuperar? Essa lista é o seu ponto de partida. O resto pode esperar ou nem precisa ser salvo.
+
+No celular, a lógica é parecida. Fotos, vídeos, conversas importantes, documentos digitalizados. Hoje boa parte disso já fica vinculada a uma conta, o que facilita. Mas vale conferir se a sincronização está ativa e se o espaço disponível é suficiente. Muita gente acha que está tudo salvo e descobre, tarde demais, que o backup parou por falta de armazenamento.
+
+## Como escolher onde guardar suas cópias
+
+Existem três caminhos principais e cada um tem pontos fortes e fracos. O ideal é combinar pelo menos dois deles.
+
+O primeiro é o armazenamento físico local. HDs externos, SSDs portáteis, pendrives de boa qualidade. A vantagem é o custo único e a velocidade. Você paga uma vez e usa por anos. A desvantagem é que o equipamento pode falhar, ser perdido ou roubado junto com o computador. Funciona bem como cópia secundária, não como única opção.
+
+O segundo é a nuvem. Serviços de armazenamento em servidor oferecem acesso de qualquer lugar, sincronização automática e proteção contra desastres físicos. A desvantagem é a mensalidade, que cresce conforme o espaço, e a dependência de internet. Planos básicos costumam ser gratuitos, mas com espaço limitado. Planos pagos ficam na faixa de algumas dezenas de reais por mês, dependendo do volume. Vale comparar, porque a diferença entre um plano e outro às vezes é grande.
+
+O terceiro é o backup em local externo, tipo um HD guardado na casa de um parente ou no trabalho. É barato e resolve o problema de desastre físico, mas exige disciplina para atualizar de tempos em tempos. Se você só visita esse lugar a cada seis meses, o backup também vai ter essa frequência.
+
+A escolha depende do volume de dados e da importância. Para fotos de família e documentos pessoais, nuvem mais HD externo já resolve muito bem. Para projetos profissionais grandes, um SSD local mais uma cópia na nuvem costuma ser o equilíbrio ideal.
+
+## Passo a passo para montar seu primeiro backup hoje
+
+Vamos ao prático. Você pode seguir esses passos em uma tarde e sair com uma estrutura funcionando. Não precisa fazer tudo de uma vez, mas começar hoje é o que importa.
+
+- Liste o que é essencial. Percorra as pastas do computador e do celular e anote o que precisa ser salvo. Documentos, fotos, vídeos, projetos. Não tente incluir tudo, foque no que é insubstituível.
+
+- Escolha um destino local. Um HD externo ou SSD portátil com espaço suficiente. Formate no sistema de arquivos adequado, que costuma ser NTFS no Windows ou APFS no Mac. Copie os arquivos essenciais para lá.
+
+- Configure uma pasta na nuvem. Mesmo que comece com o plano gratuito, já garante uma cópia fora de casa. Se seus arquivos ocupam mais espaço do que o gratuito oferece, considere um plano pago ou divida entre serviços.
+
+- Ative a sincronização automática para o que muda com frequência. Fotos do celular, documentos em edição, anotações. Assim você não depende de lembrar de copiar manualmente.
+
+- Desconecte o HD externo depois de usar. Guarde em um lugar seco, longe de calor e umidade. Se possível, em outro cômodo ou em uma gaveta diferente do computador.
+
+- Teste a restauração. Abra alguns arquivos direto do backup, em outro dispositivo, para confirmar que estão íntegros. Faça isso a cada poucos meses. Não confie só no tamanho da pasta, abra o arquivo.
+
+- Defina uma rotina. Uma vez por semana, ou por mês, atualize o backup local. A nuvem se encarrega sozinha do resto. Coloque um lembrete no celular se precisar.
+
+- Documente o que você fez. Anote onde está cada cópia, quais pastas entram no backup e como restaurar. Se algo acontecer com você, outra pessoa da casa precisa conseguir acessar.
+
+Depois de montar essa base, mantenha o hábito. Backup não é evento único, é rotina. Quem faz uma vez e nunca mais atualiza acaba com uma cópia velha, que não serve para recuperar o que foi criado depois.
+
+## Cuidados extras que fazem diferença no dia a dia
+
+Além da estrutura básica, alguns hábitos ajudam a proteger seus arquivos de ameaças específicas. O primeiro é cuidado com anexos e links em e-mails e mensagens. Boa parte dos ataques que criptografam arquivos entra por um clique em arquivo suspeito. Desconfie de cobranças inesperadas, boletos estranhos e promoções boas demais.
+
+O segundo é manter o sistema e os programas atualizados. Atualizações corrigem falhas de segurança que criminosos usam para entrar na máquina. Deixar o computador desatualizado é como deixar a porta destrancada.
+
+O terceiro é usar senhas fortes e diferentes para cada serviço. Se você usa a mesma senha em tudo e um site vaza seus dados, criminosos podem tentar acessar seu e-mail e, a partir dele, resetar senhas de outros serviços. Um gerenciador de senhas ajuda bastante nessa parte.
+
+O quarto é atenção com pen drives desconhecidos. Aquele pendrive achado no chão pode conter programas maliciosos que rodam sozinhos. Nunca conecte dispositivos que você não sabe de onde vieram.
+
+Por último, se você guarda arquivos muito sensíveis, como documentos financeiros ou fotos íntimas, considere criptografar a pasta ou o HD. Isso adiciona uma camada de proteção caso o dispositivo seja perdido ou roubado. É um passo a mais, mas vale para conteúdos que não podem vazar.
+
+## Quando o backup falha e o que fazer
+
+Mesmo com toda a estrutura, às vezes o backup não salva. Isso acontece quando a cópia está corrompida, desatualizada ou incompleta. Por isso testar é tão importante. Se você descobrir que o backup não presta antes de precisar dele, ainda dá tempo de corrigir.
+
+Outro caso é quando o arquivo foi perdido e não havia backup nenhum. Aí existem ferramentas de recuperação de dados que às vezes funcionam, principalmente se o problema foi exclusão acidental e o disco não foi muito usado depois. Mas o resultado é incerto e o processo pode ser caro. Em casos de HD com barulho estranho ou SSD que não é reconhecido, o melhor é não insistir e procurar um serviço especializado. Cada tentativa caseira pode piorar a situação.
+
+Também vale lembrar que backup não substitui senha forte nem cuidado com golpes. Se alguém invade sua conta e apaga tudo, ter cópia ajuda, mas evitar a invasão é ainda melhor. As duas coisas se complementam.
+
+Para quem tem negócio pequeno ou trabalha por conta, o backup é ainda mais crítico. Perder a base de clientes, os contratos ou os arquivos de projeto pode significar prejuízo direto. Nesses casos, vale dedicar mais tempo à estrutura e considerar cópias adicionais.
+
+## Uma última palavra sobre disciplina
+
+A parte técnica do backup é simples. O difícil é a constância. A maioria das pessoas sabe o que fazer, mas não faz. Por isso, o mais importante é escolher um sistema que caiba na sua rotina, mesmo que seja modesto, e manter.
+
+Se você só conseguir fazer uma coisa hoje, faça o seguinte. Escolha as pastas essenciais, copie para um HD externo e crie uma pasta na nuvem com os arquivos mais importantes. Já é muito melhor do que a maioria das pessoas tem. Depois, com o tempo, você refina.
+
+Pense no backup como uma rede de segurança. Você não espera cair, mas fica mais tranquilo sabendo que ela existe. O dia em que o HD morrer, o celular for roubado ou o arquivo for apagado por engano, você não vai passar aperto. Vai só restaurar, respirar aliviado e seguir em frente.
+
+E se você tem alguém na família que vive perdendo arquivos, compartilhe essas ideias. Muita gente não faz backup porque acha complicado, quando na verdade é questão de começar. Uma tarde de organização pode evitar anos de arrependimento.

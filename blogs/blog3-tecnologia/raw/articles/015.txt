@@ -1,0 +1,115 @@
+Editar vídeo no notebook é uma daquelas tarefas que separam os computadores em duas categorias bem distintas. Tem máquina que dá conta de cortar um vídeo caseiro de aniversário sem engasgar, e tem máquina que sofre até pra abrir a timeline de um projeto em 4K. A diferença quase nunca está só no preço. Está numa combinação de peças que precisa fazer sentido pro tipo de vídeo que você edita.
+
+Muita gente compra notebook pensando só no processador e esquece que a edição de vídeo puxa memória, armazenamento e placa de vídeo ao mesmo tempo. O resultado é uma máquina cara que travava justamente na hora de renderizar, ou um notebook barato que até roda o Premiere, mas demora o triplo do tempo pra exportar. Entender o papel de cada componente evita esse tipo de frustração.
+
+Este texto é pra quem já sabe o básico de edição e quer escolher uma máquina com critério. Você vai ver o que importa de verdade em cada peça, o que dá pra economizar, o que não dá, e como decidir entre modelos que parecem iguais na ficha técnica mas se comportam de forma bem diferente no dia a dia.
+
+## O processador é quem dita o ritmo da timeline
+
+O processador, ou CPU, é o componente que mais influencia a fluidez da edição. Ele cuida de decodificar o vídeo, aplicar efeitos, rodar as transições e comandar a exportação. Quanto mais núcleos e threads, melhor ele lida com várias tarefas ao mesmo tempo, o que é exatamente o que acontece quando você tem uma timeline cheia de clipes e correções de cor.
+
+Pra edição de vídeo, vale olhar processadores com pelo menos seis núcleos. Modelos com oito núcleos ou mais deixam a experiência bem mais confortável, principalmente se você mexe com vídeos em 4K ou usa muitos efeitos. As linhas mais recentes da Intel Core i5 e i7, assim como os Ryzen 5 e 7 da AMD, costumam dar conta da maioria dos projetos de quem edita em casa ou trabalha como freelancer.
+
+Um detalhe que passa batido é a diferença entre processadores de notebook e de desktop com o mesmo nome. Um i7 de notebook consome menos energia e esquenta mais, então rende menos que um i7 de desktop. Isso não é defeito, é limitação física de espaço e refrigeração. Na prática, você precisa comparar modelos de notebook entre si, não com um PC de mesa.
+
+Outro ponto é a geração do processador. Um i5 de geração mais nova costuma bater um i7 de duas ou três gerações anteriores em tarefas de vídeo, porque os núcleos ficaram mais eficientes e o suporte a codecs melhorou. Antes de comprar, vale conferir o ano de lançamento da geração, não só o nome da linha.
+
+## Memória RAM. O gargalo silencioso
+
+Se tem um componente que causa travamento em edição de vídeo, é a memória RAM. Quando ela acaba, o sistema começa a usar o disco como memória, e aí a máquina inteira fica lenta. Isso acontece justamente nos momentos mais críticos, como aplicar um efeito pesado ou pré-visualizar uma sequência em alta resolução.
+
+Pra edição de vídeo, 16 GB é o mínimo aceitável hoje. Com essa quantidade, você consegue editar projetos em Full HD com alguma tranquilidade, desde que não abra muitos programas ao mesmo tempo. Se você trabalha com 4K, usa After Effects junto com o Premiere, ou costuma ter navegador aberto com várias abas, 32 GB passam a ser o ideal.
+
+Um ponto importante é verificar se a memória é soldada na placa ou se dá pra trocar depois. Muitos notebooks finos vendem a RAM integrada, sem possibilidade de upgrade. Nesse caso, você fica preso à configuração que comprou. Se o modelo permitir expansão, comprar com 16 GB e subir pra 32 GB mais tarde pode ser uma estratégia econômica.
+
+Também vale olhar a frequência da memória e se ela trabalha em dual channel. Dois pentes de 8 GB rendem mais que um pente de 16 GB, porque o processador acessa os dois canais ao mesmo tempo. Em edição de vídeo, essa diferença aparece na fluidez da pré-visualização, mesmo que a quantidade total seja a mesma.
+
+## Placa de vídeo. Quando ela realmente faz diferença
+
+A placa de vídeo, ou GPU, tem ganhado cada vez mais peso na edição. Programas como Premiere, DaVinci Resolve e Final Cut usam a GPU pra acelerar efeitos, decodificar codecs e renderizar mais rápido. Isso não significa que você precisa de uma placa topo de linha, mas ignorar esse componente pode custar caro em tempo.
+
+Placas dedicadas, mesmo as de entrada, costumam superar placas integradas em tarefas de vídeo. Modelos como a GTX 1650, RTX 3050 ou equivalentes da AMD dão conta de boa parte dos projetos de quem edita em Full HD e 4K sem efeitos muito pesados. Se você trabalha com correção de cor avançada, motion graphics ou vídeos em 4K com muitas camadas, uma GPU mais robusta faz diferença real no tempo de render.
+
+A memória de vídeo, ou VRAM, também importa. Pra Full HD, 4 GB já ajudam. Pra 4K, o ideal é ter 6 GB ou mais. Quando a VRAM acaba, a GPU começa a usar a memória do sistema, e o desempenho cai bastante. Esse é um daqueles casos em que a ficha técnica não conta a história toda, porque duas placas com o mesmo nome podem ter quantidades diferentes de VRAM dependendo do modelo do notebook.
+
+Vale lembrar que nem todo programa aproveita a GPU da mesma forma. O DaVinci Resolve é bastante dependente dela, enquanto alguns editores mais simples rodam quase tudo na CPU. Saber qual software você usa ajuda a decidir quanto investir nessa peça.
+
+## Armazenamento. Velocidade que você sente no dia a dia
+
+Editar vídeo em HD mecânico é uma experiência dolorosa. O disco rígido tradicional é lento demais pra ler e gravar arquivos grandes de vídeo, e isso aparece em cada corte, cada pré-visualização, cada exportação. Hoje, SSD é praticamente obrigatório pra quem edita.
+
+O ideal é ter um SSD NVMe, que é bem mais rápido que o SSD SATA comum. Ele faz o sistema abrir rápido, os programas carregarem em segundos e os arquivos de vídeo serem lidos sem engasgo. Um SSD NVMe de 512 GB já resolve pra começar, mas se você trabalha com muitos projetos, 1 TB dá mais folga.
+
+Espaço é um ponto que muita gente subestima. Vídeo ocupa muito, e não é só o arquivo final. Os arquivos brutos, os cache de pré-visualização e os renders intermediários somam rápido. Um projeto de 10 minutos em 4K pode facilmente passar de 50 GB só em arquivos de trabalho. Por isso, ter um segundo SSD ou um HD externo rápido pra guardar projetos antigos ajuda a manter o notebook respirando.
+
+Também vale pensar em como você vai transferir os arquivos. Portas USB rápidas, leitor de cartão SD integrado e saída Thunderbolt fazem diferença pra quem trabalha com câmeras que gravam em cartão. Se você precisa copiar 64 GB de footage toda semana, uma porta lenta vira um problema recorrente.
+
+## Tela. Onde você passa horas olhando
+
+A tela é o componente que você mais encara durante a edição, então ela merece atenção. Um painel com boa cobertura de cor evita que você entregue um vídeo com tons diferentes do que o cliente esperava. Cores erradas na tela significam correção de cor errada, e isso dá retrabalho.
+
+Procure telas com cobertura próxima de 100% do sRGB, ou pelo menos 72% da NTSC. Se você trabalha com cor de forma mais séria, vale buscar painéis com cobertura de DCI-P3 ou Adobe RGB. A resolução também importa, mas pra edição, uma tela Full HD bem calibrada costuma ser melhor que uma 4K sem fidelidade de cor.
+
+O tamanho da tela influencia diretamente no conforto. Telas de 15,6 polegadas são o equilíbrio mais comum entre portabilidade e área de trabalho. Modelos de 14 polegadas são mais leves, mas a timeline fica apertada. Já os de 17 polegadas oferecem mais espaço, só que pesam mais e são menos práticos pra levar na mochila.
+
+Um detalhe que faz diferença é o brilho da tela. Se você edita em ambientes com muita luz, uma tela com brilho baixo vira um problema. Vale conferir esse número antes de comprar, porque ele não aparece no destaque da maioria dos anúncios.
+
+## Refrigeração e autonomia. O equilíbrio difícil
+
+Notebook fino e leve é ótimo pra carregar, mas costuma esquentar mais e render menos em tarefas pesadas. Edição de vídeo exige do processador e da GPU por longos períodos, e isso gera calor. Se o sistema de refrigeração não dá conta, o notebook diminui a velocidade pra se proteger, e a edição fica lenta.
+
+Modelos com dois ventiladores e saídas de ar generosas costumam segurar melhor o desempenho em sessões longas de edição. Alguns notebooks gamer, mesmo sendo mais pesados, entregam refrigeração melhor e acabam sendo uma escolha racional pra quem edita vídeo. Não é à toa que muita gente que trabalha com edição acaba optando por essa categoria.
+
+A autonomia é o outro lado da moeda. Notebooks potentes duram pouco na bateria, especialmente se você estiver renderizando. Na prática, quase todo mundo que edita sério trabalha com o notebook na tomada. Então, se a sua rotina é mais de estúdio ou mesa fixa, autonomia deixa de ser prioridade.
+
+Se você precisa editar na rua, vale buscar modelos que equilibrem potência e eficiência, como os que usam processadores com versões de baixo consumo. Eles rendem menos, mas duram mais longe da tomada. É uma escolha consciente entre desempenho e mobilidade.
+
+## Sistema operacional e softwares comuns no Brasil
+
+A escolha do sistema operacional acaba sendo guiada pelo software que você usa. Quem trabalha com Premiere, After Effects ou DaVinci Resolve costuma ficar no Windows, porque há mais opções de notebook e os preços são mais competitivos por aqui. Já quem prefere Final Cut Pro precisa de um Mac, porque o programa é exclusivo da Apple.
+
+No Brasil, a maioria dos editores freelancer usa Windows, e isso tem a ver com custo e variedade de máquinas. Um notebook Windows com boa configuração costuma sair mais em conta que um Mac com especificações parecidas. Por outro lado, os Macs com chip da linha M têm fama de entregar bom desempenho em edição com consumo baixo de energia, o que ajuda na autonomia.
+
+O ponto prático é que a escolha do sistema vem antes da escolha do notebook. Defina qual software você vai usar, veja os requisitos recomendados dele e só depois parta pra comparação de modelos. Fazer o contrário costuma dar dor de cabeça.
+
+## Passo a passo pra escolher sem se arrepender
+
+Antes de sair comparando modelos, vale organizar a decisão em etapas. Isso evita comprar por impulso e ajuda a identificar o que realmente importa pro seu caso.
+
+- Defina o tipo de vídeo que você edita. Full HD, 4K, com muitos efeitos, com correção de cor pesada. Isso muda tudo.
+
+- Escolha o software principal. Premiere, DaVinci, Final Cut. Cada um puxa mais de um componente.
+
+- Estabeleça um orçamento realista. Notebook pra edição de vídeo começa a ficar confortável na faixa dos quatro a cinco mil reais e sobe bastante a partir daí.
+
+- Priorize processador e memória RAM. São os dois que mais influenciam a fluidez da edição.
+
+- Verifique se o SSD é NVMe e se tem pelo menos 512 GB.
+
+- Confira a placa de vídeo e a quantidade de VRAM, principalmente se você usa DaVinci Resolve.
+
+- Olhe a tela, a cobertura de cor e o brilho.
+
+- Pesquise sobre refrigeração e veja se o modelo tem histórico de esquentar demais.
+
+- Verifique a possibilidade de upgrade de RAM e SSD.
+
+- Leia avaliações de quem usa o modelo pra edição, não só pra jogos ou uso geral.
+
+Esse roteiro não elimina a necessidade de comparar preços e esperar promoções, mas evita que você compre uma máquina bonita que não dá conta do recado. Também ajuda a perceber quando um notebook mais caro não faz sentido pro seu tipo de trabalho, porque tem recursos que você nunca vai usar.
+
+Um erro comum é comprar pensando no futuro distante. Se hoje você edita em Full HD, não precisa de uma máquina pra 8K. Comprar o que você precisa agora, com uma margem pequena de folga, costuma ser mais inteligente do que investir pesado em algo que vai ficar obsoleto antes de você usar.
+
+## Erros que custam tempo e dinheiro
+
+Tem algumas armadilhas que aparecem bastante em quem está escolhendo o primeiro notebook pra edição. A mais comum é olhar só o processador e ignorar memória e armazenamento. Um i7 com 8 GB de RAM e HD mecânico vai travar mais que um i5 com 16 GB e SSD NVMe.
+
+Outro erro é acreditar que placa de vídeo resolve tudo. A GPU acelera tarefas específicas, mas não substitui uma CPU boa nem memória suficiente. Se o resto da máquina não acompanha, a placa dedicada fica esperando dados e não entrega o ganho esperado.
+
+Tem também quem compre um notebook fino e leve achando que vai editar 4K nele. Esses modelos são feitos pra mobilidade, não pra carga pesada. Eles até abrem o programa, mas o desempenho em exportação e pré-visualização costuma decepcionar.
+
+Por último, muita gente esquece de considerar o custo dos acessórios. Um mouse decente, um teclado externo, um HD pra backup e, às vezes, um monitor maior fazem parte do setup de edição. Se o orçamento está apertado, vale incluir esses itens na conta antes de decidir quanto gastar no notebook em si.
+
+Escolher um notebook pra edição de vídeo é menos sobre encontrar a máquina perfeita e mais sobre entender o que o seu tipo de trabalho exige. Processador, memória, armazenamento e placa de vídeo formam um conjunto, e nenhum deles compensa a fraqueza dos outros. Quando você alinha esses componentes ao seu software e ao formato dos seus vídeos, a decisão fica bem mais simples.
+
+Vale lembrar que a tecnologia anda rápido, mas o que você aprende sobre edição fica. Um notebook bem escolhido dura anos e acompanha seu crescimento. Um notebook escolhido por impulso vira dor de cabeça em poucos meses. Pesquise, compare com calma e, se possível, teste o modelo antes de comprar.

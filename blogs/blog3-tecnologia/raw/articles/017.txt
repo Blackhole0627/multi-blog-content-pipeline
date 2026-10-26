@@ -1,0 +1,89 @@
+A bateria de um notebook costuma ser a primeira peça a dar sinais de cansaço. Depois de dois ou três anos, aquele aparelho que aguentava uma tarde inteira longe da tomada começa a pedir carregador a cada duas horas. Isso não é só impressão. As células de lítio que equipam praticamente todos os notebooks vendidos hoje sofrem desgaste químico natural, e esse desgaste depende muito de como você usa e carrega o equipamento no dia a dia.
+
+A boa notícia é que dá para desacelerar bastante esse processo. Não existe truque milagroso, nem aplicativo que dobre a autonomia por mágica. O que funciona é um conjunto de hábitos simples, alguns ajustes no sistema operacional e um pouco de atenção à temperatura. Quem trabalha o dia inteiro no notebook, faz faculdade à noite ou viaja com frequência sente a diferença rápido quando começa a cuidar disso.
+
+O assunto rende porque circula muita informação desencontrada por aí. Tem gente que jura que precisa descarregar até zero toda vez, tem gente que nunca tira o notebook da tomada e tem gente que guarda o aparelho carregado a cem por cento na gaveta por meses. Cada uma dessas práticas tem um efeito real sobre a saúde da bateria, e nem todas são boas. Vale entender o que acontece por dentro para depois aplicar o que faz sentido na sua rotina.
+
+## Como uma bateria de lítio envelhece de verdade
+
+Toda bateria de notebook atual usa células de íons de lítio. Elas funcionam movimentando íons entre dois polos a cada carga e descarga. Esse vaivém é o que gera energia, mas também vai deixando marcas. Com o tempo, parte dos íons fica presa em estruturas que não participam mais da reação, e a capacidade total diminui. É por isso que uma bateria nova com dez horas de autonomia pode chegar a cinco ou seis depois de alguns anos, mesmo funcionando normalmente.
+
+Dois fatores aceleram esse envelhecimento mais do que qualquer outra coisa. O primeiro é a temperatura. Calor é inimigo direto das células de lítio, e notebook esquentando muito, seja por poeira acumulada, seja por ficar em cima da cama bloqueando a ventilação, sofre desgaste mais rápido. O segundo é o estado de carga em que a bateria passa a maior parte do tempo. Manter a bateria sempre em cem por cento ou sempre muito baixa força as células a trabalhar numa faixa que a química não gosta.
+
+Existe ainda a questão dos ciclos. Cada vez que você gasta o equivalente a uma carga completa, conta um ciclo. Isso não significa que precisa descarregar tudo de uma vez. Duas descargas de cinquenta por cento somam um ciclo. As baterias modernas aguentam algumas centenas de ciclos antes de perder capacidade de forma perceptível, mas o número exato varia bastante entre fabricantes e modelos. O que importa é saber que ciclos são inevitáveis, enquanto calor e carga extrema são controláveis.
+
+## O mito de descarregar até zero
+
+Muita gente ainda repete o conselho de descarregar a bateria até o notebook desligar e só então colocar na tomada. Isso fazia sentido em tecnologias antigas, como as baterias de níquel-cádmio, que tinham o chamado efeito memória. As de lítio não têm esse problema. Pelo contrário, descarregar até zero com frequência é justamente uma das coisas que mais castigam as células.
+
+Quando a bateria chega a níveis muito baixos, a tensão interna cai bastante e alguns componentes sofrem estresse químico. Se isso acontece de vez em quando, tudo bem. O problema é transformar a descarga total em rotina. O ideal é trabalhar numa faixa intermediária, entre vinte e oitenta por cento, e só descer até zero em situações realmente necessárias.
+
+Outro mito parecido é o da calibração obrigatória. Alguns notebooks realmente precisam de uma recalibração de vez em quando para o sistema mostrar a porcentagem corretamente, mas isso não é o mesmo que descarregar todo dia. Se você perceber que o Windows ou o macOS está marcando números estranhos, tipo desligar com trinta por cento no visor, aí sim vale uma descarga completa seguida de carga total. Fora disso, não force a barra até o fim sem motivo.
+
+## Carregar durante o uso não estraga a bateria
+
+Tem uma crença muito comum de que usar o notebook plugado na tomada o tempo todo vicia a bateria. Isso também vem de outra época. Hoje, a maioria dos notebooks tem circuitos que cortam o carregamento quando a bateria chega a cem por cento, e o aparelho passa a rodar direto da fonte. A bateria fica parada, sem receber carga contínua.
+
+O problema não é usar plugado, é ficar plugado e com a bateria em cem por cento por dias seguidos. Nessa situação, as células permanecem numa tensão alta que acelera o desgaste, mesmo sem estar carregando. É como deixar um elástico esticado no limite por muito tempo. Ele não arrebenta de imediato, mas perde elasticidade mais rápido.
+
+Fabricantes perceberam isso e criaram recursos para lidar com o caso. Muitos notebooks Dell, Lenovo, Samsung e LG trazem modos que limitam a carga a oitenta ou sessenta por cento quando o aparelho fica muito tempo na tomada. O macOS tem um recurso parecido, que aprende sua rotina e segura a carga em oitenta por cento até perto do horário em que você costuma tirar o notebook da tomada. Vale procurar essa opção nas configurações de energia do seu modelo. Se existir e você usa o notebook quase sempre plugado, ative.
+
+## Temperatura, o fator que mais passa despercebido
+
+Se você só puder cuidar de uma coisa, cuide da temperatura. Nenhum hábito de carga compensa um notebook fervendo. As células de lítio trabalham bem numa faixa que vai mais ou menos de dez a trinta e cinco graus. Acima disso, a degradação acelera de forma clara. E notebook esquenta fácil, porque o processador e a placa de vídeo geram calor dentro de um chassi apertado.
+
+Alguns cuidados concretos ajudam bastante. Evite usar o notebook em cima do colchão, do sofá ou de qualquer superfície macia que bloqueie a entrada de ar por baixo. Mesas de vidro e superfícies duras são melhores. Se o aparelho já tem alguns anos, vale abrir e limpar a poeira das ventoinhas e dos dissipadores, ou levar num técnico para fazer isso. Poeira acumulada é uma das principais causas de superaquecimento em notebooks com mais tempo de uso.
+
+Carregar o notebook dentro de uma mochila fechada também é ruim. O calor gerado durante a carga não tem para onde ir e fica concentrado perto da bateria. Se precisar transportar carregando, tente deixar a mochila aberta ou espere chegar ao destino. E se você mora numa cidade muito quente, evite deixar o notebook no carro durante o dia. O interior de um carro estacionado ao sol passa fácil dos cinquenta graus, temperatura que castiga a bateria de forma séria.
+
+## Configurações do sistema que ajudam a poupar
+
+Além dos hábitos físicos, o software tem bastante influência. O brilho da tela é um dos maiores consumidores de energia. Baixar alguns pontos de brilho já muda a autonomia de forma perceptível, e muita gente mantém a tela no máximo sem necessidade. A maioria dos notebooks tem teclas de atalho para ajustar isso rapidamente.
+
+O modo de economia de energia do Windows e o modo de baixo consumo do macOS existem por um motivo. Eles reduzem a frequência do processador, atrasam tarefas em segundo plano e diminuem o brilho automaticamente. Para uso leve, como navegar, escrever e assistir vídeo, a diferença de desempenho é pequena e o ganho de bateria é grande.
+
+Fechar aplicativos que ficam rodando sem você perceber também ajuda. Navegadores com dezenas de abas abertas, jogos em segundo plano, sincronização de nuvem o tempo todo e programas de inicialização automática consomem energia mesmo quando você não está usando. No Windows, o Gerenciador de Tarefas mostra o impacto de cada programa na inicialização. No macOS, as Preferências do Sistema têm uma lista parecida em Itens de Login. Vale revisar de vez em quando.
+
+Outra dica prática é desligar o notebook quando não for usar por muitas horas. O modo de suspensão moderna é eficiente, mas ainda consome um pouco. Se você vai passar a noite toda sem usar, desligar de verdade economiza carga e reduz o tempo que a bateria passa em estado ativo.
+
+## Como guardar o notebook por longos períodos
+
+Quem tem um notebook guardado como reserva ou vai passar meses sem usar precisa tomar cuidado extra. Guardar o aparelho com a bateria em cem por cento por meses é uma das piores coisas que você pode fazer. A tensão alta constante degrada as células mesmo com o aparelho desligado. Guardar completamente descarregado também é ruim, porque a bateria pode entrar num estado de descarga profunda do qual não recupera mais.
+
+O ideal é deixar a carga em torno de cinquenta por cento antes de guardar. Nessa faixa, a tensão fica num ponto confortável para as células. Guarde o notebook num local fresco e seco, longe de sol direto e de fontes de calor. A cada dois ou três meses, vale ligar o aparelho, conferir a carga e completar até cinquenta por cento se tiver caído muito. Esse cuidado simples evita surpresas quando você for usar de novo.
+
+Se o notebook fica guardado na mochila ou numa case, tire antes de guardar por muito tempo. Ambientes fechados acumulam umidade, e umidade também não faz bem para a bateria nem para a placa-mãe. Um armário seco é melhor que uma gaveta úmida.
+
+## Passo a passo para cuidar da bateria na rotina
+
+Aqui vai um roteiro prático que você pode aplicar sem complicação. Não precisa seguir tudo ao pé da letra. Adapte à sua realidade e vá ajustando conforme perceber o que funciona melhor para o seu uso.
+
+- Verifique se o seu notebook tem modo de limite de carga nas configurações de energia. Se tiver e você usa muito tempo plugado, ative em oitenta ou sessenta por cento.
+
+- Mantenha a bateria na faixa de vinte a oitenta por cento no dia a dia. Não precisa ser obsessivo. Se precisar carregar até cem antes de uma viagem, carregue.
+
+- Evite descarregar até zero com frequência. Só deixe chegar a zero quando for realmente necessário, tipo recalibrar o indicador do sistema.
+
+- Use o notebook em superfícies duras e bem ventiladas. Nada de cama, sofá ou almofada bloqueando a saída de ar.
+
+- Ajuste o brilho da tela para um nível confortável, não no máximo. Ative o modo de economia de energia quando estiver longe da tomada.
+
+- Revise os programas que iniciam com o sistema e feche o que não estiver usando. Abas abertas no navegador consomem mais do que parece.
+
+- Limpe a poeira das ventoinhas a cada seis meses ou um ano, ou leve num técnico se não se sentir confortável para abrir.
+
+- Se for guardar o notebook por semanas, deixe a carga em torno de cinquenta por cento e guarde em local fresco e seco. Ligue a cada dois ou três meses para conferir.
+
+## Quando a bateria já está no fim
+
+Mesmo com todos os cuidados, uma hora a bateria vai perder capacidade de forma significativa. Isso é normal e não significa que você fez algo errado. Se o notebook desliga sozinho com carga ainda razoável, se a autonomia caiu para menos de metade do que era quando novo ou se a tampa traseira começou a estufar, é sinal de que a hora chegou.
+
+Bateria estufada é caso de atenção imediata. Ela pode danificar outros componentes e, em situações raras, representar risco. Pare de usar o notebook plugado e procure assistência técnica. Não tente furar, apertar ou abrir a bateria em casa. Isso vale para qualquer aparelho eletrônico, mas com bateria de lítio o cuidado é ainda maior.
+
+Trocar a bateria de um notebook fora da garantia costuma sair bem mais barato que comprar um aparelho novo. O preço varia bastante conforme o modelo e a disponibilidade da peça, mas na faixa dos mil reais já dá para encontrar baterias originais para muitos notebooks intermediários. Pesquise, veja se a peça é original ou compatível de boa procedência e prefira assistência autorizada quando possível. Uma bateria ruim pode dar dor de cabeça e durar pouco.
+
+Cuidar da bateria de um notebook não exige nenhum ritual complicado. O que faz diferença é constância em coisas simples. Evitar calor, não abusar das extremidades de carga, manter o sistema atualizado e prestar atenção aos sinais que o aparelho dá. Quem adota esses hábitos costuma esticar a vida útil da bateria por mais um ou dois anos, o que já representa uma economia considerável no bolso.
+
+Não existe garantia de que a bateria vai durar um número exato de anos, porque isso depende de muita coisa que foge do seu controle, como a qualidade da peça, o uso que você faz e até a sorte com o lote de células. Mas dá para sair da média e chegar bem acima dela só ajustando a rotina. Comece pelas mudanças mais fáceis, tipo brilho e temperatura, e vá incorporando o resto aos poucos.
+
+Se depois de tudo isso a bateria ainda segurar bem o dia inteiro, ótimo. Se não, você pelo menos vai saber que fez a sua parte e que a troca, quando acontecer, foi por desgaste natural e não por descuido. No fim, cuidar da bateria é cuidar do notebook inteiro, porque quase tudo nele depende dela para funcionar bem.

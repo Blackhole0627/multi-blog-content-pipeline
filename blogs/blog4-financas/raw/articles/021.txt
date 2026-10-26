@@ -1,0 +1,119 @@
+Renda fixa é um termo que aparece em propaganda de banco, em conversa de família e naquele vídeo de finanças que o algoritmo te empurra. Só que, na prática, muita gente usa a expressão sem saber direito o que ela significa. E isso gera decisões ruins, tipo aceitar uma aplicação só porque o nome parece seguro ou fugir de outra só porque alguém falou que "rende menos".
+
+A ideia por trás da renda fixa é mais simples do que parece. Você empresta dinheiro para alguém, e esse alguém te paga juros pelo tempo que ficou com o seu dinheiro. Esse "alguém" pode ser um banco, o governo ou uma empresa. A diferença entre a renda fixa e a renda variável está justamente em como o retorno é combinado. Na renda fixa, as regras do jogo ficam claras desde o começo, mesmo que o valor final só se saiba no fim.
+
+Neste texto, você vai entender como isso funciona de verdade no Brasil, quais são os tipos mais comuns, o que muda entre eles e por que nem tudo que parece renda fixa é tão previsível assim. Vamos passar pelos títulos públicos, pela poupança, pelos CDBs, pelas letras de crédito e até pelos fundos que vivem dentro dessa categoria.
+
+## A lógica por trás do empréstimo
+
+Quando você compra um título de renda fixa, está basicamente emprestando dinheiro. O emissor desse título pega o dinheiro emprestado e se compromete a devolver depois, com juros. Isso vale para o Tesouro Nacional, para um banco ou para uma empresa que emite debêntures.
+
+O que define o quanto você vai receber é uma combinação de três coisas. A primeira é o valor emprestado, que no jargão se chama valor principal. A segunda é a taxa de juros combinada. A terceira é o prazo, ou seja, quando o dinheiro volta para o seu bolso.
+
+Existe uma quarta variável que quase ninguém lembra, o risco de crédito. Emprestar para o governo federal é diferente de emprestar para uma empresa pequena. Quanto maior a chance de o emissor não pagar, maior tende a ser a taxa oferecida para compensar esse risco. É por isso que uma debênture de empresa menor costuma pagar mais do que um título do Tesouro.
+
+Outro ponto que confunde muita gente é a diferença entre taxa nominal e taxa real. A nominal é o número que aparece na propaganda, tipo "CDB de 12% ao ano". A real é o que sobra depois que a inflação corrói o poder de compra. Se a inflação foi de 5% no período e você ganhou 12%, seu ganho real ficou perto de 7%. Sem olhar para isso, você pode achar que ganhou bem quando, na verdade, quase só empatou.
+
+## Os tipos de rendimento que você encontra por aí
+
+Na renda fixa brasileira, existem basicamente três formas de calcular o rendimento. Entender essa divisão ajuda a comparar produtos que parecem incomparáveis.
+
+O primeiro tipo é o prefixado. Você combina uma taxa e sabe exatamente quanto vai receber no vencimento. Se aplicar mil reais a 10% ao ano por dois anos, dá para calcular o valor final com uma conta simples. A vantagem é a previsibilidade. A desvantagem aparece quando os juros sobem muito depois da aplicação. Aí você fica preso a uma taxa que virou ruim.
+
+O segundo tipo é o pós-fixado. O rendimento acompanha um índice, geralmente o CDI ou a Selic. Se o CDI sobe, seu rendimento sobe. Se cai, seu rendimento cai. Isso protege bastante em momentos de juros altos, mas deixa o resultado final em aberto até o resgate.
+
+O terceiro tipo é o híbrido, que combina uma parte fixa com uma parte variável. O exemplo mais conhecido é o Tesouro IPCA+, que paga a inflação do período mais uma taxa prefixada. Você trava o ganho real, mas a parte da inflação só se sabe depois.
+
+Esses três formatos aparecem em produtos diferentes. A poupança, por exemplo, é uma regra própria, com rendimento definido por lei. O CDB pode ser prefixado, pós-fixado ou híbrido, dependendo do que o banco oferece. O Tesouro Direto tem títulos dos três tipos. As letras de crédito, como LCI e LCA, costumam ser pós-fixadas ou híbridas.
+
+## Tesouro Direto, o caminho mais acessível
+
+O Tesouro Direto é um programa que permite a pessoa física comprar títulos públicos federais pela internet, sem precisar de muito dinheiro. Dá para começar com valores baixos, na casa das dezenas de reais, dependendo do título.
+
+Existem títulos para objetivos diferentes. O Tesouro Selic é o mais usado como reserva de emergência, porque tem baixa oscilação e resgate rápido. O Tesouro Prefixado serve para quem quer travar uma taxa e tem prazo definido. O Tesouro IPCA+ é o mais indicado para objetivos de longo prazo, como aposentadoria, porque protege o poder de compra.
+
+Um detalhe que pega muita gente é a marcação a mercado. Se você comprar um título prefixado e precisar vender antes do vencimento, o preço pode ser maior ou menor do que você pagou. Isso acontece porque os juros do mercado mudam todo dia. Se os juros sobem, o preço do seu título cai. Se caem, o preço sobe. Quem segura até o vencimento não sente esse efeito. Quem vende antes, sente.
+
+Esse ponto é importante porque muita gente entra no Tesouro Prefixado achando que é totalmente previsível. Na verdade, é previsível se você levar até o fim. No meio do caminho, o valor de mercado oscila, e isso pode assustar quem não está preparado.
+
+Outro ponto prático é a tributação. O Imposto de Renda sobre renda fixa segue uma tabela regressiva. Quanto mais tempo o dinheiro fica aplicado, menor a alíquota. Isso vale para a maioria dos produtos, com exceção dos que são isentos, como LCI, LCA, CRI e CRA. A tabela começa em 22,5% para aplicações de até seis meses e cai até 15% para prazos acima de dois anos.
+
+## Poupança, CDB e letras de crédito
+
+A poupança é o produto de renda fixa mais conhecido do brasileiro. Ela tem duas regras de rendimento, dependendo da Selic. Quando a Selic está acima de um certo patamar, a poupança rende uma taxa fixa ao mês mais a variação da TR. Quando está abaixo, o rendimento é menor. O problema é que, em boa parte do tempo, a poupança perde para outras opções de renda fixa, principalmente por causa da isenção de IR que os concorrentes oferecem em alguns casos.
+
+O CDB é um título emitido por banco. Ele costuma render um percentual do CDI, tipo "100% do CDI" ou "110% do CDI". Alguns bancos oferecem CDBs prefixados, com taxa fixa. O risco aqui é o risco de crédito do banco emissor. Se o banco quebrar, existe o Fundo Garantidor de Créditos, o FGC, que cobre até um limite por CPF e por instituição. Esse limite é de duzentos e cinquenta mil reais, com um teto global de um milhão de reais a cada quatro anos. Vale conferir as regras atualizadas antes de decidir.
+
+As letras de crédito, como LCI e LCA, são emitidas por bancos e têm isenção de Imposto de Renda para pessoa física. Por causa disso, costumam pagar menos do que um CDB equivalente. A conta que importa é a comparação líquida, ou seja, quanto sobra depois do imposto. Um CDB de 100% do CDI pode render mais líquido do que uma LCI de 90% do CDI, dependendo do prazo.
+
+Existe também o CRI e o CRA, que são títulos lastreados em créditos imobiliários e do agronegócio. Eles são isentos de IR para pessoa física e costumam ter prazos mais longos. O risco é maior, porque envolvem empresas do setor e não têm a mesma proteção do FGC. Vale ler o prospecto antes de investir.
+
+## O que muda entre renda fixa e renda variável
+
+Muita gente acha que renda fixa é sinônimo de segurança total. Não é bem assim. A renda fixa tem regras de remuneração definidas, mas isso não elimina todos os riscos.
+
+O primeiro risco é o de crédito. O emissor pode não pagar. Isso vale para empresas, bancos pequenos e até para governos de estados e municípios. O Tesouro Nacional tem risco baixíssimo, mas não é zero em teoria. Na prática, é considerado o mais seguro do país.
+
+O segundo risco é o de liquidez. Alguns títulos só podem ser resgatados no vencimento. Se você precisar do dinheiro antes, pode não conseguir vender ou pode vender com desconto. CDBs com liquidez diária são diferentes de CDBs sem liquidez. LCI e LCA geralmente têm carência, ou seja, um período mínimo antes do resgate.
+
+O terceiro risco é o de mercado, que é a oscilação de preço antes do vencimento. Já falamos disso no caso do Tesouro Prefixado. Isso também acontece com outros títulos negociados no mercado secundário.
+
+O quarto risco é o de reinvestimento. Quando seu título vence, você precisa aplicar o dinheiro de novo. Se os juros caíram nesse meio tempo, você vai reinvestir a uma taxa menor. Isso é especialmente relevante para quem vive de renda.
+
+Na renda variável, como ações e fundos imobiliários, o retorno não é combinado. Você participa do resultado da empresa ou do fundo. Pode ganhar muito ou perder muito. A renda fixa não tem esse potencial de ganho alto, mas também não tem a mesma volatilidade no vencimento.
+
+## Como escolher na prática, um passo a passo
+
+A escolha de um produto de renda fixa depende do objetivo, do prazo e da tolerância a risco. Não existe resposta única. O que existe é um caminho que faz sentido para cada situação.
+
+- Defina o objetivo. É reserva de emergência, viagem, entrada de imóvel ou aposentadoria? Cada um pede um prazo diferente.
+
+- Estabeleça o prazo. Se o dinheiro pode ser necessário a qualquer momento, priorize liquidez diária. Se tem data para ser usado, pode travar uma taxa maior.
+
+- Compare a taxa líquida. Olhe o rendimento depois do Imposto de Renda e das taxas. Um produto isento pode parecer melhor, mas nem sempre é.
+
+- Verifique a proteção. CDB, LCI e LCA contam com FGC até o limite. Tesouro Nacional tem risco soberano. CRI e CRA não têm FGC.
+
+- Leia as condições de resgate. Tem carência? Tem liquidez diária? Qual o horário limite para resgatar e receber no mesmo dia?
+
+- Diversifique. Não coloque tudo em um único emissor ou produto. Mesmo dentro da renda fixa, vale espalhar.
+
+- Acompanhe o cenário. Selic, inflação e CDI mudam. Revisar a carteira de tempos em tempos ajuda a não ficar preso a uma taxa ruim.
+
+Esse passo a passo não é uma recomendação de investimento. É um roteiro para organizar a decisão. Cada pessoa tem uma situação diferente, e o que serve para uma não serve para outra.
+
+Um erro comum é escolher o produto pela taxa sem olhar o prazo. Um CDB de 15% ao ano por cinco anos pode ser pior do que um de 12% com liquidez diária, se você precisar do dinheiro no meio do caminho. Outro erro é ignorar a inflação. Uma taxa de 8% ao ano com inflação de 6% deixa um ganho real pequeno. Sem olhar para isso, você pode achar que está ganhando bem quando está quase empatando.
+
+## Tributação e custos que comem o rendimento
+
+O Imposto de Renda na renda fixa segue uma tabela regressiva. Isso significa que quanto mais tempo o dinheiro fica aplicado, menor a alíquota. Para aplicações de até seis meses, a alíquota é de 22,5%. De seis meses a um ano, cai para 20%. De um a dois anos, 17,5%. Acima de dois anos, 15%. Essa tabela vale para CDB, Tesouro Direto e debêntures comuns. LCI, LCA, CRI e CRA são isentos para pessoa física.
+
+Existe também o Imposto sobre Operações Financeiras, o IOF, que incide sobre resgates em menos de trinta dias. Ele é regressivo e começa em 96% do rendimento no primeiro dia, caindo até zero no trigésimo dia. Na prática, resgatar antes de trinta dias quase sempre é ruim.
+
+Além do imposto, existem custos. No Tesouro Direto, a corretora pode cobrar taxa de custódia. Algumas cobram, outras não. Vale verificar antes de comprar. Em fundos de renda fixa, existe a taxa de administração, que é cobrada anualmente sobre o patrimônio. Uma taxa de 1% ao ano pode parecer pequena, mas em prazos longos ela come uma parte relevante do rendimento.
+
+Outro custo que aparece em alguns produtos é a taxa de saída antecipada. Alguns CDBs cobram uma penalidade se você resgatar antes do vencimento. Isso não é imposto, é regra do contrato. Ler o contrato ou a ficha do produto evita surpresa.
+
+## Uma base sólida pra começar
+
+O primeiro erro é achar que poupança é sempre a melhor opção por ser simples. Ela é simples, mas costuma render menos do que alternativas com liquidez parecida. Para reserva de emergência, o Tesouro Selic ou um CDB de liquidez diária costumam ser mais eficientes.
+
+O segundo erro é olhar só a taxa e ignorar o risco de crédito. Um CDB de banco pequeno pagando muito acima do mercado pode ser sinal de risco maior. O FGC cobre até um limite, mas o processo de recuperação pode demorar. Vale pensar se você quer passar por isso.
+
+O terceiro erro é não diversificar. Colocar todo o dinheiro em um único emissor ou em um único título concentra risco. Mesmo que o emissor seja sólido, imprevistos acontecem.
+
+O quarto erro é confundir renda fixa com ausência de oscilação. Títulos prefixados e IPCA+ oscilam antes do vencimento. Quem não entende isso pode vender no pior momento e realizar prejuízo.
+
+O quinto erro é ignorar a inflação. Ganhar 8% ao ano com inflação de 6% é diferente de ganhar 8% com inflação de 2%. O ganho real é o que importa para o poder de compra.
+
+## Renda fixa não é uma coisa só
+
+Renda fixa é um guarda-chuva que cobre produtos bem diferentes. Tem título público, tem CDB, tem letra de crédito, tem debênture, tem fundo. Cada um tem regras próprias de risco, liquidez e tributação. Tratar tudo como se fosse a mesma coisa é o caminho mais rápido para uma decisão ruim.
+
+O que une todos esses produtos é a lógica do empréstimo com regra combinada. Você empresta, recebe juros, e o valor final depende do emissor, do prazo e do tipo de taxa. Entender essa base ajuda a comparar produtos que parecem incomparáveis e a não cair em armadilha de propaganda.
+
+No fim, renda fixa é uma ferramenta. Serve para reserva, para objetivos de médio prazo e para a parte mais conservadora de uma carteira. Não é a única ferramenta, nem a melhor para todo mundo. Mas é uma base que quase todo mundo deveria entender antes de investir em qualquer coisa.
+
+Antes de aplicar, vale responder três perguntas. Quando você vai precisar desse dinheiro? Quanto você aceita oscilar antes de resgatar? E qual é o seu objetivo com esse dinheiro? As respostas mudam tudo. Um mesmo produto pode ser ótimo para uma pessoa e ruim para outra.
+
+Se você está começando, comece pelo básico. Entenda a diferença entre prefixado, pós-fixado e híbrido. Olhe a taxa líquida, não a bruta. Verifique a liquidez e a proteção. E lembre que rentabilidade passada não garante rentabilidade futura. Com essas noções, você já consegue tomar decisões melhores do que a maioria.

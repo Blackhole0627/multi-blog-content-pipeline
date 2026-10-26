@@ -1,0 +1,99 @@
+## O que pode ser deduzido na declaração de imposto de renda
+
+Todo ano a mesma história. Chega a época da declaração, você abre o programa da Receita, começa a preencher e a dúvida bate. Aquela consulta médica que você pagou do bolso, a mensalidade da faculdade do filho, o plano de saúde, a pensão que sai todo mês por decisão judicial. Tudo isso pode entrar como dedução? A resposta curta é sim, boa parte desses gastos pode reduzir o imposto a pagar ou aumentar a restituição. Mas tem regra para tudo.
+
+O detalhe é que dedução não é desconto mágico. Ela simplesmente diminui a base de cálculo, aquela faixa de renda sobre a qual a alíquota incide. Quanto menor a base, menor o imposto. E existem dois caminhos para chegar lá, o modelo completo, com as deduções legais que você comprova, e o modelo simplificado, que aplica um desconto fixo de 20% sobre os rendimentos tributáveis, com um teto definido. A escolha entre um e outro é feita no próprio programa, que calcula qual dos dois é mais vantajoso.
+
+Se você tem poucos gastos dedutíveis, o simplificado quase sempre ganha. Agora, se as despesas com saúde, educação ou dependentes forem pesadas, o modelo completo costuma valer mais a pena. Entender o que entra em cada caixinha é o primeiro passo para não pagar imposto a mais nem cair na malha fina.
+
+## Despesas médicas: o abatimento sem teto, mas cheio de regras
+
+Saúde é a categoria que mais pesa na declaração de boa parte dos contribuintes. E por um motivo simples: não existe limite de valor para dedução. Você pode abater tudo o que gastou, desde que comprove. Consultas médicas de qualquer especialidade, exames laboratoriais e de imagem, internações, parto, dentista, psicólogo, fisioterapeuta, fonoaudiólogo. Tudo isso entra.
+
+Planos de saúde também são dedutíveis. A mensalidade que você paga à operadora, seja individual ou familiar, pode ser lançada integralmente. Se a empresa desconta o plano do seu salário, atenção, essa parte não é dedutível porque já não foi tributada na fonte. Agora, se você paga o plano por fora, com dinheiro seu, aí entra sem problema.
+
+Aparelhos ortopédicos, próteses dentárias e de silicone, cadeira de rodas, marca-passo, lentes intraoculares. Tudo isso é dedutível quando indicado por profissional de saúde e comprovado com nota ou receita. Cirurgias plásticas também podem ser abatidas, mas com uma ressalva. Se for estética pura e simples, a Receita pode questionar. Se houver indicação médica ligada à saúde física ou mental, a dedução é válida.
+
+Agora, o que não entra. Medicamentos comprados em farmácia, mesmo com receita, não são dedutíveis. Essa é uma das confusões mais comuns. A exceção é quando o remédio faz parte da conta de uma internação hospitalar. Óculos, lentes de contato e vacinas aplicadas em clínica particular também ficam de fora. Assim como exames de DNA, despesas com acompanhante e qualquer gasto médico coberto pelo plano de saúde, aquela parte que você não pagou do próprio bolso não pode ser declarada.
+
+Um ponto que merece atenção é o reembolso. Se o plano de saúde devolveu parte do valor de uma consulta ou procedimento, você só pode deduzir o que efetivamente saiu do seu bolso. Declarar o valor cheio e esquecer o reembolso é um dos erros que mais levam à malha fina.
+
+## Educação tem limite e só vale para ensino formal
+
+Educação é uma dedução com teto. O valor máximo que pode ser abatido por pessoa, seja você ou cada dependente, é de R$ 3.561,50 por ano. Se você paga faculdade e o filho está na escola, são dois limites, um para cada. Isso ajuda bastante.
+
+O que entra na lista é ensino formal. Creche, pré-escola, ensino fundamental, médio, técnico, graduação, pós-graduação, mestrado, doutorado. Mensalidades e matrículas dessas instituições podem ser deduzidas, desde que a escola ou faculdade seja reconhecida pelo MEC.
+
+O que fica de fora é quase tudo que não é ensino regular. Curso de inglês, curso preparatório para vestibular ou concurso, aula de música, dança, natação. Material escolar, uniforme, transporte, alimentação na cantina. Nada disso entra. Também não vale intercâmbio nem curso livre sem vínculo com instituição de ensino formal.
+
+Um detalhe que pega muita gente. Se os pais são separados e ambos contribuem com a educação do filho, quem pode deduzir? A regra é clara. Só quem tem a guarda e declara o filho como dependente pode lançar a despesa. O outro pode até pagar, mas não consegue abater.
+
+## Dependentes: valor fixo por pessoa, mas com armadilhas
+
+Cada dependente que você inclui na declaração gera um abatimento fixo de R$ 2.275,08 por ano. Não importa quanto você gasta com ele, o valor é esse. É simples, mas exige cuidado.
+
+Quem pode ser dependente? Filho ou enteado até 21 anos. Se estiver cursando ensino superior ou escola técnica de nível médio, o limite sobe para 24 anos. Cônjuge ou companheiro também entra, desde que comprovada a união. Pais e avós podem ser dependentes, mas só se não tiverem rendimentos suficientes para se sustentar. Irmão menor de 21 anos sob sua guarda também entra.
+
+A armadilha está nos rendimentos do dependente. Se você inclui alguém que trabalha e ganha salário, essa renda precisa ser declarada junto com a sua. Em alguns casos, a soma pode empurrar sua base de cálculo para uma faixa mais alta e aumentar o imposto, em vez de diminuir. Faça a simulação antes de decidir.
+
+Outra regra de ouro. Ninguém pode ser dependente em duas declarações ao mesmo tempo. Se o filho está na sua, não pode estar na do ex-cônjuge. Isso gera inconsistência e leva direto para a malha fina.
+
+## Previdência: INSS sem limite, PGBL com teto
+
+A contribuição ao INSS é uma das deduções mais automáticas. Todo mês, uma parte do seu salário vai para a Previdência Social. Esse valor é integralmente dedutível, sem limite. Se você é empregado com carteira assinada, o desconto já aparece no informe de rendimentos. Se é autônomo e paga carnê-leão, também pode abater o que recolheu.
+
+A previdência privada tem regras diferentes conforme o tipo de plano. O PGBL, Plano Gerador de Benefício Livre, permite dedução de até 12% da sua renda bruta tributável anual. Se você ganhou R100milnoano,podededuzirateˊR 100 mil no ano, pode deduzir até R100milnoano,podededuzirateˊR 12 mil em contribuições ao PGBL. Isso reduz a base de cálculo e, consequentemente, o imposto.
+
+O VGBL, Vida Gerador de Benefício Livre, não permite dedução nenhuma na fase de acumulação. Muita gente confunde os dois. Se você tem VGBL e lança como se fosse PGBL, a Receita detecta e o problema é certo.
+
+O PGBL só vale a pena para quem faz a declaração no modelo completo. Se você opta pelo simplificado, a contribuição não gera benefício nenhum. E para quem está pensando no longo prazo, o PGBL faz sentido para quem pretende resgatar em algum momento e quer pagar imposto sobre o valor total, com alíquota menor conforme o tempo de acumulação. O VGBL é mais indicado para quem já tem uma renda alta e complementa a previdência oficial, ou para quem pretende deixar o dinheiro render por muito tempo.
+
+## Pensão alimentícia: só vale com decisão judicial
+
+Pensão alimentícia é uma dedução integral, sem limite de valor. Mas com uma condição que não pode ser ignorada. Só vale se o pagamento for obrigatório por decisão judicial, acordo homologado em juízo ou escritura pública. Aquele acordo informal, feito de boca entre o casal, não serve para deduzir nada.
+
+Para quem paga, a dedução é interessante porque o valor sai da base de cálculo. Para quem recebe, a regra mudou recentemente. A pensão alimentícia deixou de ser tributada. Quem recebe declara como rendimento isento e não paga imposto sobre esse valor.
+
+Agora, atenção para uma pegadinha. Pensão por morte não tem nada a ver com pensão alimentícia. A pensão por morte continua sendo rendimento tributável e entra na declaração normalmente. Só a alimentícia, aquela determinada pela Justiça para sustento de filho ou ex-cônjuge, é que tem o tratamento diferenciado.
+
+## Livro-caixa para autônomos e outras deduções menos conhecidas
+
+Quem trabalha como autônomo, seja médico, advogado, arquiteto, contador ou qualquer outra profissão liberal, pode usar o livro-caixa para deduzir despesas necessárias à atividade. Aluguel do consultório ou escritório, conta de luz, água, telefone, material de consumo, pagamento a terceiros. Tudo que for indispensável para prestar o serviço pode ser lançado, desde que registrado no livro-caixa e comprovado com nota fiscal.
+
+Honorários advocatícios também têm uma regra específica. Quando você ganha uma causa trabalhista ou recebe um valor atrasado do INSS, a parte que ficou com o advogado pode ser abatida dos rendimentos tributáveis.
+
+Existe ainda a possibilidade de deduzir doações feitas a fundos da criança e do adolescente, fundos do idoso e projetos de incentivo à cultura e ao esporte. Mas atenção, isso não reduz a base de cálculo como as outras deduções. Funciona como destinação do imposto devido. Você escolhe para onde vai uma parte do imposto que já ia pagar de qualquer forma, dentro de limites que variam entre 6% e 7% do total devido.
+
+## O passo a passo para não errar na hora de deduzir
+
+Agora que você já sabe o que entra, vamos organizar o processo. Seguir uma ordem simples ajuda a não esquecer nada e evita erros que podem custar caro.
+
+- Reúna os comprovantes. Separe recibos, notas fiscais, informes de rendimentos de planos de saúde, comprovantes de mensalidade escolar, decisão judicial da pensão, informe da previdência privada. Guarde tudo por pelo menos cinco anos, que é o prazo que a Receita tem para cobrar.
+
+- Confira se o prestador informou seu CPF. Desde 2025, profissionais de saúde são obrigados a emitir recibos eletrônicos pelo sistema Receita Saúde. A Receita cruza automaticamente o que você declara com o que o médico, dentista ou psicólogo informou. Se houver divergência, você cai na malha fina.
+
+- Não inclua o que não pode. Medicamento de farmácia, óculos, curso de idiomas, academia. Por mais que pareça saúde ou educação, não são dedutíveis. Deixar de fora é melhor do que lançar errado.
+
+- Subtraia os reembolsos. Se o plano de saúde devolveu parte de um gasto, deduza apenas o valor que você realmente pagou. Declare o reembolso no campo específico do programa.
+
+- Simule os dois modelos. Depois de preencher tudo, o próprio programa da Receita mostra se o completo ou o simplificado é mais vantajoso. Confira o resultado antes de transmitir. Às vezes, a diferença é pequena, mas em outros casos pode significar centenas ou até milhares de reais.
+
+- Revise o CPF dos dependentes. Erro de digitação no CPF do filho ou do cônjuge é uma das causas mais bobas de retenção. Confira letra por letra.
+
+- Guarde a declaração anterior. Se você teve as mesmas despesas no ano passado, use o documento como referência. Mas se surgiu uma renda nova ou um gasto que não existia, refaça as contas.
+
+## O que acontece se você errar
+
+Cair na malha fina não significa automaticamente que você fez algo errado de propósito. Muitas vezes é só uma divergência de informação. Mas dá trabalho resolver. Você recebe uma notificação, precisa reunir documentos e explicar cada valor declarado. Em casos mais graves, pode haver multa.
+
+Os erros mais comuns que levam a essa situação são sempre os mesmos. Declarar despesa médica de alguém que não é dependente nem alimentando. Esquecer de informar o reembolso do plano de saúde. Lançar PGBL como se fosse VGBL ou vice-versa. Incluir dependente sem declarar os rendimentos dele. Usar CPF ou CNPJ errado do prestador de serviço.
+
+A boa notícia é que a maioria desses problemas é evitável com organização básica. Guardar os comprovantes durante o ano, conferir os dados antes de lançar e simular os dois modelos. Não tem segredo.
+
+## Planejar durante o ano faz diferença no resultado
+
+A declaração é só o retrato de um ano inteiro. Se você deixou tudo para a última hora, as chances de esquecer alguma despesa ou lançar algo errado aumentam. Quem organiza os comprovantes ao longo do ano chega na hora de declarar com muito mais tranquilidade.
+
+Mais do que isso, entender as deduções permite decisões melhores lá na frente. Saber que o PGBL só vale a pena no modelo completo pode influenciar a escolha do plano de previdência. Saber que a educação tem teto evita expectativa errada de restituição alta. Saber que despesas médicas não têm limite ajuda a planejar gastos com saúde de forma mais consciente.
+
+E vale sempre lembrar. A declaração é uma obrigação anual, mas também é uma oportunidade de revisar as contas, entender para onde foi seu dinheiro e, quem sabe, recuperar uma parte do imposto que foi retido ao longo do ano. Com informação e organização, você deixa de tratar a declaração como um peso e passa a usá-la a seu favor.

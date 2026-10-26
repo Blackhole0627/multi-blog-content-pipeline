@@ -1,0 +1,125 @@
+Startups quebram por motivos que, olhando depois, parecem óbvios. Mas no meio do processo, com o caixa apertado, o time pequeno e a pressão para crescer, cada decisão parece a mais razoável do mundo. O problema é que erros pequenos se acumulam. Uma contratação errada aqui, um produto que ninguém quer ali, um sócio que não deveria estar ali, e de repente a empresa que parecia promissora some do mapa.
+
+O Brasil tem um ecossistema de startups vibrante, com aceleradoras, investidores-anjo, programas de fomento e comunidades ativas em cidades como São Paulo, Florianópolis, Recife e Belo Horizonte. Mesmo assim, boa parte das startups brasileiras não passa dos primeiros anos. Não é falta de talento ou de ideia. É execução, gestão e, principalmente, a capacidade de reconhecer erros antes que eles se tornem fatais.
+
+Este texto não é uma lista de desgraças. É um mapa dos erros mais comuns que fazem startups quebrarem, com exemplos do dia a dia, explicações práticas e um checklist no final para você revisar a saúde do seu negócio. Se você está começando ou já está no meio da jornada, vale ler com calma e comparar com a sua realidade.
+
+## Construir um produto que ninguém pediu
+
+Esse é o erro clássico, e provavelmente o mais caro de todos. O fundador tem uma ideia, se apaixona por ela, passa meses desenvolvendo, contrata time, gasta dinheiro e só depois vai falar com o cliente. Quando finalmente lança, descobre que o problema que ele resolve não é urgente para ninguém, ou que as pessoas preferem resolver de outra forma, ou que ninguém está disposto a pagar.
+
+O nome técnico disso é falta de validação. Na prática, é construir no escuro. Um exemplo comum no Brasil é o dos aplicativos de gestão para pequenos negócios. Muita gente cria um app cheio de funcionalidades, com dashboard bonito, relatórios, integração com nota fiscal, e esquece que o dono da padaria ou da barbearia resolve tudo no caderno ou no WhatsApp. O produto pode ser tecnicamente melhor, mas se não encaixa na rotina real do cliente, não vende.
+
+A saída não é complicada, mas exige humildade. Antes de escrever uma linha de código, converse com pelo menos vinte pessoas que têm o problema que você quer resolver. Não pergunte se elas usariam sua solução. Pergunte como elas resolvem hoje, quanto tempo perdem, quanto dinheiro gastam, o que já tentaram. Se a resposta for "ah, a gente vai levando", o problema pode não ser grande o suficiente para virar negócio.
+
+Outra armadilha é confundir feedback educado com demanda real. Amigo que diz "achei legal" não é cliente. Cliente é quem paga. Se ninguém pagou, ninguém validou nada. Pode parecer duro, mas é melhor ouvir isso no começo do que depois de gastar o dinheiro do investidor.
+
+## Escolher sócios por afinidade e não por competência
+
+Sociedade em startup é quase um casamento, com a diferença de que você não pode se divorciar facilmente. Muita gente chama o amigo de faculdade, o primo que entende de tecnologia ou o colega de trabalho que é engraçado, sem pensar direito no que cada um traz para a mesa. O resultado costuma ser uma divisão de tarefas confusa, decisões travadas e, em muitos casos, briga judicial.
+
+O erro não é ter sócios. É ter sócios errados, ou ter sócios sem um acordo claro desde o início. Em startups brasileiras, é comum ver três ou quatro fundadores com participações iguais, sem definição de quem manda, quem responde pelo dinheiro, quem cuida do produto. Quando a empresa cresce, surgem as divergências. Um quer internacionalizar, outro quer vender, outro quer captar investimento. Sem regras, a empresa para.
+
+Um bom sócio não é necessariamente o seu melhor amigo. É alguém que complementa suas habilidades, que tem resiliência para aguentar os momentos ruins e que está alinhado com o tamanho da ambição do negócio. Se você é técnico, talvez precise de alguém comercial. Se você é visionário, talvez precise de alguém operacional. E antes de assinar qualquer contrato social, defina vesting, cláusulas de saída, o que acontece se um sócio quiser sair, o que acontece se um sócio parar de trabalhar. Isso evita muita dor de cabeça.
+
+Vale lembrar que sociedade não é democracia. Alguém precisa ter a palavra final. Startups que tentam decidir tudo por consenso perdem velocidade, e velocidade é o que mantém uma startup viva.
+
+## Gastar como se o dinheiro fosse infinito
+
+Startup não é empresa pequena. É uma aposta em crescimento rápido, e por isso muita gente acha que pode gastar agora e lucrar depois. O problema é que "depois" pode não chegar. Sem controle de caixa, a empresa quebra antes de crescer.
+
+O erro começa cedo. Escritório bonito em bairro caro, cadeiras ergonômicas, café especial, time grande demais para o estágio do produto. Tudo isso pode fazer sentido quando a receita está entrando, mas em pré-receita é dinheiro queimando. Um exemplo típico é a startup que capta uma rodada de investimento e imediatamente triplica o time, aluga uma sala comercial e contrata uma agência de marketing. Seis meses depois, o produto não decolou, o dinheiro acabou e a empresa precisa demitir metade das pessoas.
+
+O controle de caixa não é burocracia. É sobrevivência. Você precisa saber quanto entra, quanto sai, qual é o seu runway, ou seja, quantos meses você aguenta antes de ficar sem dinheiro. Se o runway é menor que seis meses, você está em zona de risco. Se é menor que três, está em emergência.
+
+Outra confusão comum é misturar dinheiro da empresa com dinheiro pessoal. Isso parece óbvio, mas acontece muito em startups familiares ou informais. O fundador usa o cartão da empresa para despesas pessoais, não separa as contas, não registra nada. Quando chega a hora de prestar contas para investidor ou para o sócio, vira um caos.
+
+A dica prática é simples. Trate o dinheiro da startup como se fosse de outra pessoa, porque muitas vezes é. Separe contas, faça fluxo de caixa semanal, revise os gastos fixos a cada trimestre e pergunte sempre se aquele gasto ajuda a empresa a chegar mais rápido ao próximo marco. Se não ajuda, corte.
+
+## Contratar por urgência e demitir por desespero
+
+Time é o ativo mais importante de uma startup. E também o mais caro. Contratar errado custa tempo, dinheiro e cultura. Em startups pequenas, uma contratação ruim pode contaminar o ambiente inteiro e travar o crescimento.
+
+O erro mais comum é contratar por urgência. A pessoa pediu demissão, o projeto está atrasado, você precisa de alguém para ontem. Aí você contrata o primeiro que aparece, sem checar referências, sem testar habilidades, sem ver se a pessoa se encaixa na cultura. Dois meses depois, percebe que ela não entrega, não se comunica bem ou não aceita feedback. Demitir é doloroso, caro e desgasta o time.
+
+Outro erro é contratar gente sênior demais para o estágio da empresa. Um executivo com passagem por multinacional pode ter dificuldade de se adaptar a um ambiente onde todo mundo faz de tudo, onde não tem processo, onde a prioridade muda toda semana. Isso não é culpa dele. É desalinhamento de expectativa.
+
+O contrário também acontece. Promover alguém internamente só porque é leal, sem que a pessoa tenha preparo para a nova função. Lealdade é importante, mas competência para o cargo é essencial. Em startups, todo mundo cresce rápido, e nem todo mundo cresce no mesmo ritmo.
+
+A recomendação é contratar devagar e demitir rápido. Não no sentido de ser cruel, mas de ser honesto. Se em três meses a pessoa não mostrou o que precisava mostrar, converse, dê feedback claro, ofereça um plano. Se mesmo assim não funcionar, siga em frente. Manter alguém por pena ou por medo de conflito custa mais caro para todo mundo.
+
+## Ignorar o mercado e a concorrência
+
+Tem fundador que passa tanto tempo olhando para o próprio produto que esquece de olhar para fora. Aí descobre que o concorrente lançou algo parecido, que o cliente mudou de hábito, que uma nova regulação mudou as regras do jogo. Quando percebe, já perdeu espaço.
+
+Startup não vive no vácuo. Você precisa saber quem são seus concorrentes diretos e indiretos, o que eles estão fazendo, quanto cobram, como vendem. Não para copiar, mas para entender o terreno. No Brasil, setores como fintechs, healthtechs e edtechs mudam rápido, e quem não acompanha fica para trás.
+
+Um exemplo simples é o dos aplicativos de entrega. Quando um grande player entra em uma cidade, muda o preço, muda a logística, muda o comportamento do consumidor. Startups menores que não se adaptam acabam sendo engolidas ou tendo que mudar de modelo.
+
+Além da concorrência, tem o mercado. Cliente muda de hábito, crise econômica aperta o bolso, nova lei entra em vigor. Ignorar isso é perigoso. A startup precisa ter alguém responsável por monitorar o ambiente externo, seja o próprio fundador, seja uma pessoa de estratégia. Não precisa ser paranoia, mas precisa ser rotina.
+
+## Não saber vender
+
+Muita startup é fundada por gente técnica, que ama o produto, entende de código, mas não sabe vender. Aí o produto fica bom, mas ninguém compra. Isso é mais comum do que parece.
+
+Vender não é empurrar produto. É entender a dor do cliente, mostrar como você resolve, negociar, fechar e manter relacionamento. Em startups B2B, isso significa falar com tomadores de decisão, entender orçamento, lidar com objeções. Em B2C, significa criar canais de aquisição, medir conversão, reduzir custo por cliente.
+
+O erro é achar que marketing digital resolve tudo. Anúncio no Instagram, post no LinkedIn, e-mail marketing. Tudo isso ajuda, mas sem uma estratégia clara de vendas, o dinheiro some e o cliente não vem. Startup que não sabe vender depende de sorte, e sorte não é modelo de negócio.
+
+Uma saída é colocar o fundador para vender desde o primeiro dia. Mesmo que ele não seja o vendedor nato, ele precisa ouvir o cliente, entender as objeções, ajustar o discurso. Depois, quando o processo estiver mais claro, dá para contratar um time comercial.
+
+## Não medir nada
+
+Startup que não mede é startup que navega no escuro. Você pode até ter intuição, mas intuição sem dado é achismo. E achismo quebra empresa.
+
+Medir não é só olhar faturamento. É acompanhar métricas de aquisição, ativação, retenção, receita e indicação. Quantos clientes você conquistou no mês, quantos continuam usando depois de trinta dias, quanto cada cliente gasta, quanto custa para adquirir um cliente. Esses números contam a história real do negócio.
+
+O erro comum é medir demais e agir de menos. Dashboard cheio de gráfico, reunião semanal para discutir número, mas nenhuma decisão tomada. Medir serve para decidir. Se o cliente não volta, por quê. Se o custo de aquisição está alto, o que mudar. Se a receita não cresce, qual o gargalo.
+
+Outro erro é medir a coisa errada. Startup em estágio inicial não precisa se preocupar com margem de lucro. Precisa se preocupar com retenção e product market fit. Startup em estágio de crescimento precisa olhar para eficiência de aquisição e expansão de receita. Cada fase tem suas métricas.
+
+## Checklist para não quebrar
+
+Aqui vai um roteiro prático para revisar a saúde da sua startup. Não é receita de bolo, mas ajuda a identificar pontos cegos.
+
+- Você falou com pelo menos vinte clientes antes de construir o produto.
+
+- Seus sócios têm habilidades complementares e um acordo claro de sociedade.
+
+- Você sabe quantos meses de caixa ainda tem, seu runway.
+
+- Suas contas pessoais e da empresa estão separadas.
+
+- Você contratou devagar e demitiu rápido quando foi preciso.
+
+- Você acompanha concorrentes e mudanças de mercado regularmente.
+
+- O fundador participa ativamente das vendas.
+
+- Você mede retenção, aquisição e receita toda semana.
+
+- Você tem um plano para os próximos seis meses, não só para o próximo ano.
+
+- Você pede feedback honesto a clientes, investidores e mentores.
+
+Esse checklist não garante sucesso, mas evita os erros mais bobos. E evitar erro bobo já é meio caminho andado.
+
+## O que fazer quando o erro já aconteceu
+
+Nem tudo está perdido quando você percebe que errou. Startups são organismos vivos, e mudar de rota faz parte. O problema é insistir no erro por orgulho, por apego ou por medo de admitir que a aposta não deu certo.
+
+Se o produto não vende, talvez seja hora de pivotar. Pivotar não é fracasso, é aprendizado. Muitas startups começaram vendendo uma coisa e terminaram vendendo outra completamente diferente. O importante é ouvir o mercado e ter coragem de mudar.
+
+Se o dinheiro está acabando, corte tudo que não é essencial. Foque no que gera receita agora. Demita se precisar, negocie dívidas, reduza salário dos fundadores. Sobreviver é prioridade.
+
+Se a sociedade está travada, busque mediação, converse abertamente, defina regras. Se não houver acordo, talvez seja hora de um sair. Melhor uma saída negociada do que uma briga que destrói a empresa e a amizade.
+
+Errar é normal. O que quebra startup não é o erro em si, mas a incapacidade de reconhecer e corrigir rápido.
+
+## Fechando o caixa
+
+Startups quebram por uma soma de fatores, quase nunca por um único motivo. Produto sem cliente, sócio errado, caixa descontrolado, time desalinhado, mercado ignorado, vendas fracas, ausência de métricas. Cada um desses erros é evitável com atenção e humildade.
+
+O fundador não precisa ser gênio. Precisa ser honesto consigo mesmo, ouvir quem está fora, olhar para os números e agir. O caminho é difícil, mas é possível. Muitas startups brasileiras estão aí, crescendo, gerando emprego, resolvendo problema real. A diferença entre as que sobrevivem e as que quebram, na maioria das vezes, não é sorte. É gestão, foco e capacidade de aprender com o erro antes que ele seja fatal.
+
+Se você está no meio da jornada, pare um pouco, revise esse checklist, converse com seu time, olhe para o caixa. Talvez você encontre um erro que ainda dá tempo de corrigir.

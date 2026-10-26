@@ -1,0 +1,117 @@
+Você já viu aquela cena. Uma startup pequena, três ou quatro pessoas dividindo uma mesa, alguém apresentando uma ideia em um evento de tecnologia. Meses depois, a mesma startup aparece com um escritório maior, clientes de verdade e um investidor no radar. No meio do caminho, quase sempre teve uma aceleradora.
+
+Programas de aceleração viraram uma peça comum do ecossistema brasileiro. Estão em São Paulo, Florianópolis, Recife, Belo Horizonte, Porto Alegre e em muitas cidades médias. Alguns são ligados a grandes empresas, outros a fundos de investimento, outros ainda a universidades ou iniciativas públicas. Cada um tem seu estilo, mas o mecanismo básico se repete.
+
+Entender como funciona um programa de aceleração ajuda quem está pensando em se candidatar, quem quer trabalhar com inovação dentro de uma empresa ou simplesmente acompanhar o que acontece no mercado. A lógica não é complicada, mas tem detalhes que fazem diferença entre uma experiência útil e alguns meses perdidos.
+
+## O que uma aceleradora realmente faz
+
+Uma aceleradora é uma organização que pega startups em estágio inicial e tenta comprimir anos de aprendizado em poucos meses. O formato clássico dura de três a seis meses. Nesse período, a startup recebe mentoria, estrutura de apoio, acesso a contatos e, em muitos casos, um pequeno investimento.
+
+A palavra "acelerar" é usada porque o tempo é curto e a pressão é alta. Não é um curso, nem uma consultoria longa. É um processo intenso, com metas semanais, apresentações frequentes e cobrança por resultado. A startup entra com um produto em construção ou recém-lançado e sai, em teoria, com um modelo de negócio mais claro e condições de captar investimento maior.
+
+Existe uma diferença importante entre aceleradora e incubadora. A incubadora costuma ser mais lenta, ligada a universidades ou parques tecnológicos, e ajuda a estruturação inicial da empresa. A aceleradora tem prazo curto, foco em crescimento e costuma investir em troca de participação. Também é diferente de um fundo de venture capital tradicional, que investe dinheiro, mas não necessariamente acompanha o dia a dia.
+
+No Brasil, o modelo ganhou força a partir dos anos 2010. Programas como os ligados a grandes corporações passaram a usar a aceleração como forma de se aproximar de startups e resolver problemas internos. Ao mesmo tempo, fundos menores criaram programas próprios para encontrar negócios promissores antes de todo mundo.
+
+## Como é o processo de seleção
+
+A seleção costuma ser a parte mais visível para quem está fora. É onde milhares de startups se inscrevem e poucas entram. O processo varia, mas segue uma sequência razoavelmente comum.
+
+Tudo começa com uma chamada pública, divulgada em redes sociais, sites de aceleradoras e comunidades de empreendedorismo. A startup preenche um formulário com informações sobre o time, o produto, o mercado e o estágio atual. Nessa fase, a aceleradora quer entender se o negócio se encaixa na tese dela.
+
+Depois vem uma triagem. Analistas leem as inscrições e cortam a maior parte. Os critérios costumam incluir time fundador, tamanho do mercado, diferenciação do produto e estágio de tração. Tração, no jargão, significa ter usuários, receita ou algum sinal de que o produto resolve um problema real.
+
+Quem passa vai para entrevistas ou pitches curtos. O pitch é uma apresentação de poucos minutos, às vezes cinco, às vezes dez, seguida de perguntas. É comum a aceleradora pedir um vídeo ou uma chamada de vídeo antes de encontrar o time pessoalmente. Em programas maiores, existe uma etapa final com apresentação para uma banca.
+
+A taxa de aprovação costuma ser baixa. Em programas concorridos, menos de uma em cada cem startups inscritas entra. Isso não significa que o processo seja justo ou que só as melhores passem. A escolha depende muito do momento da aceleradora, do setor que ela quer priorizar e até de questões práticas, como a região onde a startup está.
+
+## O que acontece durante o programa
+
+O dia a dia de uma acelerada é corrido. Na maioria dos programas, a semana tem uma combinação de workshops, mentorias individuais, reuniões com potenciais clientes e tempo para desenvolver o produto.
+
+Os workshops costumam cobrir temas práticos. Como montar um modelo financeiro, como precificar, como contratar as primeiras pessoas, como falar com investidores, como estruturar um pitch. Nada disso é novidade para quem já empreendeu, mas o formato concentrado ajuda a organizar o pensamento.
+
+As mentorias são o coração do programa. Cada startup recebe um ou mais mentores, geralmente empreendedores experientes ou executivos de mercado. O mentor não resolve o problema, mas faz perguntas que o fundador não estava se fazendo. Uma conversa boa pode economizar meses de tentativa e erro.
+
+Existe também a cobrança por métricas. A aceleradora define indicadores que a startup deve acompanhar e melhorar durante o programa. Pode ser número de usuários ativos, receita recorrente, taxa de retenção, custo de aquisição de cliente. A ideia é que a startup aprenda a tomar decisões com base em dados, não só em intuição.
+
+Além disso, muitas aceleradoras organizam dias de imersão com grandes empresas. Nesses eventos, a startup apresenta sua solução para potenciais clientes corporativos. É uma forma de conseguir os primeiros contratos e validar o produto em escala maior.
+
+O investimento inicial varia bastante. Alguns programas dão um valor pequeno, na faixa dos milhares de reais, suficiente para cobrir despesas básicas. Outros chegam a valores maiores, na casa das centenas de milhares. Em troca, a aceleradora recebe uma participação na empresa, que costuma ficar entre 5% e 15%.
+
+## O modelo de participação e o que isso significa
+
+A participação societária é um ponto que gera dúvida. Quando a aceleradora investe, ela não está fazendo caridade. Está comprando uma fatia da startup, apostando que aquela empresa vai valer mais no futuro.
+
+O percentual depende do estágio e do valor investido. Uma startup muito early stage, só com uma ideia e um protótipo, tende a ceder mais participação. Uma startup com produto no mercado e receita começando a aparecer negocia melhor.
+
+Existem formatos diferentes. Alguns programas usam contrato de mútuo conversível, que é um empréstimo que vira participação no futuro, quando a startup captar investimento. Outros usam nota conversível, parecida com o modelo americano. Outros ainda fazem aporte direto e pegam ações na hora.
+
+O fundador precisa entender exatamente o que está assinando. Não é raro ver startups entrarem em programas e depois descobrirem que cederam participação demais, o que atrapalha rodadas futuras. Uma dica prática é conversar com fundadores que já passaram pelo programa antes de aceitar.
+
+Também existe a questão do tempo. O programa dura alguns meses, mas o vínculo com a aceleradora pode durar anos. Alguns contratos preveem direito de preferência em rodadas futuras, assento no conselho ou obrigações de reporte. Nada disso é necessariamente ruim, mas precisa estar claro desde o começo.
+
+## Os tipos de aceleradora no Brasil
+
+Não existe um modelo único. Vale conhecer as diferenças para escolher onde se candidatar.
+
+As aceleradoras ligadas a fundos de investimento são as mais tradicionais. Elas investem, aceleram e depois podem investir mais nas rodadas seguintes. O foco é retorno financeiro. Costumam selecionar startups com potencial de crescimento rápido e mercado grande.
+
+As aceleradoras corporativas pertencem a grandes empresas. Uma operadora de telecom, um banco, uma indústria ou uma rede de varejo pode criar seu próprio programa. O objetivo é se aproximar de soluções que resolvam problemas internos ou gerem novas receitas. A vantagem para a startup é acesso a um cliente grande. A desvantagem é que o processo de compra dentro de uma corporação pode ser lento.
+
+As aceleradoras públicas ou ligadas a universidades costumam ter foco em desenvolvimento regional e apoio a negócios de impacto. Muitas vezes oferecem estrutura física, laboratórios e bolsas. O investimento financeiro é menor, mas o suporte técnico pode ser valioso.
+
+Existem ainda programas setoriais, voltados para saúde, educação, agronegócio, finanças ou economia criativa. Nesses casos, a aceleradora tem conhecimento profundo do setor e uma rede de contatos específica. Para uma startup de healthtech, por exemplo, pode valer mais um programa especializado do que uma aceleradora genérica.
+
+## Um roteiro prático para quem quer se candidatar
+
+Se você tem uma startup e está pensando em entrar em um programa de aceleração, vale seguir alguns passos antes de sair se inscrevendo por aí.
+
+- Pesquise o histórico do programa. Veja quais startups passaram por ele, onde estão agora e se os fundadores falam bem da experiência. Procure conversar com pelo menos duas pessoas que já participaram.
+
+- Leia o contrato com atenção. Entenda a participação que será cedida, o valor investido, as obrigações de reporte e o que acontece se a startup não decolar. Se tiver dúvida, procure um advogado especializado em startups.
+
+- Avalie a rede de contatos. Uma aceleradora vale pelo que ela conecta. Veja se os mentores e parceiros têm relação com o seu mercado e se podem abrir portas reais.
+
+- Verifique a carga de trabalho. O programa vai consumir tempo do time. Se a startup está em fase de lançamento ou de atendimento intenso a clientes, talvez não seja o momento ideal.
+
+- Prepare o pitch com antecedência. Treine a apresentação, saiba explicar o problema, a solução, o mercado e o time em poucos minutos. Tenha números concretos, mesmo que sejam pequenos.
+
+- Defina o que você quer sair do programa. Pode ser um cliente grande, uma rodada de investimento, uma parceria estratégica ou simplesmente clareza sobre o modelo de negócio. Ter objetivo claro ajuda a aproveitar melhor as oportunidades.
+
+Depois de entrar, a postura também importa. A aceleradora não vai fazer o trabalho pela startup. Ela oferece ferramentas e contatos, mas quem executa é o time fundador. Participar das atividades, marcar reuniões, pedir feedback e correr atrás dos mentores faz diferença.
+
+## O que ninguém conta sobre a aceleração
+
+Existe uma narrativa bonita em torno dos programas de aceleração. A startup entra, recebe mentoria, cresce e capta milhões. A realidade é mais complicada.
+
+Boa parte das startups que entram em aceleradoras não decola. Algumas fecham as portas, outras continuam pequenas, outras mudam de modelo várias vezes. Isso não significa que o programa falhou. Significa que empreender é difícil e que nenhum programa resolve todos os problemas.
+
+Outro ponto é a pressão por crescimento. A aceleradora quer resultados rápidos, porque o programa tem prazo curto. Isso pode levar a decisões apressadas, como contratar demais, gastar com marketing sem retorno ou aceitar clientes que não são ideais. O fundador precisa equilibrar a cobrança externa com a realidade do negócio.
+
+Também existe o risco de dependência. Algumas startups se acostumam tanto com o apoio da aceleradora que têm dificuldade de operar sozinhas depois. A rede de contatos é útil, mas não substitui a capacidade de vender, contratar e tomar decisões.
+
+Por fim, nem toda startup precisa de aceleração. Negócios que crescem de forma orgânica, com receita desde o início e pouco capital externo, podem se desenvolver melhor sem o formato intenso de um programa. Aceleração é uma ferramenta, não uma obrigação.
+
+## Como avaliar se um programa vale a pena
+
+A pergunta certa não é se o programa é bom ou ruim, mas se ele é bom para o seu momento. Uma aceleradora que funciona para uma startup de tecnologia pode não fazer sentido para um negócio de serviços ou para uma empresa com modelo mais tradicional.
+
+Considere o custo de oportunidade. Os meses dentro do programa poderiam ser usados para vender, desenvolver produto ou conversar com clientes. Se a aceleração não trouxer algo que você não conseguiria sozinho, talvez não valha a pena.
+
+Considere também o alinhamento. Uma aceleradora corporativa de um banco pode ser excelente para uma fintech, mas pouco útil para uma startup de agronegócio. Uma aceleradora de impacto pode ser ideal para um negócio social, mas não para uma empresa focada em crescimento rápido.
+
+E olhe para as pessoas. Programas são feitos por gente. Se os mentores, organizadores e fundadores de outras startups do programa parecem pessoas com quem você aprenderia, isso é um bom sinal. Se a energia não bate, dificilmente os meses serão produtivos.
+
+## O que fica depois do programa
+
+O fim da aceleração não é o fim da relação. Muitas aceleradoras mantêm uma comunidade de ex-alunos, promovem eventos e continuam acompanhando as startups. Algumas fazem investimentos posteriores, outras indicam para fundos parceiros.
+
+Para a startup, o desafio é manter o ritmo sem a estrutura do programa. As metas continuam, mas agora sem a cobrança semanal. O time precisa ter aprendido a se organizar, a medir resultados e a buscar ajuda quando necessário.
+
+Também é comum que a startup saia do programa com uma rede de contatos que dura anos. Fundadores de outras startups do mesmo lote viram parceiros, clientes ou até investidores. Essa rede é um dos ativos mais valiosos da aceleração, mesmo quando o investimento financeiro é pequeno.
+
+No fim, um programa de aceleração é uma aposta mútua. A aceleradora aposta que aquela startup pode crescer. A startup aposta que a aceleradora pode ajudar nesse caminho. Quando as duas apostas dão certo, o resultado aparece. Quando não, pelo menos fica o aprendizado.
+
+Se você está pensando em se candidatar, estude bem o programa, converse com quem já passou por ele e tenha clareza do que quer. Aceleração não é atalho, é intensificação. Serve para quem já está disposto a correr e quer companhia e direção nessa corrida.

@@ -1,0 +1,111 @@
+## Por que sair de casa ainda faz diferença
+
+Quem trabalha com tecnologia no Brasil passa boa parte do dia na frente de uma tela. Reunião no Meet, código no VS Code, planilha no Excel, mensagem no Slack ou no Teams. Tudo cabe no computador. Então por que alguém pegaria um voo, enfrentaria fila de credenciamento e andaria quilômetros dentro de um pavilhão só para ver o que já poderia ver em um vídeo no YouTube?
+
+A resposta curta é contato. A resposta longa envolve negócio, carreira e aquele tipo de conversa que não acontece em chamada de vídeo. Feira de tecnologia não é só estande bonito e brinde de patrocinador. É onde você descobre que aquele problema que trava sua equipe há meses já foi resolvido por outra empresa, onde um recrutador te vê antes de ver seu currículo, onde um fornecedor que você nunca considerou aparece do nada.
+
+O Brasil tem um calendário de eventos técnicos razoavelmente denso. São Paulo concentra a maior parte, mas Recife, Porto Alegre, Florianópolis, Belo Horizonte e Rio de Janeiro também têm programas próprios. A questão não é se existe feira, mas qual vale o deslocamento para o seu caso. Este texto passa por algumas delas, pelo que cada uma oferece de diferente e por um roteiro prático para você não voltar para casa só com sacola de brinde e pé dolorido.
+
+## O que define uma feira que vale a pena
+
+Antes de listar eventos, vale entender o critério. Nem toda feira é igual, e algumas são grandes vitrines comerciais sem muito conteúdo técnico. Outras são pequenas, mas com gente que realmente constrói coisa. O que separa as duas?
+
+O primeiro ponto é a proporção entre expositores e conteúdo. Feira só de estande vira showroom. Você anda, pega folheto, ouve pitch de vendedor e sai. Feira com palestra, painel e workshop tem outra textura. Você senta, ouve alguém que errou e aprendeu, faz pergunta, troca ideia no corredor depois.
+
+O segundo ponto é quem frequenta. Evento de comunidade costuma ter público mais técnico e mais aberto a conversa. Evento corporativo grande tem decisor, mas também tem muito marketing. Nenhum dos dois é melhor por definição. Depende do que você quer. Se busca emprego, o segundo ajuda. Se busca aprendizado e network técnico, o primeiro rende mais.
+
+O terceiro ponto é o custo real. Ingresso é só uma parte. Some deslocamento, hospedagem, alimentação e os dias fora do trabalho. Uma feira em outra cidade pode custar o equivalente a um curso bom. Isso não significa que não valha, mas significa que a decisão precisa ser consciente.
+
+E o quarto ponto é o timing. Feira acontece em data fixa. Se o assunto está quente naquele momento, o evento vira termômetro. Se está esfriando, vira eco. Vale olhar a programação antes de comprar ingresso, não depois.
+
+## As grandes feiras de São Paulo
+
+São Paulo concentra os eventos de maior porte. O Expo Center Norte, o São Paulo Expo e o Distrito Anhembi recebem feiras que ocupam pavilhões inteiros. A mais conhecida do público geral é a Futurecom, voltada para telecom, conectividade e infraestrutura. Ela reúne operadoras, fabricantes de equipamento, integradores e órgãos reguladores. O perfil é mais corporativo, com muita discussão sobre 5G, redes privativas e regulação. Se você trabalha em telecom, é parada quase obrigatória.
+
+Na área de desenvolvimento e produto, a Febraban Tech ganhou peso nos últimos anos. Apesar do nome ligado a bancos, o evento virou ponto de encontro de fintechs, startups de pagamento e times de tecnologia do setor financeiro. O público é misto, com gente de negócio e gente de engenharia. Vale a visita se você atua em meios de pagamento, open finance ou infraestrutura bancária.
+
+A Campus Party Brasil é outro caso. Ela não é feira no sentido tradicional, é mais um festival de tecnologia com área de exposição, palco e camping. O público é jovem, a energia é diferente, e o conteúdo varia bastante de qualidade. Ainda assim, é um bom lugar para quem está começando, quer conhecer comunidades e não se importa com o barulho.
+
+Existe também a feira da ABES, voltada para software e serviços, com foco em gestão e mercado B2B. E há eventos setoriais menores, como os de saúde digital, agronegócio e indústria 4.0, que acontecem em paralelo a feiras maiores do setor. Esses costumam ter público mais qualificado e conversas mais específicas.
+
+## Eventos fora do eixo Rio-São Paulo
+
+Nem todo mundo pode ir a São Paulo, e nem toda boa feira acontece lá. Recife tem o Rec'n'Play, que mistura tecnologia, cultura e empreendedorismo. O evento cresceu e hoje atrai gente de todo o Nordeste, com trilhas de conteúdo sobre desenvolvimento, dados e negócios. O clima é mais informal e acessível do que nas feiras paulistas.
+
+Porto Alegre sedia o FISL, que foi um dos maiores eventos de software livre da América Latina e passou por altos e baixos. Mesmo com formato reduzido em alguns anos, segue relevante para quem trabalha com open source e infraestrutura. Florianópolis tem o próprio calendário, com eventos ligados a startups e tecnologia, aproveitando a concentração de empresas da região.
+
+Belo Horizonte tem o BH Bossa Tech e outros encontros menores, mas consistentes. O Rio de Janeiro mantém eventos ligados a petróleo, energia e tecnologia, além de iniciativas de comunidade. Curitiba também aparece com feiras de indústria e automação.
+
+A vantagem desses eventos regionais é o custo. Você dorme em casa, come na sua cozinha e ainda assim tem contato com gente de fora. A desvantagem é o alcance. Dificilmente você vai encontrar o mesmo número de expositores internacionais ou de grandes fornecedores. Para quem está começando ou quer testar o formato, é um bom primeiro passo.
+
+## Feiras de comunidade e eventos técnicos
+
+Existe uma camada abaixo das grandes feiras que muita gente ignora. São os eventos de comunidade, organizados por grupos de desenvolvedores, entusiastas e profissionais. Eles não têm pavilhão, às vezes nem patrocinador grande. Ocorrem em auditório de faculdade, coworking ou espaço alugado.
+
+Exemplos comuns são as conferências de linguagem, como as de Python, JavaScript, Ruby e Go, que acontecem em várias capitais. Há também encontros de DevOps, de dados, de segurança e de UX. Esses eventos têm menos gente, mas a densidade de conteúdo costuma ser maior. As palestras são escolhidas por chamada pública, o que filtra melhor a qualidade.
+
+O networking aqui é diferente. Em vez de trocar cartão com diretor de marketing, você conversa com alguém que resolveu o mesmo bug que você. Isso tem valor prático imediato. Muitas parcerias de projeto e indicações de emprego nascem nesses encontros pequenos, não nos grandes.
+
+Outro formato que vale citar é o hackathon. Não é feira, mas frequentemente acontece junto de uma. Você passa 24 ou 48 horas construindo algo com um time que acabou de conhecer. É cansativo e nem sempre o resultado presta, mas a experiência de trabalhar sob pressão com gente nova ensina bastante sobre colaboração e priorização.
+
+## O que você leva para casa além do crachá
+
+Toda feira promete networking. Mas networking não acontece por osmose. Você precisa ter clareza do que quer. Se o objetivo é aprender, monte uma agenda de palestras e chegue cedo nas salas. Se o objetivo é negócio, marque reuniões antes. Se o objetivo é carreira, leve currículo digital e esteja pronto para conversar.
+
+Uma coisa que funciona é definir uma pergunta para o evento. Algo como "como outras empresas estão lidando com custo de nuvem" ou "que ferramentas de observabilidade o pessoal está usando". Isso transforma a visita em investigação. Você para de andar sem rumo e passa a coletar respostas.
+
+Outra dica é conversar com quem está no estande, não só com quem dá palestra. Muita gente boa fica ali representando uma empresa pequena, com histórias interessantes e disposição para trocar ideia. Pergunte o que eles fazem, como resolveram tal problema, o que deu errado. Vendedor treinado responde pitch. Pessoa técnica responde verdade.
+
+E leve algo para anotar. Celular serve, mas caderno pequeno ainda é mais rápido em pé. Anote nome, contexto e próximo passo. Depois do evento, mande mensagem. Sem follow-up, o contato morre em uma semana.
+
+## Um roteiro prático para aproveitar a feira
+
+Aqui vai um passo a passo que funciona para quase qualquer evento de tecnologia, do pequeno ao grande.
+
+- Antes. Baixe o app do evento ou salve a programação em PDF. Marque as palestras que interessam e deixe espaço entre elas. Se a feira tem planta, localize os estandes prioritários. Compre ingresso com antecedência, quase sempre sai mais barato. Verifique transporte e, se for em outra cidade, reserve hospedagem perto do local para não perder tempo no trânsito.
+
+- Na véspera. Separe roupa confortável, tênis já amaciado, carregador portátil e garrafa de água. Leve pouca coisa na mochila, porque você vai andar muito e ganhar brindes. Confira se o credenciamento abre cedo e planeje chegar no primeiro horário. Isso evita fila e te dá chance de circular antes do aperto.
+
+- No primeiro dia. Pegue o mapa, faça uma volta rápida para reconhecer o espaço. Depois vá direto às palestras que você marcou. Almoce fora do horário de pico, tipo 11h30 ou 14h. Use os intervalos para visitar estandes. À noite, se houver evento paralelo, vá. É onde as conversas boas acontecem.
+
+- No segundo dia. Reveja o que você anotou. Volte a estandes que merecem conversa mais longa. Assista a palestras de temas que você não domina, só para ampliar repertório. Se possível, participe de um workshop prático. Aprender fazendo fixa melhor do que só ouvindo.
+
+- No último dia. Muitos expositores vendem ou doam material de demonstração. Se algo te interessa, pergunte. Aproveite para fechar contatos pendentes e agradecer quem te atendeu bem. Antes de ir embora, sente num canto e organize as anotações, ainda com o contexto fresco.
+
+- Depois. Em até três dias, envie mensagem para quem você quer manter contato. Seja específico, lembre onde conversaram e o que discutiriam. Atualize seu perfil profissional com o que aprendeu. E avalie, valeu a pena? Se sim, planeje a próxima. Se não, ajuste o critério.
+
+## Custo, logística e escolhas realistas
+
+Ir a uma feira grande não é barato. Ingresso de evento corporativo pode passar de mil reais. Passagem aérea comprada em cima da hora assusta. Hotel perto de pavilhão em São Paulo, em semana de evento, costuma custar o dobro do normal. Alimentação no local também pesa.
+
+Dá para reduzir. Muitos eventos oferecem desconto para estudante, para associado de comunidade ou para quem compra no lote promocional. Alguns têm programa de voluntariado, em que você trabalha algumas horas e entra de graça. Empresas às vezes pagam a ida, especialmente se o evento tem relação direta com o trabalho.
+
+Se o orçamento está curto, priorize eventos regionais e de comunidade. Eles custam uma fração e ainda entregam contato humano. Uma feira pequena bem escolhida pode render mais do que uma grande visitada sem plano. O valor não está no tamanho do crachá, está no que você faz com ele.
+
+Também vale considerar o retorno. Se você vai como empresa, meça. Quantos contatos qualificados? Quantas propostas? Se vai como pessoa física, o retorno é menos mensurável. Pode ser uma ideia que muda seu projeto, uma amizade profissional que dura anos, uma clareza sobre carreira. Isso não aparece em planilha, mas conta.
+
+## Tendências que aparecem nas feiras
+
+Observar o que se repete nos estandes diz muito sobre para onde o mercado está indo. Em um ano, um tema domina. No seguinte, some e outro toma lugar. Isso não é previsão infalível, mas é termômetro.
+
+Nos últimos ciclos, inteligência artificial generativa ocupou quase todo espaço. Antes dela, foi blockchain, depois nuvem, depois mobilidade. Cada onda traz exageros e coisas úteis. A feira mostra os dois. Você vê o estande com promessa exagerada e, ao lado, uma empresa pequena com solução concreta. Saber separar um do outro é parte do aprendizado.
+
+Outra tendência visível é a preocupação com custo de infraestrutura. Times que cresceram na nuvem sem controle agora buscam eficiência. Isso aparece em palestras sobre FinOps, arquitetura e otimização. Também cresce o debate sobre segurança e privacidade, empurrado por regulação e por incidentes reais.
+
+E há a camada humana. Saúde mental, diversidade, liderança técnica e cultura de time ganharam espaço. Não é só discurso de marketing. Muita gente está cansada e procurando formas mais sustentáveis de trabalhar. As feiras refletem isso nas trilhas de conteúdo e nos corredores.
+
+## Como escolher a sua próxima feira
+
+Com tantas opções, a decisão pode travar. Um jeito simples é cruzar três perguntas. O tema me interessa de verdade? O público que frequenta pode me ajudar? O custo total cabe no meu bolso e no meu calendário? Se as três respostas forem sim, vá. Se duas forem não, espere a próxima.
+
+Vale também conversar com quem já foi. Pergunte o que prestou, o que era propaganda e o que surpreendeu. A experiência de outra pessoa economiza seu tempo e seu dinheiro. Grupos de comunidade, listas de discussão e redes profissionais são bons lugares para isso.
+
+E não descarte eventos híbridos ou online. Muitas feiras transmitem palestras ao vivo e depois disponibilizam gravação. A parte de estande e corredor não se replica, mas o conteúdo sim. Se o deslocamento é impossível, acompanhar online ainda rende. Só não confunda assistir palestra com ir à feira. São experiências diferentes, com propósitos diferentes.
+
+## O que fica depois do pavilhão
+
+Feira de tecnologia no Brasil não é tudo igual. Tem evento que vale o voo e tem evento que vale só a tarde. Tem estande que entrega conversa e tem estande que entrega panfleto. Saber diferenciar é o que separa uma visita proveitosa de um dia perdido andando em círculo.
+
+O que fica depois do pavilhão raramente é o brinde. É a ideia que surgiu numa palestra, o contato que respondeu sua mensagem, a clareza sobre um problema que você nem sabia que tinha. Isso não aparece no crachá nem no relatório do evento. Aparece no trabalho, semanas depois, quando você aplica algo que viu.
+
+Se você nunca foi, escolha uma feira pequena para começar. Se já vai sempre às mesmas, experimente uma diferente, de outro estado ou de outra comunidade. O calendário brasileiro é maior do que parece. E a melhor feira é aquela que te tira da rotina e te devolve com uma pergunta nova na cabeça.

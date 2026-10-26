@@ -1,0 +1,141 @@
+Você já deve ter passado por isso. Bateu uma foto bonita, mandou para o grupo da família e alguém comentou que ficou escura demais. Ou viu aquela imagem no feed de uma marca e pensou que nunca conseguiria um resultado parecido usando só o celular. A diferença entre uma foto amadora e uma que parece profissional quase nunca está no equipamento. Está no processo.
+
+Quem trabalha com fotografia mobile não fica pulando de app em app procurando filtro mágico. Existe um método, uma ordem de ajustes que respeita como a luz funciona e como o olho humano lê uma imagem. Quando você aprende essa sequência, qualquer celular intermediário começa a entregar resultados que impressionam.
+
+Este guia não promete que você vira fotógrafo em uma tarde. Vai mostrar o caminho que gente que vive de imagem usa no dia a dia, com exemplos que fazem sentido para quem fotografa o almoço, o pôr do sol da janela ou o produto que precisa vender no marketplace.
+
+## Entenda o que o celular faz sozinho e onde ele erra
+
+Todo celular moderno tira fotos processadas. O sensor captura a cena, mas o processador entra em ação logo depois. Ele decide o balanço de branco, aplica nitidez, levanta as sombras, reduz o ruído e às vezes até troca o céu por um mais azul. Isso acontece em milissegundos.
+
+O problema é que esse processamento busca agradar todo mundo. Ele não sabe que você quer um clima mais dramático na foto do show, nem que a textura do bolo importa mais que a cor da parede. O resultado padrão tende a ser uma imagem correta, mas sem personalidade. Contraste médio, cores puxadas para o vibrante, sombras abertas demais.
+
+Editar bem começa por entender isso. Você não está consertando uma foto ruim. Está assumindo o controle criativo que o celular tomou para si. E para isso precisa saber o que cada ajuste faz e em que ordem mexer. Fazer na sequência errada é como construir telhado antes da parede.
+
+Se o seu celular grava em RAW ou ProRAW, vale considerar. O arquivo bruto guarda muito mais informação de luz e cor, o que dá margem para recuperar áreas estouradas ou escuras. Mas não é obrigatório. Dá para fazer muita coisa com JPEG bem capturado.
+
+## Comece pela captura, não pela edição
+
+Tem um erro que se repete. A pessoa tira a foto de qualquer jeito e acha que o aplicativo resolve. Resolve até certo ponto. Nenhum editor recupera uma foto tremida ou um rosto cortado pela metade. Então antes de falar de sliders, vale ajustar como você fotografa.
+
+Limpe a lente. Parece óbvio, mas a gordura do dedo é a causa número um de fotos sem nitidez e com aquele brilho difuso em volta das luzes. Uma camiseta de algodão resolve em dois segundos. Faça isso sempre, especialmente se guarda o celular no bolso da calça.
+
+Toque na tela para definir o foco e arraste o dedo para ajustar a exposição manualmente. Quase todo app de câmera nativo permite. Se a cena tem uma janela clara ao fundo e uma pessoa na frente, o automático escurece o rosto. Você toca no rosto e sobe a exposição um pouco. Isso já melhora muita coisa antes da edição.
+
+Use a grade de composição. As linhas que dividem a tela em nove partes ajudam a alinhar o horizonte e posicionar o assunto. Não é regra absoluta, mas evita o prédio torto e o sujeito sempre no centro.
+
+Evite o zoom digital. Aproxime com os pés ou troque para a lente teleobjetiva, se o celular tiver. O zoom por software corta e interpola pixels, e a perda aparece na hora de editar. Se precisar muito, aproxime depois, no editor, sabendo que o resultado será pior.
+
+## A ordem dos ajustes que muda tudo
+
+A maioria das pessoas abre o editor e sai mexendo em saturação e filtro. Funciona às vezes, mas é chute. A ordem que profissionais seguem respeita uma lógica simples. Primeiro corrigir a luz, depois a cor, depois a criatividade.
+
+O primeiro passo é o corte e o endireitamento. Enquadrar antes de qualquer ajuste evita mexer em áreas que vão sair da foto. Aproveite para corrigir o horizonte torto e definir o formato. Quadrado para o feed, vertical para stories, horizontal para paisagem.
+
+Depois vêm os ajustes de luz, nesta sequência. Exposição geral, para clarear ou escurecer o conjunto. Contraste, que separa as áreas claras das escuras. Realces, para recuperar detalhes em áreas muito claras. Sombras, para abrir as partes escuras. Brancos e pretos, que definem os extremos do histograma. Cada um mexe numa faixa específica da imagem.
+
+Só então você parte para a cor. Temperatura, que deixa a foto mais quente ou mais fria. Matiz, para corrigir aquele tom esverdeado de luz fluorescente. Vibração, que aumenta a intensidade das cores mais fracas sem estourar as que já estão fortes. Saturação, que mexe em todas de uma vez e deve ser usada com moderação.
+
+Por último, a parte criativa. Filtros, granulados, vinhetas, texturas. Se fizer isso antes de corrigir a base, vai brigar com o filtro depois. Corrija primeiro, estilize depois.
+
+## Luz, a base de qualquer edição
+
+Exposição é o ajuste mais direto. Sobe e a foto inteira clareia. Desce e escurece. O erro comum é exagerar. Se você precisa subir muito a exposição, provavelmente a captura falhou. Pequenos ajustes, na faixa de dez a vinte pontos, costumam bastar.
+
+O contraste é traiçoeiro. Ele dá aquela sensação de imagem nítida e viva, mas em excesso estoura as luzes e fecha as sombras. Em retrato, contraste alto demais cria sombras duras no rosto. Em paisagem, ajuda a dar profundidade. Vá com calma.
+
+Realces e sombras são seus melhores amigos. Realces controlam as áreas claras. Se o céu ficou branco sem detalhe, desça os realces até recuperar o azul. Sombras controlam as áreas escuras. Se o rosto ficou escuro, suba as sombras com moderação. O cuidado é não deixar a foto com aspecto lavado, sem profundidade.
+
+Brancos e pretos definem onde a imagem começa e termina em termos de luz. Subir os brancos dá brilho. Descer os pretos dá peso. Em fotos de comida, isso faz diferença. Em produto com fundo branco, ajuda a deixar o fundo limpo.
+
+Ative o histograma no editor, se ele tiver. É o gráfico que mostra a distribuição de luz. Se as barras estão coladas na direita, tem área estourada. Coladas na esquerda, área perdida na escuridão. O ideal é que o gráfico ocupe a maior parte da largura sem encostar nos extremos.
+
+## Cor com intenção, sem parecer artificial
+
+Temperatura e matiz são os ajustes que mais mudam o clima de uma foto. Temperatura vai do azul ao amarelo. Matiz vai do verde ao magenta. Juntos, corrigem a cor da luz da cena. Foto ao meio-dia tende a puxar para o azul. Foto de fim de tarde já vem quente. Lâmpada fluorescente de escritório deixa tudo esverdeado.
+
+Vibração é o ajuste mais subestimado. Ele aumenta a intensidade das cores fracas e preserva as que já estão saturadas. É quase sempre melhor que saturação pura. Use vibração para dar vida e saturação só quando precisar de um efeito mais agressivo, tipo foto de pôr do sol.
+
+Cuidado com o excesso de laranja em tons de pele. É o erro clássico de quem descobre o slider de temperatura e sobe tudo. A pele humana não é laranja nem rosa chiclete. Se a pessoa parecer que passou óleo de bronzear, voltou demais.
+
+Em fotos de produto, a fidelidade de cor importa mais que a estética. Se você vende roupa, o cliente precisa ver o tom real da peça. Um vestido vermelho que aparece laranja gera devolução. Nesse caso, temperatura e matiz devem bater com a peça física, não com o que fica bonito na tela.
+
+## Ferramentas que separam amador de profissional
+
+Existe um conjunto de recursos que a maioria ignora, mas que faz diferença enorme. O primeiro é a máscara. Praticamente todo editor bom hoje permite selecionar áreas específicas da foto e ajustar só ali. Você pode escurecer só o céu, clarear só o rosto, aumentar a nitidez só nos olhos.
+
+O segundo é a curva de tons. Parece complicado, mas é só um gráfico que relaciona a luz de entrada com a de saída. Puxar a curva para cima clareia, para baixo escurece. O formato de S, clareando as altas luzes e escurecendo as sombras, é o clássico que dá aquele contraste de foto de revista.
+
+O terceiro é a redução de ruído. Fotos com pouca luz ficam granuladas e com pontinhos coloridos. Editores bons têm um controle que suaviza isso sem borrar demais. Aplique em intensidade moderada e depois recupere nitidez com cuidado, porque os dois ajustes brigam entre si.
+
+O quarto é o ajuste de nitidez seletivo. Aumentar a nitidez da foto inteira deixa tudo com aspecto artificial, aquele halo branco em volta dos objetos. O ideal é aplicar só onde importa. Rosto, olhos, textura de tecido, detalhes do produto.
+
+E tem a correção de lente. Alguns apps corrigem a distorção natural das lentes do celular, especialmente nas bordas. Em fotos de arquitetura, evita que os prédios pareçam tortos. Em retrato, evita que o rosto fique esticado nas laterais.
+
+## Um passo a passo para editar sua próxima foto
+
+Vamos colocar tudo em prática. Pegue uma foto que você tirou e nunca ficou satisfeito com o resultado. Siga a sequência abaixo.
+
+- Abra a imagem no editor de sua preferência e faça o corte. Endireite o horizonte, defina o formato e remova distrações nas bordas.
+
+- Ajuste a exposição geral até a imagem ficar com o brilho médio adequado. Nem clara demais, nem escura demais.
+
+- Mexa no contraste em pequenos passos. Pare quando a imagem ganhar corpo sem perder detalhes.
+
+- Desça os realces para recuperar céu, janela ou qualquer área clara estourada.
+
+- Suba as sombras para revelar detalhes nas partes escuras. Cuidado para não deixar a foto sem peso.
+
+- Ajuste brancos e pretos olhando o histograma. Os extremos devem ficar próximos das bordas, mas sem colar.
+
+- Corrija a temperatura e o matiz até as cores parecerem naturais. Use uma área branca ou cinza da foto como referência.
+
+- Aumente a vibração para dar vida às cores. Saturação só se precisar de algo mais forte.
+
+- Aplique nitidez de forma seletiva e reduza o ruído se a foto tiver granulado.
+
+- Por último, se quiser, adicione um filtro ou granulado leve. Mas só depois de tudo corrigido.
+
+- Compare com a versão original. Se a diferença for sutil demais, provavelmente você fez certo.
+
+A edição boa quase nunca é percebida. Quando alguém olha e diz que a foto está com cara de editada, geralmente é porque passou do ponto. O objetivo é que a imagem pareça natural, como se a câmera tivesse capturado exatamente aquilo.
+
+## Erros comuns que você pode evitar hoje
+
+O primeiro é exagerar no HDR. Aquele efeito que abre todas as sombras e segura todos os realces deixa a foto com aspecto chapado, sem profundidade. Sombras existem por um motivo. Elas dão volume e direção.
+
+O segundo é usar filtro pronto sem ajustar. Filtro é ponto de partida, não destino. Aplique e depois refine os sliders. Cada foto tem exposição e cor diferentes, então o mesmo filtro nunca funciona igual em todas.
+
+O terceiro é editar no escuro. Se você mexe na foto com o brilho da tela no máximo, à noite, no quarto apagado, vai exagerar nos ajustes. Edite com o brilho do celular na metade e, se possível, com alguma luz ambiente. Sua percepção de cor e contraste muda conforme a luz ao redor.
+
+O quarto é não comparar com a original. É fácil se perder e achar que a foto está ótima quando na verdade você destruiu detalhes. Use o botão de comparar antes e depois. Se a versão editada perdeu informação, volte atrás.
+
+O quinto é editar tudo de uma vez. Vá com calma, ajuste, olhe, respire. Às vezes o olho se acostuma com o exagero e você só percebe no dia seguinte.
+
+## Praticando sem virar refém do app
+
+Existe uma armadilha. A pessoa baixa dez aplicativos, assina três, e passa mais tempo escolhendo ferramenta do que editando. Não precisa. O editor nativo do seu celular já resolve muita coisa. Se quiser algo mais completo, um ou dois apps gratuitos com versão paga opcional bastam.
+
+O importante é criar repertório visual. Olhe fotos que você admira e tente entender o que foi feito. Aquela imagem tem sombras profundas ou abertas? As cores são quentes ou frias? O contraste é alto ou suave? Quanto mais observa, mais fácil fica reproduzir.
+
+Pratique com fotos simples. O café da manhã, o cachorro no sofá, a planta da varanda. Não espere a viagem dos sonhos para treinar. É no cotidiano que você desenvolve a intuição sobre quanto mexer em cada slider.
+
+Salve suas edições em um preset, se o app permitir. Assim você cria um estilo consistente para o seu feed ou para os produtos que vende. Mas não use o mesmo preset em tudo sem ajustar. Cada foto pede um pequeno toque.
+
+## Quando a edição não resolve
+
+Tem situações em que nenhum ajuste salva. Foto muito tremida, rosto cortado, assunto fora de foco. Nesses casos, o melhor é refazer. Edição é para melhorar o que já está bom, não para ressuscitar o que não funcionou.
+
+Edição também não substitui luz. A melhor foto é aquela tirada com boa iluminação natural, perto de uma janela, no início da manhã ou no fim da tarde. O celular agradece, o editor agradece, e o resultado final agradece.
+
+Se você fotografa pessoas, converse com elas. Uma pose relaxada e um sorriso verdadeiro valem mais que qualquer filtro. A edição só realça o que já está lá.
+
+E se o assunto é saúde, beleza ou algo que envolva aparência física de forma sensível, cuidado redobrado. Retocar demais cria expectativas irreais e pode machucar quem está na foto. Edite com respeito.
+
+## O caminho se faz editando
+
+Dominar edição no celular não é decorar sliders. É entender que cada ajuste tem uma função e que a ordem importa. É olhar para a foto e saber o que está faltando, em vez de sair mexendo em tudo. É aceitar que a melhor edição é aquela que ninguém percebe, mas todo mundo sente.
+
+Com o tempo, você cria seu próprio fluxo. Talvez comece pelo corte, talvez prefira ajustar a luz primeiro. O importante é ter um método e repeti-lo até virar automático. Aí a edição deixa de ser tarefa e vira parte natural do ato de fotografar.
+
+Então pegue o celular agora. Escolha uma foto que você gosta mas que nunca ficou como queria. Aplique a sequência que vimos aqui, com calma, sem pressa. Compare o antes e o depois. Na próxima vez, vai ser mais rápido. E na seguinte, mais intuitivo. É assim que se aprende, uma foto de cada vez.

@@ -1,0 +1,97 @@
+Quando você manda uma mensagem no WhatsApp dizendo que chegou em casa, ou compartilha uma foto no Instagram, ou faz um Pix para pagar o aluguel, tem uma matemática silenciosa trabalhando ali no meio. Ela não aparece na tela, não pede permissão e nem te avisa que está rodando. Mas é ela que impede que a sua conversa vire piada em grupo de desconhecido ou que alguém veja o saldo da sua conta enquanto você toma café.
+
+Essa matemática é a criptografia. E apesar do nome assustador, a ideia por trás dela é bem simples de entender. Pense num cadeado. Só que em vez de metal, ele é feito de números tão grandes que nem o computador mais potente do mundo consegue quebrar no tempo que você leva para enviar um "bom dia".
+
+A parte curiosa é que a criptografia que usamos hoje não depende de guardar segredo sobre o método. Todo mundo sabe como o cadeado funciona. A segurança está na chave, não no segredo da fechadura. Isso muda tudo, porque significa que mesmo que um invasor intercepte seus dados no caminho, ele vê apenas um monte de caracteres sem sentido. Vamos entender como isso acontece na prática, com exemplos que você usa todo dia sem perceber.
+
+## A diferença entre embaralhar e proteger de verdade
+
+Muita gente acha que criptografar é só trocar as letras de lugar. Tipo substituir A por D, B por E, e assim por diante. Isso se chama cifra de substituição, e foi usado por Júlio César há mais de dois mil anos. O problema é que esse tipo de embaralhamento é fácil de quebrar. Se você tiver paciência e um papel, consegue decifrar analisando a frequência com que cada letra aparece no português. A letra A é a mais comum, então onde aparecer o símbolo mais repetido, provavelmente é ela.
+
+A criptografia moderna é diferente porque mistura duas coisas. Primeiro, ela aplica operações matemáticas que embaralham os dados de forma extremamente complexa. Segundo, ela usa uma chave, que é um número secreto, para controlar esse embaralhamento. Sem a chave, você até consegue ver o texto cifrado, mas não consegue voltar ao original. É como tentar desfazer um bolo para recuperar os ovos, a farinha e o açúcar. A informação original some dentro da mistura.
+
+O detalhe que faz toda a diferença é o tamanho da chave. Uma chave de 128 bits, por exemplo, tem um número de combinações possíveis tão grande que escrever todos os zeros e uns ocuparia mais espaço do que existe no universo observável. Por isso, quando você vê "criptografia de 256 bits" numa propaganda, significa que a chave tem 256 bits de comprimento, e não que os dados ficam duas vezes mais seguros que 128. A relação não é linear. Cada bit a mais dobra o número de combinações.
+
+## Por que a chave simétrica é rápida mas tem um problema
+
+A forma mais intuitiva de criptografar é usar a mesma chave para trancar e destrancar. Isso se chama criptografia simétrica. Você e a pessoa com quem conversa combinam uma senha, e essa senha serve para os dois lados. O AES, que é o padrão usado em praticamente tudo hoje, funciona assim. Seu celular usa AES para proteger os dados armazenados, seu banco usa AES para proteger transações, e o WhatsApp usa AES para cifrar as mensagens.
+
+O AES é rápido. Muito rápido. Ele consegue processar gigabytes de dados por segundo sem esforço. Por isso é usado para cifrar o conteúdo em si, seja uma mensagem de texto, uma foto ou um vídeo. Mas tem um problema prático. Como você combina a chave com a outra pessoa sem que alguém intercepte? Se você mandar a senha por e-mail, e o e-mail for lido por um invasor, acabou. A segurança toda foi embora junto.
+
+Esse é o dilema da distribuição de chaves. Durante décadas, a solução era encontrar a pessoa pessoalmente e combinar a senha. Exército usava maletas com chaves, diplomatas trocavam códigos em encontros secretos. Funcionava, mas não escala. Imagine ter que encontrar cada amigo pessoalmente antes de mandar uma mensagem no celular.
+
+## A sacada genial da chave pública
+
+A solução veio nos anos 1970 com a criptografia assimétrica, também chamada de chave pública. A ideia é brilhante e um pouco contraintuitiva. Em vez de uma chave só, você tem um par. Uma chave pública, que você pode distribuir para o mundo inteiro sem medo. E uma chave privada, que só você conhece e nunca compartilha.
+
+O funcionamento é assim. Se alguém quer te mandar uma mensagem, pega sua chave pública, que está disponível para qualquer um, e usa ela para cifrar o texto. Só a sua chave privada consegue decifrar. E aqui vem a parte mágica. Mesmo que a pessoa que cifrou tente decifrar depois, não consegue. As duas chaves são matematicamente ligadas, mas não dá para deduzir uma a partir da outra.
+
+Isso resolve o problema da distribuição. Você pode publicar sua chave pública no seu perfil, no seu site, em qualquer lugar. Não importa quem vê. O que importa é que só você tem a chave privada. É como se você distribuísse cadeados abertos para todo mundo, mas só você tivesse a chave que abre. Qualquer um pode trancar uma caixa com seu cadeado, mas ninguém além de você consegue abrir.
+
+## O que são funções de mão única
+
+A base matemática da chave pública são as funções de mão única. Elas funcionam assim. Você joga um número dentro e sai outro número. Fácil de calcular. Mas se você tentar voltar do resultado para o número original, é praticamente impossível. Não porque falta computador, mas porque a operação reversa simplesmente não tem um caminho eficiente conhecido.
+
+Um exemplo clássico é a multiplicação de dois números primos gigantes. Se eu pego dois primos de 300 dígitos cada e multiplico, o resultado é um número de 600 dígitos. Calcular isso é instantâneo. Mas se eu te dou apenas o resultado, 600 dígitos, e peço para descobrir quais dois primos foram multiplicados, você vai penar. Esse é o problema da fatoração, e é a base do RSA, um dos algoritmos de chave pública mais usados.
+
+Outro exemplo é o logaritmo discreto em curvas elípticas. Parece nome de filme de ficção, mas é o que está por trás do ECC, criptografia de curva elíptica. A vantagem é que ela oferece o mesmo nível de segurança com chaves muito menores. Uma chave ECC de 256 bits equivale a uma chave RSA de 3072 bits. Por isso celulares e dispositivos com pouca bateria preferem ECC. Menos processamento, mesma proteção.
+
+## Como isso aparece no seu WhatsApp
+
+O WhatsApp usa uma combinação das duas abordagens. Quando você instala o app e cria sua conta, ele gera um par de chaves no seu próprio celular. A chave privada nunca sai do aparelho, a menos que você faça backup. A chave pública é enviada para os servidores do WhatsApp. Quando alguém quer te mandar mensagem, o app dessa pessoa pega sua chave pública, gera uma chave simétrica temporária, cifra essa chave simétrica com sua chave pública, e manda tudo junto.
+
+Do outro lado, seu celular usa sua chave privada para decifrar a chave simétrica temporária. A partir daí, as mensagens são cifradas com essa chave simétrica, que é muito mais rápida. O resultado é que nem o WhatsApp consegue ler suas mensagens. Eles veem apenas o texto cifrado passando pelos servidores. A criptografia ponta a ponta significa exatamente isso. A chave só existe nos dois aparelhos das pontas, nunca no meio.
+
+O Signal, que é usado por jornalistas e ativistas, vai além. Ele tem uma propriedade chamada sigilo forward, ou sigilo perfeito. Cada mensagem usa uma chave diferente, derivada da anterior. Se alguém conseguir a chave de uma mensagem, não consegue ler as anteriores nem as futuras. É como se cada mensagem fosse um cadeado novo, e a chave daquele cadeado não abrisse os outros.
+
+## O que o cadeado do navegador realmente significa
+
+Quando você acessa um site e vê aquele cadeado na barra de endereços, significa que a conexão está usando HTTPS. O S no final é de secure. Isso quer dizer que o tráfego entre seu navegador e o site está cifrado. Se alguém na mesma rede Wi-Fi tentar espionar, vai ver apenas dados embaralhados.
+
+O processo começa com o site apresentando um certificado digital. Esse certificado é emitido por uma autoridade certificadora, que é uma empresa que garante que aquele site é realmente quem diz ser. Seu navegador tem uma lista de autoridades confiáveis. Se o certificado foi emitido por uma delas, e está dentro da validade, o navegador aceita.
+
+Depois da verificação, o navegador e o servidor fazem uma troca de chaves usando criptografia assimétrica. O navegador gera uma chave simétrica temporária, cifra com a chave pública do servidor, e manda. A partir daí, tudo é cifrado com essa chave simétrica. É por isso que HTTPS é rápido. A parte assimétrica só acontece no começo, para combinar a chave simétrica. Depois, é só AES rodando solto.
+
+## Quando a criptografia falha na prática
+
+A criptografia em si raramente é quebrada. O AES de 256 bits, por exemplo, é considerado seguro contra qualquer ataque conhecido, inclusive de computadores quânticos em teoria. O problema quase sempre está na implementação, não na matemática.
+
+Um exemplo clássico é o ataque man-in-the-middle. Imagine que você está num café usando Wi-Fi público. Um invasor cria uma rede falsa com o mesmo nome. Seu celular se conecta. Quando você acessa seu banco, o invasor intercepta a conexão. Se o banco não tiver um certificado válido, ou se você ignorar o aviso de segurança, o invasor pode se passar pelo banco. Ele vê sua senha e seus dados.
+
+Outro problema é a chave privada mal guardada. Se alguém consegue acesso ao seu celular desbloqueado, ou se você faz backup em nuvem sem proteção, a chave privada pode vazar. A partir daí, todas as mensagens cifradas com aquela chave estão comprometidas. É como deixar a chave de casa embaixo do tapete.
+
+Tem também o problema do software desatualizado. Quando uma vulnerabilidade é descoberta, os desenvolvedores lançam correções. Se você não atualiza, fica exposto. Em 2014, uma falha chamada Heartbleed afetou boa parte da internet porque permitia que invasores lessem pedaços da memória dos servidores, incluindo chaves privadas. A correção veio rápido, mas quem não atualizou ficou vulnerável por meses.
+
+## Um roteiro prático para proteger suas conversas
+
+Agora que você entende como a criptografia funciona, dá para aplicar isso no dia a dia. Não precisa virar especialista. Alguns hábitos simples já fazem uma diferença enorme.
+
+- Mantenha o sistema e os apps atualizados. As atualizações quase sempre incluem correções de segurança. Ignorar aquele aviso de "nova versão disponível" é um dos erros mais comuns e mais fáceis de evitar.
+
+- Ative a verificação em duas etapas em tudo que for importante. Isso adiciona uma camada extra além da senha. Mesmo que alguém descubra sua senha, ainda vai precisar do segundo fator, que geralmente é um código no seu celular.
+
+- Use um gerenciador de senhas. Ele guarda senhas longas e aleatórias para cada serviço, e você só precisa lembrar de uma senha mestra. Isso evita que você use a mesma senha em vários lugares, o que é um risco enorme.
+
+- Prefira apps com criptografia ponta a ponta para conversas sensíveis. WhatsApp, Signal e Telegram em chats secretos são exemplos. Mas lembre que a criptografia ponta a ponta não protege contra alguém que pega seu celular desbloqueado.
+
+- Cuidado com backups. Se você faz backup das suas conversas no Google Drive ou iCloud, elas podem não estar cifradas com a mesma chave do aparelho. Verifique nas configurações do app se o backup está protegido.
+
+- Desconfie de redes Wi-Fi públicas para transações bancárias. Mesmo com HTTPS, uma rede comprometida pode redirecionar você para sites falsos. Se precisar usar, prefira a rede do seu celular.
+
+- Verifique o cadeado e o endereço do site antes de digitar senhas. Um site falso pode ter um cadeado, mas o endereço estará ligeiramente diferente, tipo "banco-seguro.com" em vez de "bancoseguro.com".
+
+## O futuro da criptografia e os computadores quânticos
+
+Existe uma preocupação crescente com computadores quânticos. Eles funcionam de uma forma completamente diferente dos computadores atuais, usando qubits que podem ser 0 e 1 ao mesmo tempo. Para certos problemas, eles são exponencialmente mais rápidos. E um desses problemas é justamente a fatoração de números primos, que é a base do RSA.
+
+A boa notícia é que ainda não existe um computador quântico capaz de quebrar RSA de 2048 bits, que é o padrão atual. Os que existem hoje têm poucos qubits e cometem muitos erros. A má notícia é que a comunidade científica já está se preparando para o dia em que isso mudar. Já existem algoritmos de criptografia pós-quântica, que resistem a ataques de computadores quânticos. O NIST, instituto de padrões dos Estados Unidos, já escolheu alguns para padronização.
+
+Enquanto isso, a recomendação é continuar usando os algoritmos atuais, que são seguros contra ameaças de hoje. A transição vai levar anos, e provavelmente vai ser gradual, como foi a migração de HTTP para HTTPS. O importante é não entrar em pânico nem acreditar em soluções milagrosas que prometem segurança quântica sem explicação.
+
+## O que realmente importa no fim das contas
+
+A criptografia que protege suas mensagens não é magia, é matemática. E a parte mais bonita é que ela funciona mesmo quando todo mundo sabe como ela funciona. A segurança está na chave, não no segredo do algoritmo. Isso permite que padrões abertos sejam auditados por especialistas do mundo inteiro, o que os torna mais confiáveis do que sistemas proprietários que ninguém pode inspecionar.
+
+Você não precisa entender cada detalhe de curvas elípticas ou funções de hash para se proteger. Precisa entender que a criptografia é uma ferramenta, e como toda ferramenta, depende de como você usa. Atualizar o celular, usar senhas fortes, ativar verificação em duas etapas e escolher apps com criptografia ponta a ponta já coloca você à frente da maioria dos usuários.
+
+No fim, a privacidade não é sobre esconder algo errado. É sobre ter controle sobre quem pode ver o que é seu. A criptografia devolve esse controle para você, uma mensagem de cada vez, um Pix de cada vez, uma foto de cada vez. E quanto mais gente entende como isso funciona, mais difícil fica para quem quer bisbilhotar a vida dos outros.

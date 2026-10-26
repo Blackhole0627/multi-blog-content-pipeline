@@ -1,0 +1,125 @@
+Você tem uma ideia, um protótipo ou talvez já alguns clientes pagando. O negócio começa a pedir mais do que o seu bolso aguenta. Contratar alguém, comprar equipamento, investir em marketing, tudo isso custa dinheiro. É nesse momento que muita gente começa a ouvir falar de investidor anjo. A expressão soa quase mágica, como se alguém aparecesse do nada com um cheque e resolvesse todos os problemas.
+
+A verdade é bem menos cinematográfica e bem mais interessante. Uma rodada de investimento anjo é uma negociação, com regras, documentos, prazos e expectativas dos dois lados. Entender como ela funciona antes de sair por aí procurando investidor faz toda a diferença entre fechar um acordo saudável e assinar algo que você vai lamentar por anos.
+
+Neste texto, você vai ver o passo a passo real de uma rodada anjo no Brasil, quem são esses investidores, o que eles querem em troca, quais documentos aparecem no caminho e quais erros são mais comuns. A ideia é que você termine a leitura sabendo se esse caminho faz sentido para o seu momento.
+
+## O que é, afinal, um investidor anjo
+
+Investidor anjo é uma pessoa física que usa dinheiro próprio para aportar em empresas novas, geralmente em troca de participação societária. Não é banco, não é fundo, não é programa de governo. É alguém com patrimônio acumulado que decide apostar parte desse dinheiro em negócios de risco. Em troca, recebe uma fatia da empresa e a expectativa de que ela cresça muito.
+
+O perfil típico no Brasil é de alguém que já empreendeu, vendeu uma empresa, trabalhou como executivo sênior ou construiu carreira em tecnologia e finanças. Boa parte tem entre quarenta e sessenta anos e quer se manter perto do ambiente de startups sem voltar a tocar uma operação no dia a dia. Muitos investem também pelo aprendizado e pelo contato com gente mais jovem.
+
+Existe uma diferença importante entre anjo e capital semente de fundo. O fundo tem sócios, comitê de investimento, processo formal e cheque maior. O anjo decide sozinho, costuma colocar valores menores e pode fechar mais rápido. Em compensação, ele nem sempre tem experiência para ajudar na operação, e alguns investidores anjo atrapalham mais do que ajudam quando tentam opinar em tudo.
+
+Outro ponto é o ticket. Não existe um valor fixo, mas rodadas anjo no Brasil costumam girar na faixa de algumas dezenas de milhares até algumas centenas de milhares de reais por investidor. Quando o valor passa disso, normalmente entra um fundo ou um grupo organizado de anjos, que junta várias pessoas no mesmo contrato.
+
+## Por que a empresa busca esse dinheiro
+
+Startups crescem em descompasso com o próprio faturamento. No começo, a receita é pequena e o custo para crescer é grande. Contratar um time de tecnologia, pagar servidor, anunciar, tudo isso vem antes do retorno. O caixa vira o gargalo principal.
+
+Existem alternativas. Empréstimo bancário é uma delas, mas exige garantia e cobra juros altos, o que não combina com um negócio que pode não dar certo. Receita própria é a melhor fonte, só que nem sempre é suficiente na velocidade necessária. O investimento anjo entra justamente para cobrir esse intervalo entre a ideia validada e um negócio que se sustenta.
+
+Tem também um lado não financeiro. Um anjo experiente abre portas, apresenta clientes, ajuda a evitar erros que ele já cometeu. Isso às vezes vale mais do que o dinheiro. Uma apresentação para um comprador grande, feita por alguém respeitado no setor, muda o jogo para uma startup pequena.
+
+Só que buscar anjo não é para qualquer momento. Se o produto ainda não tem nenhum sinal de que alguém pagaria por ele, dificilmente um investidor sério vai entrar. O anjo aceita risco alto, mas não aceita aposta cega. Ele quer ver evidência, mesmo que pequena, de que existe demanda.
+
+## Como o investidor pensa antes de dizer sim
+
+O anjo não está comprando seu produto. Ele está comprando uma participação na empresa e apostando no time que vai executar. Por isso, a avaliação dele passa por três perguntas centrais. A primeira é sobre o mercado. Esse problema atinge muita gente? Dá para crescer sem depender de um cliente só? A segunda é sobre o time. Quem está à frente sabe executar? Já entregou algo antes? A terceira é sobre o momento. Por que agora?
+
+Além disso, ele olha para o quanto pode perder. Investimento anjo é renda variável de altíssimo risco. A maioria das startups não devolve o capital. O retorno, quando vem, costuma vir de poucas empresas que explodem. O anjo experiente monta uma carteira de vários aportes justamente porque sabe que a conta só fecha no conjunto.
+
+Isso explica por que ele negocia tão duro a participação. Se ele entra com dinheiro em uma empresa avaliada em um valor que parece alto demais, o retorno futuro fica comprimido. Se entra barato demais, o fundador fica desmotivado. Achar esse equilíbrio é a parte mais delicada da rodada.
+
+Tem ainda a questão da liquidez. O dinheiro do anjo fica preso por anos. Não existe bolsa para vender participação de startup fechada. Ele só recebe de volta se a empresa for vendida, abrir capital ou se alguém comprar a fatia dele em uma rodada futura. Isso significa que ele pensa em saída desde o primeiro dia.
+
+## Valuation, a conversa que trava rodadas
+
+Valuation é quanto vale a empresa hoje, na visão das partes. É o número que define quanto do negócio o investidor leva em troca do aporte. Se a empresa vale um milhão e o anjo coloca duzentos mil, ele fica com cerca de dezessete por cento, antes de diluições futuras.
+
+O problema é que startup em estágio inicial não tem histórico de receita estável para calcular isso com precisão. O valuation acaba sendo uma negociação, não uma conta. Métodos como fluxo de caixa descontado funcionam mal aqui, porque o futuro é incerto demais. Sobram comparações com empresas parecidas e uma boa dose de conversa.
+
+Do lado do fundador, o instinto é pedir o máximo possível. Do lado do anjo, o instinto é oferecer o mínimo. O caminho saudável é chegar a um número que deixe o empreendedor com participação suficiente para se manter motivado por anos. Se o fundador termina a rodada com cinco por cento da própria empresa, algo saiu errado.
+
+Existe um conceito chamado milestorne, que são as metas que a empresa promete atingir com o dinheiro. O valuation faz mais sentido quando amarrado a essas metas. Se o anjo coloca dinheiro para a startup chegar a tantos clientes em tantos meses, fica mais fácil justificar o número. Sem metas, a conversa vira leilão.
+
+Vale lembrar que valuation não é preço de venda. É uma referência para a troca de participação. A empresa pode ser avaliada em milhões e ainda assim ter pouco dinheiro em caixa. O que importa para o dia a dia é quanto entrou e quanto tempo isso dura.
+
+## Os documentos que aparecem no caminho
+
+A rodada começa informal, com conversas e apresentações. Quando o interesse se firma, entram os documentos. O primeiro costuma ser o term sheet, um resumo das condições principais. Ele não é o contrato final, mas já define valuation, valor do aporte, tipo de participação e direitos do investidor.
+
+Depois vem o contrato de investimento, que detalha obrigações das partes, condições para o dinheiro entrar e o que acontece se a empresa não cumprir o combinado. Junto dele costuma vir o acordo de sócios ou acordo de acionistas, que regula governança, direito de preferência, tag along e drag along, entre outros pontos.
+
+Tem também o contrato social ou estatuto atualizado, para refletir a nova composição societária. E, dependendo do caso, um acordo de vesting para fundadores, que amarra a participação deles ao tempo de permanência na empresa.
+
+Esses documentos são técnicos e cheios de armadilhas. Cláusulas de liquidez preferencial, por exemplo, definem quem recebe primeiro em caso de venda. Se o anjo tem preferência de receber o dobro do que investiu antes de qualquer divisão, o fundador pode ficar sem nada mesmo em uma venda razoável. Entender isso antes de assinar é essencial.
+
+## Passo a passo de uma rodada na prática
+
+A sequência abaixo resume o caminho mais comum, do primeiro contato ao dinheiro na conta.
+
+- Prepare o material. Você vai precisar de uma apresentação enxuta, um resumo executivo e os números do negócio organizados. Sem isso, nenhuma conversa avança.
+
+- Liste investidores com perfil compatível. Grupos de anjos, redes de relacionamento, aceleradoras e eventos do setor são os caminhos mais usados.
+
+- Faça as primeiras reuniões. São conversas para se conhecer. O investidor quer entender o negócio e você quer entender se ele agrega.
+
+- Envie a documentação básica. Contrato social, demonstrativos financeiros, cap table e informações sobre o produto entram nesse pacote.
+
+- Negocie o term sheet. Aqui se discutem valuation, valor do aporte, direitos e governança. É a fase mais delicada.
+
+- Passe pela due diligence. O investidor confere se tudo que foi dito é verdade. Documentos, impostos, processos trabalhistas e contratos com clientes são checados.
+
+- Assine os contratos definitivos. Contrato de investimento, acordo de sócios e alteração do contrato social.
+
+- Receba o aporte e registre a nova sociedade. O dinheiro entra, a participação é formalizada e a empresa segue com novas obrigações de reporte.
+
+Cada etapa pode levar semanas. Uma rodada anjo costuma levar de dois a seis meses entre o primeiro contato e o dinheiro na conta. Pressa excessiva costuma ser mau sinal, tanto de um lado quanto do outro.
+
+## Os erros que mais aparecem
+
+O erro mais comum é aceitar dinheiro de qualquer pessoa por desespero de caixa. Um investidor ruim pode travar decisões, exigir relatórios impossíveis e criar conflito em assembleias. Escolher mal custa mais caro do que esperar.
+
+Outro erro é não formalizar nada. Acordos verbais não valem nada quando a empresa cresce e os interesses divergem. Tudo precisa estar no papel, com clareza.
+
+Tem também o erro de aceitar valuation alto demais. Parece vantagem, mas cria uma âncora para rodadas futuras. Se a empresa não cresce no ritmo esperado, a próxima rodada acontece com valuation menor, o que se chama de down round. Isso desmotiva o time e complica a negociação com novos investidores.
+
+Por fim, muita gente esquece de conversar com o anjo sobre o que acontece se a empresa não der certo. Definir desde o começo como será uma eventual venda, dissolução ou saída do investidor evita briga anos depois.
+
+## O que o anjo espera de você depois do aporte
+
+Depois que o dinheiro entra, a relação continua. O anjo espera relatórios periódicos, mesmo que simples. Um e-mail mensal com números principais, conquistas e desafios já ajuda. Ele não quer gerenciar a empresa, mas quer saber se o dinheiro está sendo bem usado.
+
+Reuniões trimestrais ou semestrais são comuns. Nesses encontros, você apresenta avanços, pede ajuda e alinha expectativas. Anjo que não recebe notícia nenhuma tende a se preocupar e a pressionar por decisões que talvez não façam sentido.
+
+Também é esperado que você use a rede dele. Isso não significa pedir favor toda semana, mas aproveitar apresentações e conexões quando fizer sentido. O investidor gosta de sentir que está contribuindo além do dinheiro.
+
+E existe a expectativa de retorno. Ninguém coloca dinheiro em startup por caridade. O anjo sabe que pode perder tudo, mas espera que você trabalhe para maximizar as chances de uma saída boa. Isso envolve crescer receita, montar time, cuidar da governança e pensar na próxima rodada.
+
+## Quando o investimento anjo não é o caminho certo
+
+Nem toda empresa deve buscar anjo. Negócios com crescimento lento, margens apertadas ou que dependem de um único cliente não costumam atrair esse tipo de investidor. O anjo quer escala, quer a possibilidade de multiplicar o capital várias vezes.
+
+Se o seu negócio pode crescer com o próprio faturamento, talvez você não precise diluir participação. Muita empresa saudável no Brasil cresce com receita própria, sem nunca ter investidor. Isso é totalmente válido.
+
+Se o que falta é conhecimento e não dinheiro, mentorias, programas de aceleração e redes de contato podem resolver sem vender pedaço da empresa. Antes de partir para a rodada, vale se perguntar se o problema é realmente caixa.
+
+Outro cenário é quando o fundador não está disposto a dividir decisões. Investidor anjo não é sócio passivo. Ele tem direitos, vota em certas matérias e pode influenciar rumos. Se isso é um problema para você, talvez o caminho seja outro.
+
+## O que fazer antes de sair procurando investidor
+
+Antes de bater na porta de qualquer anjo, organize a casa. Tenha números claros, mesmo que pequenos. Saiba quanto entra, quanto sai e quanto tempo o caixa dura. Isso mostra maturidade e evita perguntas constrangedoras.
+
+Defina quanto você precisa e para quê. Pedir dinheiro sem destino claro é o jeito mais rápido de perder credibilidade. Se o valor serve para contratar duas pessoas e rodar seis meses de operação, diga isso com precisão.
+
+Monte uma lista de investidores com perfil alinhado ao seu setor e estágio. Anjo que só investe em saúde provavelmente não vai entender seu aplicativo de logística. Foque em quem já demonstrou interesse pelo seu mercado.
+
+Prepare-se para ouvir não muitas vezes. A maioria das conversas não termina em aporte. Isso é normal e faz parte do processo. Cada negativa, se bem aproveitada, traz aprendizado sobre o que precisa melhorar na apresentação ou no próprio negócio.
+
+Por fim, pense no longo prazo. A rodada anjo é só o começo de uma relação que pode durar anos. Escolha parceiros com quem você gostaria de conversar nos momentos difíceis, porque eles vão existir.
+
+Uma rodada de investimento anjo é menos sobre dinheiro e mais sobre alinhamento. O capital resolve o problema imediato de caixa, mas a escolha de quem entra na sociedade define o tom dos próximos anos. Um investidor que entende o negócio, respeita o time e ajuda quando chamado vale muito mais do que um cheque maior vindo de alguém desalinhado.
+
+Se você chegou até aqui entendendo que esse processo exige preparo, paciência e transparência, já está à frente de boa parte de quem busca anjo por impulso. Estude seu próprio negócio, saiba seus números e escolha com cuidado quem senta ao seu lado. O resto é execução.

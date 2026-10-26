@@ -1,0 +1,103 @@
+Montar um PC tem uma mística própria. A pessoa pesquisa placa de vídeo por semanas, compara processadores, assiste vídeo de benchmark até decorar números, escolhe o gabinete pela estética e a placa-mãe pelos conectores. Aí chega na fonte de alimentação e o critério vira um só. Quanto custa menos e quantos watts tem. É nesse momento que muita gente boa comete um erro que vai custar caro lá na frente, e não estou falando só de dinheiro.
+
+A fonte é o componente que transforma a energia da tomada em algo que o resto do PC consegue usar. Ela alimenta tudo, o tempo todo, sem pausa, sem descanso, sem fim de semana. Se ela é ruim, não é só ela que sofre. Todo o conjunto sofre junto. E diferente de uma placa de vídeo fraca, que só te entrega menos desempenho, uma fonte problemática pode levar outros componentes embora com ela.
+
+Existe uma lógica esquisita no hobby. A pessoa gasta uma fortuna em peças que brilham, aparecem nos vídeos e rendem assunto em grupo de mensagem, e trata a fonte como um mal necessário, um item chato que só precisa ligar. Só que a fonte é justamente a peça que não pode falhar. Ela é o alicerce. Se o alicerce cede, a casa inteira vai junto, por mais bonita que seja a fachada.
+
+## O que a fonte faz de verdade, além de "dar energia"
+
+Tem uma frase que resume bem o papel dela. A fonte não dá energia, ela converte energia. A tomada entrega corrente alternada em tensão alta, geralmente 127 ou 220 volts dependendo da sua região. Os componentes do PC precisam de corrente contínua em tensões baixas, principalmente 12 volts, 5 volts e 3,3 volts. Quem faz essa tradução é a fonte.
+
+Parece simples, mas não é. A energia que sai da tomada não é limpa. Ela oscila, tem ruído, sofre com queda de tensão quando o chuveiro liga ou quando a geladeira dá aquela partida. Em muitas casas brasileiras, a rede elétrica é tudo menos estável. A fonte precisa entregar tensão estável mesmo quando a entrada está caótica. É por isso que uma fonte barata pode parecer funcionar bem na casa de um amigo e dar problema na sua.
+
+Além de converter, ela precisa regular. Se a tensão de 12 volts sobe demais, componentes sensíveis podem queimar. Se cai demais, o PC reinicia do nada, dá tela azul ou simplesmente desliga em jogos pesados. Esse comportamento intermitente é clássico de fonte fraca ou de má qualidade, e muita gente passa meses culpando o Windows, o driver ou a memória RAM antes de descobrir a verdade.
+
+E tem a questão da potência. A fonte precisa fornecer a energia que o PC pede, no pico de consumo, sem hesitar. Placas de vídeo modernas têm picos de consumo curtos e violentos. Se a fonte não aguenta esse pico, mesmo que a média de consumo seja baixa, o PC apaga. É como um carro que precisa de força pra subir uma ladeira íngreme, não só pra andar na reta.
+
+## Por que economizar na fonte sai caro no fim
+
+Vamos ser honestos sobre o que uma fonte barata economiza. Ela usa componentes mais simples, capacitores de qualidade inferior, menos proteções e, muitas vezes, mente na etiqueta. Sim, mentir na etiqueta é comum. Uma fonte vendida como 600 watts pode entregar, na prática, bem menos do que isso, especialmente na linha de 12 volts, que é a que importa de verdade para processador e placa de vídeo.
+
+O problema é que essa mentira não aparece na hora da compra. Ela aparece meses depois, quando você coloca uma placa de vídeo melhor, o PC começa a reiniciar em jogos, e você não faz ideia do motivo. Ou quando a fonte simplesmente morre e, ao morrer, leva junto a placa-mãe, o SSD ou a placa de vídeo. Já vi relato de gente que perdeu praticamente o PC inteiro por causa de uma fonte de origem duvidosa.
+
+Aí entra a matemática que ninguém faz. Digamos que você economizou algumas centenas de reais comprando uma fonte ruim em vez de uma decente. Se essa fonte durar dois anos e levar embora uma placa de vídeo que custava o dobro da economia, o prejuízo é enorme. E tem o tempo perdido, a dor de cabeça com garantia, o retrabalho de montar tudo de novo. Economizar na fonte é uma aposta em que você só ganha se nada der errado. E quando dá errado, o custo é alto demais.
+
+Existe também a questão da vida útil. Componentes de qualidade envelhecem melhor. Capacitores bons aguentam anos de calor e uso constante. Capacitores ruins incham, vazam e perdem capacidade em pouco tempo. É por isso que fonte boa de cinco, oito, dez anos atrás continua firme, e fonte ruim de dois anos atrás já está pedindo substituição.
+
+## Entendendo a etiqueta sem virar engenheiro
+
+A etiqueta da fonte parece um bicho de sete cabeças, mas dá pra entender o essencial em poucos minutos. O número mais visível é a potência total, tipo 500W, 650W, 750W. Esse número sozinho diz pouco. O que importa é como essa potência é distribuída entre as linhas, principalmente a linha de 12 volts.
+
+A linha de 12 volts alimenta o que mais consome, que é o processador e a placa de vídeo. Se a fonte diz 600 watts, mas entrega só 350 watts na linha de 12 volts, ela não é uma fonte de 600 watts de verdade pra efeitos práticos. Fique de olho nesse número. Muitas etiquetas escondem isso em letras miúdas, justamente porque o valor é baixo.
+
+Outro ponto é a certificação de eficiência, tipo 80 Plus. Ela indica quanto da energia que entra é convertida em energia útil, sem virar calor. Uma fonte com selo bronze, prata, ouro ou superior desperdiça menos energia e esquenta menos. Repare que eficiência não é a mesma coisa que qualidade, mas costuma andar junto. Fontes muito baratas raramente têm selo, ou têm selo falso. Vale desconfiar.
+
+As proteções também aparecem na etiqueta, geralmente em siglas. Elas protegem contra curto-circuito, sobrecarga, sobretensão, subtensão e surtos. Cada uma tem uma função específica. Uma fonte decente traz várias dessas proteções. Uma fonte barata costuma trazer poucas, ou nenhuma de verdade. É aqui que mora boa parte da diferença de preço.
+
+Por último, o tamanho físico. Fontes seguem padrões de formato, e o mais comum em PC moderno é o ATX. Existem também formatos menores pra gabinetes compactos. Confira o que seu gabinete aceita antes de comprar. Fonte grande em gabinete pequeno não entra, por mais potente que seja.
+
+## Quantos watts você realmente precisa
+
+Essa é a pergunta que trava muita gente, e a resposta costuma ser mais tranquila do que parece. Você não precisa de 1000 watts pra jogar. A maioria dos PCs gamers de entrada e meio de linha consome entre 300 e 500 watts em uso pesado. PC de escritório com vídeo integrado fica bem abaixo disso.
+
+O caminho mais seguro é olhar o consumo do processador e da placa de vídeo, que são os dois maiores vilões, e somar com uma margem. Some tudo, adicione algo em torno de 30 a 40 por cento de folga, e arredonde pra uma faixa comercial. Isso cobre picos de consumo e dá espaço pra upgrades futuros sem trocar a fonte.
+
+Existem calculadoras online de consumo que ajudam nessa conta. Elas não são perfeitas, mas dão uma boa noção. O importante é não cair na armadilha de achar que mais watts é sempre melhor. Fonte de potência muito acima do necessário também tem suas desvantagens, como custo maior e, em alguns casos, eficiência pior em cargas leves.
+
+Tem uma questão prática que pesa bastante. Se você planeja trocar a placa de vídeo daqui a um ano por uma mais parruda, talvez valha comprar uma fonte com folga agora. Trocar a fonte depois é chato, dá trabalho, e você acaba gastando duas vezes. Pensar no plano de upgrade ajuda a acertar a potência de primeira.
+
+Outro detalhe é o ruído. Fontes trabalham com uma ventoinha que gira conforme a temperatura. Uma fonte com folga de potência tende a esquentar menos e girar mais devagar, ficando mais silenciosa. Uma fonte no limite trabalha quente e barulhenta. Se silêncio importa pra você, isso entra na conta.
+
+## Modular, semi-modular ou com todos os cabos presos
+
+Fonte modular é aquela em que você conecta só os cabos que vai usar. A não modular tem todos os cabos soldados de fábrica, então sobra cabo pra todo lado dentro do gabinete. A semi-modular fica no meio, com os cabos essenciais fixos e os extras removíveis.
+
+O benefício da modular é organização e fluxo de ar. Gabinete organizado tem ar circulando melhor, o que ajuda a manter tudo mais frio. Mas isso não é motivo pra pagar muito mais. Se a diferença de preço for grande, uma fonte não modular de qualidade é melhor escolha do que uma modular ruim. Qualidade vem antes de conveniência.
+
+Na prática, cabo sobrando não faz mal nenhum além da estética, desde que você consiga fechar a tampa lateral. Muita gente faz drama com isso e acaba pagando caro por um recurso que só facilita a vida na montagem. Avalie com calma se isso realmente importa pra você.
+
+Existe um ponto de atenção nos cabos. Placas de vídeo mais potentes pedem cabos específicos, às vezes dois cabos separados em vez de um cabo com dois conectores. Usar um cabo só quando a placa pede dois pode causar sobrecarga e até derreter o conector. Leia o manual da placa de vídeo e respeite o que ele pede.
+
+## Sinais de que sua fonte atual está pedindo troca
+
+Fonte não avisa quando vai morrer, mas dá sinais. O mais comum é o PC reiniciar sozinho em jogos ou tarefas pesadas. Isso quase sempre indica que a fonte não está aguentando o pico de consumo. Se acontece sempre no mesmo tipo de situação, desconfie dela.
+
+Outro sinal é cheiro de queimado vindo do gabinete, especialmente perto da fonte. Isso pode ser poeira queimando, mas também pode ser componente derretendo. Não ignore esse cheiro. Desligue o PC, tire a fonte da tomada e investigue com cuidado.
+
+Ruído estranho também conta. Ventoinha que ronca, zumbe ou para de girar é sinal de problema. Fonte esquentando demais a ponto de deixar o gabinete quente perto dela merece atenção. E claro, se o PC não liga mais, ou liga e desliga em segundos, a fonte é uma das primeiras suspeitas.
+
+Tem um teste simples que você pode fazer. Se você tem outra fonte decente em casa ou consegue emprestada, troque e veja se os problemas somem. É a forma mais rápida de confirmar a suspeita sem gastar em equipamento de teste.
+
+## Checklist prático para escolher sua próxima fonte
+
+Antes de comprar, passe por esta lista com calma. Ela não resolve todos os casos, mas evita os erros mais comuns.
+
+- Some o consumo do processador e da placa de vídeo, adicione 30 a 40 por cento de folga e escolha a faixa de potência correspondente.
+
+- Confira quantos watts a fonte entrega na linha de 12 volts, não só o total da etiqueta.
+
+- Verifique se há certificação de eficiência real e proteções listadas na etiqueta.
+
+- Meça o espaço do gabinete e confirme o formato aceito, ATX ou menor.
+
+- Veja quantos conectores de energia sua placa de vídeo precisa e se a fonte oferece todos.
+
+- Pesquise a reputação da marca e do modelo em fóruns e vídeos confiáveis.
+
+- Prefira comprar em loja com garantia clara e nota fiscal.
+
+- Desconfie de preço muito abaixo do mercado para a potência anunciada.
+
+Esse último item merece destaque. Fonte de marca desconhecida, com potência alta e preço baixo demais, quase sempre esconde alguma coisa. Pode ser potência inflada, pode ser falta de proteção, pode ser componente ruim. O barato sai caro com uma frequência assustadora nesse mercado.
+
+## Onde a fonte se encaixa na sua lista de prioridades
+
+Toda montagem tem um orçamento, e alguém precisa decidir onde cortar. A pergunta certa não é "posso economizar na fonte", é "onde mais posso economizar pra não precisar cortar aqui". Muitas vezes dá pra segurar na placa de vídeo, no SSD ou no gabinete sem grandes prejuízos. Na fonte, o risco é diferente, porque a falha pode ser catastrófica.
+
+Pense na fonte como o freio de um carro. Você não escolhe o freio mais barato possível só porque ele não aparece no painel. Ele é o que segura tudo quando algo dá errado. A fonte é a mesma coisa. Ela não rende frame, não aparece em benchmark, mas é o que mantém seu PC vivo e saudável por anos.
+
+Talvez o argumento mais forte seja a tranquilidade. Com uma fonte decente, você para de se preocupar com queda de energia, com pico de consumo, com aquele reinício misterioso que aparece de vez em quando. Você simplesmente usa o PC e esquece que a fonte existe. Isso, por si só, já vale o investimento.
+
+E tem o efeito de longo prazo. Uma fonte boa dura vários ciclos de upgrade. Você troca processador, placa de vídeo, memória, e a fonte continua lá, firme. Ela acompanha o PC por anos, atravessando gerações de peças. Vista assim, a economia de hoje vira prejuízo de amanhã, e a fonte decente vira um investimento que se paga sozinho.
+
+Se você levar uma coisa deste texto, que seja esta. A fonte não é um acessório. É a peça que define se o resto do seu PC vai viver bastante ou vai sofrer aos poucos, sem você entender por quê. Escolher bem não é gastar mais por capricho, é proteger tudo que você já investiu. E no fim das contas, essa é a decisão mais racional que você pode tomar numa montagem.

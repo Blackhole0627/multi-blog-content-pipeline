@@ -1,0 +1,105 @@
+Você já viu aquele movimento estranho no grupo da faculdade ou no Discord da comunidade de programação. De repente, todo mundo some por um fim de semana inteiro. Voltam na segunda-feira comentando de um projeto que fizeram em 48 horas, com olheiras até o joelho e um sorriso de quem ganhou na loteria. Isso tem nome. É hackathon.
+
+A palavra assusta um pouco no começo. Parece coisa de gente que já programa desde os oito anos de idade, que dorme com um teclado embaixo do travesseiro. A realidade é bem diferente. Hackathon virou uma das portas de entrada mais democráticas para o mundo da tecnologia no Brasil, e não é só para quem escreve código. Gente de design, de negócios, de comunicação, de saúde, de direito aparece por lá. O objetivo nem sempre é ganhar. Muitas vezes é aprender, conhecer gente e sair com algo concreto no portfólio.
+
+Se você nunca pisou em um, a ideia pode parecer intimidadora. Maratona de programação, equipe aleatória, pitch no final, jurados avaliando. Respira. A maior parte das pessoas que está ali também está participando pela primeira vez. O clima costuma ser muito mais colaborativo do que competitivo, e os organizadores montam a estrutura justamente para quem nunca fez isso antes. O que segue é um mapa honesto do que esperar, do que levar e de como se preparar sem enlouquecer.
+
+## O que exatamente é um hackathon
+
+Hackathon é um evento de curta duração, geralmente entre 24 e 72 horas, em que equipes se juntam para criar uma solução para um problema proposto. A palavra vem da junção de "hack" com "marathon", e o "hack" aqui não tem nada a ver com invadir sistema dos outros. Significa construir algo de forma rápida, criativa, muitas vezes improvisada. É a cultura do protótipo, do "vamos ver se funciona" em vez do "vamos planejar seis meses antes de escrever a primeira linha".
+
+O formato clássico funciona assim. Os organizadores definem um tema ou uma lista de desafios. Pode ser saúde pública, mobilidade urbana, educação, sustentabilidade, finanças pessoais, acessibilidade, qualquer coisa. Os participantes se inscrevem, formam times e recebem um tempo limitado para desenvolver uma proposta. No fim, cada equipe apresenta o que fez para uma banca de jurados. Os melhores projetos levam prêmios, que vão de dinheiro a mentoria, passando por equipamentos e vagas em programas de aceleração.
+
+Existe uma variação importante que confunde muita gente. Nem todo hackathon é de programação. Há hackathons de design, de dados abertos, de conteúdo, de políticas públicas, até de culinária, acredite. O que define o evento é a estrutura de tempo curto e o desafio coletivo, não a tecnologia em si. Em muitos eventos, metade das equipes termina com um protótipo que mal funciona, mas com uma apresentação impecável. Isso é normal e faz parte do jogo.
+
+## De onde veio essa moda e por que ela pegou no Brasil
+
+A origem costuma ser atribuída a encontros de desenvolvedores nos Estados Unidos e no Canadá, lá pelos anos 2000, quando comunidades de software livre começaram a marcar sprints intensivas de codificação. A ideia se espalhou para empresas, universidades e setores públicos. No Brasil, os primeiros eventos ganharam força por volta de 2010, puxados por comunidades de tecnologia, faculdades e algumas empresas de internet.
+
+De lá para cá, o formato se popularizou de um jeito curioso. Hoje você encontra hackathons promovidos por bancos, operadoras de telefonia, tribunais de justiça, prefeituras, ONGs, hospitais e até times de futebol. Cada um com um objetivo diferente. Uma operadora pode querer ideias para melhorar o atendimento ao cliente. Um tribunal pode buscar formas de tornar processos mais transparentes. Uma prefeitura pode querer soluções para mobilidade em bairros periféricos.
+
+Essa variedade é ótima para quem está começando. Significa que você não precisa esperar o hackathon perfeito. Existe opção quase todo mês, em formato online ou presencial, gratuito ou com inscrição simbólica. O que muda é o nível de exigência. Alguns são voltados para iniciantes e têm workshops durante o evento. Outros são mais disputados e reúnem gente com bastante experiência. Ler o regulamento antes de se inscrever faz toda a diferença.
+
+## Quem pode participar, sem mito e sem desculpa
+
+O mito mais comum é achar que só programador entra. Falso na maioria dos casos. Um time de hackathon precisa de perfis variados. Alguém que entenda do problema, alguém que saiba desenhar a solução, alguém que consiga construir a parte técnica e alguém que saiba comunicar tudo isso no pitch final. Se você é bom em apresentar, já tem um lugar garantido em muita equipe.
+
+Estudantes de ensino médio, universitários, profissionais formados, gente em transição de carreira, pessoas aposentadas. Todos aparecem. Alguns eventos são exclusivos para mulheres, para pessoas negras, para estudantes de escola pública, justamente para ampliar a participação de grupos sub-representados no setor. Vale procurar esses recortes, porque costumam ter ambientação mais acolhedora para quem está começando.
+
+Não saber programar não é impedimento. Você pode entrar como pessoa de produto, de design, de pesquisa, de comunicação. Pode cuidar da apresentação, montar o roteiro do pitch, pesquisar dados sobre o problema, entrevistar usuários durante o evento. Tudo isso conta ponto na avaliação final. Muita equipe perde porque tem um protótipo bonito e uma história mal contada. Aí entra quem sabe contar história.
+
+## O que esperar da dinâmica de um evento
+
+No primeiro dia, geralmente à noite de uma sexta-feira, acontece a abertura. Os organizadores explicam as regras, apresentam os desafios, mostram os recursos disponíveis, como APIs, conjuntos de dados e ferramentas. Depois vem a formação de equipes. Em alguns eventos, você já se inscreve com time fechado. Em outros, faz uma rodada de apresentação rápida, tipo um pitch de um minuto, e as pessoas vão se juntando. É meio caótico, meio divertido, e funciona.
+
+A madrugada é o momento mais famoso e também o mais mitificado. Nem todo mundo vira a noite. Muita gente dorme algumas horas em colchonete, sofá ou canto de sala. Eventos bem organizados oferecem espaço de descanso, café, lanches e às vezes até massagem. Nos últimos anos, cresceu a preocupação com saúde mental e com ritmo sustentável. Dormir não é vergonha, é estratégia. Time exausto erra mais e apresenta pior.
+
+No sábado e no domingo, o trabalho engrena. As equipes se dividem em tarefas, algumas usam metodologias ágeis, outras simplesmente improvisam. Mentores circulam pelas mesas oferecendo ajuda. É comum ter workshops paralelos sobre temas como validação de ideia, pitch, uso de ferramentas específicas. No domingo à tarde, as submissões fecham. Aí começa a fase de apresentação para os jurados, geralmente cinco a dez minutos por equipe, mais perguntas.
+
+## Os bastidores que ninguém conta
+
+Tem uma parte do hackathon que não aparece nos posts do LinkedIn. O nervosismo antes de formar equipe. A sensação de estar perdido no meio de tanta gente que parece saber mais. O momento em que o código não roda e falta uma hora para a entrega. Isso tudo é normal e passa. A maioria das pessoas sai do primeiro evento com a impressão de que aprendeu mais em um fim de semana do que em um semestre de curso.
+
+Outro detalhe é o barulho. Hackathon é ambiente barulhento, cheio de gente falando ao mesmo tempo, música, risada, teclado. Se você tem dificuldade com isso, procure eventos menores ou leve fone de ouvido com cancelamento de ruído. Também vale conversar com a organização sobre necessidades específicas, como acessibilidade, alimentação restrita ou espaço tranquilo. Boa parte dos eventos já se prepara para isso.
+
+Existe ainda a questão das expectativas. Muita gente entra achando que vai criar o próximo grande aplicativo. A realidade é que a maioria dos projetos morre no domingo à noite. E está tudo bem. O valor do hackathon não está no produto final, está no processo, nas conexões, no aprendizado acelerado. Quem entende isso aproveita muito mais.
+
+## Como escolher o hackathon certo para começar
+
+Não saia se inscrevendo no primeiro que aparecer. Alguns critérios ajudam a filtrar. Primeiro, veja se o evento é para iniciantes ou se tem trilha específica para quem nunca participou. Muitos indicam isso na descrição. Segundo, confira se é online, presencial ou híbrido. Se for seu primeiro, o presencial costuma ser mais rico em experiência, mas o online é mais acessível para quem mora longe dos grandes centros.
+
+Terceiro, olhe o tema. Escolha algo que você minimamente entende ou se interessa. Vai ser muito mais fácil contribuir em um desafio de saúde se você já teve contato com o assunto, mesmo que seja só na vida pessoal. Quarto, pesquise a reputação do evento. Grupos de tecnologia, comunidades no Discord e no Telegram costumam ter relatos de quem já participou. Se ninguém nunca ouviu falar, desconfie um pouco.
+
+Quinto, veja o tamanho. Eventos com centenas de pessoas têm mais energia, mas menos atenção individual. Eventos menores, com trinta ou cinquenta participantes, costumam ser mais acolhedores para quem está começando. Sexto, confira o que está incluído. Alimentação, transporte, hospedagem, certificado. Isso pesa no bolso e na logística. Muitos eventos gratuitos são ótimos, mas você precisa levar seu próprio lanche e se virar com o deslocamento.
+
+## Passo a passo para o seu primeiro hackathon
+
+Antes de qualquer coisa, monte um pequeno kit pessoal. Isso evita correria de última hora e ajuda a manter o foco no que importa. A lista abaixo serve para eventos presenciais, com ajustes para o formato online.
+
+- Leve notebook, carregador, extensão com várias tomadas e um power bank. Cabo de rede também pode salvar se o wi-fi do local travar.
+
+- Coloque na mochila uma garrafa de água, lanches leves, analgésico, escova de dentes e uma muda de roupa. Fone de ouvido ajuda a concentrar.
+
+- Baixe antes as ferramentas que pretende usar. Nem todo evento tem internet rápida para instalar tudo na hora. Confira também se o notebook está com espaço em disco.
+
+- Estude o regulamento com calma. Prazos de submissão, critérios de avaliação, regras sobre uso de código pronto. Isso evita desclassificação boba.
+
+- Chegue cedo no primeiro dia. É o momento de conhecer pessoas, entender o espaço e formar equipe sem pressa. Quem chega atrasado pega os times já montados.
+
+- Na hora de formar equipe, busque complementaridade. Se todos programam bem mas ninguém fala em público, o pitch vai ser fraco. Se todos são bons de apresentação mas ninguém constrói, o protótipo não sai.
+
+- Defina um escopo pequeno e realista nas primeiras horas. O erro clássico é querer resolver um problema gigante e não entregar nada. Melhor um protótipo simples que funciona do que uma ideia enorme que não sai do papel.
+
+- Divida tarefas com clareza. Alguém cuida do código, alguém do design, alguém da pesquisa, alguém do pitch. Combine pontos de checagem a cada poucas horas para não descobrir problema só no final.
+
+- Documente enquanto faz. Anote decisões, dificuldades, aprendizados. Isso ajuda no pitch e depois vira material para portfólio e entrevista.
+
+- No pitch, conte uma história. Comece pelo problema real, mostre a solução funcionando, diga o que aprenderam. Não encha de termo técnico se a banca não for técnica.
+
+- Durma. Sério. Algumas horas de sono fazem mais pelo seu projeto do que três energéticos seguidos.
+
+- No fim, troque contato com as pessoas. O networking é o prêmio mais duradouro de qualquer hackathon.
+
+## Erros comuns de quem está começando
+
+O primeiro erro é se inscrever e não aparecer. Parece óbvio, mas acontece muito. Isso queima sua reputação com a organização e ocupa vaga de alguém que queria participar. Se não puder ir, avise com antecedência. O segundo erro é superestimar o tempo. Em hackathon, tudo demora mais do que parece. Configurar ambiente, integrar API, resolver bug bobo. Planeje com folga.
+
+O terceiro erro é ignorar o problema para focar só na tecnologia. A banca quase sempre valoriza solução que faz sentido para o usuário, não a mais sofisticada tecnicamente. O quarto é não pedir ajuda. Os mentores estão ali exatamente para isso. Gente que passa o evento inteiro travada em um detalhe e não chama ninguém acaba perdendo tempo precioso.
+
+O quinto erro é brigar por protagonismo. Hackathon não é lugar para disputar quem manda mais. Times que funcionam bem são os que respeitam o ritmo de cada um e dividem o crédito. O sexto erro é sair sem dar feedback para a organização. Isso ajuda a melhorar os próximos eventos e mostra que você se importa com a comunidade.
+
+## O que você leva para casa depois
+
+Além do possível prêmio, o hackathon entrega coisas que não cabem em troféu. Você sai com um projeto no portfólio, mesmo que simples. Sai com contatos que podem virar colegas de trabalho, sócios ou amigos. Sai com uma noção mais realista de como se constrói produto do zero, com prazo curto e recurso limitado. Sai com mais confiança para falar em público, porque o pitch força isso.
+
+Muita gente consegue o primeiro estágio ou a primeira vaga em tecnologia depois de participar de hackathon. Não porque ganhou, mas porque mostrou iniciativa, aprendeu a trabalhar em equipe e teve algo concreto para mostrar em entrevista. Empresas valorizam quem se joga em desafio novo, mesmo sem garantia de sucesso. E o mercado de tecnologia no Brasil, apesar dos altos e baixos, continua carente de gente que sabe resolver problema na prática.
+
+Existe também o efeito na sua própria cabeça. Depois de um hackathon, você percebe que consegue aprender rápido, que dá conta de coisa que parecia impossível, que trabalhar sob pressão é desconfortável mas possível. Essa sensação costuma transbordar para outras áreas da vida. Volta para o trabalho, para a faculdade, para os projetos pessoais com outra energia.
+
+## Onde encontrar hackathons para participar
+
+Os canais são variados e mudam com o tempo, mas alguns caminhos costumam funcionar. Comunidades de tecnologia no Discord, no Telegram e em grupos de WhatsApp divulgam eventos com frequência. Universidades, especialmente as públicas e as com cursos fortes de computação, promovem hackathons abertos ao público externo. Empresas de tecnologia, bancos e operadoras costumam anunciar em suas próprias redes sociais e em plataformas de inscrição.
+
+Plataformas de eventos e sites de comunidades de programação também concentram listas atualizadas. Vale seguir perfis de organizações que promovem hackathon com regularidade. E vale perguntar para pessoas que já participaram. Quem está no meio sempre sabe de algo rolando. Se você está começando agora, escolha um evento pequeno, online ou na sua cidade, e trate como treino. O segundo vai ser mais fácil que o primeiro.
+
+Não precisa esperar estar pronto. Ninguém está. A graça do hackathon é justamente essa. Você entra com o que tem, aprende no caminho e sai diferente de como entrou. Se ficar esperando o momento perfeito, o curso completo, o time ideal, o evento fica sempre para depois. Escolha um, inscreva-se e apareça. O resto se ajeita durante o fim de semana, como acontece com quase tudo que vale a pena na vida.

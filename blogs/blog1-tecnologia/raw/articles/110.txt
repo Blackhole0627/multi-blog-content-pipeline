@@ -1,0 +1,141 @@
+Seu computador tem uma pasta chamada Downloads com arquivos de 2019. Tem três cópias do mesmo contrato de aluguel, uma em PDF, uma em DOCX e uma que você nem lembra de onde veio. Tem foto de boleto salva em JPG porque o app do banco só deixava assim. E tem aquela pasta "coisas" que você criou com pressa numa terça-feira e nunca mais abriu.
+
+Isso não é sinal de desorganização pessoal. É o resultado previsível de usar um computador todos os dias durante anos sem nunca parar para decidir onde cada coisa deveria morar. A boa notícia é que dá para resolver isso de uma vez, sem passar o fim de semana inteiro acordado e sem comprar nenhum aplicativo caro.
+
+O que separa um computador organizado de um caos é uma decisão só. Você precisa escolher um lugar para cada tipo de arquivo e seguir essa escolha sempre. O resto é consequência. Este guia mostra como montar esse sistema do zero, como migrar o que já existe e como manter tudo no lugar sem virar escravo da organização.
+
+## Por que a bagunça sempre volta
+
+Você já tentou organizar antes. Criou pastas bonitas, renomeou meia dúzia de arquivos, prometeu que dessa vez seria diferente. Duas semanas depois, tudo voltou ao mesmo estado. Isso acontece porque a maioria das pessoas organiza por assunto, e assunto é uma coisa que muda de nome na sua cabeça toda hora.
+
+Pensa num arquivo de comprovante de pagamento do plano de saúde. Ele é saúde? É finanças? É documentação pessoal? Dependendo do dia, você vai salvar em qualquer uma dessas pastas. E aí, na próxima vez que precisar dele, vai procurar nas três e não achar em nenhuma.
+
+O segundo motivo é mais simples ainda. A pasta Downloads virou o lugar onde tudo cai por padrão. Navegador baixa ali, aplicativo salva ali, anexo de e-mail vai ali. Se você não cria uma regra clara de saída, essa pasta vira um depósito e você perde a coragem de mexer nela.
+
+Existe também o problema das duplicatas. A mesma foto do RG aparece em cinco lugares porque você mandou por WhatsApp, por e-mail, salvou num pen drive e depois copiou para o computador novo. Cada cópia parece inofensiva, mas juntas elas destroem qualquer sistema, porque você nunca sabe qual é a versão boa.
+
+A saída não é ter mais disciplina. É ter uma estrutura que funcione mesmo nos dias em que você está com pressa e salva o arquivo no lugar errado. Isso é possível, e é mais fácil do que parece.
+
+## A regra dos três níveis
+
+Sistemas de organização profissional usam uma ideia simples. Nenhuma pasta precisa ter mais de três níveis de profundidade. Isso significa que você abre a raiz, entra numa pasta, entra em outra e encontra o arquivo. No máximo.
+
+Pensa em como isso funciona na prática. Você tem uma pasta principal chamada Arquivos. Dentro dela, seis ou sete pastas grandes, tipo Documentos, Fotos, Trabalho, Finanças, Estudos e Pessoal. Dentro de cada uma dessas, no máximo uma subpasta. Dentro dessa subpasta, os arquivos direto.
+
+Se você precisa de um quarto nível para achar algo, o problema não é a falta de pasta. É que você está tentando categorizar demais. E categorizar demais é o caminho mais rápido para nunca mais achar nada.
+
+Um exemplo concreto. Em vez de criar Arquivos > Finanças > Bancos > Itaú > 2024 > Extratos, você cria Arquivos > Finanças > Extratos 2024. Todos os extratos do ano ficam ali, de qualquer banco, ordenados por nome que inclui o mês. Você acha em três cliques e não precisa lembrar em qual banco estava quando baixou o arquivo.
+
+Essa regra também resolve o problema de pastas vazias. Quando você cria estrutura demais antes de ter arquivo, acaba com dezenas de pastas sem uso, e isso confunde mais do que ajuda.
+
+## Nomes de arquivo que você consegue achar
+
+A maioria das pessoas nomeia arquivo do jeito que o sistema sugeriu. Fica "documento 1.pdf", "IMG_20230412.jpg", "scan0003.pdf". Três meses depois, ninguém sabe o que é aquilo.
+
+A regra prática é começar pelo que você vai lembrar primeiro. Geralmente é o tipo de documento, não a data. Depois vem a data em formato que ordena certo, ano, mês, dia. Por último, um detalhe que diferencia de outros parecidos.
+
+Em vez de "contrato.pdf", use "Contrato aluguel apartamento 2024-03-15 assinado.pdf". Em vez de "nota.pdf", use "Nota fiscal notebook 2024-01-22.pdf". Parece exagero, mas quando você tem trinta arquivos parecidos, esse padrão é o que salva.
+
+Para fotos, a data importa mais que o nome, porque você raramente vai lembrar o nome de uma foto. O ideal é deixar o app de fotos cuidar disso e manter as fotos fora da estrutura de documentos. Fotos e vídeos pesam muito e seguem uma lógica própria de linha do tempo.
+
+Cuidado com acentos e caracteres especiais em nomes de arquivo. Eles funcionam no seu computador, mas podem quebrar quando você sincroniza com serviços de nuvem ou manda por e-mail. Use letras simples, números, hífen e underline. Nada de barra, dois pontos ou interrogação, porque o sistema não aceita.
+
+## Documentos, fotos e o que vai para a nuvem
+
+Nem tudo merece o mesmo tratamento. Antes de organizar qualquer coisa, vale dividir seus arquivos em três grupos. Isso evita que você gaste energia no lugar errado.
+
+O primeiro grupo é o dos documentos que você precisa guardar por anos. Contratos, comprovantes de imposto de renda, exames médicos, certidões, apólices. Esses são pequenos, pesam pouco e são os mais importantes. Merecem backup em pelo menos dois lugares.
+
+O segundo grupo é o das fotos e vídeos pessoais. Ocupam muito espaço, têm valor emocional e você quase nunca abre por nome de arquivo. Serviços como Google Fotos, iCloud e similares resolvem bem esse caso, com busca por rosto, lugar e data.
+
+O terceiro grupo é o dos arquivos de trabalho ou estudo em andamento. São os que mudam toda semana, que você edita, que têm versões. Esses precisam de sincronização entre dispositivos mais do que de arquivamento.
+
+A nuvem resolve dois dos três grupos sem esforço. Um serviço de armazenamento como Google Drive, OneDrive ou Dropbox sincroniza documentos e arquivos de trabalho automaticamente. Você não precisa pensar em backup, porque a cópia existe em outro lugar. Só não confie só na nuvem, porque conta suspensa, cartão vencido e serviço fora do ar acontecem.
+
+A regra prática de backup segue uma lógica simples. Você precisa de três cópias dos arquivos importantes, em dois tipos de mídia diferentes, com uma delas fora de casa. Computador, HD externo e nuvem já cumprem isso. Não é caro nem complicado.
+
+## O que fazer com a pasta Downloads
+
+A pasta Downloads é o ponto mais crítico de qualquer computador bagunçado. Ela acumula tudo e não tem estrutura nenhuma. A boa notícia é que dá para domar essa pasta com duas regras simples.
+
+A primeira é que Downloads não é lugar de guardar. É lugar de passagem. Todo arquivo que entra ali precisa sair em algum momento. Ou vai para uma pasta definitiva, ou é apagado, ou vai para a lixeira sem culpa.
+
+A segunda é que você precisa de um momento fixo para esvaziar. Pode ser toda sexta, pode ser todo dia 1º, pode ser sempre que a pasta passar de vinte arquivos. O que importa é ter um gatilho, não um compromisso vago de "vou olhar depois".
+
+Quando for limpar, faça na ordem. Primeiro apague o que claramente é lixo. Instaladores de programas que você já instalou, PDFs de boleto já pago, prints de conversa que não servem para nada. Boa parte do que está ali pode simplesmente sumir.
+
+Depois, mova o que tem valor. Contrato vai para a pasta de documentos. Foto vai para o app de fotos. Nota fiscal vai para finanças. Se você não sabe onde colocar, crie uma pasta chamada "Revisar" e jogue ali. Só não deixe na Downloads.
+
+Por último, esvazie a lixeira de verdade. Muita gente apaga arquivo mas deixa na lixeira por meses, e isso ocupa espaço do mesmo jeito.
+
+## Um passo a passo para fazer tudo de uma vez
+
+Reservar um período único para organizar tudo é mais eficiente que tentar arrumar aos poucos. Aos poucos, você cansa antes de terminar e o serviço fica pela metade. Reserve duas ou três horas num dia tranquilo e siga esta sequência.
+
+1. Faça backup antes de mexer em qualquer coisa. Copie as pastas principais para um HD externo ou para a nuvem. Se algo der errado no meio do processo, você não perde nada.
+
+2. Crie a estrutura base na raiz do disco. Uma pasta chamada Arquivos com sete subpastas, Documentos, Finanças, Trabalho, Estudos, Pessoal, Projetos e Revisar.
+
+3. Comece pelos documentos. Abra uma pasta antiga por vez e mova os arquivos para o lugar certo. Renomeie os que estão com nome genérico. Apague duplicatas evidentes.
+
+4. Deixe as fotos para depois. Se você usa app de fotos, apenas confirme que a sincronização está ativa e remova as cópias manuais espalhadas pelo disco. Não tente renomear foto por foto.
+
+5. Ataque a pasta Downloads. Aplique a regra da passagem, esvazie quase tudo e crie o hábito de revisar toda semana.
+
+6. Configure a sincronização. Escolha uma pasta principal para sincronizar com a nuvem, geralmente a de Documentos, e deixe o resto fora para não gastar espaço.
+
+7. Crie uma pasta chamada Revisar. Tudo que você não souber onde colocar vai para lá. Reserve um momento por mês para esvaziá-la.
+
+8. Anote suas próprias regras. Um arquivo de texto simples com as decisões que você tomou ajuda a manter o sistema depois, quando a memória falhar.
+
+Esse passo a passo leva menos tempo do que parece. O trabalho pesado é o primeiro, quando você lida com anos de acúmulo. Depois, vira rotina leve.
+
+## Como manter a organização sem esforço
+
+Organizar uma vez é fácil. Manter é o desafio real. A boa notícia é que sistemas que exigem pouca decisão duram mais que sistemas perfeitos.
+
+A primeira regra de manutenção é salvar no lugar certo desde o começo. Quando o arquivo chega, ele já vai para a pasta correta. Isso elimina a etapa de arrumar depois, que é onde a maioria das pessoas desiste.
+
+A segunda é fazer revisões curtas e frequentes. Cinco minutos por semana na pasta Downloads resolvem mais que três horas uma vez por ano. O acúmulo é o inimigo, não o volume.
+
+A terceira é não ter medo de apagar. A maioria das pessoas guarda arquivo por segurança emocional, não por necessidade real. Se você não abriu em dois anos e não é documento legal, provavelmente pode ir. Guardar tudo é uma forma de não decidir, e isso custa tempo toda vez que você procura algo.
+
+A quarta é padronizar o que dá. Se você usa um padrão de nome, siga sempre. Se definiu três níveis de pasta, não crie um quarto. Consistência vale mais que otimização caso a caso.
+
+Por último, aceite que vai ter recaída. Vai ter semana corrida, vai ter viagem, vai ter projeto que bagunça tudo. Isso não significa que o sistema falhou. Significa que você precisa de uma revisão maior de tempos em tempos, e depois volta ao ritmo normal.
+
+## Ferramentas que ajudam, sem complicar
+
+Você não precisa de aplicativo caro para manter arquivos organizados. O sistema operacional já resolve quase tudo. Mas algumas ferramentas gratuitas facilitam a vida em pontos específicos.
+
+Para busca, o próprio sistema costuma bastar. Windows e macOS têm busca por nome e por conteúdo razoavelmente boa. Se você renomeia arquivos com padrão, essa busca resolve quase todos os casos.
+
+Para duplicatas, existem programas gratuitos que comparam arquivos e mostram o que está repetido. Vale rodar uma vez por semestre, principalmente em pastas de fotos e documentos antigos.
+
+Para sincronização, qualquer serviço de nuvem serve. O importante é escolher um e usar sempre o mesmo. Trocar de serviço toda hora recria o problema de arquivos espalhados.
+
+Para backup, um HD externo simples resolve. Não precisa ser o mais caro nem o mais rápido. Precisa ser confiável e ser usado com regularidade.
+
+O que não ajuda é acumular aplicativos de organização diferentes. Cada um cria sua própria estrutura, e você acaba com cinco sistemas que não conversam entre si. Menos ferramentas, mais uso consistente.
+
+## Erros comuns que atrasam tudo
+
+Tentar organizar por projeto em vez de por tipo de arquivo é um erro clássico. Projetos acabam, mudam de nome e se sobrepõem. Tipos de arquivo são estáveis. Documento é documento em qualquer contexto.
+
+Outro erro é criar estrutura perfeita antes de ter conteúdo. Você monta trinta pastas, não usa metade e depois não lembra o que era cada uma. Melhor começar com poucas pastas e ir ajustando conforme a necessidade aparece.
+
+Renomear tudo de uma vez também costuma dar errado. Você cansa antes de terminar, deixa o serviço pela metade e cria ainda mais confusão. Faça por partes, uma pasta por dia se precisar.
+
+Confiar só na nuvem é outro problema. Conta suspensa, cartão vencido, serviço com falha, tudo isso acontece. Backup local é chato, mas é o que salva em situações reais.
+
+Por último, tentar organizar sem apagar nada. Se você não excluir arquivos, vai continuar com o mesmo volume de coisa, só que distribuído em pastas. Organização sem descarte é só mudança de lugar.
+
+## Um sistema que dura anos
+
+Computador organizado não é aquele com pastas bonitas e nomes perfeitos. É aquele em que você acha o que precisa em menos de um minuto, sem depender de memória nem de sorte. Esse é o teste real.
+
+A estrutura de três níveis, o padrão de nomes, a regra da pasta Downloads e a revisão semanal resolvem a maior parte do problema. O resto é ajuste fino, feito com o tempo, conforme você percebe o que funciona no seu dia a dia.
+
+Vale lembrar que o objetivo não é ter um sistema impecável. É ter um sistema que sobreviva à sua vida real, com semanas corridas, arquivos que chegam de todo lado e a tentação constante de deixar para depois.
+
+Comece hoje, mesmo que seja só criando a pasta Arquivos e movendo três documentos. O resto vem com o uso. Em pouco tempo, você vai abrir o computador e não sentir mais aquele peso de não saber onde as coisas estão.

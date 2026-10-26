@@ -1,0 +1,127 @@
+Você abre o celular e vê uma mensagem do seu banco. Diz que sua conta foi bloqueada por segurança e pede para clicar num link e confirmar seus dados. A mensagem parece normal, tem até o logo da instituição. Você clica. Pronto, a partir daí alguém pode ter acesso à sua conta, aos seus cartões, aos seus dados pessoais.
+
+Esse tipo de golpe tem nome. Phishing é a tentativa de enganar você para que entregue informações sensíveis por conta própria, achando que está fazendo algo seguro. O criminoso não invade o sistema do banco. Ele invade a sua confiança. E é por isso que funciona tanto.
+
+A palavra vem do inglês "fishing", que significa pescar. A ideia é exatamente essa. O golpista joga a isca, um e-mail, um SMS, uma mensagem no WhatsApp, e espera que alguém morda. Quanto mais gente receber, maior a chance de alguém clicar. Não é um ataque direcionado a uma pessoa específica na maioria dos casos. É uma armadilha em massa, barata de espalhar e surpreendentemente eficaz.
+
+Neste texto você vai entender o que é phishing, quais são os tipos mais comuns no Brasil, como identificar uma tentativa antes de cair, o que fazer se já clicou em algo suspeito e como se proteger no dia a dia. Sem jargão técnico desnecessário, com exemplos que você provavelmente já viu ou vai ver.
+
+## Como o golpista pensa para te fisgar
+
+O phishing explora emoções. Pressa, medo, curiosidade, ganância. O golpista quer que você aja antes de pensar. Por isso as mensagens costumam ter tom de urgência. "Sua conta será bloqueada em 24 horas", "Você tem um pacote aguardando pagamento de taxa", "Seu nome está no Serasa, regularize agora".
+
+Essa urgência é artificial. Bancos não resolvem problemas de segurança por link em SMS. Correios não cobram taxa por mensagem de texto com link encurtado. O Procon não manda boleto por WhatsApp. Mas quando você está no meio do dia, cansado, com mil coisas na cabeça, a mensagem ativa um reflexo. Você clica.
+
+Outro gatilho é a autoridade. A mensagem vem em nome de uma instituição que você confia. Banco, Receita Federal, operadora de telefone, loja conhecida. O golpista copia logos, cores, até o jeito de escrever da empresa. Às vezes o e-mail parece vir do domínio oficial, mas tem uma letra trocada. "bradesco" vira "bradesc0", "gov.br" vira "gov-br.com".
+
+Tem também o gatilho do benefício. "Você ganhou um prêmio", "Sua restituição do imposto de renda está disponível", "Clique para receber o auxílio". A promessa de dinheiro fácil cega. E o golpista sabe disso.
+
+Por fim, o gatilho do medo. Ameaça de processo, de dívida, de exposição. "Seu CPF está sendo usado em atividades ilegais", "Temos fotos suas, pague para não divulgar". Esse tipo, chamado de sextorsão, é mais agressivo, mas segue a mesma lógica. Assustar para fazer você agir sem pensar.
+
+## Os tipos de phishing que circulam no Brasil
+
+O phishing clássico por e-mail ainda existe, mas perdeu espaço para outros canais. No Brasil, o campeão é o SMS. O golpe conhecido como smishing usa mensagens de texto curtas, com link encurtado. "Seu cartão foi bloqueado, acesse [link] para desbloquear". O link leva a uma página falsa que imita o site do banco.
+
+O WhatsApp também virou terreno fértil. Mensagens de números desconhecidos com ofertas de emprego, falsas centrais de atendimento, cobranças de contas que você não reconhece. O golpista às vezes usa a foto de um conhecido, clonando o perfil, para pedir dinheiro emprestado. É o phishing de relacionamento, que explora a confiança pessoal.
+
+Tem o phishing por ligação, chamado de vishing. Alguém liga se passando por funcionário do banco, diz que há uma transação suspeita e pede para você confirmar dados, senha, token. A voz é treinada, o script é profissional. Muitas vezes a ligação começa com uma gravação que imita a central oficial.
+
+E existe o phishing por QR code, o quishing. Você escaneia um código achando que vai acessar o cardápio de um restaurante ou pagar um estacionamento, e cai numa página falsa que pede seus dados. QR codes em locais públicos, como adesivos colados sobre o original, são um risco crescente.
+
+Há ainda o phishing de página falsa, que não depende de mensagem. O golpista cria um site idêntico ao de uma loja ou banco, e usa anúncios patrocinados para aparecer no topo das buscas. Você digita "telefone do banco X" no Google, clica no primeiro resultado, e cai no site falso. A página parece perfeita. O número de atendimento leva direto para o golpista.
+
+## Sinais de alerta que quase nunca falham
+
+Aprender a reconhecer phishing é como aprender a identificar uma nota falsa. No começo você precisa prestar atenção, depois vira automático. Alguns sinais são quase universais.
+
+O primeiro é o remetente. Confira o endereço de e-mail ou o número de telefone. Bancos usam domínios próprios e números curtos ou oficiais. Se o e-mail termina em algo estranho, ou o número é um celular comum, desconfie. No SMS, desconfie de números que começam com DDD de outro estado e não são de centrais conhecidas.
+
+O segundo é o link. Antes de clicar, passe o mouse por cima, no computador, ou toque e segure no celular para ver o endereço real. O texto pode mostrar "www.banco.com.br", mas o link real leva para "banco-seguro.xyz". Encurtadores como bit.ly escondem o destino. Se a mensagem tem um link encurtado e pede dados, é quase certo que é golpe.
+
+O terceiro é o pedido de informação. Nenhum banco, loja ou órgão público pede senha, token, CVV ou dados completos do cartão por mensagem, e-mail ou ligação. Se pedirem, é golpe. Essa regra é simples e vale para quase tudo.
+
+O quarto é o tom. Erros de português, concordância estranha, palavras fora do contexto. "Prezado cliente, sua conta está sendo suspendida". Bancos escrevem bem, revisam, têm padrão. Um erro grosseiro é sinal de alerta. Mas atenção, golpes bem feitos não têm erro nenhum. Então não confie só nisso.
+
+O quinto é a pressão. "Aja agora", "última chance", "evite o bloqueio". Instituições sérias não ameaçam. Elas informam e dão prazo. Se a mensagem quer que você resolva em minutos, desconfie.
+
+O sexto é o canal. Se você recebeu um SMS do banco, mas nunca cadastrou seu número para receber alertas, estranho. Se recebeu um e-mail de uma loja onde nunca comprou, estranho. Se recebeu uma cobrança de uma conta que não faz sentido, estranho.
+
+## Exemplos que já aconteceram com muita gente
+
+Vale olhar casos concretos para fixar o padrão. Um dos golpes mais comuns é o falso funcionário do banco. Você recebe uma ligação de alguém que diz ser da central de segurança. A pessoa fala que houve uma compra suspeita no seu cartão e pergunta se você reconhece. Você diz que não. Ela então pede para você confirmar seus dados para cancelar a compra. Nesse momento, ela já tem seu nome, seu CPF, e está pescando o resto.
+
+Outro clássico é o falso SMS dos Correios. "Seu pacote está retido, pague a taxa de liberação". O link leva a uma página que pede dados do cartão. Muita gente cai porque está esperando uma encomenda. O golpista conta com essa coincidência.
+
+Tem o golpe do falso emprego. Você recebe mensagem no WhatsApp oferecendo trabalho remoto, meio período, salário alto. A "recrutadora" pede seus dados para cadastro e depois pede um depósito para "liberar o material de trabalho". Ou pede para você instalar um aplicativo que, na verdade, dá acesso ao seu celular.
+
+E tem o golpe do falso parente. Alguém manda mensagem dizendo que trocou de número, que é seu filho, sobrinho, primo. Depois de um tempo conversando, pede dinheiro emprestado. A foto de perfil é de alguém conhecido. O tom é familiar. Muita gente só descobre que era golpe depois de transferir.
+
+Em todos esses casos, o padrão é o mesmo. O golpista cria uma história verossímil, usa um canal comum, e pede algo. Dados, dinheiro, clique. A história muda, a lógica não.
+
+## O que fazer se você clicou ou entregou dados
+
+Se você clicou no link mas não preencheu nada, respire. Só o clique, em geral, não instala vírus no celular ou no computador. O risco maior é se você digitou dados. Mas mesmo assim, dá para agir.
+
+Primeiro, se você digitou senha ou dados do cartão, ligue imediatamente para o banco, no número oficial que está no verso do cartão ou no site digitado por você. Não use o número que veio na mensagem suspeita. Peça o bloqueio do cartão e a troca de senhas. Se possível, ative a verificação em duas etapas.
+
+Segundo, se você instalou algum aplicativo, desinstale. Se possível, faça uma verificação no celular com um antivírus confiável. Se o aplicativo pedia acessibilidade ou permissão de administrador, revogue essas permissões antes de desinstalar, se conseguir.
+
+Terceiro, registre um boletim de ocorrência. Pode ser online, na delegacia virtual do seu estado. Isso ajuda a proteger você caso alguém use seus dados para abrir contas ou pedir crédito no seu nome.
+
+Quarto, avise as pessoas próximas. Se clonaram seu WhatsApp, avise seus contatos para não caírem no golpe. Se seus dados vazaram, fique atento a cobranças e movimentações estranhas nos próximos meses.
+
+Quinto, monitore seu CPF. Serviços como o Registrato, do Banco Central, mostram contas e empréstimos no seu nome. O Serasa e o SPC têm consultas gratuitas. Vale olhar de tempos em tempos.
+
+E se o prejuízo financeiro já aconteceu, procure o banco e registre a contestação. Em muitos casos, se você agiu rápido, é possível reverter. Mas o prazo importa. Não deixe para depois.
+
+## Checklist para não cair em phishing
+
+Aqui vai um roteiro prático para usar sempre que receber uma mensagem suspeita.
+
+- Pare. Não clique, não responda, não ligue para o número da mensagem. A urgência é do golpista, não sua.
+
+- Confira o remetente. Veja o e-mail completo, o número de telefone, o nome do perfil. Procure erros, letras trocadas, domínios estranhos.
+
+- Não use o link. Se a mensagem diz que é do seu banco, abra o aplicativo oficial do banco ou digite o endereço você mesmo. Nunca acesse pelo link recebido.
+
+- Desconfie de pedidos de dados. Senha, token, CVV, foto de documento, selfie. Nenhum canal legítimo pede isso por mensagem.
+
+- Verifique por outro canal. Ligue para a central oficial, aquela que está no site ou no verso do cartão. Pergunte se há algo pendente. Se a mensagem era falsa, você descobre na hora.
+
+- Cheque o link antes de clicar. No computador, passe o mouse. No celular, toque e segure. Veja se o endereço real bate com o que a mensagem diz.
+
+- Desconfie de ofertas boas demais. Prêmio que você não concorreu, emprego com salário alto para tarefa simples, restituição que você não pediu. Quase sempre é golpe.
+
+- Ative a verificação em duas etapas. Em e-mail, banco, redes sociais. Isso não impede o phishing, mas dificulta o acesso caso sua senha vaze.
+
+- Use senhas diferentes para cada serviço. Se uma vazar, as outras ficam protegidas. Gerenciadores de senha ajudam nisso.
+
+- Mantenha o celular e o computador atualizados. Atualizações corrigem falhas que golpistas usam para invadir.
+
+- Evite clicar em links de mensagens que você não esperava. Mesmo que pareçam inofensivas. O golpe pode estar no link, não no texto.
+
+- Na dúvida, não faça nada. Espere, pergunte a alguém de confiança, procure o canal oficial. A pressa é sua inimiga.
+
+Esse checklist não é infalível, mas cobre a maioria dos casos. Quem segue esses passos reduz muito a chance de cair.
+
+## Como se proteger no dia a dia
+
+Proteção contra phishing não é um aplicativo que você instala e esquece. É um conjunto de hábitos. O principal é desconfiar por padrão. Não no sentido de viver paranoico, mas de tratar mensagens não solicitadas com cautela. Se você não pediu, se não esperava, se veio de um número ou e-mail estranho, trate como suspeito até prova em contrário.
+
+Outro hábito é centralizar o acesso. Em vez de clicar em links, abra o aplicativo oficial ou digite o endereço. Isso vale para banco, loja, rede social, e-mail. Leva alguns segundos a mais, mas evita a maioria dos golpes.
+
+Vale também cuidar da exposição dos seus dados. Quanto menos informação sua circular, menos munição o golpista tem. Evite colocar CPF, telefone e e-mail em qualquer cadastro. Use e-mail secundário para promoções. Não publique dados pessoais em redes sociais abertas. Cuidado com quizzes e joguinhos que pedem informações.
+
+Se você tem idosos na família, atenção redobrada. Eles são alvo preferencial. Converse, explique os golpes mais comuns, combine que nenhuma decisão financeira será tomada sem falar com alguém de confiança. Muitas vezes o golpista liga fingindo ser o filho ou o neto. Um combinado simples, tipo "nunca vou pedir dinheiro por mensagem", resolve.
+
+No trabalho, o phishing é uma porta de entrada para ataques maiores. Empresas costumam treinar funcionários para reconhecer e-mails falsos. Se você recebe um e-mail interno pedindo para clicar em um link ou baixar um anexo, confirme com a pessoa por outro canal antes. Pode ser alguém se passando por um colega.
+
+E lembre que golpe não tem cara. Não é só e-mail com erro de português. Tem golpe bem escrito, com site impecável, com atendente educado. O que denuncia é o pedido, não a aparência. Se pede dado sensível, se pede dinheiro, se pede clique, acenda o alerta.
+
+A tecnologia ajuda, mas não resolve tudo. Filtros de spam bloqueiam muita coisa, mas não tudo. Antivírus protegem contra programas maliciosos, mas não contra você entregar a senha. Verificação em duas etapas dificulta o acesso, mas não impede que você forneça o código para o golpista. A última linha de defesa é você.
+
+Phishing é um problema antigo e vai continuar existindo porque funciona. Enquanto houver alguém clicando, haverá golpista mandando. A boa notícia é que reconhecer é uma habilidade que se aprende. Depois de ver alguns exemplos, você começa a notar os padrões. A urgência falsa, o link estranho, o pedido de dado. Vira automático.
+
+Não precisa virar especialista em segurança. Precisa só desconfiar um pouco mais, conferir antes de clicar, e nunca entregar informação sensível por mensagem. Com esses três hábitos, você já está muito à frente da maioria. E se um dia cair, aja rápido. Ligar para o banco, bloquear o cartão, trocar senhas. O estrago pode ser pequeno se a resposta for rápida.
+
+No fim, phishing não é sobre tecnologia. É sobre confiança. O golpista se disfarça de algo confiável para você baixar a guarda. Reconhecer isso é o primeiro passo. E o mais importante.

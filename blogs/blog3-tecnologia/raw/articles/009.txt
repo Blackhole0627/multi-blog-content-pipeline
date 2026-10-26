@@ -1,0 +1,103 @@
+Comprar um celular novo costuma começar pela empolgação. Você vê o anúncio, compara com o modelo que já tem e a decisão parece tomada. Só que a tela é a parte que você vai encarar todos os dias, por horas, e é onde moram algumas das diferenças mais importantes entre aparelhos que parecem iguais na ficha técnica. Duas telas com a mesma resolução podem se comportar de formas bem distintas no sol, no escuro do quarto ou depois de meia hora de jogo.
+
+Quem troca de celular e se arrepende geralmente reclama de algo visual. A tela que reflete demais, o brilho que não sobe na rua, a cor lavada, o texto que cansa a vista. São detalhes que não aparecem em propaganda, mas aparecem no uso. E como a tela costuma ser a peça mais cara do aparelho, entender o que olhar ali também mostra onde o fabricante economizou para baixar o preço.
+
+Este guia passa pelos pontos que realmente mudam a experiência, do tipo de painel à taxa de atualização, passando por brilho, resolução, proteção e um teste rápido que você pode fazer na loja antes de pagar. A ideia é te dar critérios para decidir com a sua mão e o seu olho, não só com o número da etiqueta.
+
+## O tipo de painel muda tudo, e não é só marketing
+
+Existem basicamente dois tipos de tela na maioria dos celulares vendidos no Brasil. O LCD, ainda comum em modelos de entrada, e o OLED, que domina a faixa intermediária e premium. Cada um tem características próprias, e a diferença é visível quando você coloca os dois lado a lado.
+
+No LCD, a luz vem de uma camada atrás da tela e atravessa os cristais líquidos. Isso significa que o preto nunca é totalmente preto, porque a luz de fundo continua acesa mesmo quando o pixel deveria estar apagado. O resultado é um cinza escuro, que incomoda quem assiste muita coisa no escuro. Em compensação, telas LCD costumam ser mais baratas de produzir e não sofrem com burn-in, que é quando uma imagem fixa deixa marca na tela.
+
+No OLED, cada pixel emite luz própria. Quando precisa mostrar preto, o pixel simplesmente desliga. Isso dá contraste praticamente infinito e pretos de verdade. As cores tendem a ser mais vivas, e o consumo cai quando a tela mostra muito conteúdo escuro. O ponto de atenção é o burn-in. Se você passa horas com o mesmo elemento fixo na tela, como a barra de status ou o teclado de um jogo, existe o risco de aquilo ficar marcado com o tempo. Na prática, para quem troca de celular a cada dois ou três anos, isso raramente vira problema. Para quem usa o aparelho por muitos anos com brilho sempre no máximo, vale ficar atento.
+
+Se você vem de um celular com LCD e pega um OLED, a primeira impressão costuma ser de estranhamento, porque as cores parecem exageradas. Isso é normal e dá para ajustar nas configurações, mudando o perfil de cor para um modo mais natural. Vale testar na loja, se possível, para ver como você se adapta.
+
+## Brilho é o número que mais importa no dia a dia
+
+De nada adianta uma tela linda se você não enxerga nada na rua ao meio-dia. O brilho máximo é um dos fatores mais subestimados na compra, e é onde muitos celulares de entrada decepcionam. A especificação costuma aparecer em nits, e você vai ver valores que vão de algo em torno de 400 nits em modelos mais simples até mais de 1.500 nits em aparelhos premium.
+
+Esse número, porém, tem pegadinha. Existe o brilho típico, que é o que a tela entrega em uso normal, e o brilho de pico, que só é atingido em condições específicas, como quando o sensor detecta luz solar direta e o sistema aumenta tudo por alguns segundos. Muitos anúncios destacam o pico, que é bem maior que o típico. Se o material de divulgação só fala do pico, vale procurar o valor típico em reviews confiáveis. Uma tela com pico de 1.200 nits e típico de 600 nits não é a mesma coisa que uma com pico de 1.200 e típico de 1.000.
+
+Para o uso brasileiro, isso importa bastante. Sol forte, praia, futebol no domingo, trajeto de ônibus com janela aberta. Uma tela com brilho típico baixo vira um espelho nessas situações, e você acaba aumentando o brilho no máximo o tempo todo, o que consome bateria e ainda assim pode não resolver. Se você passa muito tempo na rua, priorize aparelhos com brilho típico mais alto, mesmo que custem um pouco mais.
+
+Existe também o brilho mínimo, que quase ninguém olha. É o quão escuro a tela consegue ficar. Um brilho mínimo alto demais atrapalha quem usa o celular na cama, de madrugada, com a luz do quarto apagada. Telas OLED costumam ir bem mais baixo nesse quesito, o que é uma vantagem para quem lê no escuro.
+
+## Resolução e densidade de pixels. O que faz diferença de verdade
+
+Você vai encontrar telas com resoluções que vão de HD a Quad HD, passando por Full HD e Full HD+. Na prática, para tamanhos de tela entre 6 e 6,8 polegadas, que é a maioria dos celulares atuais, a diferença entre Full HD+ e Quad HD é bem sutil no uso comum. Dá para perceber em conteúdo muito detalhado, como fotos ampliadas ou jogos com gráficos pesados, mas não é algo que muda a experiência de quem manda mensagem, vê vídeo e navega na internet.
+
+O que importa mais é a densidade de pixels, medida em ppi. Ela relaciona a resolução com o tamanho físico da tela. Uma tela grande com resolução baixa tem densidade baixa, e aí sim você enxerga os pixels, principalmente em textos. Uma densidade acima de 300 ppi já é considerada boa para uso geral. Acima de 400 ppi, o olho humano praticamente não distingue os pixels individuais a uma distância normal de uso.
+
+Isso significa que telas HD em aparelhos de 6,5 polegadas ou mais são um ponto de atenção. Elas podem parecer borradas em textos pequenos e em ícones. Se o orçamento está apertado, é melhor pegar um celular com tela um pouco menor e Full HD do que um com tela enorme e HD.
+
+Tem também a questão do formato. Telas mais alongadas, no formato 20:9 ou 21:9, são ótimas para ver vídeos em tela cheia e para segurar com uma mão, mas deixam faixas pretas quando o conteúdo é mais quadrado. Telas mais largas, no formato 16:9 ou 18:9, aproveitam melhor conteúdos antigos e alguns jogos. Isso é questão de gosto, mas vale reparar no formato antes de comprar, porque ele muda a sensação de uso.
+
+## Taxa de atualização. Quando os 120 Hz valem a pena
+
+A taxa de atualização é quantas vezes por segundo a tela redesenha a imagem. O padrão por muito tempo foi 60 Hz. Hoje, celulares intermediários e premium trazem 90 Hz, 120 Hz ou até mais. A diferença é imediatamente perceptível em animações, rolagem de páginas e jogos compatíveis. Tudo fica mais fluido, e o dedo parece que desliza melhor na tela.
+
+Só que nem todo 120 Hz é igual. Alguns aparelhos usam taxa adaptativa, que muda conforme o conteúdo. Quando você está lendo um texto parado, a tela cai para 10 Hz ou 1 Hz e economiza bateria. Quando você joga, sobe para 120 Hz. Outros aparelhos ficam travados em 120 Hz o tempo todo, o que consome mais energia. E existem ainda os que anunciam 120 Hz, mas só entregam isso em apps específicos, ficando em 60 Hz no resto do sistema.
+
+Para quem joga muito, a taxa alta ajuda bastante, principalmente em jogos que suportam mais de 60 quadros por segundo. Para quem usa o celular para mensagens, redes sociais e vídeos, 90 Hz já é um salto bem grande em relação a 60 Hz, e 120 Hz é um luxo que faz diferença, mas não é essencial. Se o orçamento está no limite, dá para economizar aqui sem grande arrependimento.
+
+Um detalhe importante é que a taxa alta consome bateria. Se o aparelho tem bateria pequena e tela de 120 Hz, você pode acabar tendo que reduzir para 60 Hz no meio do dia para chegar até a noite. Vale considerar esse equilíbrio entre fluidez e autonomia.
+
+## Toque, resposta e o que a tela faz quando você encosta o dedo
+
+Tem um aspecto da tela que quase ninguém olha na ficha técnica, mas que irrita muito no dia a dia. É a resposta ao toque. Um celular com tela bonita, mas com touch lento ou que perde o toque em bordas, vira um problema constante. Isso aparece em digitação rápida, em jogos que exigem precisão e até em gestos de navegação.
+
+Na loja, dá para testar isso de forma simples. Abra o teclado e digite uma frase rápida, sem olhar muito para as teclas. Se letras falharem ou o texto sair trocado com frequência, pode ser o touch. Abra um jogo ou um app de desenho e faça traços rápidos na tela, de canto a canto. Veja se a linha acompanha o dedo sem atraso visível e sem falhas nas bordas.
+
+Outro ponto é a taxa de amostragem do toque, medida em Hz. Ela indica quantas vezes por segundo a tela lê o toque. Quanto maior, mais precisa e rápida é a resposta, especialmente em jogos. Valores acima de 240 Hz são considerados bons. Em aparelhos de entrada, essa taxa costuma ser bem menor, e isso aparece em jogos de tiro ou de ritmo.
+
+A tela também precisa lidar bem com toques molhados ou com dedo sujo. Isso é bem comum no Brasil, entre suor, chuva e areia de praia. Alguns aparelhos têm certificação contra água, mas isso é do corpo do celular, não da tela. O que ajuda é um bom revestimento oleofóbico, que faz a água escorrer e evita manchas. Esse revestimento se desgasta com o tempo, mas nos primeiros meses faz diferença.
+
+## Proteção, formato e o tal do notch
+
+A proteção da tela é outro ponto prático. O Gorilla Glass, da Corning, é o mais comum, com versões que variam em resistência a riscos e quedas. Existem também vidros de outros fabricantes, com nomes diferentes, mas proposta parecida. Nenhum deles é à prova de queda, e todos riscam com areia, que é mais dura que o vidro. Mesmo assim, versões mais recentes seguram melhor quedas de altura média.
+
+Se o aparelho tem proteção, você pode usar sem película por um tempo, mas saiba que riscos finos aparecem com o uso. Para quem trabalha em obra, praia ou ambiente com muita poeira, uma película de vidro temperado ainda é uma boa, porque o vidro da tela em si não é substituível de forma barata. Trocar a tela de um celular intermediário costuma custar uma boa parte do valor do aparelho, às vezes mais da metade.
+
+O formato da tela também merece atenção. Telas curvas, que aparecem em alguns modelos premium, são bonitas, mas têm desvantagens. Elas pegam toque acidental nas laterais, refletem mais luz e dificultam a aplicação de película. Telas planas são mais práticas no dia a dia e dominam a maioria dos aparelhos intermediários, o que é uma vantagem.
+
+O notch ou furo para a câmera frontal é outro detalhe. O notch grande corta parte do conteúdo em vídeos e jogos. O furo, mais discreto, incomoda menos. Alguns aparelhos usam câmera pop-up ou sob a tela, que somem visualmente, mas têm outras limitações, como velocidade e durabilidade. Na prática, o furo centralizado é o que menos atrapalha.
+
+## Check list rápido para fazer na loja antes de pagar
+
+Antes de fechar a compra, seja em loja física ou em site com opção de devolução, vale seguir alguns passos. Eles levam poucos minutos e evitam arrependimento.
+
+- Aumente o brilho ao máximo e leve o celular até uma janela ou área externa. Veja se você consegue ler um texto confortavelmente. Se não conseguir, a tela pode ser fraca para o seu uso.
+
+- Abra um vídeo com cenas escuras e outro com cenas claras. Repare se os pretos parecem cinza ou realmente escuros, e se as cores ficam naturais ou exageradas.
+
+- Role a tela para cima e para baixo em um app de redes sociais. Sinta se o movimento é fluido ou se dá impressão de arrasto.
+
+- Digite uma frase rápida no teclado, sem olhar muito. Veja se o toque responde bem e se as letras não falham.
+
+- Teste o brilho mínimo em um ambiente escuro, se possível. Veja se a tela fica confortável ou se ainda incomoda.
+
+- Verifique se a tela tem proteção contra riscos e se o revestimento oleofóbico está presente. Passe o dedo e veja se desliza bem.
+
+- Confira o formato da tela e a posição do furo ou notch. Imagine assistir a um vídeo e ver se algo atrapalha.
+
+- Se puder, abra um jogo ou app de desenho e faça traços rápidos nas bordas. Veja se o toque acompanha sem falhas.
+
+Esses testes não substituem uma boa pesquisa, mas dão uma noção real do que você vai encarar todos os dias. Eles também ajudam a comparar dois modelos lado a lado, o que é bem mais útil do que olhar ficha técnica no papel.
+
+## Como equilibrar tela e orçamento sem se arrepender
+
+Na hora de decidir, é tentador ir atrás da tela com os maiores números. Mas o equilíbrio importa mais do que o recorde. Um celular com tela OLED, brilho típico decente, 90 Hz e boa resposta ao toque vai te servir melhor do que um com tela Quad HD, 120 Hz, mas brilho baixo e touch lento. O uso real pesa mais que a especificação isolada.
+
+Para quem usa o celular principalmente para mensagens, redes sociais, vídeos e fotos, o básico bem feito resolve. Uma tela Full HD+, OLED ou LCD boa, brilho típico na faixa dos 600 nits ou mais e 90 Hz já entregam uma experiência bem satisfatória. Se você joga muito, aí sim vale priorizar taxa de atualização alta e boa taxa de amostragem do toque.
+
+Também vale considerar o custo de manutenção. Telas OLED costumam ser mais caras de trocar, e telas curvas também. Se você é do tipo que deixa o celular cair, talvez uma tela plana com boa proteção seja mais inteligente do que uma tela curva premium. O barato pode sair caro depois, e o caro pode sair caro de novo na assistência.
+
+Outro ponto é a durabilidade do brilho. Telas OLED perdem um pouco de intensidade com o tempo, principalmente se usadas sempre no máximo. Não é algo que vai te impedir de usar, mas é mais um motivo para não comprar um aparelho com brilho típico baixo, porque você vai forçar o máximo o tempo todo. Uma tela com folga de brilho dura mais confortavelmente.
+
+Por fim, pense no que você faz com o celular hoje e no que pretende fazer nos próximos anos. Se você pretende começar a jogar ou assistir mais séries no celular, uma tela melhor faz diferença. Se o uso vai continuar o mesmo, talvez não valha pagar muito mais por recursos que você não vai aproveitar. A tela é a janela para tudo que você faz no aparelho, então ela merece atenção, mas atenção inteligente, baseada no seu uso real e não só no número da etiqueta.
+
+Depois de passar por tipo de painel, brilho, resolução, taxa de atualização, resposta ao toque e proteção, você já tem um mapa bem mais claro do que olhar. A tela não é só um detalhe estético. Ela define o conforto, a legibilidade e até a bateria do aparelho. Um celular com processador rápido e câmera boa, mas tela fraca, vai te irritar em situações simples, como ler uma mensagem no ponto de ônibus ou conferir um mapa na rua.
+
+A dica final é simples. Antes de comprar, toque na tela, veja com seus olhos e sinta com seus dedos. Se possível, compare dois modelos lado a lado na loja e faça os testes do check list. A ficha técnica ajuda a filtrar, mas a decisão final deve vir da sua percepção. Afinal, é você que vai encarar essa tela todos os dias pelos próximos anos.

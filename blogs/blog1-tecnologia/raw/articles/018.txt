@@ -1,0 +1,165 @@
+A diferença entre uma resposta genérica e uma resposta que resolve seu problema quase sempre está na forma como você pede. A mesma IA que escreve um texto morno sobre produtividade consegue montar um roteiro de estudos detalhado, revisar seu currículo ou explicar matemática de um jeito que você entende. O que muda não é o modelo, é o pedido.
+
+Prompt é o nome técnico para o que você digita na caixa de texto. Todo mundo que usa ChatGPT, Gemini ou Copilot já escreveu um na vida. A questão é que a maioria escreve como se estivesse fazendo busca no Google. Digita três palavras, aperta enter e espera um milagre. Recebe algo genérico e conclui que "essas IAs não prestam".
+
+Escrever bons prompts é uma habilidade treinável. Não tem palavra secreta nem fórmula mágica. Tem princípios que valem para qualquer ferramenta e qualquer tarefa. Este texto reúne esses princípios de forma prática, com exemplos que você pode copiar e adaptar agora.
+
+## Por que a maioria dos prompts falha
+
+Pense na última vez que você pediu algo para uma IA. Provavelmente foi algo como "me dá ideias de post" ou "resume esse texto". O resultado veio, mas você olhou e pensou que não servia. A ferramenta não errou. Entregou exatamente o que foi pedido. O problema é que o pedido era vago.
+
+Quando você não define contexto, a IA preenche as lacunas com o mais comum. Se pede "ideias de post", ela pensa em dicas genéricas de marketing. Se pede "resume esse texto", ela corta frases ao meio e perde o sentido. A IA não adivinha. Trabalha com o que você dá.
+
+Existe também o erro oposto. Tem gente que escreve um textão confuso, misturando cinco pedidos diferentes, e reclama que a resposta veio bagunçada. Se você pede para revisar, traduzir e sugerir título ao mesmo tempo, a IA tenta fazer tudo e faz tudo mal. Pedido único, resposta melhor.
+
+Outro ponto que passa batido é a falta de exemplo. Se você quer um tom específico, mostrar um parágrafo do jeito que gosta ajuda mais do que descrever em dez linhas. Dizer "escreva informal" é vago. Mostrar um texto informal e dizer "quero nesse estilo" é preciso.
+
+## A estrutura básica de um bom prompt
+
+Todo prompt que funciona bem tem quatro partes. Não precisa ser nessa ordem nem ter rótulos, mas os quatro elementos costumam estar lá.
+
+O primeiro é o contexto. Quem é você, para quem é o texto, qual o objetivo. "Sou professor de história do ensino médio" é contexto. "Preciso de uma explicação para alunos de 15 anos" também. Quanto mais específico, melhor.
+
+O segundo é a tarefa. O que exatamente você quer. Escreva, resuma, compare, liste, corrija, explique. Verbo claro, sem rodeio.
+
+O terceiro é o formato. Como você quer a resposta. Em tópicos, parágrafos, tabela, com no máximo 300 palavras, em linguagem simples. Se você não diz, a IA escolhe, e a escolha dela raramente é a que você queria.
+
+O quarto é o exemplo ou restrição. O que evitar, o que incluir. "Não use jargão técnico", "inclua exemplos do cotidiano", "siga o estilo deste parágrafo".
+
+Um prompt com esses elementos fica assim. "Sou personal trainer e quero um treino de 30 minutos para iniciantes que treinam em casa, sem equipamento. Liste os exercícios em ordem, com tempo de cada um e uma dica de execução. Evite termos técnicos. Use linguagem simples."
+
+Compare com "monta um treino pra mim". A diferença na resposta é enorme.
+
+## Contexto, a parte que quase todo mundo esquece
+
+Contexto separa uma resposta útil de uma resposta qualquer, e é justamente a parte que as pessoas pulam. Existe uma pressa de digitar logo o pedido. Mas investir trinta segundos descrevendo a situação economiza dez minutos de correção depois.
+
+Contexto inclui quem você é, para quem é o resultado e qual o objetivo. Se você pede "escreva um e-mail cobrando um cliente", a IA faz um e-mail genérico. Se diz "sou dono de uma loja de roupas, o cliente atrasou o pagamento há duas semanas, quero cobrar sem parecer agressivo porque quero manter a relação", a resposta vem quase pronta para usar.
+
+Outro tipo de contexto é o material de referência. Se pede ajuda com um texto, cole o texto. Se é uma planilha, descreva as colunas. Se quer sugestões de viagem, diga quanto tempo tem, quanto quer gastar e o que gosta de fazer. A IA não tem acesso à sua vida. Sabe só o que você conta.
+
+Contexto também evita respostas fora da realidade. Se você diz que mora em cidade pequena e não tem carro, a IA não sugere programas que exigem deslocamento longo. Se diz que o orçamento é apertado, ela não sugere soluções caras.
+
+## Seja específico sem escrever um livro
+
+Existe um equilíbrio entre dar contexto e escrever uma bíblia. Prompt curto demais gera resposta vaga. Longo demais gera confusão. O ideal é ser específico no que importa e direto no resto.
+
+Especificidade não é escrever mais, é escolher as palavras certas. "Escreva um texto sobre alimentação saudável" é vago. "Escreva um texto de 200 palavras explicando por que comer frutas e verduras ajuda a evitar doenças, para o blog de uma feira orgânica" é específico. Mesmo tamanho, resultado diferente.
+
+Um truque útil é pensar no que você não quer. Às vezes é mais fácil dizer o que evitar do que descrever o que quer. "Não use palavras difíceis", "não faça lista", "não comece com pergunta", "não mencione preços". Restrições ajudam a IA a acertar o alvo.
+
+Também vale dizer o nível de profundidade. "Explique como se eu tivesse 10 anos", "dê uma resposta rápida", "aprofunde nos prós e contras". Sem isso, a IA escolhe um meio termo que pode não servir.
+
+## Formato, o que separa uma resposta útil de uma bagunça
+
+Formato faz a resposta ser utilizável na prática. Você pode pedir tópicos, parágrafos, tabela, passo a passo, diálogo, carta, roteiro. Pode definir tamanho, tom e estrutura. Sem isso, a IA tende a entregar um bloco de texto corrido que você vai ter que reorganizar.
+
+Para tarefas práticas, listas e passo a passo funcionam bem. Para explicações, parágrafos curtos. Para comparações, tabela. Para roteiros, cenas ou tópicos. Para e-mails, texto corrido com saudação e despedida.
+
+Tamanho também é formato. "Resuma em até 100 palavras", "escreva 500 palavras", "liste no máximo 7 itens". Sem limite, a IA pode escrever demais ou de menos. Com limite, você controla o resultado.
+
+Tom entra aqui também. Formal, informal, didático, divertido, direto, acolhedor. Se você não diz, a IA escolhe um tom neutro que serve para tudo e não brilha em nada.
+
+Um exemplo com formato bem definido. "Explique o que é inflação para quem nunca estudou economia. Use no máximo 150 palavras. Escreva em dois parágrafos. Tom de conversa, como se explicasse para um amigo. Não use termos técnicos."
+
+## Exemplos e restrições, o atalho para acertar de primeira
+
+Mostrar um exemplo vale mais do que descrever em dez linhas. Se você quer um estilo específico, cole um trecho que representa esse estilo. Se quer uma planilha com certas colunas, mostre o cabeçalho. Se quer uma conversa, escreva o começo dela.
+
+A IA é boa em imitar padrões. Quando você dá um exemplo, ela entende o que quer sem explicação longa. É como mostrar uma foto em vez de descrever um lugar.
+
+Restrições funcionam pelo lado oposto. Dizer o que evitar ajuda a IA a não cair em lugares-comuns. "Não comece com 'nos dias de hoje'", "não use a palavra 'solução'", "não faça perguntas retóricas", "não mencione marcas". Cada restrição reduz o espaço de erro.
+
+Vale também pedir para a IA pensar antes de responder. Frases como "pense passo a passo antes da resposta final" ou "primeiro liste os pontos, depois escreva o texto" ajudam em tarefas complexas. A IA organiza melhor o raciocínio quando é convidada a estruturar o pensamento.
+
+Outra restrição útil é o público. "Explique para quem nunca usou um smartphone", "escreva para gestores de uma empresa de médio porte", "faça uma versão para crianças de 8 anos". O público define vocabulário, exemplos e profundidade.
+
+## Erros comuns que sabotam seu prompt
+
+Tem uma lista de erros que aparece sempre. O primeiro é pedir tudo de uma vez. Você quer que a IA escreva, revise, traduza e resuma. Ela tenta, mas o resultado sai raso. Divida em etapas. Peça uma coisa, veja o resultado, ajuste, peça a próxima.
+
+O segundo é não dar contexto. Você digita "me ajuda com meu currículo" e espera que a IA saiba sua área, sua experiência e a vaga. Ela não sabe. Sem contexto, a resposta é genérica.
+
+O terceiro é aceitar a primeira resposta. A IA não se ofende se você pedir para refazer. "Faça de novo, mais curto", "reescreva com tom formal", "tire os exemplos e foque na teoria". A primeira resposta é um ponto de partida, não um veredito.
+
+O quarto é usar palavra-chave em vez de frase. "Receita bolo cenoura" funciona no Google, mas na IA é melhor escrever "me dê uma receita de bolo de cenoura simples, para fazer em uma hora, sem cobertura". A IA trabalha melhor com pedidos completos.
+
+O quinto é não revisar. A IA erra. Inventa dados, confunde nomes, comete deslizes de português. Você é o responsável final pelo que publica ou envia. Leia com atenção, confira números e nomes, ajuste o que precisar.
+
+O sexto é confundir a IA com um buscador. Ela não acessa a internet sozinha na maioria das versões gratuitas e pode não ter informações atualizadas. Para dados recentes, notícias ou preços, verifique em fonte confiável.
+
+## Um passo a passo para montar seu prompt
+
+Antes de digitar, responda mentalmente essas perguntas. Funcionam como um checklist rápido.
+
+- Qual é o objetivo? O que você quer ter em mãos quando terminar a conversa.
+
+- Quem vai ler ou usar isso? Você, seu chefe, seus alunos, seus clientes.
+
+- Qual o formato ideal? Texto, lista, tabela, roteiro, e-mail.
+
+- Qual o tamanho? Palavras, tópicos, parágrafos.
+
+- Qual o tom? Formal, informal, didático, direto.
+
+- O que evitar? Palavras, exemplos, estruturas que não servem.
+
+- Tem exemplo do que você quer? Cole um trecho de referência.
+
+Com essas respostas, monte o prompt em quatro blocos. Contexto, tarefa, formato e restrições. Não precisa de rótulo. Escreva na ordem que fizer sentido.
+
+Um exemplo aplicado. Objetivo, escrever um post para o blog da sua padaria. Leitor, clientes do bairro. Formato, texto corrido de 400 palavras. Tom, acolhedor e simples. Evitar, termos técnicos de panificação e preços. Exemplo, o estilo dos posts que você já publica.
+
+Prompt final. "Escreva um post de 400 palavras para o blog da minha padaria, falando sobre a importância do fermento natural no pão. O público são clientes do bairro, pessoas comuns, sem conhecimento técnico. Use tom acolhedor e linguagem simples. Não use termos técnicos nem mencione preços. Siga o estilo deste texto que já publiquei. [colar exemplo]"
+
+Perceba que não tem palavra mágica. Tem clareza.
+
+## Ajustando a resposta sem começar do zero
+
+Raramente a primeira resposta é a definitiva. O refinamento é parte do processo. Você não precisa reescrever o prompt inteiro. Basta pedir ajustes específicos.
+
+Se o texto ficou longo, peça para cortar. Se ficou formal demais, peça para soltar a linguagem. Se faltou exemplo, peça para incluir um caso do cotidiano. Se a lista ficou confusa, peça para reorganizar em ordem de importância.
+
+Frases curtas de ajuste funcionam bem. "Mais curto", "mais simples", "com exemplos", "sem introdução", "foca só na parte prática", "reescreve o segundo parágrafo". A IA entende e refaz.
+
+Outra estratégia é pedir variações. "Me dê três versões desse e-mail, uma mais formal, uma mais direta e uma mais simpática". Assim você escolhe a que combina com a situação.
+
+Também vale pedir para a IA explicar o que entendeu antes de responder. "Antes de escrever, me diga o que você entendeu do pedido". Isso evita mal-entendidos e economiza tempo.
+
+## Prompts para tarefas do dia a dia
+
+Alguns usos rendem muito com pouco esforço. Vale ter modelos prontos para o que você faz com frequência.
+
+Para estudar, peça explicações em níveis diferentes. "Explique fotossíntese para uma criança de 10 anos. Depois explique de novo para um vestibulando. Depois faça cinco perguntas para testar se eu entendi."
+
+Para escrever, peça estrutura antes do texto. "Monte um roteiro de tópicos para um artigo sobre organização financeira pessoal. Depois escreva cada tópico em um parágrafo." Isso evita texto enrolado.
+
+Para resolver problemas, descreva a situação com detalhes. "Meu celular está lento, já apaguei fotos e não resolveu. O que mais posso tentar em casa, sem levar na assistência?" Quanto mais detalhe, melhor a resposta.
+
+Para planejar, diga restrições. "Quero um roteiro de 3 dias em São Paulo, com atividades gratuitas ou baratas, usando transporte público, sem museus." A IA monta algo realista.
+
+Para revisar, cole o texto e diga o que quer. "Revise este e-mail. Corrija erros de português, deixe mais claro e mantenha o tom profissional. Não mude o sentido."
+
+Para traduzir, diga o contexto. "Traduza este texto para o inglês, mas mantenha o tom informal e adapte as expressões brasileiras para equivalentes em inglês." Tradução literal raramente funciona.
+
+## O que não delegar para a IA
+
+Existe uma linha entre usar a IA como ferramenta e depender dela para tudo. Algumas coisas é melhor você fazer.
+
+Decisões pessoais importantes, como carreira, relacionamentos ou saúde, pedem conversa com pessoas de confiança e, quando for o caso, profissionais. A IA ajuda a organizar pensamentos e listar prós e contras, mas não substitui aconselhamento adequado.
+
+Questões médicas, jurídicas e financeiras exigem cuidado. A IA pode explicar conceitos e ajudar a entender termos, mas não substitui médico, advogado ou profissional de finanças. Use como apoio, nunca como fonte única.
+
+Dados e fatos precisam de verificação. A IA pode inventar números, confundir datas e citar fontes que não existem. Antes de publicar ou compartilhar, confira em fontes confiáveis.
+
+E a responsabilidade final é sempre sua. O texto que você publica, o e-mail que você envia, a decisão que você toma. A IA ajuda, mas quem assina é você.
+
+## Praticando até virar hábito
+
+Escrever bons prompts é como aprender a digitar ou cozinhar. No começo você pensa em cada passo. Depois vira automático. A diferença é que a maioria das pessoas usa a IA do mesmo jeito há meses, sempre com pedidos curtos e vagos, e nunca melhora.
+
+O caminho é simples. Comece com prompts mais completos. Use a estrutura de contexto, tarefa, formato e restrições. Peça ajustes em vez de aceitar a primeira resposta. Guarde os prompts que funcionaram para reutilizar. Com o tempo, você percebe que gasta menos tempo corrigindo e mais tempo usando o que a IA entrega.
+
+Uma dica final é manter um arquivo com seus melhores prompts. Quando encontrar um que funcionou, salve. Na próxima vez que precisar de algo parecido, adapte em vez de começar do zero. Isso economiza tempo e melhora a qualidade das respostas.
+
+A IA não é mágica, nem adivinha. Ela responde ao que você dá. Prompt bom é prompt claro, específico e com contexto. Quanto melhor você pede, melhor você recebe. E isso vale para qualquer ferramenta, porque a lógica por trás da conversa com a máquina continua a mesma. Você conversa, ela responde. Se a conversa for boa, a resposta também é.

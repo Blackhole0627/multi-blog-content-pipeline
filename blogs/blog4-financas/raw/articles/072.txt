@@ -1,0 +1,109 @@
+Todo ano é a mesma cena. Chega março, você abre o programa da Receita Federal, baixa a declaração pré-preenchida e se depara com uma tela perguntando qual modelo você quer usar. Duas opções aparecem na frente. Declaração simples ou declaração completa. A maioria das pessoas clica na primeira sem pensar muito, às vezes por pressa, às vezes porque não sabe direito o que aquilo muda no bolso. E aí, semanas depois, descobre que pagou mais imposto do que precisava ou que caiu na malha fina por um detalhe que passou batido.
+
+A escolha entre os dois modelos não é uma formalidade burocrática. Ela define quanto de imposto você vai pagar, se vai restituir ou não, e como a Receita vai enxergar a sua vida financeira naquele ano. O modelo simples aplica um desconto padrão sobre a base de cálculo. O modelo completo permite deduzir uma lista de gastos que você teve ao longo do ano, como saúde, educação e dependentes. Parece pouca coisa, mas a diferença entre um e outro pode chegar a alguns milhares de reais no resultado final.
+
+O problema é que não existe uma resposta única. Depende da sua renda, dos seus gastos, de quantas pessoas dependem de você e até de quanto você guardou em previdência privada. Tem gente que ganha bem e se dá melhor no simples. Tem gente que ganha menos e se dá melhor no completo. E tem gente que erra a conta por achar que o completo é sempre melhor, só porque o nome soa mais vantajoso. Vamos destrinchar isso com calma, com exemplos do dia a dia e sem promessa mágica de restituição gigante.
+
+## O que é a declaração simples, na prática
+
+O modelo simples, também chamado de desconto simplificado, funciona assim. A Receita pega todos os seus rendimentos tributáveis do ano, aplica um desconto fixo de 20% sobre esse total, limitado a um teto definido pela própria Receita, e usa o resultado como base para calcular o imposto. Você não precisa comprovar nada. Não precisa juntar recibo de médico, nota de escola, comprovante de plano de saúde. O desconto é automático e vale para todo mundo que escolhe essa opção.
+
+Esse teto do desconto simplificado é ajustado de tempos em tempos e costuma ficar na casa dos dezesseis mil e poucos reais. Ou seja, se 20% da sua renda tributável ultrapassar esse valor, o desconto fica travado no teto. Para quem tem renda tributável acima de mais ou menos oitenta e poucos mil reais no ano, o desconto simplificado já bate no limite e para de crescer. Isso significa que, quanto maior a sua renda, menos vantajoso tende a ser o modelo simples, porque o desconto fica proporcionalmente menor.
+
+A grande vantagem do simples é a simplicidade. Você não precisa organizar pilha de papel, não precisa lembrar onde guardou o recibo do dentista, não precisa pedir informe de gastos para ninguém. É o modelo ideal para quem tem poucos gastos dedutíveis, para quem é solteiro sem dependentes, para quem não paga plano de saúde particular, para quem não tem empregada doméstica registrada e para quem não contribui com previdência privada. Se a sua vida financeira é mais enxuta nesse sentido, o simples costuma resolver bem.
+
+Outro ponto é que o simples não exige comprovação. Isso reduz bastante o risco de cair na malha fina por causa de dedução indevida. Se você não declarou dedução nenhuma, não tem o que a Receita contestar. Para quem tem medo de errar, esse é um alívio. O preço desse alívio, porém, é abrir mão de deduções que poderiam reduzir bastante o imposto devido.
+
+## O que é a declaração completa, na prática
+
+O modelo completo, também chamado de deduções legais, funciona de outra forma. Em vez de um desconto fixo, você informa todas as despesas que a lei permite deduzir e elas são subtraídas da sua base de cálculo. Quanto mais deduções válidas você tiver, menor fica a base e menor fica o imposto. O limite aqui é a realidade dos seus gastos e a documentação que você consegue comprovar.
+
+As deduções mais comuns são gastos com saúde, educação, dependentes e previdência privada no modelo PGBL. Saúde inclui consultas, exames, internações, plano de saúde, dentista, fisioterapia, psicólogo e gastos com aparelhos ortopédicos, desde que prescritos. Não tem teto para dedução de saúde, o que pode fazer muita diferença para quem tem tratamento contínuo ou plano de saúde caro. Educação tem teto por pessoa, que costuma ficar na casa dos três mil e quinhentos reais por ano, e cobre desde educação infantil até pós-graduação, além de cursos técnicos e profissionalizantes.
+
+Dependentes também entram na conta. Cada dependente que você declara gera uma dedução anual por dependente, além de permitir incluir os gastos de saúde e educação dessa pessoa. Isso muda bastante o resultado para famílias com filhos. Se você paga pensão alimentícia por decisão judicial ou acordo homologado, esse valor também é dedutível integralmente. E se você contribui para o PGBL, pode deduzir até 12% da sua renda tributável bruta, o que é uma das deduções mais poderosas que existem, mas exige planejamento ao longo do ano, não dá para fazer na última hora.
+
+O lado complicado do completo é a organização. Você precisa guardar todos os comprovantes, pedir informe de rendimentos para clínicas, escolas, planos de saúde. Precisa conferir se cada gasto está no nome certo, se o CPF do dependente bate, se o valor declarado é exatamente o que está no recibo. Erro aqui é uma das principais causas de malha fina. A Receita cruza informações com operadoras de plano de saúde, escolas e outros prestadores, e qualquer divergência acende um alerta.
+
+## O cálculo que realmente importa
+
+Aqui está o coração da decisão. Você precisa comparar dois números. De um lado, o desconto simplificado, que é 20% da sua renda tributável, limitado ao teto. Do outro, a soma de todas as suas deduções legais. O modelo que der o maior desconto é o que reduz mais o imposto. Simples assim, pelo menos na teoria.
+
+Vamos a um exemplo concreto. Suponha que você seja um profissional autônomo com renda tributável de sessenta mil reais no ano. No modelo simples, o desconto seria de vinte por cento, ou seja, doze mil reais. Sua base de cálculo cai para quarenta e oito mil. No modelo completo, imagine que você gastou oito mil com plano de saúde, três mil e quinhentos com educação, tem um dependente que gera mais uns dois mil e duzentos de dedução e contribuiu com cinco mil para o PGBL. A soma dá dezoito mil e setecentos. Nesse caso, o completo ganha com folga, porque o desconto é maior.
+
+Agora imagine outra pessoa, com renda tributável de cento e vinte mil reais. No simples, o desconto bate no teto, digamos dezesseis mil e pouco. No completo, essa pessoa gastou cinco mil com saúde, não tem dependentes, não paga pensão e não contribui com previdência. A soma das deduções é de cinco mil. Aqui o simples ganha, porque o desconto padrão é bem maior do que as deduções reais. Mesmo com renda alta, o simples pode ser a melhor escolha quando a pessoa tem poucos gastos dedutíveis.
+
+O erro comum é achar que quem ganha mais sempre deve usar o completo. Não é verdade. O que define é a proporção entre renda e gastos dedutíveis. Quem tem renda alta e poucos gastos dedutíveis tende a se dar melhor no simples. Quem tem renda média ou baixa e muitos gastos dedutíveis tende a se dar melhor no completo. E existe ainda um detalhe importante. O programa da Receita faz essa comparação automaticamente em muitos casos, mas nem sempre. Às vezes ele sugere o modelo mais vantajoso, mas você pode trocar manualmente. Vale conferir os dois cenários antes de enviar.
+
+## Quando o simples costuma ganhar
+
+O modelo simples tende a ser mais vantajoso em várias situações específicas. A primeira delas é quando você tem poucos gastos dedutíveis. Solteiros sem dependentes, que não pagam plano de saúde particular, que não fazem terapia, que não têm gastos altos com educação e que não contribuem com previdência privada, normalmente se dão melhor no simples. A vida financeira é mais enxuta e o desconto padrão acaba sendo maior do que a soma das deduções.
+
+A segunda situação é quando sua renda tributável é baixa. Se você ganha até mais ou menos o limite em que o desconto de 20% ainda não bateu no teto, o simples pode ser bastante generoso. Para rendas menores, o desconto proporcional de 20% costuma superar com facilidade a soma de deduções que, nessa faixa de renda, tendem a ser pequenas.
+
+A terceira situação é quando você não tem organização ou tempo para juntar comprovantes. Se você não guardou os recibos, se perdeu os informes, se não tem como comprovar os gastos, o simples é o caminho seguro. Declarar dedução sem comprovação é receita certa para malha fina. Melhor abrir mão de um desconto do que entrar na malha e ter dor de cabeça depois.
+
+A quarta situação é quando você tem medo de errar. O simples é mais à prova de erro porque não depende de você informar nada além dos rendimentos. Não tem dedução para esquecer, não tem CPF de dependente para digitar errado, não tem valor de recibo para confundir. Para quem está começando a declarar ou para quem tem uma vida financeira simples, é uma escolha tranquila.
+
+## Quando o completo costuma ganhar
+
+O modelo completo brilha quando você tem gastos dedutíveis altos em relação à sua renda. Quem paga plano de saúde caro, quem tem tratamento contínuo, quem faz terapia semanal, quem tem filhos em escola particular, quem paga pensão alimentícia, quem contribui com PGBL. Nesses casos, a soma das deduções costuma superar com folga o desconto padrão do simples.
+
+Famílias com filhos costumam se beneficiar bastante do completo. Cada dependente gera uma dedução anual, além de permitir incluir gastos de saúde e educação da criança. Se você tem dois filhos em escola particular e plano de saúde, a conta muda muito. O desconto do simples, mesmo no teto, pode ficar bem abaixo do que você conseguiria deduzir no completo.
+
+Quem tem gastos altos com saúde também costuma ganhar no completo. Não existe teto para dedução de saúde, então quem tem plano de saúde caro, quem faz tratamento contínuo, quem passou por cirurgia, quem tem gastos com fisioterapia ou psicólogo, pode deduzir tudo. Em um ano com muitos gastos médicos, o completo pode reduzir bastante o imposto devido.
+
+Quem contribui com PGBL também deve olhar o completo com atenção. A dedução de até 12% da renda bruta é significativa e pode fazer muita diferença. Mas atenção, isso só vale para quem declara no modelo completo. Se você contribui com PGBL e escolhe o simples, perde essa dedução. Então, se você faz aportes regulares em previdência privada, provavelmente o completo é o seu caminho.
+
+## O que muda na restituição
+
+A escolha entre simples e completo não afeta só o imposto devido. Afeta também a restituição. Quem tem imposto retido na fonte ao longo do ano, seja pelo empregador, seja por carnê-leão, pode ter restituição maior ou menor dependendo do modelo. Se o modelo escolhido reduz mais a base de cálculo, o imposto devido cai e a diferença entre o que foi retido e o que é devido aumenta. Essa diferença é a restituição.
+
+No simples, a restituição tende a ser mais previsível. Você sabe que o desconto é fixo e consegue estimar o resultado com mais facilidade. No completo, a restituição depende das deduções que você conseguir comprovar. Quanto mais dedução válida, maior a restituição, desde que você tenha imposto retido suficiente para gerar restituição. Se você não teve imposto retido, não há restituição a receber, independentemente do modelo.
+
+Um ponto importante é que a restituição não é um prêmio. É a devolução de um imposto que você pagou a mais ao longo do ano. Quem tem imposto retido na fonte corretamente não tem restituição, e isso não é problema. Significa que você pagou exatamente o que devia. Quem tem restituição alta geralmente teve imposto retido acima do necessário, o que na prática é um empréstimo sem juros que você fez ao governo. Vale ajustar o ponto na folha de pagamento para não ter retido além do necessário, mas isso é outro assunto.
+
+## Passo a passo para decidir qual usar
+
+Aqui vai um roteiro prático para você decidir com segurança qual modelo usar na sua declaração. Não precisa ser especialista em imposto para fazer essa conta. Basta organizar as informações e comparar os dois cenários.
+
+- Some todos os seus rendimentos tributáveis do ano. Isso inclui salário, pró-labore, aluguéis, trabalho autônomo, aposentadoria, pensão e qualquer outro valor que a Receita exija declarar. Esse é o ponto de partida.
+
+- Calcule o desconto simplificado. Pegue 20% desse total e verifique se ultrapassa o teto definido pela Receita. Se ultrapassar, use o teto. Esse é o valor que o simples vai descontar.
+
+- Some todas as suas deduções legais. Saúde, educação, dependentes, pensão alimentícia, PGBL. Some tudo que você consegue comprovar com documento.
+
+- Compare os dois valores. Se o desconto simplificado for maior que a soma das deduções, o simples tende a ser melhor. Se a soma das deduções for maior, o completo tende a ser melhor.
+
+- Confira no programa da Receita. Ao preencher a declaração, o sistema costuma indicar qual modelo é mais vantajoso. Mas não confie cegamente. Simule os dois e veja o resultado final em cada caso.
+
+- Verifique a documentação. Se você vai usar o completo, confira se todos os comprovantes estão no nome certo, se os CPFs batem, se os valores estão corretos. Dedução sem comprovação é risco de malha fina.
+
+- Guarde tudo por pelo menos cinco anos. A Receita pode pedir comprovação depois, mesmo anos após a declaração. Ter os documentos organizados evita dor de cabeça futura.
+
+Esse roteiro funciona para a maioria dos casos. Existem situações mais complexas, como quem tem ganho de capital, quem investe em bolsa, quem tem patrimônio no exterior, quem recebe rendimento isento e tributável ao mesmo tempo. Nesses casos, vale procurar um contador ou consultor para não errar. Mas para a maioria das pessoas, a comparação entre os dois modelos resolve.
+
+## A escolha certa economiza tempo e dinheiro
+
+Um erro comum é escolher o completo sem ter comprovação de todos os gastos. Declarar dedução de saúde sem recibo, de educação sem comprovante, de dependente sem documentação. A Receita cruza dados com operadoras, escolas, clínicas e outros prestadores. Se o valor declarado não bate com o que foi informado por eles, você cai na malha fina. E aí não adianta chorar depois. Melhor declarar só o que você consegue comprovar.
+
+Outro erro é esquecer de incluir um dependente. Se você tem filho, cônjuge ou outro dependente que se encaixa nas regras, deixar de fora pode custar dedução importante. Cada dependente gera uma dedução anual, além de permitir incluir gastos de saúde e educação. Vale conferir com calma quem pode ser incluído e se vale a pena. Às vezes incluir um dependente que tem renda própria pode não compensar, porque a renda dele também entra na conta. É preciso avaliar caso a caso.
+
+Tem também quem declare PGBL e escolha o simples por engano. Se você contribui com PGBL, precisa declarar no completo para aproveitar a dedução. No simples, essa dedução não existe. Se você fez aportes ao longo do ano e escolheu o simples, perdeu a chance de reduzir o imposto. Vale conferir antes de enviar.
+
+E tem o erro de não simular os dois modelos. Muita gente escolhe um, envia a declaração e só depois descobre que o outro seria mais vantajoso. O programa da Receita permite simular os dois antes de enviar. É rápido, leva alguns minutos e pode economizar um bom dinheiro. Não pule essa etapa.
+
+## O que considerar para os próximos anos
+
+A escolha entre simples e completo não é definitiva. Você pode mudar de modelo a cada ano, dependendo da sua situação. Um ano com muitos gastos médicos pode favorecer o completo. No ano seguinte, com menos gastos, o simples pode ser melhor. Vale revisar a cada declaração e não simplesmente repetir o que você fez no ano anterior.
+
+Se você contribui com PGBL, vale planejar os aportes ao longo do ano pensando na dedução. Quem deixa para contribuir tudo em dezembro pode acabar perdendo o limite de 12% da renda bruta. Distribuir os aportes ao longo do ano ajuda a aproveitar melhor o benefício. Mas atenção, PGBL só vale a pena para quem declara no completo e para quem já tem uma estratégia de aposentadoria. Não é produto para todo mundo.
+
+Se você tem dependentes, vale manter a documentação organizada ao longo do ano. Guarde recibos de saúde, comprovantes de educação, tudo que possa ser dedutível. No fim do ano, a organização faz toda a diferença. Quem deixa para juntar tudo em março acaba perdendo comprovante e deixando dinheiro na mesa.
+
+Se você tem plano de saúde, confira se o informe de rendimentos da operadora está correto. Divergência entre o que você declara e o que a operadora informa é uma das principais causas de malha fina. Vale pedir o informe com antecedência e conferir os valores antes de preencher a declaração.
+
+A decisão entre declaração simples e completa é uma das mais importantes da sua vida fiscal. Ela define quanto você paga de imposto e quanto recebe de restituição. Não é uma escolha para fazer no automático. Vale dedicar alguns minutos para comparar os dois modelos, organizar a documentação e escolher com consciência. O esforço é pequeno e o retorno pode ser significativo.
+
+No fim das contas, não existe modelo melhor ou pior. Existe o modelo que se encaixa na sua situação daquele ano. Quem entende a lógica por trás da escolha deixa de depender de sorte ou de dica de conhecido e passa a tomar uma decisão informada. E isso, ano após ano, faz diferença no bolso e na tranquilidade com a Receita Federal.
+
+Se a sua situação for mais complexa, com múltiplas fontes de renda, investimentos, patrimônio ou dependentes com renda própria, vale buscar ajuda profissional. Um contador de confiança pode evitar erros e encontrar deduções que você nem sabia que existiam. Mas para a maioria das pessoas, entender a diferença entre os dois modelos já resolve boa parte do problema. A escolha certa começa com informação de qualidade e termina com uma declaração enviada sem susto.

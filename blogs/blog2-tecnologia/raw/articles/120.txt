@@ -1,0 +1,95 @@
+Quem já foi a um evento de tecnologia costuma lembrar do palco, dos painéis, do coffee break e daquele momento em que conseguiu trocar ideia com alguém interessante na fila do banheiro. O que quase ninguém vê é o que acontece nos dias anteriores. A planilha que virou madrugada, o fornecedor que sumiu, o crachá que chegou com o nome errado, o palestrante que perdeu o voo. Organizar um evento de tecnologia é uma mistura de logística, jogo de cintura e uma dose generosa de improviso.
+
+A parte visível dura dois ou três dias. A parte invisível começa meses antes, muitas vezes com uma reunião em que alguém joga uma ideia na mesa e todo mundo acha que dá tempo. Dá, mas custa. Custa energia, custa dinheiro, custa paciência com fornecedor e custa a saúde mental de quem fica responsável por amarrar todas as pontas. É um trabalho que mistura produção cultural, operação de logística e gestão de crise, tudo ao mesmo tempo.
+
+Neste texto, a ideia é abrir essa caixa. Mostrar o que rola por trás de um evento de tecnologia no Brasil, do primeiro esboço de orçamento até o momento em que a última caixa de som sai do auditório. Sem romantizar, sem drama exagerado, só o que quem já organizou conhece bem.
+
+## A ideia nasce antes do orçamento
+
+Todo evento começa com uma pergunta simples. Por que alguém sairia de casa para estar aqui? Se a resposta for vaga, o evento já nasce morto. Pode ser uma conferência de desenvolvedores, um meetup de dados, um hackathon, uma feira de startups. Cada formato tem uma lógica própria, mas todos precisam de um motivo claro para existir.
+
+Nessa fase, o time costuma ser pequeno. Duas ou três pessoas discutindo tema, público, cidade e data. A escolha da data é mais complicada do que parece. Evitar feriado é o básico. Evitar semana de prova em universidade também. Evitar concorrência com outro evento grande do mesmo nicho é quase impossível, mas dá para minimizar o estrago. Em São Paulo, por exemplo, disputar espaço com a Campus Party ou com a Web Summit Rio exige pensar bem no calendário.
+
+Depois vem o orçamento preliminar. É um exercício de chute calibrado. Locação, som, luz, internet, alimentação, brindes, transporte de convidados, marketing, taxa de plataforma de inscrição, equipe. Cada item vira uma linha e cada linha vira uma discussão. O local costuma levar a maior fatia. Em seguida vem alimentação, que sempre estoura. Sempre.
+
+Nessa etapa também se define se o evento será gratuito ou pago. Evento gratuito lota rápido e gera no-show alto. Evento pago filtra público, mas assusta patrocinador acostumado com número grande. Não existe fórmula mágica. Existe teste, erro e aprendizado a cada edição.
+
+## Patrocínio é conversa de meses, não de semanas
+
+Quem organiza evento de tecnologia aprende rápido que ingresso raramente paga a conta. A maior parte do dinheiro vem de patrocínio. E patrocínio não se resolve com um e-mail enviado na véspera. É um ciclo longo, feito de reuniões, propostas, ajustes e muita conversa com times de marketing que têm seus próprios prazos e burocracias.
+
+O primeiro passo é montar um media kit. Um documento com números do evento anterior, perfil do público, alcance nas redes, contrapartidas oferecidas. Stand, palco, logo no site, menção na abertura, lista de leads. Cada cota tem um pacote. Empresas grandes querem visibilidade e acesso a talentos. Empresas menores querem estar perto do público certo e às vezes topam apoiar em troca de espaço para recrutar.
+
+Negociar patrocínio exige entender o que a empresa realmente quer. Tem companhia que só assina se tiver um keynote. Outra quer um estande grande. Outra prefere patrocinar o coffee break e aparecer no crachá. Escutar antes de propor economiza tempo. E documentar tudo por escrito evita dor de cabeça depois, principalmente quando o patrocinador muda de gestor no meio do caminho.
+
+Um detalhe que muita gente subestima. Contrato assinado não é dinheiro na conta. Empresas pagam em prazos que podem chegar a sessenta ou noventa dias. Se o evento depende desse dinheiro para pagar fornecedor antes, o fluxo de caixa vira um problema real. Ter reserva ou antecipar parte do pagamento com patrocinadores mais próximos ajuda a não travar a produção.
+
+## A escolha do espaço define metade dos problemas
+
+Locação em evento de tecnologia não é só um lugar com cadeiras. Precisa de internet que aguente centenas de dispositivos conectados ao mesmo tempo. Precisa de tomadas suficientes. Precisa de ar-condicionado que funcione com sala cheia. Precisa de acessibilidade. Precisa de espaço para credenciamento, para estandes, para área de alimentação, para banheiros que não virem fila de quarenta minutos.
+
+Centros de convenção costumam resolver boa parte disso, mas cobram caro e às vezes impõem fornecedores próprios de som, luz e alimentação. Isso limita a negociação e encarece o pacote. Espaços alternativos, como galpões, teatros, coworkings grandes e até universidades, podem sair mais em conta, mas transferem para o organizador uma série de responsabilidades. Gerador, cabeamento, segurança, limpeza, tudo passa a ser problema seu.
+
+A visita técnica é obrigatória. Ver o espaço vazio, medir, fotografar, conversar com o síndico ou gestor, perguntar sobre restrições de horário, barulho e montagem. Descobrir na véspera que não pode entrar caminhão antes das oito da manhã é o tipo de surpresa que arruína o cronograma. Também vale checar a vizinhança. Um evento com música alta até meia-noite em bairro residencial vira reclamação e, em alguns casos, multa.
+
+Outro ponto sensível é a internet. Evento de tecnologia sem wi-fi estável é piada pronta. Contratar link dedicado com provedor especializado em eventos custa, mas evita que a rede caia no meio de uma demo ao vivo. Ter um plano B com roteador 4G ou 5G ajuda quando o link principal oscila. E vale avisar palestrantes para baixarem tudo que precisam antes de subir ao palco.
+
+## A curadoria de conteúdo e o cuidado com palestrantes
+
+Um evento de tecnologia se sustenta no que está no palco. Curadoria é escolher temas que conversem entre si e palestrantes que consigam entregar. Não basta ter nomes famosos. É preciso que a pessoa saiba falar para o público certo, no tempo combinado, sem transformar a palestra em propaganda da própria empresa.
+
+O processo costuma começar com uma chamada de trabalhos, a famosa call for papers. Divulgar em comunidades, grupos de Telegram, Discord, LinkedIn e listas de e-mail. Depois vem a triagem. Ler dezenas ou centenas de propostas, montar uma grade que faça sentido, evitar dois talks sobre o mesmo assunto no mesmo horário. É um quebra-cabeça.
+
+Com os escolhidos, começa a operação de logística de convidados. Passagem, hospedagem, transporte, alimentação, horário de chegada, horário de saída. Palestrante que perde voo é comum. Ter plano B, como chamar alguém da própria organização para cobrir ou remanejar a grade, salva o dia. Também vale combinar com antecedência o formato da apresentação, o tempo exato, se aceita perguntas e como será a moderação.
+
+Enviar um guia para palestrantes ajuda muito. Nele entram informações sobre o palco, o telão, o tipo de microfone, o sistema de apresentação, o tempo de cada bloco. Pedir os slides com antecedência permite testar tudo antes. Já vi palestra travar porque o notebook não reconhecia o projetor e ninguém tinha o adaptador certo. Detalhe bobo, constrangimento enorme.
+
+## A operação no dia do evento
+
+O dia do evento é quando tudo que foi planejado encontra a realidade. E a realidade raramente é gentil. Credenciamento é o primeiro ponto de atrito. Fila grande na entrada irrita qualquer pessoa. Ter mesas suficientes, leitores de QR code funcionando e uma equipe treinada para resolver problemas de inscrição faz diferença. Sempre tem alguém que comprou ingresso e não achou o nome na lista, alguém que quer trocar de categoria, alguém que chegou sem inscrição.
+
+Som e imagem são a espinha dorsal. Um microfone que falha no meio da pergunta da plateia tira a concentração de todo mundo. Ter técnico dedicado, mesa de som com backup e cabos extras resolve boa parte. O mesmo vale para iluminação e para o telão. Testar tudo antes de abrir a porta é obrigatório.
+
+A alimentação merece atenção especial. Coffee break é onde as pessoas conversam, fazem networking e lembram do evento. Fila grande, comida acabando ou opção ruim para restrição alimentar geram reclamação imediata. Calcular quantidade por pessoa é ciência imprecisa. Melhor sobrar um pouco do que faltar no meio da tarde. E avisar fornecedor sobre vegetarianos, veganos e intolerantes a lactose evita corrida de última hora.
+
+A equipe de apoio é o sistema nervoso do evento. Pessoas na recepção, no palco, na sala de palestrantes, na área de estandes, no suporte técnico. Briefing antes de abrir os portões, comunicação por rádio ou grupo de WhatsApp, escalas de descanso. Ninguém aguenta doze horas em pé sem pausa. Rotatividade bem planejada mantém todo mundo atento.
+
+Imprevistos acontecem. Ar-condicionado que para, banheiro que entope, palestrante que atrasa, energia que oscila. A diferença entre um evento bom e um evento ruim muitas vezes não está em evitar o problema, mas em resolver rápido e sem que o público perceba. Isso exige gente com autonomia para decidir na hora, não só seguir script.
+
+## Checklist prático para não perder o fio da meada
+
+Antes de começar a produção, vale montar um cronograma com marcos claros. Abaixo, um roteiro enxuto que funciona para eventos de pequeno e médio porte. Adapte conforme o tamanho.
+
+- Seis meses antes. Definir tema, público, data, local e orçamento preliminar. Montar equipe mínima e criar documento único de acompanhamento.
+
+- Quatro meses antes. Fechar locação, iniciar prospecção de patrocínio, abrir call for papers, criar site e página de inscrição.
+
+- Três meses antes. Fechar grade preliminar de palestrantes, contratar fornecedores de som, luz e alimentação, definir identidade visual.
+
+- Dois meses antes. Confirmar patrocinadores, divulgar grade final, abrir venda de ingressos com lotes, reservar hospedagem de convidados.
+
+- Um mês antes. Fechar contratos, confirmar logística de palestrantes, treinar equipe, testar plataforma de inscrição, planejar credenciamento.
+
+- Duas semanas antes. Enviar guia para palestrantes, confirmar fornecedores, montar escalas, revisar plano de contingência.
+
+- Uma semana antes. Checar internet, testar som e projeção no local, imprimir materiais, preparar kits, alinhar briefing final com equipe.
+
+- No dia. Chegar cedo, testar tudo de novo, abrir credenciamento, acompanhar palcos, resolver problemas em tempo real, registrar aprendizados.
+
+- Depois. Enviar pesquisa de satisfação, agradecer patrocinadores, fechar contas, reunir equipe para retrospectiva.
+
+Esse checklist não elimina surpresa, mas reduz muito o risco de esquecer algo essencial. O segredo é manter tudo documentado e acessível para quem precisa consultar na hora. Planilha compartilhada, pasta na nuvem, grupo de comunicação único. Informação espalhada em cinco lugares diferentes é receita para confusão.
+
+## O que ninguém conta sobre o pós-evento
+
+Quando o último participante sai e as luzes apagam, começa outra etapa. Desmontagem, devolução de equipamentos, prestação de contas, pagamento de fornecedores, envio de notas fiscais. Parece burocracia chata, mas é o que garante que a próxima edição aconteça. Patrocinador que não recebe relatório não renova. Fornecedor que não recebe no prazo não volta.
+
+A pesquisa de satisfação é uma ferramenta valiosa. Perguntas simples sobre conteúdo, organização, alimentação e infraestrutura revelam o que funcionou e o que precisa mudar. Ler os comentários abertos dói às vezes, mas é ali que estão as pistas mais úteis. Reclamação repetida em várias respostas é sinal claro de problema estrutural.
+
+A retrospectiva com a equipe também importa. Sentar, revisar o que deu certo, o que deu errado, o que foi sorte e o que foi competência. Guardar tudo em um documento para a próxima edição. Evento de tecnologia raramente é feito uma vez só. Quem organiza costuma repetir, crescer, ajustar. E cada edição carrega o aprendizado da anterior.
+
+Tem também o lado emocional. Organizar evento é exaustivo. A pessoa responsável passa semanas dormindo mal, respondendo mensagem de madrugada, resolvendo pepino que nem era dela. No fim, quando vê a sala cheia, alguém fazendo pergunta, gente trocando contato, dá uma sensação difícil de explicar. Não é glamour. É a sensação de que o trabalho valeu.
+
+Organizar um evento de tecnologia no Brasil é um exercício de equilíbrio entre planejamento e improviso. Por mais que se prepare, sempre vai faltar alguma coisa, sempre vai ter um imprevisto, sempre vai ter alguém reclamando. O que separa um evento medíocre de um evento memorável é a capacidade de resolver problema sem perder o clima, de tratar participante e palestrante com respeito e de manter o time inteiro remando na mesma direção.
+
+Se você está pensando em tirar uma ideia do papel, comece pequeno. Um meetup de cinquenta pessoas já ensina muito. Depois cresce, ajusta, aprende com os erros. Evento bom não nasce pronto. Nasce de repetição, de escuta e de uma boa dose de teimosia.

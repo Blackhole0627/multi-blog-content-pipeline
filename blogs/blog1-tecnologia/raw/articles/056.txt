@@ -1,0 +1,99 @@
+Muita gente cresce jogando videogame e, em algum momento, pensa em transformar aquilo em profissão. A imagem que vem à cabeça costuma ser a de um streamer famoso, de um time levantando troféu em arena lotada, ou daquele clip que viraliza e muda a vida de alguém da noite para o dia. Só que a carreira de um jogador profissional de e-sports é bem menos glamourosa no dia a dia do que parece na transmissão. É treino repetitivo, rotina apertada, pressão por resultado e uma estrutura de contratos que pouca gente fora do meio conhece.
+
+Quem acompanha campeonatos de League of Legends, Counter-Strike, Valorant, Free Fire ou Rainbow Six no Brasil já viu jogadores muito jovens entrando e saindo de lineups, trocando de organização, anunciando aposentadoria cedo. Isso não é acaso. A janela competitiva de um atleta de e-sports costuma ser curta, e o caminho até o nível profissional exige decisões que começam bem antes de qualquer salário aparecer. Entender como essa engrenagem funciona ajuda quem sonha em seguir esse caminho a não entrar despreparado.
+
+O que existe entre o moleque que joga ranked em casa e o cara que assina contrato com uma organização grande é um funil com várias etapas, cada uma com suas próprias exigências. Tem o momento de descobrir o jogo certo, o de provar valor em campeonatos amadores, o de ser notado por uma org, o de assinar o primeiro contrato de verdade e o de sustentar esse contrato com resultado. Vamos destrinchar esse caminho, do primeiro contato competitivo até a transição para a fase pós-carreira, passando por dinheiro, treino, saúde mental e o papel das organizações.
+
+## O que significa ser profissional, na prática
+
+Ser jogador profissional de e-sports não é apenas jogar bem. É ter uma função dentro de uma equipe, cumprir horários, seguir um plano de treino definido por comissão técnica e responder a resultados. A diferença entre um jogador muito bom de ranked e um profissional é a consistência sob pressão e a capacidade de executar um papel específico dentro de um sistema coletivo.
+
+Em jogos de equipe, cada jogador ocupa uma posição com responsabilidades claras. No Counter-Strike, existem funções como entry fragger, AWPer, IGL (o líder dentro do jogo) e suporte. O entry é quem entra primeiro nos sites e morre primeiro muitas vezes, abrindo espaço para o time. O AWPer carrega a arma mais cara e precisa acertar tiros decisivos. O IGL chama as estratégias e precisa enxergar o jogo de forma mais ampla que os companheiros. No League of Legends, há cinco posições fixas com metas de farm, visão e roam completamente diferentes. No Valorant, controller, duelista, sentinela e iniciador, cada um com utilidades que mudam o ritmo da rodada. Ninguém é contratado só porque tem mira boa. A mira é o mínimo esperado.
+
+Fora do servidor, o profissional também precisa lidar com análise de VOD, que é gravar e assistir às próprias partidas para achar erros, reuniões com comissão técnica, compromissos de patrocinador, gravação de conteúdo e viagens constantes. A parte de jogar costuma ocupar uma fatia menor do dia do que se imagina. Muitos jogadores relatam que passam mais tempo revisando partidas e discutindo estratégia do que efetivamente jogando.
+
+## Como começa a jornada, do ranked ao primeiro time
+
+Quase todo jogador profissional começa do mesmo jeito. Joga ranked, sobe de elo, chama atenção de outros jogadores do topo do servidor e entra em times amadores montados por amigos ou por comunidades de Discord. Essa fase é o equivalente ao futebol de várzea. Ninguém ganha dinheiro, os horários são bagunçados e os campeonatos costumam ser online, com premiação simbólica. É comum jogar depois da aula ou do trabalho, madrugada adentro, sem estrutura nenhuma.
+
+A partir daí surgem as primeiras oportunidades reais. Campeonatos abertos, ligas amadoras com estrutura, seletivas para torneios maiores. É nesse momento que um jogador começa a ser notado por olheiros e por organizações menores, às vezes chamadas de orgs de base ou academias. Muitas equipes grandes no Brasil mantêm times de base justamente para formar talentos antes que concorrentes o façam. Esses times de base costumam disputar ligas secundárias e servir de laboratório para jogadores jovens.
+
+Existe também o caminho do streaming. Criar conteúdo pode acelerar a visibilidade, mas não substitui a performance competitiva. Um streamer com audiência grande pode conseguir testes em times, mas se não performar nos scrims e nos campeonatos, a carreira competitiva não se sustenta. Audiência ajuda a abrir portas, mas o que mantém a porta aberta é resultado. Já vi jogador com canal pequeno sendo chamado por org grande só porque dominava o servidor e tinha histórico em campeonatos amadores.
+
+## A rotina real de treino de um time profissional
+
+A rotina varia conforme o jogo, a organização e o calendário de competições. Em times que disputam ligas nacionais e internacionais, é comum haver dois blocos de treino por dia, geralmente um pela manhã e outro à noite, intercalados com academia, refeições e descanso. Cada bloco inclui scrims, que são partidas treino contra outros times, normalmente sem transmissão e com regras combinadas. Às vezes o time combina de treinar só um mapa específico, ou de testar uma composição nova.
+
+Depois das scrims vem a parte mais importante e menos comentada. A revisão. A comissão técnica puxa os VODs, aponta erros de posicionamento, decisões ruins, falhas de comunicação. Um time sério revisa mais do que joga. É ali que a maioria dos ajustes acontece. Jogador que não gosta de revisar costuma ter vida curta no competitivo. Tem gente que se ofende quando o treinador aponta erro na frente do time, e isso não combina com ambiente profissional.
+
+Além disso, muitos times reservam tempo para treino individual. Treino de mira em mapas específicos, rotinas de aquecimento, estudo de estratégias de adversários. Em jogos como League of Legends, há também o chamado solo queue, que serve para manter mecânica e testar campeões, mas que não substitui o treino coletivo. Existe ainda o trabalho de analista de desempenho, que cruza dados de partidas, padrões de pick e ban, tempo de rotação e outras métricas que ajudam o treinador a montar o plano de jogo.
+
+## Quanto ganha um jogador profissional e como o dinheiro circula
+
+A faixa salarial é bem mais ampla do que a maioria imagina. Existe jogador de base recebendo uma ajuda de custo que mal cobre transporte e alimentação. Existe jogador de time médio ganhando na faixa de alguns milhares de reais por mês. E existe jogador de elite, em organizações grandes, com salário na casa dos cinco dígitos, às vezes mais. Tudo depende do jogo, da região, do momento do cenário e do quanto a organização arrecada com patrocínio.
+
+Além do salário, o jogador pode receber premiação por campeonato, que costuma ser dividida entre a organização e o time, com percentuais definidos em contrato. Também existem cotas de patrocínio, participação em campanhas, receita de streaming e, em alguns casos, participação em venda de skins ou itens dentro do jogo quando o título tem esse tipo de programa. Em jogos como Counter-Strike, itens virtuais e caixas já movimentaram quantias altas no cenário, e parte disso pode chegar ao jogador dependendo do acordo.
+
+O ponto que muita gente esquece é que essa renda é instável. Contratos duram meses, no máximo alguns anos. Um time que não classifica para o torneio principal pode ver o investimento cair. Organizações fecham. Lineups se desfazem. O jogador precisa administrar bem o dinheiro que entra nos anos bons, porque os anos ruins podem chegar rápido. Guardar reserva, investir com calma e não assumir compromissos financeiros grandes demais são decisões que fazem diferença quando a carreira muda de rumo.
+
+## O papel das organizações e dos contratos
+
+Uma organização de e-sports funciona como um clube. Ela oferece estrutura, paga salários, cuida de viagens, inscrições em campeonatos, uniformes, patrocínios e, nos casos mais estruturados, suporte psicológico e preparação física. Em troca, o jogador cede parte da sua imagem e se compromete a cumprir o contrato. Algumas orgs oferecem moradia compartilhada, a famosa gaming house, onde o time treina e mora junto. Isso pode acelerar a integração, mas também gera atrito quando a convivência não funciona.
+
+Contrato de jogador de e-sports costuma ter cláusulas de exclusividade, multa rescisória, tempo de duração e regras sobre streaming e redes sociais. É comum existir cláusula de desempenho, que permite à organização rescindir em caso de queda de rendimento ou de classificação. Ler o contrato com atenção, de preferência com alguém que entenda do assunto, é essencial. Muita carreira azedou por acordo assinado no impulso, às vezes por um jogador de dezoito anos que nunca tinha visto um documento do tipo na vida.
+
+Existe também a figura do agente ou empresário, cada vez mais comum no Brasil. Ele negocia contratos, busca patrocínios e orienta o jogador em decisões de carreira. Nem todo mundo precisa de um, mas quem está em fase de transição para times maiores costuma se beneficiar. O agente também ajuda a filtrar propostas ruins e a entender o valor de mercado do jogador em determinado momento.
+
+## Saúde mental, burnout e a pressão do resultado
+
+Esse é um dos temas mais sérios e menos falados. Jogador profissional vive sob avaliação constante. Cada partida é analisada por torcedores, por analistas, por outros jogadores. Redes sociais transformam qualquer erro em meme. A pressão por resultado é diária, e a janela para provar valor é curta. Um jogador novo que entra em time grande e não performa em dois ou três campeonatos pode ser cortado sem muita cerimônia.
+
+Burnout é comum. Jornadas longas, viagens frequentes, fuso horário trocado, pouca vida social fora do jogo. Muitos jogadores relatam ansiedade antes de partidas decisivas, dificuldade para dormir e sensação de esgotamento. Organizações mais profissionais já oferecem acompanhamento psicológico, mas isso ainda está longe de ser regra no cenário brasileiro. Em muitos casos, o jogador só busca ajuda quando já está exausto ou pensando em parar.
+
+Vale lembrar que nada aqui substitui orientação médica ou psicológica. Se você está passando por isso, procure ajuda profissional. O jogo pode esperar.
+
+## Passo a passo para quem quer tentar carreira nos e-sports
+
+Se você joga bem e pensa em seguir esse caminho, vale organizar a tentativa em etapas. Não existe garantia de sucesso, mas seguir uma ordem lógica reduz o risco de perder tempo.
+
+- Escolha um jogo e foque nele. Ficar alternando entre títulos diferentes dispersa seu progresso. Domine um cenário antes de olhar para outro.
+
+- Suba de elo e se torne reconhecido no servidor. Sem estar no topo da fila ranqueada, dificilmente você será notado por olheiros ou por outros jogadores.
+
+- Entre em times amadores e jogue campeonatos abertos. É ali que você aprende o básico de trabalho em equipe, scrims e revisão.
+
+- Grave suas partidas e revise. Aprenda a identificar seus próprios erros sem depender de alguém apontando.
+
+- Monte um currículo competitivo. Histórico de campeonatos, posição, função, conquistas. Organizações olham isso.
+
+- Participe de seletivas e peneiras. Muitas orgs abrem processos abertos periodicamente. Fique de olho nos canais oficiais.
+
+- Cuide da sua imagem online. Redes sociais e comportamento público pesam em avaliações de organizações.
+
+- Tenha plano B. Estude, mantenha uma formação paralela. A carreira competitiva pode não durar, e você precisa de para onde ir depois.
+
+Esse passo a passo não é uma receita garantida. É uma forma de organizar a tentativa e evitar decisões precipitadas, como largar os estudos cedo demais ou assinar contrato sem entender o que está escrito. Também ajuda a manter os pés no chão quando a fase amadora demora mais do que o esperado, o que é comum.
+
+## Depois da aposentadoria, para onde vai o jogador
+
+A carreira competitiva costuma terminar cedo, muitas vezes antes dos trinta anos. Quando o reflexo diminui, quando o meta muda, quando aparece um talento mais novo, o jogador precisa decidir o que fazer. Muitos migram para funções dentro do próprio cenário. Treinador, analista, narrador, comentarista, produtor de conteúdo, gestor de equipe, dono de organização.
+
+Outros seguem para o streaming em tempo integral, aproveitando a audiência que construíram durante os anos competitivos. Há quem vá para o desenvolvimento de jogos, para a área de dados ou para o marketing esportivo. Quem estudou durante a carreira tem mais portas abertas. Quem não estudou enfrenta um mercado de trabalho comum sem experiência formal, o que complica bastante.
+
+Planejar a transição antes de ela acontecer é uma das decisões mais inteligentes que um jogador pode tomar. Conversar com quem já passou por isso, entender as opções, guardar dinheiro e manter uma rede de contatos ativa faz diferença. Muitos ex-jogadores dizem que o mais difícil não foi sair do competitivo, mas descobrir o que fazer no dia seguinte.
+
+## O cenário brasileiro e suas particularidades
+
+O Brasil tem um cenário de e-sports relevante, com organizações tradicionais, campeonatos bem estruturados e uma torcida engajada. Jogos como Free Fire, Counter-Strike e League of Legends movimentam bastante o mercado por aqui. Ao mesmo tempo, o cenário brasileiro enfrenta desafios próprios, como instabilidade econômica, dificuldade de patrocínio e concorrência com ligas internacionais que pagam em dólar ou euro.
+
+Muitos jogadores brasileiros buscam vagas em times do exterior, especialmente na Europa e nos Estados Unidos. Isso exige inglês, adaptação cultural e disposição para morar longe da família. Nem todo mundo está preparado para isso, e a adaptação costuma ser mais difícil do que a parte técnica. Tem jogador que se destaca no Brasil mas trava lá fora por causa de comunicação ou de rotina diferente.
+
+Outro ponto é a base. Ainda falta no Brasil uma estrutura mais sólida de formação, com categorias de base bem organizadas, campeonatos regionais fortes e acompanhamento escolar para jovens jogadores. Algumas organizações já fazem esse trabalho, mas o cenário ainda depende muito de iniciativas isoladas. Em regiões fora do eixo Rio-São Paulo, a dificuldade de acesso a campeonatos presenciais e a internet de qualidade é ainda maior.
+
+## O que separa quem chega de quem desiste
+
+Não existe fórmula mágica. Mas algumas características aparecem com frequência em quem consegue se firmar. Disciplina para treinar mesmo sem vontade. Capacidade de ouvir crítica sem levar para o pessoal. Vontade de estudar o jogo além de jogar. Equilíbrio emocional para lidar com derrota. E, talvez o mais importante, noção de que a carreira tem prazo de validade e precisa ser planejada como qualquer outra profissão.
+
+Quem entra achando que vai só jogar e ganhar dinheiro costuma se decepcionar. Quem entende que está construindo uma carreira com começo, meio e fim, com obrigações e riscos, tem mais chance de aproveitar o que o cenário oferece, tanto dentro quanto fora do servidor. A diferença entre talento e carreira é justamente a estrutura que se coloca em volta do talento.
+
+A carreira de jogador profissional de e-sports é possível, real e já sustentou muita gente no Brasil. Mas ela exige mais do que talento. Exige cabeça, planejamento e disposição para encarar o jogo como trabalho, não como diversão. Se você está pensando em tentar, comece organizando sua rotina, escolhendo um jogo para focar e mantendo os estudos em dia. O resto vem com tempo, resultado e um pouco de sorte.

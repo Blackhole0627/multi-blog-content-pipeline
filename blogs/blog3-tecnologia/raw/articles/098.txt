@@ -1,0 +1,125 @@
+Aquele clique no botão power e nada acontece. Ou pior, o computador liga, as ventoinhas giram, mas a tela continua preta. Quem já passou por isso conhece a mistura de frustração e apreensão. A primeira reação costuma ser achar que a placa-mãe morreu e que o conserto vai custar uma fortuna. Na maioria dos casos, não é nada tão grave assim.
+
+Diagnosticar um computador que não liga é um processo de eliminação. Você testa hipóteses, da mais simples para a mais complexa, até encontrar o ponto onde a corrente para de fluir ou o sinal de vídeo se perde. Não precisa ser técnico em eletrônica para fazer boa parte desses testes. Com paciência e alguns cuidados básicos, dá para identificar muita coisa em casa mesmo.
+
+O que assusta é que os sintomas se parecem muito. Um PC que não dá sinal de vida e um que liga mas não mostra imagem podem ter causas completamente diferentes. Por isso, o primeiro passo é separar os cenários. A partir daí, fica mais fácil saber onde colocar a atenção e o que testar primeiro.
+
+## O que "não liga" realmente significa
+
+Antes de sair abrindo o gabinete, vale definir o problema com precisão. "Não liga" pode querer dizer coisas bem distintas. Às vezes o computador está completamente morto, sem nenhum LED aceso, sem ventoinha girando, sem ruído nenhum. Em outros casos, ele dá sinais de vida, mas não chega a inicializar o sistema.
+
+Existe ainda a situação em que ele liga, bipa, acende luzes, mas a tela fica preta. E tem o caso em que ele começa a ligar e desliga sozinho depois de poucos segundos. Cada comportamento aponta para um caminho diferente de investigação. Tratar tudo como "não liga" só faz você perder tempo testando coisas que não têm relação com o problema.
+
+Anote mentalmente, ou no papel mesmo, exatamente o que acontece quando você aperta o botão. Tem algum LED na placa-mãe? As ventoinhas do gabinete ou do processador giram? O teclado acende? O monitor dá alguma mensagem de "sem sinal"? Esses detalhes mudam completamente o roteiro de diagnóstico.
+
+## Checagens básicas antes de abrir qualquer coisa
+
+Muita gente parte direto para o interior do gabinete quando o problema pode estar do lado de fora. A tomada funciona? O filtro de linha não queimou? O cabo de força está bem encaixado nas duas pontas? Parece óbvio, mas é incrivelmente comum encontrar casos assim. Já vi gente comprando fonte nova por causa de um benjamim desligado.
+
+Teste a tomada com outro aparelho, como um carregador de celular. Se possível, troque o cabo de força por outro que você sabe que funciona. Verifique também se a chave seletora de tensão da fonte, aquela vermelhinha atrás, está na posição correta para a sua região. Em cidades com 220V, ela precisa estar em 220V. Se estiver em 110V, a fonte pode ter ido embora.
+
+Se você usa um estabilizador ou nobreak antigo, tire-o da equação. Ligue o computador direto na tomada ou em um filtro de linha simples. Esses equipamentos velhos às vezes falham e cortam a energia sem aviso. É um teste rápido que elimina uma variável importante.
+
+No caso de notebooks, a checagem começa pelo carregador. A luz dele acende quando você pluga na tomada? O conector entra até o fim? Já peguei notebook que "não ligava" e o problema era só o cabo do carregador com mau contato. Teste com outra fonte compatível, se tiver acesso, antes de assumir que a placa-mãe morreu.
+
+## Quando o PC liga mas não dá imagem
+
+Esse é um dos cenários mais confusos. As ventoinhas giram, os LEDs acendem, mas o monitor fica naquela tela preta com a mensagem "sem sinal". A primeira coisa a verificar é o cabo de vídeo. Ele está conectado na saída certa? Se você tem placa de vídeo dedicada, o cabo precisa estar ligado nela, não na saída da placa-mãe. Esse erro é mais comum do que parece, principalmente depois de mexer no gabinete.
+
+Teste outro cabo, de preferência de um tipo diferente. Se está usando HDMI, experimente DisplayPort ou VGA. Troque também a entrada no monitor, caso ele tenha mais de uma. E confirme que o monitor está ligado na fonte certa e selecionando a entrada correta. Às vezes o monitor funciona perfeitamente, só esperando um sinal que nunca chega porque a entrada selecionada é outra.
+
+Se nada disso resolver, parta para a memória RAM. Memória mal encaixada ou com defeito é uma das causas mais frequentes de PC que liga sem dar vídeo. Desligue tudo, abra o gabinete e remova os pentes. Limpe os contatos com uma borracha branca, com cuidado, e encaixe de novo até ouvir o clique. Se tiver dois pentes, teste um de cada vez, em slots diferentes. Isso ajuda a isolar se o problema é um pente específico ou o slot da placa-mãe.
+
+A placa de vídeo também merece atenção. Se for dedicada, remova e encaixe novamente, certificando-se de que está bem firme no slot e que os cabos de energia auxiliar estão conectados, quando houver. Aproveite para limpar o slot com um pincel de cerdas macias ou ar comprimido. Poeira acumulada pode causar mau contato.
+
+## O papel da fonte de alimentação
+
+A fonte é suspeita número um em qualquer diagnóstico de PC que não liga. Ela é o coração da coisa toda. Se não entrega energia suficiente ou entrega de forma instável, nada funciona direito. O problema é que testar fonte sem equipamento específico é limitado. Você consegue fazer alguns testes básicos, mas não consegue medir a qualidade da energia que ela produz.
+
+O teste do clipe de papel é clássico. Você desconecta a fonte de tudo, acha o conector de 24 pinos, e faz um jumper entre o fio verde e qualquer fio preto. Se a ventoinha da fonte girar, ela provavelmente está ligando. Se não girar, é sinal de que ela morreu. Mas atenção, esse teste não garante que a fonte está boa. Ela pode ligar e ainda assim não entregar tensão suficiente para o sistema. Só serve para descartar o caso mais óbvio de fonte totalmente morta.
+
+Outro teste possível é a troca por uma fonte que você sabe que funciona. Se tiver uma sobrando, ou conseguir emprestada, é a forma mais confiável de descartar a fonte como culpada. Se o computador ligar normalmente com a fonte emprestada, o problema está resolvido. Só lembre de usar uma fonte com potência adequada para o seu hardware.
+
+Fique atento a sinais de fonte moribunda. Cheiro de queimado, capacitores estufados visíveis quando você olha pela grade de ventilação, ruídos estranhos. Se a fonte tem mais de cinco ou seis anos e nunca foi trocada, ela é uma candidata forte, principalmente se o computador passou por quedas de energia recentes.
+
+## Memória RAM e placa-mãe, os suspeitos silenciosos
+
+Já falamos da RAM no cenário sem imagem, mas ela também pode impedir o computador de ligar completamente. Em alguns casos, memória com defeito faz a placa-mãe entrar em proteção e nem iniciar o POST. O sintoma é um PC que não dá sinal nenhum, como se estivesse morto. Vale testar a RAM mesmo quando o computador não mostra nenhum sinal de vida.
+
+O procedimento é simples. Remova todos os pentes, limpe os contatos, e teste um por vez, em cada slot. Se com um pente específico o computador ligar, você achou o problema. Se nenhum pente funcionar em nenhum slot, a suspeita muda para a placa-mãe ou o processador.
+
+A placa-mãe é mais difícil de testar sem equipamento. Mas dá para fazer uma inspeção visual. Procure por capacitores estufados ou vazando, sinais de queimado, trilhas rompidas, encaixes tortos. Verifique se o processador está bem assentado no soquete e se o cooler está fazendo pressão suficiente. Um cooler mal encaixado pode fazer o processador esquentar demais em segundos e a placa desligar tudo por proteção.
+
+A bateria CR2032 da placa-mãe também pode causar problemas estranhos. Quando ela acaba, o computador perde as configurações de BIOS, pode não reconhecer o disco de boot e, em alguns casos, nem ligar direito. É uma peça barata e fácil de trocar. Se o seu PC tem alguns anos e nunca trocou essa bateria, vale a pena considerar.
+
+## Processador e cooler, cuidados que fazem diferença
+
+O processador raramente é o culpado, mas quando é, o problema é sério. Ele pode queimar por superaquecimento, por surto elétrico ou por má instalação. Se você montou o PC recentemente e ele nunca ligou, pode ser que o processador não esteja bem encaixado no soquete ou que os pinos estejam tortos. Esse cenário é mais comum do que parece, principalmente em montagens caseiras.
+
+Antes de qualquer coisa, confirme se o processador é compatível com a placa-mãe. Soquete errado não tem jeito, não encaixa. E forçar só vai danificar os pinos. Se você tem dúvida, consulte o manual da placa-mãe. Ele lista os processadores suportados. Não confie só na memória ou em informação de fórum antigo.
+
+O cooler é outro ponto crítico. Se ele não estiver bem preso, o processador esquenta em segundos e a placa-mãe desliga tudo para se proteger. Em alguns casos, o computador liga por dois ou três segundos e desliga. Esse comportamento é clássico de proteção térmica. Verifique se o cooler está firme, se a pasta térmica foi aplicada corretamente e se o cabo de alimentação do cooler está conectado no header certo da placa-mãe.
+
+Se você tem um processador com vídeo integrado, vale testar sem a placa de vídeo dedicada. Remova a placa, conecte o monitor direto na saída da placa-mãe e veja se dá imagem. Isso elimina a placa de vídeo como suspeita e ajuda a isolar o problema.
+
+## O passo a passo do diagnóstico completo
+
+Agora que você já conhece os principais suspeitos, vamos organizar o processo. A ideia é ir do mais simples para o mais complexo, testando uma coisa de cada vez. Assim você não se perde e consegue identificar exatamente onde está o problema.
+
+- Passo 1, verifique a energia externa. Teste a tomada, troque o cabo de força, confira a chave de tensão da fonte. Em notebooks, teste outro carregador.
+
+- Passo 2, observe os sintomas. LED aceso? Ventoinha girando? Algum bip? Anote tudo. Isso define o próximo passo.
+
+- Passo 3, se não dá imagem, revise o cabo de vídeo. Conecte na saída correta, troque o cabo, mude a entrada do monitor.
+
+- Passo 4, mexa na memória RAM. Remova, limpe os contatos, teste um pente por vez em slots diferentes.
+
+- Passo 5, teste a fonte. Faça o teste do clipe de papel ou troque por uma fonte sabidamente boa.
+
+- Passo 6, verifique o cooler e o processador. Confirme que estão bem encaixados e que a pasta térmica está ok.
+
+- Passo 7, remova a placa de vídeo dedicada. Teste com o vídeo integrado, se tiver.
+
+- Passo 8, inspecione a placa-mãe. Procure capacitores estufados, queimados, encaixes soltos.
+
+- Passo 9, troque a bateria da BIOS. É barata e elimina uma variável comum.
+
+- Passo 10, se nada resolver, procure assistência técnica. Nem todo problema se resolve em casa, e forçar pode piorar.
+
+Cada passo elimina uma possibilidade. Se você chegar ao fim sem solução, pelo menos vai saber que o problema é mais profundo e vai poder explicar para o técnico tudo o que já testou. Isso economiza tempo e dinheiro.
+
+## Erros comuns que podem piorar a situação
+
+Um dos erros mais frequentes é mexer nas peças sem descarregar a estática do corpo. Isso pode parecer exagero, mas a eletricidade estática pode queimar componentes sensíveis, como a placa-mãe e a memória. Antes de tocar em qualquer peça, encoste em uma superfície metálica aterrada, como a carcaça do gabinete com ele plugado na tomada, mas desligado. Ou use uma pulseira antiestática, se tiver.
+
+Outro erro é forçar encaixes. Conectores de energia, memória RAM, placa de vídeo, todos têm posição certa e encaixe guiado. Se não está entrando, é porque está errado. Forçar só vai quebrar pinos e trilhas. Leia o manual, observe as travas e encaixes, e faça com calma.
+
+Tem gente que sai trocando peças sem testar. Compra fonte nova, depois memória nova, depois placa-mãe nova, e o problema continua. Isso acontece porque não se testou nada, só se substituiu por tentativa. O diagnóstico correto é eliminar variáveis uma a uma. Trocar peças sem critério só gasta dinheiro.
+
+E tem o clássico, esquecer de conectar o cabo de energia do processador. Aquele conector de 4 ou 8 pinos no canto superior da placa-mãe. Sem ele, o computador pode até ligar as ventoinhas, mas não inicializa. É um detalhe fácil de passar batido, principalmente em montagens novas.
+
+## Quando procurar ajuda profissional
+
+Alguns problemas não têm como resolver em casa. Se você já testou tudo o que estava ao seu alcance e o computador continua sem ligar, é hora de procurar um técnico. Isso não é fracasso, é bom senso. Continuar mexendo pode causar danos maiores e encarecer o conserto.
+
+Sinais de que você deve parar e buscar ajuda. Cheiro de queimado persistente, componentes visivelmente danificados, como capacitores estufados ou trilhas rompidas, computador que faz ruídos estranhos ao tentar ligar, como estalos ou apitos agudos. Se você não se sente seguro abrindo o gabinete ou mexendo nas peças, também é sinal de que é melhor deixar para quem tem experiência.
+
+Antes de levar, anote tudo o que você testou. Isso ajuda o técnico a ir direto ao ponto e evita que ele cobre por diagnósticos que você já fez. Se possível, leve junto a fonte, caso suspeite dela, ou o pente de memória que você acha que pode estar com problema. Facilita o teste na bancada.
+
+## Uma palavra sobre notebooks
+
+Notebooks têm particularidades que complicam o diagnóstico caseiro. A maioria dos componentes é soldada na placa, o que dificulta a troca. A fonte é externa, o que ajuda a testar, mas a bateria interna pode ser um problema. Muitos notebooks não ligam se a bateria estiver completamente morta, mesmo com o carregador conectado.
+
+Se o seu notebook não liga, comece testando o carregador. Veja se a luz acende, se o conector está firme, se a tensão é a correta. Depois, tente ligar sem a bateria, se for removível. Em modelos com bateria interna, isso já exige abrir o aparelho, o que pode ser complicado.
+
+Tente também o reset de energia. Desconecte o carregador, segure o botão power por uns trinta segundos, e depois conecte o carregador e tente ligar. Esse procedimento simples resolve muitos casos de notebook que não liga, porque descarrega a energia residual da placa.
+
+Se nada disso funcionar, a suspeita recai sobre a placa-mãe ou o circuito de carga. Aí é caso de assistência técnica especializada. Notebook é mais delicado e as peças são mais caras. Não vale a pena arriscar.
+
+## Fechando o diagnóstico com paciência e método
+
+Diagnosticar um computador que não liga é mais sobre método do que sobre conhecimento avançado. Você não precisa entender de eletrônica para fazer a maioria dos testes. Precisa de paciência, organização e cuidado com as peças. A pressa é inimiga número um nesse processo. Quem sai trocando tudo e forçando encaixe geralmente piora a situação.
+
+Lembre-se de que cada teste elimina uma possibilidade. Mesmo quando o resultado é negativo, você está mais perto da solução. O computador que não liga pode ter dezenas de causas, mas você só precisa encontrar uma. Vá com calma, anote o que fez, e não tenha vergonha de parar e pedir ajuda quando chegar no limite do que dá para fazer em casa.
+
+No fim, o mais importante é não transformar um problema simples em um prejuízo grande. Às vezes é só a memória mal encaixada. Às vezes é a fonte pedindo aposentadoria. E às vezes é algo que só um técnico resolve. Saber a diferença entre esses cenários é o que separa o diagnóstico bem feito da tentativa e erro.

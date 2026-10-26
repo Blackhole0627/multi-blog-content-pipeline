@@ -1,0 +1,155 @@
+Escolher um plano de internet para casa parece simples até você abrir o site de uma operadora e encontrar dezenas de opções. Velocidade de 300 mega, 500 mega, 1 giga. Combo com TV, com telefone, com streaming. Fidelidade de 12 meses, de 24 meses, sem fidelidade. Instalação grátis, wi-fi incluso, roteador premium. A lista não acaba.
+
+O problema é que a maioria decide com base em um único número, a velocidade anunciada. E esse número, sozinho, diz pouco sobre como será sua experiência real. Tem gente pagando por 700 mega e sofrendo com vídeo travando na sala, enquanto outra pessoa com 200 mega assiste tudo em paz.
+
+A diferença está em entender o que você realmente usa, como sua casa está montada e o que cada tipo de conexão entrega de verdade. É isso que este texto cobre, para você sair da conversa com o vendedor sabendo o que pedir, o que recusar e onde estão as pegadinhas.
+
+## Entenda a diferença entre velocidade e qualidade
+
+Velocidade é só uma parte da história. Quando a operadora diz 500 mega, ela fala da velocidade máxima de download em condições ideais, medida por cabo. Na sua casa, com parede no meio, notebook antigo e cinco aparelhos conectados, esse número quase nunca aparece.
+
+O que importa no uso real é um conjunto. Latência, que é o tempo que a informação leva para ir e voltar. Estabilidade, a capacidade de manter a conexão sem cair. E capacidade de lidar com vários dispositivos ao mesmo tempo, o que depende do plano e do seu roteador.
+
+Latência baixa faz diferença em chamadas de vídeo, jogos online e reuniões de trabalho. Um plano de 1 giga com latência alta vai te dar dor de cabeça em uma call. Já um plano de 300 mega estável pode ser perfeito para o mesmo uso.
+
+Estabilidade é o fator mais subestimado. De nada adianta velocidade alta se a conexão cai toda tarde. Isso acontece em bairros com rede sobrecarregada ou instalações antigas de cabo coaxial. Vale perguntar para vizinhos como é a experiência deles com a operadora que você está considerando.
+
+## Os tipos de conexão disponíveis no Brasil
+
+Não existe só um tipo de internet fixa. Cada tecnologia tem características próprias, e saber qual está disponível na sua região muda a decisão.
+
+A fibra óptica é o padrão de qualidade. A conexão chega por um fio de vidro que transmite luz, o que permite velocidades altas com latência baixa e boa estabilidade. O ponto de atenção é que muitas operadoras vendem fibra quando na verdade entregam fibra até o prédio e cabo metálico até o apartamento. Pergunte se é FTTH, fibra até a sua casa.
+
+O cabo coaxial, usado por operadoras de TV a cabo, ainda aparece em muitas cidades. Entrega velocidades razoáveis, mas sofre mais no horário de pico. À noite, quando todo mundo assiste streaming, a velocidade pode cair bastante.
+
+O VDSL e o ADSL, que usam a linha telefônica, estão em extinção. Ainda existem em áreas afastadas, mas raramente valem a pena se houver alternativa. A velocidade é limitada e a estabilidade deixa a desejar.
+
+A internet via rádio é comum em zonas rurais ou condomínios afastados. Depende de uma antena que recebe sinal de uma torre. Funciona, mas é sensível a chuva forte, vento e obstáculos. Se for sua única opção, escolha um provedor local com boa reputação na região.
+
+Existem ainda os provedores regionais, que cresceram muito nos últimos anos. Muitas vezes oferecem atendimento melhor e preço mais competitivo que as grandes operadoras. Vale considerar, principalmente se a rede for toda de fibra.
+
+## Como medir o que sua casa realmente precisa
+
+Antes de olhar planos, faça uma conta simples do que sua casa consome. Isso evita pagar por velocidade que você não usa ou contratar algo insuficiente.
+
+Pense em quantas pessoas moram na casa e quantos aparelhos ficam conectados ao mesmo tempo. Cada celular, notebook, smart TV, videogame e câmera de segurança consome banda. Não é só quando alguém está usando. Atualizações automáticas, backup na nuvem e dispositivos inteligentes puxam dados sem você perceber.
+
+Streaming é o que mais consome. Um vídeo em Full HD usa algo em torno de 5 a 8 mega por segundo. Em 4K, esse número sobe bastante e pode passar de 25 mega por segundo por tela. Se duas TVs assistem em 4K ao mesmo tempo, já são mais de 50 mega só nisso.
+
+Jogos online não exigem velocidade alta, mas exigem latência baixa. Baixar um jogo grande, por outro lado, consome muita banda e pode demorar horas em planos lentos.
+
+Trabalho remoto mudou o cálculo para muita gente. Reuniões em vídeo, upload de arquivos pesados e acesso a sistemas da empresa pedem conexão estável, com upload decente. Muita gente esquece do upload e só olha o download. Planos com upload muito baixo atrapalham quem envia arquivos grandes ou faz lives.
+
+Uma regra prática. Casais que só usam redes sociais, streaming em Full HD e trabalho leve ficam bem com 200 a 300 mega. Famílias com crianças, jogos e várias telas em 4K se beneficiam de 500 mega ou mais. Se você tem home office pesado, muitos dispositivos e quer folga, 700 mega a 1 giga faz sentido.
+
+## O que ninguém te conta sobre os combos
+
+Os combos de internet, TV e telefone parecem vantajosos, mas nem sempre são. A lógica da operadora é te prender em um pacote maior, com fidelidade longa e multa se você sair antes.
+
+O telefone fixo quase nunca é usado hoje. Muitas operadoras incluem a linha como brinde, mas ela pode vir com tarifas escondidas se você fizer chamadas. Se não usa telefone fixo, não deixe esse item influenciar sua escolha.
+
+A TV por assinatura tradicional perdeu espaço para os streamings. Faz mais sentido, na maioria dos casos, contratar apenas internet e assinar os serviços que você realmente assiste. Você ganha flexibilidade e costuma gastar menos.
+
+Alguns combos incluem acesso a plataformas de streaming. Isso pode ser bom, mas leia com atenção. Muitas vezes é o plano com anúncios ou uma versão limitada. E o valor incluso já está embutido no preço do combo.
+
+O ponto mais importante é a fidelidade. Planos com 12 ou 24 meses costumam ter preço promocional nos primeiros meses e depois sobem. Pergunte qual será o valor após o período promocional. Essa informação muitas vezes não aparece com destaque no site.
+
+## A pegadinha da velocidade e do wi-fi
+
+Você contrata 600 mega, faz o teste no celular e vê 80 mega. A culpa quase nunca é da operadora. É do wi-fi.
+
+O roteador que vem no plano costuma ser básico. Ele até funciona, mas não entrega a velocidade contratada em todos os cantos da casa. Paredes, distância e interferência de redes vizinhas derrubam o sinal. Em apartamentos, o problema é maior, porque todo mundo tem roteador e os canais ficam congestionados.
+
+A banda de 2,4 GHz tem mais alcance, mas é mais lenta e sofre mais interferência. A de 5 GHz é mais rápida, porém alcança menos. Um roteador decente trabalha nas duas e alterna conforme a necessidade. Roteadores mais novos, com wi-fi 6, lidam melhor com muitos dispositivos ao mesmo tempo.
+
+Se sua casa é grande, tem andares ou paredes grossas, talvez valha investir em um sistema mesh. São vários pontos que se comunicam entre si e cobrem a casa toda com uma rede única. O celular troca de ponto automaticamente conforme você anda. É bem diferente de um repetidor comum, que costuma piorar a qualidade.
+
+Outra dica é onde você posiciona o roteador. Deixe no centro da casa, em local alto, longe de micro-ondas, espelhos e paredes de concreto. Parece detalhe, mas muda bastante a experiência.
+
+E lembre. Para medir a velocidade real do plano, faça o teste por cabo, com o computador ligado direto no roteador ou no modem. É a única forma de saber se a operadora está entregando o que prometeu.
+
+## Checklist para decidir com segurança
+
+Perto de fechar, use esta lista para não esquecer nada importante.
+
+- Verifique quais operadoras atendem seu endereço com fibra óptica de verdade, com FTTH. Pergunte explicitamente.
+
+- Confirme o valor após o período promocional, por escrito, no contrato ou no chat de atendimento.
+
+- Pergunte o prazo de fidelidade e o valor da multa em caso de cancelamento antecipado.
+
+- Verifique a velocidade de upload, não só a de download. Ela importa para home office, lives e envio de arquivos.
+
+- Pergunte se o roteador é incluso, qual modelo e se tem suporte a wi-fi 6.
+
+- Cheque se há cobrança de instalação ou de visita técnica.
+
+- Converse com vizinhos sobre a estabilidade da operadora na sua região.
+
+- Pergunte como funciona o suporte. Chat, telefone, aplicativo. E em quanto tempo um técnico é enviado se algo der errado.
+
+- Se possível, comece sem fidelidade. Mesmo pagando um pouco mais, você testa a qualidade antes de se comprometer.
+
+Depois de instalado, acompanhe os primeiros dias. Faça testes em horários diferentes, veja se a conexão cai à noite e observe se a velocidade se mantém. Se algo estiver errado, reclame logo. A maioria das operadoras tem prazo para você cancelar sem multa se o serviço não corresponder ao contratado.
+
+## Erros comuns na hora de contratar
+
+O primeiro erro é escolher só pela velocidade. Como já vimos, 500 mega com latência ruim é pior que 300 mega estável, dependendo do uso.
+
+O segundo é acreditar no preço do anúncio. Ele quase sempre é para novos clientes, com fidelidade e por tempo limitado. Depois, sobe. Leia o contrato inteiro antes de assinar.
+
+O terceiro é ignorar o upload. Muita gente descobre da pior forma, ao tentar enviar um arquivo grande para o trabalho ou fazer uma live, que o plano tem upload baixo.
+
+O quarto é subestimar o wi-fi. Você contrata um plano bom e culpa a operadora por um problema que está no roteador ou na posição dele. Investir em um bom roteador ou em um sistema mesh costuma resolver mais do que trocar de plano.
+
+O quinto é não perguntar sobre a rede na sua região. Uma operadora pode ser ótima em um bairro e péssima em outro. A experiência varia muito conforme a infraestrutura local.
+
+E o sexto é contratar por impulso, sem comparar. Mesmo que pareça chato, vale perder meia hora comparando duas ou três opções. A diferença no bolso e na qualidade de vida ao longo de um ano é grande.
+
+## Vale a pena trocar de operadora com frequência
+
+Trocar de operadora só para pagar menos nem sempre compensa. Cada troca envolve instalação, ajuste de roteador, configuração de dispositivos e um período de adaptação. Se o serviço atual é estável e atende bem, uma diferença pequena de preço pode não valer o transtorno.
+
+Por outro lado, se você paga caro por um serviço ruim, com quedas frequentes e suporte que não resolve, trocar faz sentido. O mercado de internet fixa ficou mais competitivo com a entrada dos provedores regionais, e muitas vezes eles oferecem condições melhores.
+
+Uma estratégia comum é usar a concorrência como argumento. Ligue para sua operadora, diga que recebeu uma proposta melhor e pergunte se conseguem igualar. Muitas vezes conseguem, com desconto temporário ou melhoria no plano. Não é garantido, mas custa pouco tentar.
+
+Só não aceite um novo período de fidelidade só para ganhar um desconto pequeno. Leia as condições. Às vezes o desconto vale por seis meses e a fidelidade por vinte e quatro.
+
+## Como negociar e o que observar no contrato
+
+Negociar internet fixa é possível, principalmente se você já é cliente há algum tempo. Operadoras costumam ter setores de retenção com condições especiais para quem ameaça cancelar.
+
+Antes de ligar, tenha em mãos as ofertas da concorrência. Anote velocidade, preço e condições. Isso te dá argumento. Seja direto e educado. Diga que está considerando trocar por causa do preço e pergunte o que podem oferecer.
+
+Peça tudo por escrito, no chat do aplicativo ou por e-mail. Isso vale para o valor promocional, o valor após o período, o prazo de fidelidade e a multa. Se o atendente prometeu algo que não está no contrato, você tem como cobrar depois.
+
+Leia o contrato com atenção nas cláusulas de reajuste. Muitos planos têm reajuste anual pelo índice de inflação ou por um percentual definido. Isso significa que o valor sobe todo ano, independentemente de promoção.
+
+Verifique também as condições de cancelamento. Algumas operadoras cobram multa proporcional ao tempo restante de fidelidade. Outras cobram o valor integral dos descontos recebidos. Entenda antes de assinar.
+
+## O que fazer depois da instalação
+
+Instalou, agora acompanhe. Nos primeiros dias, use a internet normalmente e observe. Faça testes de velocidade em horários diferentes, de manhã, à tarde e à noite. Veja se a velocidade se mantém estável ou se cai nos horários de pico.
+
+Teste o wi-fi nos cômodos onde você mais usa. Se a sala pega bem, mas o quarto não, talvez seja hora de pensar em um repetidor ou mesh. Anote onde o sinal é fraco.
+
+Observe a latência em chamadas de vídeo e jogos. Se as calls travam ou o jogo tem lag constante, pode ser problema de rede ou de roteador. Teste por cabo para saber onde está o gargalo.
+
+Guarde o número do protocolo de atendimento sempre que falar com o suporte. Isso ajuda se você precisar reclamar depois. Em casos de problemas que não se resolvem, existem canais como a Anatel e o consumidor.gov.br.
+
+E fique de olho na fatura. Às vezes aparecem cobranças de serviços que você não contratou ou que foram oferecidos como teste gratuito e depois passaram a ser cobrados. Revise todo mês.
+
+## Pensando no longo prazo
+
+Sua necessidade de internet vai mudar. Hoje talvez você more sozinho e use pouco. Daqui a um ano, pode estar com home office, mais dispositivos e crianças estudando online. Escolher um plano com alguma folga evita ter que trocar tudo de novo em pouco tempo.
+
+Também pense na infraestrutura. Se a fibra chegou recentemente no seu bairro, é provável que a rede seja boa e tenha capacidade de crescer. Se a operadora ainda depende de cabo coaxial antigo, a tendência é de limitação.
+
+Considere começar com um plano intermediário e fazer upgrade depois. Muitas operadoras permitem mudar de plano sem multa, às vezes com fidelidade nova. Pergunte como funciona. Assim você não paga por algo que não usa, mas tem margem para crescer.
+
+Por fim, lembre que o barato pode sair caro. Um plano muito abaixo do mercado geralmente esconde algum problema. Suporte ruim, instalação demorada, velocidade que não chega. Não estou dizendo para pagar caro, mas para desconfiar de preços fora da realidade.
+
+O melhor plano de internet para sua casa não é o mais rápido nem o mais barato. É aquele que combina com o seu uso, funciona bem na sua região e cabe no seu bolso sem aperto. Leve o tempo que precisar para comparar, pergunte o que não entendeu e não assine nada com pressa. Sua conexão vai te acompanhar por muitos meses, então vale escolher com calma.
+
+Depois de contratar, continue atento. Anote o que funciona e o que não funciona. Se algo não vai bem, cobre. Você é cliente e tem direitos. E se perceber que errou na escolha, troque. O mercado tem opções suficientes para você encontrar a que combina com a sua casa.

@@ -1,0 +1,151 @@
+Receber a notificação de que alguém entrou na sua conta é um daqueles momentos que fazem o estômago cair. Pode ser um e-mail do banco, uma mensagem de um amigo perguntando por que você mandou aquele link estranho, ou simplesmente a constatação de que a senha não funciona mais. A sensação é de invasão de casa, e é exatamente isso que aconteceu no ambiente digital.
+
+A boa notícia é que existe um caminho claro para retomar o controle. Quanto mais rápido você age, menor o estrago. E o estrago pode ser financeiro, social ou emocional. Conta de banco, perfil em rede social, e-mail principal, conta de jogos, tudo isso pode virar porta de entrada para golpes contra você e contra quem confia em você.
+
+Este guia não é sobre pânico. É sobre sequência de ações. Você vai entender o que fazer nos primeiros minutos, como recuperar o acesso, como impedir que o invasor volte e como evitar que a história se repita. Vamos por partes, com exemplos reais do que acontece no Brasil.
+
+## Os primeiros minutos fazem toda a diferença
+
+Assim que você percebe que a conta foi invadida, pare o que está fazendo e priorize isso. Cada minuto conta porque o invasor costuma agir rápido. Ele muda a senha, ativa a verificação em duas etapas com o número dele, apaga mensagens, faz compras, pede dinheiro para seus contatos. Tudo em questão de minutos.
+
+O primeiro passo é tentar recuperar o acesso pelo próprio fluxo de "esqueci minha senha". Se o invasor não trocou o e-mail de recuperação nem o telefone, você consegue um código e retoma a conta sozinho. Isso acontece mais do que parece, porque muitos golpistas só querem usar a conta por algumas horas e não se preocupam em travar o dono de fora.
+
+Se não conseguir entrar, não fique tentando mil vezes. Muitos serviços bloqueiam temporariamente após várias tentativas, e isso só atrasa sua vida. Nesse caso, vá direto para o suporte da plataforma. Procure o canal oficial dentro do próprio site ou aplicativo, nunca um número ou link que apareceu em mensagem, e-mail ou anúncio.
+
+Enquanto isso, avise as pessoas próximas. Um recado curto no grupo da família e nos amigos mais chegados resolve. Algo como "minha conta foi invadida, se receberem mensagem pedindo dinheiro ou link, ignorem". Isso corta o efeito do golpe antes que ele se espalhe.
+
+Se a conta invadida for do banco ou de uma fintech, ligue imediatamente para o telefone que está no verso do cartão ou no aplicativo oficial. Peça o bloqueio temporário e explique o que aconteceu. O banco tem procedures para esses casos e pode reverter transações recentes.
+
+## Identifique qual conta foi comprometida e o tamanho do problema
+
+Nem toda invasão é igual. Uma conta de rede social invadida é chata, mas uma conta de e-mail invadida é grave. Isso porque o e-mail costuma ser a chave mestra. É por ele que você recupera a senha de todos os outros serviços. Se o invasor controla seu e-mail principal, ele pode resetar a senha do banco, da operadora, do plano de saúde, de tudo.
+
+Então, antes de sair trocando senhas, entenda o que foi atingido. Olhe os sinais. Você recebeu e-mail de "senha alterada" de algum serviço que não reconhece? Amigos reclamaram de mensagens estranhas vindas do seu número ou do seu perfil? Apareceu compra que você não fez na fatura do cartão? O aplicativo do banco pediu para refazer o login do nada?
+
+Outro ponto é verificar se o invasor já criou regras de encaminhamento no seu e-mail. Isso é um truque comum. Ele configura para que cópias das mensagens que chegam sejam enviadas para outro endereço. Assim, mesmo que você recupere a conta, ele continua lendo tudo. Procure nas configurações do seu e-mail por filtros e encaminhamentos automáticos. Se achar algo que você não criou, apague.
+
+Também vale checar dispositivos conectados. Muitos serviços mostram uma lista de aparelhos com sessão ativa, com data e local aproximado. Se aparecer um celular que não é seu, ou um acesso de outro estado, é sinal claro de invasão. Remova todos os dispositivos desconhecidos e encerre as sessões.
+
+## Recuperando o acesso à conta passo a passo
+
+Cada plataforma tem seu caminho, mas a lógica é parecida. O roteiro abaixo serve para a maioria dos casos, com adaptações.
+
+- Tente o "esqueci minha senha" pelo e-mail ou telefone cadastrado. Se receber o código, crie uma senha nova e forte na hora.
+
+- Se o e-mail de recuperação foi trocado, procure a opção de "não tenho acesso a esses dados" ou "recuperar de outra forma". Isso costuma levar a um formulário de verificação de identidade.
+
+- No formulário, forneça o máximo de informações que lembrar. Datas de criação da conta, últimos contatos, fotos enviadas, dispositivos usados. Quanto mais detalhes, maior a chance de o suporte confirmar que a conta é sua.
+
+- Se for rede social, use a opção de envio de documento com selfie. Muitas plataformas aceitam isso para provar identidade.
+
+- Guarde todos os protocolos de atendimento. Anote número de chamado, data, hora e nome de quem falou com você, se houver.
+
+- Depois de recuperar, troque a senha imediatamente e ative a verificação em duas etapas.
+
+Enquanto espera a resposta do suporte, vá protegendo o que ainda está sob seu controle. Troque a senha do e-mail principal, se ele ainda estiver acessível. Depois, troque a senha de todos os serviços que usam esse e-mail como recuperação. A ordem importa. Comece pelo e-mail, depois banco, depois redes sociais, depois o resto.
+
+Se o suporte demorar e a conta for essencial, como a do banco, ligue e insista. Peça para falar com o setor de segurança. Muitos bancos têm atendimento específico para fraude e conseguem bloquear o acesso do invasor mesmo antes de você recuperar a conta.
+
+## Protegendo o e-mail, que é a chave de tudo
+
+Se você só puder fazer uma coisa depois de uma invasão, proteja o e-mail. Ele é o centro da sua vida digital. É por ele que chegam os códigos de verificação, as faturas, os avisos de login. Quem controla seu e-mail controla sua vida online.
+
+A primeira medida é criar uma senha longa e única, que você não usa em nenhum outro lugar. Esqueça datas de nascimento, nomes de filhos ou sequências como 123456. Use uma frase que faça sentido para você e misture letras maiúsculas, minúsculas, números e símbolos. Algo como "CafeComLeite3VezesAoDia!" é mais forte do que parece e fácil de lembrar.
+
+Depois, ative a verificação em duas etapas. Se o serviço permitir, prefira o aplicativo autenticador em vez do SMS. O SMS pode ser interceptado por golpes de clonagem de chip, que acontecem bastante no Brasil. O aplicativo gera um código novo a cada 30 segundos e funciona sem internet.
+
+Verifique também as opções de recuperação. Remova números antigos, e-mails que você não usa mais e perguntas de segurança óbvias. Atualize com dados que só você saiba. E cuidado com quem tem acesso ao seu celular. Se alguém pegar seu aparelho desbloqueado, pode pedir o código de verificação e entrar na sua conta.
+
+Por fim, faça uma revisão dos aplicativos conectados à sua conta Google ou Microsoft. Aqueles apps de terceiros que você autorizou a acessar seus dados podem ser um risco. Remova tudo que você não reconhece ou não usa mais. Essa lista costuma ser longa e cheia de surpresas.
+
+## O que fazer com banco, cartão e dinheiro
+
+Quando a conta invadida envolve dinheiro, a urgência é outra. O invasor pode fazer PIX, pagar boletos, contratar empréstimo, pedir cartão adicional. Tudo em seu nome. Por isso, ligue para o banco assim que perceber.
+
+O telefone certo é o que está no verso do cartão ou no aplicativo oficial. Nunca ligue para número que chegou por SMS, e-mail ou mensagem em rede social. Golpistas criam centrais falsas justamente para pegar quem está desesperado.
+
+Ao falar com o banco, peça o bloqueio da conta e do cartão. Pergunte quais transações foram feitas nas últimas horas e se alguma ainda pode ser cancelada. O PIX, por exemplo, tem um mecanismo de devolução em casos de fraude, mas o prazo é curto. Quanto antes você pedir, melhor.
+
+Registre um boletim de ocorrência. Pode ser online, no site da polícia civil do seu estado, ou presencial. O BO é importante para contestar cobranças, pedir estorno e se proteger de dívidas que possam aparecer depois. Guarde o número do protocolo.
+
+Se aparecer empréstimo ou financiamento que você não pediu, conteste formalmente. Peça por escrito, pelo canal oficial, e guarde o comprovante. Bancos costumam resolver, mas o processo pode demorar. Não deixe de acompanhar.
+
+Outra dica é ativar as notificações de transação no aplicativo. Assim, qualquer movimentação gera um aviso na hora. Se algo estranho acontecer, você percebe em segundos, não em dias.
+
+## Redes sociais e reputação online
+
+Perder o controle do Instagram ou do WhatsApp é angustiante, porque ali estão anos de conversas, fotos e contatos. O invasor costuma usar o perfil para aplicar golpes nos seus seguidores. Ele manda mensagem pedindo dinheiro emprestado, oferece promoções falsas, pede para clicar em links.
+
+Avise seus contatos por outro canal. Se possível, use o telefone ou uma segunda rede social. Explique a situação e peça para denunciarem o perfil falso, se for o caso. Muitas plataformas têm fluxo específico para conta invadida, com formulário e envio de documento.
+
+No WhatsApp, o golpe clássico é pedir o código de verificação fingindo ser do suporte. Nunca compartilhe esse código com ninguém, nem por telefone, nem por mensagem. Se sua conta for clonada, avise seus grupos e ative a verificação em duas etapas no aplicativo, que fica nas configurações de conta.
+
+No Instagram, ative a autenticação em dois fatores e confira os e-mails e telefones cadastrados. Remova o que não reconhece. Se o invasor mudou o nome de usuário, você pode ter dificuldade para recuperar, mas o suporte costuma ajudar com documento e selfie.
+
+Se o perfil foi usado para aplicar golpes, vale registrar boletim de ocorrência também. Isso ajuda a se proteger caso alguém lesado procure você cobrando responsabilidade.
+
+## Checklist prático para os próximos dias
+
+Depois do susto inicial, organize as ações. O checklist abaixo ajuda a não esquecer nada importante.
+
+- Troque a senha do e-mail principal e ative a verificação em duas etapas.
+
+- Troque a senha de todos os serviços que usam esse e-mail como recuperação.
+
+- Revise dispositivos conectados e encerre sessões desconhecidas.
+
+- Verifique filtros e encaminhamentos automáticos no e-mail.
+
+- Ative notificações de transação no banco e no cartão.
+
+- Registre boletim de ocorrência se houver prejuízo financeiro ou golpe contra terceiros.
+
+- Avise contatos próximos sobre mensagens falsas.
+
+- Remova aplicativos de terceiros com acesso à sua conta.
+
+- Atualize as opções de recuperação com dados que só você saiba.
+
+- Anote protocolos de atendimento e guarde comprovantes.
+
+- Revise as senhas de contas antigas que você nem usa mais.
+
+- Considere usar um gerenciador de senhas para não repetir senhas.
+
+Esse último ponto merece atenção. Repetir senha é o erro mais comum e o que mais facilita invasões. Quando um site é vazado, os golpistas testam a mesma senha em dezenas de outros serviços. Se você usa a mesma senha no e-mail e em uma loja online, por exemplo, o vazamento da loja compromete seu e-mail.
+
+Um gerenciador de senhas resolve isso. Ele cria senhas longas e diferentes para cada serviço e guarda tudo com uma única senha mestre. Você só precisa lembrar de uma. A maioria dos celulares já tem um gerenciador integrado, o que facilita começar.
+
+## Como evitar que aconteça de novo
+
+Prevenir é mais tranquilo do que remediar. Algumas mudanças de hábito reduzem muito o risco.
+
+Desconfie de links. Golpes de phishing chegam por e-mail, SMS, WhatsApp e até ligação. O invasor se passa por banco, operadora, loja, transportadora. Ele cria urgência. "Sua conta será bloqueada", "você tem um prêmio a receber", "há um problema com sua encomenda". Se a mensagem pede clique, dados ou pagamento, pare. Vá direto ao site oficial e confira.
+
+Use a verificação em duas etapas em tudo que oferece. Principalmente e-mail, banco, redes sociais e contas de trabalho. É a camada extra que segura a maioria das tentativas.
+
+Mantenha o celular e o computador atualizados. Atualizações corrigem falhas de segurança que golpistas usam para invadir. Não adie por preguiça.
+
+Cuidado com redes Wi-Fi públicas. Evite acessar banco ou fazer compras em Wi-Fi de shopping, aeroporto ou cafeteria. Se precisar, use os dados móveis.
+
+Não instale aplicativos fora das lojas oficiais. APKs baixados de sites podem esconder programas que roubam senhas e mensagens.
+
+Revise as permissões dos aplicativos no celular. Um jogo não precisa acessar seus contatos. Uma lanterna não precisa ler seus SMS.
+
+E faça backup. Se algo der errado, ter cópia das fotos, documentos e contatos salva em outro lugar reduz o prejuízo. Guarde em nuvem confiável ou em disco externo.
+
+## Quando buscar ajuda profissional
+
+Às vezes, o caso é mais complexo. Se você não consegue recuperar a conta mesmo com suporte, se o prejuízo financeiro é alto, se aparecerem dívidas ou processos no seu nome, vale procurar ajuda especializada. Um advogado pode orientar sobre responsabilidade e reparação. Um técnico em segurança pode ajudar a limpar o computador, caso ele tenha sido infectado.
+
+Também vale conversar com o banco sobre proteção de identidade. Alguns oferecem monitoramento de CPF e alertas de movimentação. E, se você suspeita que o invasor teve acesso a documentos, como RG ou CNH, fique atento a tentativas de fraude em seu nome.
+
+Não tenha vergonha de contar o que aconteceu. Muita gente passa por isso. O importante é agir rápido, proteger o que sobrou e aprender para não repetir.
+
+## Recuperar o controle é possível, e mais rápido do que parece
+
+Uma invasão de conta dá a sensação de que tudo está perdido. Mas, na prática, a maioria dos casos se resolve em alguns dias, com as ações certas. O segredo é não entrar em pânico, seguir uma ordem lógica e não pular etapas. Proteger o e-mail primeiro, depois o dinheiro, depois as redes. Trocar senhas, ativar verificação em duas etapas, revisar dispositivos e avisar quem precisa saber.
+
+Com o tempo, isso vira rotina de segurança. Você começa a desconfiar de links estranhos, a usar senhas diferentes, a conferir as configurações de privacidade. E aí a chance de uma nova invasão cai bastante. Não é sobre ser especialista em tecnologia. É sobre ter hábitos simples que afastam a maioria dos golpes.
+
+Se algo parecido acontecer de novo, você já sabe o caminho. Mantenha a calma, siga o roteiro, peça ajuda quando precisar. Sua vida digital pode ser recuperada, e você sai dessa mais atento do que entrou.

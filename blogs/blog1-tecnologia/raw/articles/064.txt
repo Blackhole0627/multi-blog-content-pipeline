@@ -1,0 +1,101 @@
+Você chega no aeroporto, senta numa cafeteria e o celular avisa que encontrou uma rede chamada "Aeroporto_Free_WiFi". Parece conveniente. Você conecta, responde mensagens, talvez entre no app do banco para conferir se aquele Pix caiu. Em poucos minutos, tudo o que você digitou passou por uma rede que não é sua e que você não tem como verificar quem está do outro lado.
+
+Wi-Fi público está em todo lugar. Cafeterias, shoppings, hotéis, ônibus, consultórios, praças. A promessa de economizar dados móveis é tentadora, ainda mais quando o plano está no fim ou o sinal da operadora está ruim. O problema é que redes abertas funcionam de um jeito que facilita a vida de quem quer interceptar informação. Não é teoria da conspiração, é arquitetura de rede. Quando você conecta num Wi-Fi sem senha, o tráfego entre seu aparelho e o roteador viaja, na maioria dos casos, sem criptografia. Qualquer pessoa na mesma rede com um programa adequado consegue capturar pacotes.
+
+Existe diferença entre usar uma rede pública e estar exposto. Você reduz muito o risco com hábitos simples, sem virar especialista. Este texto mostra o que acontece por trás de uma conexão aberta, quais golpes são comuns no Brasil e como se proteger na prática, com uma checklist para seguir antes de tocar no botão de conectar. A ideia não é te assustar. É te dar critério para usar essas redes sem entregar sua vida digital.
+
+## O que acontece quando você conecta num Wi-Fi aberto
+
+Numa rede doméstica, você confia no roteador porque ele é seu. Numa rede aberta, o roteador pode ser de qualquer pessoa. Ele é o ponto por onde todo o tráfego passa. Quem controla esse equipamento consegue ver para onde os dispositivos se conectam, capturar dados sem criptografia e até modificar páginas que você acessa.
+
+Boa parte do tráfego hoje já é criptografado por HTTPS, o que ajuda bastante. Mas nem tudo é HTTPS, e mesmo ele não esconde tudo. O nome dos sites que você visita, os horários, o volume de dados, os endereços de rede envolvidos, tudo isso pode ficar visível para quem opera a rede. Dá para montar um perfil detalhado do seu comportamento só com esses metadados.
+
+Existe também a rede falsa. Alguém cria um ponto de acesso com nome parecido com o legítimo, tipo "Starbucks_WiFi_Free" em vez do nome oficial. Seu celular, que já tentou conectar naquela rede antes, pode entrar no ponto falso sozinho. A partir daí, o criminoso controla o que você vê. Pode redirecionar para uma página de login falsa pedindo senha do e-mail, injetar anúncios, tentar instalar algo.
+
+Tem ainda o ataque entre dispositivos. Numa rede aberta, dependendo da configuração, um aparelho enxerga outros na mesma rede. Isso abre espaço para alguém acessar pastas compartilhadas, impressoras, serviços rodando sem proteção. No Windows, o compartilhamento de arquivos às vezes vem ativo por padrão em redes classificadas como privadas. Se o sistema tratar aquela rede pública como privada, você fica exposto sem perceber.
+
+## Os golpes mais comuns em redes públicas no Brasil
+
+O golpe da página de login falsa é clássico. Você conecta no Wi-Fi do hotel, abre o navegador e aparece uma tela pedindo para entrar com Google, Facebook ou e-mail para liberar o acesso. A página é idêntica à original. Você digita usuário e senha, e eles vão direto para o criminoso. Depois disso, ele acessa sua conta, muda senha, aplica golpes nos seus contatos. A tela de captive portal legítima normalmente só pede um clique de aceite ou um código por SMS, não sua senha de rede social.
+
+Outro comum é o falso suporte técnico. Aparece um pop-up dizendo que seu celular está infectado e que você precisa ligar para um número ou baixar um aplicativo de limpeza. É anúncio pago ou injeção feita pela própria rede. O número leva a um call center que vai pedir acesso remoto ao seu aparelho ou convencer você a fazer transferência. Nada disso é real.
+
+Tem o golpe do QR code em mesa de restaurante ou balcão de loja. O criminoso cola um adesivo por cima do QR code original. Você escaneia achando que é o menu ou o Wi-Fi da casa, e o link leva a um site falso de pagamento ou a uma página que pede seus dados. Isso não é bem Wi-Fi, mas acontece muito nos mesmos ambientes e vale a atenção.
+
+E existe o roubo de sessão. Quando você faz login num site sem HTTPS, ou quando o site usa cookies sem proteção adequada, alguém na mesma rede pode capturar o cookie de sessão. Com esse cookie, o criminoso entra na sua conta sem precisar de senha, porque o servidor entende que aquele cookie é você. Bancos e grandes serviços protegem isso, mas sites menores às vezes não.
+
+## Por que o celular facilita sua vida e a do criminoso
+
+Seu celular tem a função de conexão automática a redes conhecidas. Ele guarda o nome das redes em que você já entrou e tenta reconectar sozinho quando elas aparecem. Isso é prático em casa e no trabalho. Em locais públicos, é um risco. Se alguém criar uma rede com o mesmo nome daquela que você usou no shopping, seu aparelho pode entrar sem você perceber.
+
+Android e iPhone permitem desligar essa reconexão automática, mas a opção fica escondida. No Android, dá para apagar redes salvas e desativar a conexão automática em cada uma. No iPhone, existe o ajuste "Perguntar para conectar" e a opção de esquecer redes. Vale fazer uma limpeza de vez em quando. Toda rede salva é uma porta que pode ser usada contra você.
+
+Outro ponto é o compartilhamento de internet. Quando você usa o celular como roteador para o notebook, está criando uma rede. Se deixar sem senha, qualquer um por perto usa. Se usar senha fraca, alguém pode quebrar. O ideal é senha forte e, se possível, esconder o nome da rede. Não é proteção perfeita, mas afasta curiosos.
+
+A VPN entra aqui como ferramenta útil, mas não é solução mágica. Ela cria um túnel criptografado entre seu aparelho e um servidor. Quem está na rede Wi-Fi vê apenas dados embaralhados saindo para aquele servidor. Isso protege contra interceptação local. O problema é confiar no dono da VPN. Existem opções gratuitas que sobrevivem vendendo dados de navegação. Se for usar, prefira serviços pagos com política de privacidade clara, ou use a VPN do seu trabalho quando fizer sentido. E lembre que VPN não impede golpe de página falsa. Se você digitar sua senha num site falso, ela vai para o criminoso mesmo com VPN ligada.
+
+## O que fazer antes de conectar, uma checklist prática
+
+- Confirme o nome exato da rede com um funcionário do local. Não confie em nomes parecidos. Pergunte se a rede tem senha e qual é, porque muitas redes de estabelecimento usam senha fixa divulgada no balcão.
+
+- Desligue a conexão automática. No celular, entre nas configurações de Wi-Fi, toque na rede salva e desative a reconexão automática. Melhor ainda, esqueça redes antigas que você não usa mais.
+
+- Ative a VPN antes de abrir qualquer coisa. Se não tiver VPN, evite acessar contas sensíveis. Deixe para fazer login no banco quando estiver na rede móvel.
+
+- Confirme que o site tem HTTPS. O cadeado ao lado do endereço precisa estar lá. Se aparecer aviso de certificado inválido, feche a página. Não clique em "continuar mesmo assim".
+
+- Desligue o compartilhamento de arquivos. No Windows, defina a rede como pública quando o sistema perguntar. Isso bloqueia descoberta de pastas e impressoras. No Mac, desative o compartilhamento de arquivos nas preferências.
+
+- Ative a autenticação em dois fatores em tudo que for importante. Mesmo que alguém descubra sua senha, vai precisar do segundo fator. Use aplicativo autenticador em vez de SMS quando possível, porque o SMS pode ser interceptado.
+
+- Evite operações bancárias e compras com cartão. Se precisar muito, use o app do banco com os dados móveis, desligando o Wi-Fi. O app costuma ter camadas extras de segurança, mas a rede aberta ainda é o elo fraco.
+
+- Não faça login em redes sociais ou e-mail pelo navegador. Se precisar, use o aplicativo oficial, que em geral tem mais proteção que a versão web.
+
+- Não aceite instalar certificado ou aplicativo para "liberar" o Wi-Fi. Nenhuma rede legítima exige isso. Se pedir, é golpe.
+
+- Ao terminar, esqueça a rede. Assim seu aparelho não tenta reconectar sozinho depois.
+
+Essa checklist parece longa, mas depois de duas ou três vezes vira automático. O hábito mais importante é o primeiro. Perguntar o nome da rede e desconfiar de conexão automática resolve boa parte dos problemas.
+
+## Navegador, aplicativos e o que evitar
+
+O navegador é a porta principal de exposição. Extensões podem ler tudo o que você acessa. Se você usa muitas, revise a lista e remova as que não usa. Em rede pública, evite instalar extensão nova. Um golpe comum é a extensão falsa que promete melhorar o Wi-Fi ou bloquear anúncios, mas na verdade captura dados.
+
+O modo anônimo não protege contra a rede. Ele só evita que o histórico fique salvo no seu aparelho. Quem opera o Wi-Fi continua vendo o tráfego do mesmo jeito. Muita gente confunde isso. Modo anônimo serve para não deixar rastro local, não para esconder você da rede.
+
+Aplicativos de mensagem como WhatsApp e Telegram já usam criptografia ponta a ponta. O conteúdo das mensagens não fica legível para quem intercepta a rede. Mas os metadados ainda aparecem. E se você usar a versão web do WhatsApp no notebook conectado ao Wi-Fi público, a sessão fica aberta e pode ser sequestrada se o cookie for capturado. Evite WhatsApp Web em rede aberta. Se precisar, use o aplicativo no celular com dados móveis.
+
+E-mail é outro ponto sensível. A maioria dos provedores usa HTTPS, o que protege o conteúdo. Mas o cliente de e-mail no celular pode estar configurado com IMAP sem criptografia, dependendo de como você configurou. Vale conferir se está usando SSL/TLS nas configurações de servidor de entrada e saída. Se não souber como, procure o suporte do seu provedor. Isso vale para qualquer rede, não só pública.
+
+Redes sociais no navegador também merecem cuidado. Se você deixa a sessão aberta, alguém na mesma rede pode tentar capturar o cookie. Prefira o aplicativo oficial, que usa camadas próprias de proteção. E ative a verificação em duas etapas em todas as contas. Leva cinco minutos e evita muita dor de cabeça.
+
+## Redes que parecem seguras mas não são
+
+Nem toda rede com senha é segura. Redes com WPA2 ou WPA3 são bem melhores que redes abertas, porque o tráfego é criptografado entre você e o roteador. Mas se a senha é a mesma para todo mundo e está escrita no balcão, qualquer pessoa que frequentou o local nos últimos meses tem essa senha. A criptografia protege contra quem está fora da rede, não contra quem está dentro com a senha na mão.
+
+Redes de hotel costumam pedir número do quarto e sobrenome. Isso não é segurança de verdade, é controle de acesso. O tráfego continua visível para quem administra a rede. Redes de aeroporto às vezes usam portal com login por e-mail. Isso coleta dados e às vezes vende para terceiros. Leia os termos antes de aceitar, se tiver paciência. Se não tiver, saiba que seus dados de navegação podem estar sendo comercializados.
+
+Existe também a rede maliciosa que se disfarça de rede de operadora. Nomes como "Vivo_Free", "Claro_WiFi" ou "Tim_Free" podem ser criados por qualquer pessoa. Operadoras têm redes próprias, mas a maioria exige autenticação pelo aplicativo da operadora ou por chip. Se aparecer uma rede com esse nome e pedir senha ou login, desconfie. Confirme no aplicativo da sua operadora se aquela rede é legítima.
+
+Por fim, cuidado com redes que pedem cadastro com CPF, e-mail e telefone. Isso é coleta de dados. Às vezes é legítimo, mas você está entregando informações pessoais em troca de internet gratuita. Avalie se vale a pena. Em muitos casos, o melhor é usar os dados móveis mesmo.
+
+## Quando o Wi-Fi público é realmente necessário
+
+Existem situações em que você precisa mesmo da rede pública. Viagem internacional sem roaming, por exemplo. Ou quando o sinal da operadora não chega e você precisa mandar uma mensagem urgente. Nessas horas, dá para usar com cuidado.
+
+Se for só para mandar mensagem de texto ou fazer chamada de voz, use o aplicativo de mensagem com dados móveis se tiver um pouco de sinal. Se não tiver, conecte no Wi-Fi, mande a mensagem e desconecte. Não fique logado em nada. Não abra banco. Não faça compra. Trate a rede como recurso descartável.
+
+Para trabalho remoto em viagem, o ideal é usar o roteamento do celular com plano de dados. Se o plano for limitado, considere comprar um chip local ou um pacote de dados internacional. Sai mais caro que o Wi-Fi grátis, mas evita dor de cabeça. Se realmente precisar usar o Wi-Fi do hotel, use a VPN do trabalho e acesse só o que for estritamente necessário. Não deixe sessões abertas.
+
+Outra alternativa é usar um roteador portátil com chip de dados. Existem modelos na faixa dos mil reais que funcionam bem para viagem. Não é barato, mas para quem viaja muito a trabalho pode compensar. A rede criada por esse aparelho é sua, com senha sua. Ninguém na rede do hotel vê o que você faz.
+
+Se nada disso for possível, aceite o risco consciente. Use a rede pública só para o essencial, com VPN ligada, dois fatores ativos e nada de banco. Depois desconecte e esqueça a rede. O risco nunca é zero, mas dá para reduzir bastante.
+
+## Fechando o assunto com o que realmente importa
+
+Wi-Fi público não é vilão absoluto. É uma ferramenta útil que exige cuidado. A maior parte das pessoas que usa rede aberta não sofre ataque, simplesmente porque o criminoso médio não vai atrás de qualquer um. Mas quando o ataque acontece, o prejuízo pode ser grande. Conta invadida, dinheiro perdido, identidade usada em fraude. O custo de prevenir é baixo. O custo de remediar é alto.
+
+O hábito mais valioso é a desconfiança saudável. Rede pública é rede de estranhos. Você não sabe quem administra, quem está conectado, o que está sendo capturado. Trate como tal. Não faça nela o que você não faria na frente de um desconhecido. Não digite senha de banco, não faça compra com cartão, não acesse e-mail de trabalho sem proteção.
+
+Se você levar só três coisas deste texto, leve estas. Primeiro, desligue a conexão automática e esqueça redes antigas. Segundo, use VPN quando for inevitável e ative dois fatores em tudo que importa. Terceiro, deixe operações sensíveis para a rede móvel. O resto é detalhe. Com esses três hábitos, você já está muito mais protegido do que a média. E se um dia algo parecer estranho, confie no instinto. Desconecte, feche o app, troque a senha depois numa rede segura. Segurança digital é menos sobre tecnologia de ponta e mais sobre atenção no dia a dia.

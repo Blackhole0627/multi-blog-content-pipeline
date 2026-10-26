@@ -1,0 +1,125 @@
+Todo ano é a mesma coisa. Chega o período da declaração do Imposto de Renda e aquele monte de informes de rendimento, extratos e notas fiscais vira uma pilha de papel ou uma pasta cheia de PDFs no celular. Quem tem só o salário e uma poupança até que se vira. Mas quem começou a investir, comprou um apartamento, abriu uma conta em corretora ou recebeu algum dinheiro extra sente o frio na barriga na hora de preencher a ficha de Bens e Direitos.
+
+A verdade é que a maior parte dos erros na declaração não acontece por má-fé. Acontece por falta de organização e por dúvidas bem específicas. Onde entra um CDB. O que fazer com o saldo da conta corrente. Como declarar um imóvel financiado. Se aquele dinheiro que você emprestou para um parente precisa aparecer. São detalhes que, se ignorados, podem fazer você cair na malha fina ou pagar imposto a mais sem necessidade.
+
+A boa notícia é que declarar bens e investimentos corretamente segue uma lógica simples. Você precisa registrar o que tem, pelo valor certo, na ficha certa, usando o código certo. Parece burocrático, e é. Mas depois que você entende a lógica, o resto vira repetição. Este texto vai destrinchar essa lógica com exemplos do dia a dia, para você preencher a declaração com mais segurança e sem sustos.
+
+## O que entra na ficha de Bens e Direitos
+
+A ficha de Bens e Direitos é o retrato do seu patrimônio em 31 de dezembro do ano anterior. Tudo que você possuía nessa data e que tenha valor precisa ser declarado. Não importa se o bem está no seu nome, se você usa, se está quitado ou financiado. O critério é a titularidade na data de referência.
+
+Entram nessa lista contas bancárias com saldo positivo, investimentos em corretoras, imóveis, veículos, participações em empresas, consórcios, criptomoedas, empréstimos que você fez para alguém e até aquele dinheiro guardado em espécie que passou de um certo valor. A Receita não exige que você declare o colchão de dinheiro que você tem em casa se for uma quantia pequena, mas valores altos em espécie precisam ser justificados.
+
+O ponto que mais confunde é a diferença entre rendimento e bem. O rendimento do seu CDB entra na ficha de Rendimentos Isentos ou Sujeitos à Tributação Exclusiva. O saldo do CDB, ou seja, o valor que você tem aplicado, entra em Bens e Direitos. São fichas diferentes. Muita gente coloca o rendimento no lugar errado e depois não entende por que a soma não bate com o informe da corretora.
+
+Outro erro comum é achar que só precisa declarar se o valor for alto. Não existe valor mínimo por bem. Se você tem uma conta poupança com cinquenta reais e um carro financiado, os dois vão para a declaração. O que existe é um limite de obrigatoriedade para declarar no geral, que muda quase todo ano e costuma ficar na casa dos trinta mil reais de rendimentos tributáveis. Mas se você já está obrigado a declarar por causa do salário, tudo que você possui precisa ser informado.
+
+## O valor certo de cada bem, e por que isso muda tudo
+
+O valor declarado de um bem não é o valor de mercado. Essa é a regra que mais gera dúvida. A Receita quer saber quanto você pagou pelo bem, não quanto ele vale hoje. Se você comprou um apartamento por trezentos mil reais em 2015 e hoje ele vale seiscentos mil, você continua declarando trezentos mil. Não se atualiza o valor de mercado.
+
+Existem exceções. Se você fez uma reforma que aumentou a área construída, pode somar esse custo ao valor do imóvel, desde que tenha nota fiscal. Se você comprou um carro e depois trocou o motor, pode acrescentar o custo. Mas benfeitorias simples, como pintura ou troca de piso, não entram. A regra é conservadora. Na dúvida, mantenha o valor original.
+
+Isso tem uma consequência prática. Quando você vende um bem por um valor maior do que declarou, a diferença é ganho de capital e precisa ser tributada. Se você declarou o imóvel por trezentos mil e vendeu por seiscentos mil, há um ganho de trezentos mil. Existem isenções, como a venda do único imóvel até certo valor ou a compra de outro imóvel em até seis meses. Mas isso é assunto para outro momento.
+
+Para investimentos, o valor declarado é o custo de aquisição. Se você comprou ações por dez mil reais e elas agora valem vinte mil, você declara dez mil. O ganho só é tributado quando você vende. No caso de fundos, o valor é o que você aplicou, ajustado por eventuais amortizações. A corretora costuma enviar um informe com o custo de aquisição. Use esse número.
+
+## Contas bancárias, poupança e o famoso saldo em 31 de dezembro
+
+Toda conta corrente, conta poupança ou conta de pagamento que você tinha saldo positivo em 31 de dezembro precisa ser declarada. Se o saldo era negativo, ou seja, você estava usando o cheque especial, não entra. A Receita só quer saber o que você tem, não o que você deve. Dívidas não vão em Bens e Direitos. Elas podem aparecer em Dívidas e Ônus Reais, que é outra ficha.
+
+O código para conta corrente é 01. Para poupança, é 02. Para conta de pagamento, que inclui contas digitais como as de bancos virtuais, é 03. Você precisa informar o CNPJ do banco, a agência e o saldo. Se você tem conta em três bancos, são três linhas distintas. Não some tudo em uma linha só.
+
+Aqui aparece uma dúvida frequente. E se a conta rendeu juros? Os juros da poupança e do saldo da conta corrente são rendimentos e vão para a ficha de Rendimentos Isentos e Não Tributáveis. O saldo, repito, vai para Bens e Direitos. São coisas separadas.
+
+Outra confusão comum é com contas que você usa só para passar dinheiro, tipo aquela conta digital que você abriu para receber um pagamento e depois transferiu tudo. Se o saldo em 31 de dezembro era zero, não precisa declarar. Se era um real, precisa. A Receita não se importa com o valor, se importa com a existência.
+
+## Investimentos de renda fixa e variável, onde cada um entra
+
+Renda fixa é tudo que tem uma regra de remuneração definida no momento da aplicação. CDB, Tesouro Direto, LCI, LCA, CRI, CRA, debêntures, fundos de renda fixa. Cada um tem um código específico na ficha de Bens e Direitos. CDB é 45. Tesouro Direto é 46. LCI e LCA são 47. Fundos de renda fixa são 74. Você precisa consultar a tabela de códigos da Receita, que está disponível no próprio programa da declaração.
+
+O valor a declarar é o saldo bruto em 31 de dezembro, ou seja, o valor que você aplicou mais os rendimentos acumulados, sem descontar o imposto que ainda vai ser pago. Isso confunde muita gente. O informe da corretora costuma trazer o saldo bruto e o saldo líquido. Use o bruto. O imposto sobre os rendimentos é recolhido na fonte ou no resgate, e isso aparece em outra ficha.
+
+Renda variável inclui ações, fundos imobiliários, ETFs, BDRs e opções. O código para ações é 31. Para fundos imobiliários, 73. Para ETFs, 74. O valor declarado é o custo de aquisição, não o valor de mercado. Se você comprou ações ao longo do ano, some tudo que pagou, incluindo corretagem, e declare esse total. Se vendeu parte das ações, você precisa ajustar o custo. O ideal é manter uma planilha com todas as operações.
+
+Criptomoedas têm código próprio, o 81. O valor declarado é o custo de aquisição em reais. Se você comprou Bitcoin por cinco mil reais e nunca vendeu, declara cinco mil. Se vendeu, precisa apurar ganho de capital. Exchanges estrangeiras também entram, mas aí a coisa complica um pouco mais. O importante é não deixar de fora.
+
+## Imóveis, veículos e financiamentos, o que declarar e como
+
+Imóvel é o bem que mais gera dúvida. Você declara o valor de aquisição, que é o valor que está na escritura, mais os custos que podem ser somados, como ITBI e escritura, se você quiser. Muita gente soma esses custos para aumentar o custo de aquisição e pagar menos imposto na venda futura. É permitido, desde que você tenha os comprovantes.
+
+Se o imóvel está financiado, você declara o valor total do bem na ficha de Bens e Direitos e o saldo devedor na ficha de Dívidas e Ônus Reais. Não abate um do outro. O bem é seu, mesmo que o banco tenha uma garantia. O financiamento é uma dívida sua. As duas informações convivem.
+
+Veículos seguem a mesma lógica. Você declara o valor de compra, não a tabela Fipe. Se você comprou um carro usado por quarenta mil reais, declara quarenta mil, mesmo que a Fipe diga cinquenta. Se o carro foi comprado há dez anos, você continua declarando o valor original, a menos que tenha vendido. Se vendeu, o bem sai da declaração do ano seguinte.
+
+Um detalhe importante. Se você vendeu um bem no ano passado, ele não deve aparecer na declaração deste ano. Mas a venda em si precisa ser informada em Ganhos de Capital, se houve lucro. E se você vendeu um imóvel e comprou outro em até seis meses, pode usar a isenção. Isso vale para imóveis residenciais e precisa ser comprovado.
+
+## O passo a passo para organizar e preencher a declaração
+
+Agora que você já entendeu a lógica, vamos ao prático. O segredo é organizar antes de abrir o programa da Receita. Separe os documentos, entenda o que cada um representa e só depois comece a digitar. Isso evita retrabalho e erros.
+
+1. Junte todos os informes de rendimento. Bancos, corretoras, empresas onde você trabalhou, aluguéis recebidos. Cada um traz dados que você vai usar em fichas diferentes.
+
+2. Liste todos os bens que você tinha em 31 de dezembro. Contas bancárias, investimentos, imóveis, veículos, criptomoedas, participações societárias. Anote o valor de cada um na data.
+
+3. Separe os documentos de aquisição. Escrituras, notas fiscais, contratos de compra e venda, recibos de corretagem. Você vai precisar do valor original e da data de aquisição.
+
+4. Verifique o saldo devedor de financiamentos e empréstimos. Esses valores vão para Dívidas e Ônus Reais, não para Bens e Direitos.
+
+5. Abra o programa da declaração e comece pela ficha de Bens e Direitos. Preencha um bem por vez, usando o código correto e o valor correto.
+
+6. Confira se os rendimentos dos investimentos foram para a ficha certa. Rendimentos isentos, tributáveis ou sujeitos à tributação exclusiva. Cada um tem seu lugar.
+
+7. Revise a soma dos bens e compare com o ano anterior. Se houve variação grande, verifique se não esqueceu de declarar algo ou se não colocou um valor errado.
+
+8. Salve a declaração e faça uma última conferência antes de enviar. Depois de transmitida, só dá para corrigir com uma declaração retificadora.
+
+Esse roteiro não é infalível, mas cobre a maior parte dos casos. Se você tem uma situação mais complexa, como sociedade em empresa, herança ou bens no exterior, talvez valha a pena buscar um contador. O custo do profissional costuma ser menor do que a dor de cabeça de uma malha fina.
+
+## Erros que mais levam à malha fina
+
+A malha fina não é um bicho de sete cabeças, mas alguns erros são clássicos. O primeiro é omitir rendimentos. Se a sua corretora informou à Receita que você teve rendimento de mil reais e você não declarou, a diferença aparece. O mesmo vale para salários, aluguéis e qualquer outro valor que tenha informe.
+
+O segundo é declarar o bem pelo valor errado. Colocar o valor de mercado em vez do custo de aquisição é um erro comum. A Receita cruza os dados com as notas fiscais e escrituras. Se você declarou um carro por cinquenta mil, mas a nota fiscal diz quarenta mil, há inconsistência.
+
+O terceiro é esquecer de declarar contas bancárias com saldo pequeno. Parece bobagem, mas a Receita tem acesso às movimentações. Se você tem uma conta com saldo de duzentos reais e não declara, pode ser chamado a explicar. O esforço de declarar é mínimo.
+
+O quarto é confundir rendimento com bem. Já falei disso, mas vale repetir. O rendimento do CDB vai para Rendimentos. O saldo do CDB vai para Bens e Direitos. Se você colocar o rendimento em Bens e Direitos, a soma não vai bater com o informe da corretora.
+
+O quinto é não declarar criptomoedas. Muita gente acha que a Receita não sabe. Sabe. As exchanges brasileiras informam as operações. E se você opera em exchange estrangeira, a Receita também tem mecanismos de controle. Declare, mesmo que seja um valor pequeno.
+
+## Quando vale a pena procurar um contador
+
+Nem todo mundo precisa de um contador para declarar o Imposto de Renda. Se você tem só salário, uma poupança e um carro, o programa da Receita é suficiente. Mas existem situações em que o profissional faz diferença.
+
+Se você vendeu ações com lucro, precisa apurar ganho de capital e pagar DARF. Se você vendeu um imóvel e quer usar a isenção, precisa saber as regras. Se você tem uma empresa, mesmo que seja MEI, a declaração da pessoa física e da jurídica se conversam. Se você recebeu herança ou doação, há regras específicas. Se você tem bens no exterior, a coisa complica.
+
+O contador não serve só para preencher. Ele ajuda a planejar. Por exemplo, se você está pensando em vender um imóvel, ele pode dizer se vale mais esperar o ano seguinte para pagar menos imposto. Se você está pensando em abrir uma empresa, ele pode orientar sobre a melhor forma de declarar os rendimentos. O barato pode sair caro.
+
+Mas atenção. Contador não faz milagre. Se você não tiver os documentos organizados, ele não vai conseguir fazer mágica. A responsabilidade de guardar notas fiscais, informes e comprovantes é sua. O contador organiza o que você entrega. Se você entrega errado, ele declara errado. A parceria funciona melhor quando você chega com tudo em ordem.
+
+## O que fazer se você já caiu na malha fina
+
+Se você já transmitiu a declaração e depois percebeu um erro, não entre em pânico. Dá para corrigir. Você pode enviar uma declaração retificadora, que substitui a anterior. O programa da Receita tem essa opção. Você corrige o que errou, transmite de novo e pronto. Se a declaração original já estava na malha fina, a retificadora pode resolver.
+
+O problema é se você não percebeu o erro e a Receita já intimou você. Nesse caso, você recebe uma notificação pedindo esclarecimentos. Pode ser por omissão de rendimento, por inconsistência em Bens e Direitos ou por qualquer outro motivo. Você tem um prazo para responder e pode corrigir a declaração nesse momento.
+
+O importante é não ignorar a intimação. Se você não responde, a malha fina vira uma cobrança oficial, com multa e juros. Se você responde e corrige, muitas vezes o problema se resolve sem multa. A Receita não está atrás de quem errou sem querer. Está atrás de quem tenta esconder.
+
+Uma dica prática. Guarde os comprovantes por pelo menos cinco anos. A Receita pode questionar qualquer declaração dentro desse prazo. Se você vendeu um bem, guarde a nota fiscal e o contrato. Se você fez um investimento, guarde o informe da corretora. A papelada pode parecer chata, mas é a sua defesa.
+
+## Como manter a organização para os próximos anos
+
+Declarar bens e investimentos corretamente não é um esforço de uma vez por ano. É um hábito. Se você organizar os documentos ao longo do ano, na hora de declarar tudo fica mais fácil. A dica é ter uma pasta física ou digital onde você guarda tudo relacionado a impostos.
+
+No computador, crie uma pasta chamada Imposto de Renda e dentro dela subpastas por ano. Salve informes de rendimento, notas fiscais, comprovantes de compra e venda, extratos de corretora. No celular, use um aplicativo de notas ou uma pasta na nuvem. O importante é não deixar acumular.
+
+Se você investe, mantenha uma planilha com todas as operações. Data, valor, quantidade, corretora. Isso ajuda a calcular o custo de aquisição e o ganho de capital. Muitas corretoras já oferecem esse controle, mas nem sempre ele é completo. Ter a sua própria planilha é uma segurança.
+
+Outra dica é revisar a declaração do ano anterior antes de começar a do ano atual. Isso ajuda a lembrar o que você declarou, quais códigos usou e quais valores colocou. Se você mudou de banco ou de corretora, verifique se os saldos batem. Se você vendeu um bem, confira se ele saiu da declaração.
+
+Por fim, não deixe para a última hora. O prazo costuma ser de março a maio, e o programa da Receita fica disponível algumas semanas antes. Se você começar cedo, dá tempo de tirar dúvidas, buscar documentos e corrigir erros. Se deixar para o último dia, qualquer problema vira desespero.
+
+Declarar bens e investimentos corretamente é mais sobre disciplina do que sobre conhecimento técnico. Você não precisa ser um expert em tributos. Precisa saber onde cada coisa entra, qual valor usar e por que. Com o tempo, isso vira automático. E a tranquilidade de saber que sua declaração está certa não tem preço.
+
+Se você chegou até aqui e ainda tem dúvidas, comece pelo básico. Organize os documentos, entenda a diferença entre rendimento e bem, use os códigos corretos. O resto vem com a prática. E se a complexidade aumentar, procure ajuda profissional. O importante é não deixar o medo de errar fazer você omitir informações. A omissão é o caminho mais curto para a malha fina. A transparência, mesmo que imperfeita, é sempre o melhor caminho.

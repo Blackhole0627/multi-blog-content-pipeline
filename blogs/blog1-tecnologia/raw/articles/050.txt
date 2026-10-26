@@ -1,0 +1,113 @@
+Trocar de celular deixou de ser um evento raro. Hoje é comum aproveitar uma promoção da operadora, uma Black Friday ou um aparelho intermediário que resolve bem o dia a dia. E junto com a caixa nova vem o friozinho na barriga. Será que as fotos dos últimos cinco anos vão passar? E as conversas do WhatsApp? E o aplicativo do banco que exige mil configurações?
+
+A boa notícia é que o processo ficou muito mais simples do que na época dos cartões de memória e cabos proprietários. Android e iPhone têm ferramentas próprias de migração, e a maioria dos aplicativos já pensa na troca de aparelho. A má notícia é que confiar no "vai que dá certo" costuma custar caro. Quem já perdeu conversa antiga ou viu a galeria chegar pela metade sabe bem.
+
+O segredo está na ordem certa. Fazer backup antes de mexer no celular velho, entender o que cada ferramenta copia de verdade e só então apagar os dados do antigo. Parece burocrático, mas leva uma tarde e evita meses de arrependimento. Este guia cobre o caminho completo, do primeiro backup até decidir o que fazer com o aparelho que ficou para trás.
+
+## Antes de tudo, descubra o que realmente importa sair do aparelho velho
+
+A pergunta que quase ninguém faz é a mais importante. O que exatamente você não pode perder? Quando a gente para para listar, a resposta muda. Tem coisa insubstituível, tem coisa só conveniente e tem coisa que a gente nem lembra que existe.
+
+O grupo insubstituível costuma ser menor do que parece. Fotos e vídeos pessoais, conversas específicas de WhatsApp, documentos digitalizados, contatos, histórico de mensagens de trabalho, autenticadores de dois fatores, áudios que você gravou e nunca subiu para lugar nenhum. Esse é o núcleo duro. Se tudo isso passar, o resto se resolve.
+
+O grupo conveniente é maior. Aplicativos de banco, redes sociais, streaming, jogos, apps de transporte, carteira digital. Tudo isso se reinstala em minutos e se configura de novo com login e senha. Chato, mas não é perda. O terceiro grupo, o esquecido, é onde mora a surpresa. Aquele app de notas que você usava em 2022, o caderno de receitas salvo em um aplicativo obscuro, o histórico de um app de corrida. Vale dar uma olhada na tela inicial e na gaveta de aplicativos antes de formatar.
+
+Uma dica prática. Abra a galeria do celular velho e veja as pastas. Muita gente descobre que tem três mil fotos salvas no aparelho e outras tantas presas em conversas de WhatsApp, Telegram ou Direct do Instagram. Essas imagens não aparecem na galeria comum e são justamente as que somem com mais facilidade. Vale exportar cada conversa importante separadamente ou salvar as mídias que interessam.
+
+Também é hora de conferir o espaço em nuvem. Google Fotos, iCloud, Google Drive, OneDrive, Dropbox. Veja quanto você tem disponível e quanto está ocupado. Se o plano gratuito já está estourado, o backup vai falhar no meio do caminho, e é aí que as pessoas perdem arquivo sem perceber. Resolver isso antes economiza dor de cabeça.
+
+## Backup na nuvem, o caminho mais confortável para a maioria
+
+Para quem usa Android com conta Google, o backup do sistema é bem completo. Ele guarda contatos, calendário, senhas do navegador Chrome, histórico de chamadas, configurações de Wi-Fi, lista de aplicativos instalados e, dependendo do aparelho, até as mensagens de SMS. O que ele não guarda por padrão é o conteúdo interno de vários aplicativos, como conversas de WhatsApp e jogos com progresso salvo localmente.
+
+No iPhone, o backup do iCloud faz algo parecido, com a vantagem de incluir dados de saúde, ajustes de acessibilidade e mensagens do iMessage. O ponto de atenção é o espaço. Cinco gigabytes gratuitos acabam rápido, e aí a pessoa precisa decidir entre pagar por mais armazenamento ou fazer o backup pelo computador.
+
+O backup na nuvem tem uma vantagem enorme. Você não precisa de cabo, não precisa de computador e pode fazer isso na véspera da troca, deitado no sofá. A desvantagem é a dependência da internet. Uma conexão instável pode fazer o processo travar no meio, e muitas vezes o celular só avisa que falhou quando você já está com o aparelho novo na mão.
+
+Se for usar esse caminho, faça o backup com o celular na tomada e conectado a um Wi-Fi que você confia. De preferência durante a noite, quando ninguém está usando a rede. Confira depois se a data do último backup é realmente a de hoje. Já vi gente jurando que tinha backup em dia e descobrir, na hora da restauração, que o último era de dois meses antes.
+
+## Backup local, o plano B que muita gente subestima
+
+Fazer backup pelo computador parece coisa de outra época, mas continua sendo o método mais confiável quando o volume de dados é grande. Um celular com centenas de vídeos e milhares de fotos pode levar horas para subir para a nuvem e falhar várias vezes no processo. Pelo cabo, a cópia é direta e você enxerga o que está sendo transferido.
+
+No Android, a forma mais simples é conectar o aparelho ao computador por USB e copiar manualmente as pastas DCIM, Pictures, Downloads, Documents e a pasta de áudios do WhatsApp. Isso garante que os arquivos brutos estejam em algum lugar seguro, independentemente do que aconteça com a conta Google. No iPhone, o iTunes ou o Finder do Mac fazem o backup completo, incluindo mensagens e configurações, mas em um formato que só serve para restaurar em outro iPhone.
+
+Vale considerar também um HD externo ou um pendrive com entrada USB-C ou Lightning, se o seu celular aceitar. Existem modelos que funcionam direto no aparelho, sem computador no meio. Você pluga, escolhe o que quer copiar e pronto. É uma solução prática para quem tem muita foto e vídeo e não quer depender de internet.
+
+Um cuidado importante com backup local. Não deixe os arquivos apenas em uma pasta no computador sem nenhuma cópia. Se o computador der problema, você perde o celular e o backup de uma vez. O ideal é ter pelo menos duas cópias, em lugares diferentes. Nuvem mais HD externo, ou HD externo mais pendrive guardado em outro lugar. Parece exagero até o dia em que acontece.
+
+## WhatsApp, o campeão de preocupação na hora da troca
+
+Se tem um aplicativo que tira o sono de quem troca de celular, é o WhatsApp. Anos de conversa, fotos de família, áudios de filhos pequenos, grupos de trabalho. Perder isso dói de verdade.
+
+O WhatsApp tem uma ferramenta própria de transferência. No Android, você pode migrar o histórico para um iPhone e vice-versa usando um cabo e o recurso oficial de transferência entre sistemas. Dentro do mesmo sistema, o caminho mais comum é restaurar o backup do Google Drive ou do iCloud no aparelho novo, durante a configuração inicial do aplicativo. Esse momento é decisivo. Se você pular a etapa de restauração, o WhatsApp abre vazio, e não tem como voltar atrás depois sem reinstalar tudo.
+
+No Android, o backup do WhatsApp vai para o Google Drive e não consome o espaço da sua conta comum, pelo menos até certo ponto. No iPhone, ele ocupa o iCloud normalmente, o que costuma apertar o plano gratuito. Vale conferir antes se o backup está ativo, se a frequência está como diária e se o último backup foi concluído com sucesso. O aplicativo mostra isso nas configurações, na área de conversas e backup.
+
+Um detalhe que pega muita gente. O backup do WhatsApp não inclui os arquivos de mídia que você recebeu e apagou depois. Se você apagou uma foto no ano passado e quer recuperá-la no celular novo, não vai conseguir. O backup guarda o estado atual das conversas, não um histórico de tudo que já passou por ali. Por isso, se existe alguma mídia importante, salve na galeria ou em outro lugar antes.
+
+Outro ponto. O backup do WhatsApp no Google Drive tem um limite de tamanho que varia conforme o plano e a conta. Contas gratuitas têm um teto, e quando o backup passa disso, ele pode falhar silenciosamente. Confira o tamanho do backup e o espaço disponível. Se estiver no limite, talvez valha exportar conversas individuais como arquivo e guardar em outro lugar.
+
+## Contatos, calendário, senhas e autenticadores
+
+Esses são os itens que a gente esquece até precisar. Contatos quase sempre vêm junto com a conta Google ou iCloud, desde que estejam sincronizados. Vale conferir antes de trocar. Abra a agenda do celular velho e veja se os contatos estão salvos na conta e não no aparelho. Contato salvo localmente não sobe para a nuvem e some na troca.
+
+O calendário segue a mesma lógica. Compromissos salvos na conta Google ou no iCloud aparecem automaticamente no aparelho novo. Compromissos salvos localmente, nem sempre. Confira os dois aplicativos antes.
+
+Senhas são um capítulo à parte. Se você usa o gerenciador de senhas do Google, do iCloud ou algum aplicativo específico, ele sincroniza sozinho, desde que você faça login na mesma conta. O problema é quem guarda senha no bloco de notas ou na cabeça. Anote tudo antes, em um lugar seguro. Lembrar de trinta senhas na hora da configuração é pedir para travar.
+
+Os autenticadores de dois fatores merecem atenção especial. Aplicativos como Google Authenticator, Microsoft Authenticator e Authy guardam códigos que você vai precisar para entrar nas contas. Se você trocar de celular sem transferir esses códigos, pode ficar trancado para fora das próprias contas. O Google Authenticator tem uma função de transferência que exporta as contas para outro aparelho. Outros aplicativos exigem backup na nuvem ou reconfiguração individual. Faça isso com calma, com o celular velho ainda funcionando e em mãos.
+
+Uma dica prática. Antes de desligar o celular antigo, faça login nas contas principais no aparelho novo e teste os códigos de dois fatores. Só depois de confirmar que tudo funciona, siga para a próxima etapa. Assim você evita o pesadelo de ficar sem acesso a banco e e-mail ao mesmo tempo.
+
+## Aplicativos de banco, carteiras digitais e outros sistemas
+
+Aplicativos de banco costumam ser os mais chatos na troca. Muitos exigem reativação do dispositivo, reconhecimento facial, confirmação por SMS ou até visita à agência. Isso varia de banco para banco e de conta para conta. O ideal é fazer a transição em um dia útil, com tempo, e com o celular antigo ainda funcionando para receber os códigos de confirmação.
+
+Carteiras digitais como Google Wallet e Apple Wallet têm regras próprias. Cartões cadastrados podem precisar ser adicionados de novo no aparelho novo, e alguns bancos exigem confirmação por telefone. Não é difícil, mas dá trabalho. Vale fazer isso antes de sair de casa precisando pagar algo.
+
+Aplicativos de transporte, delivery e streaming exigem apenas login. Não têm segredo. Jogos são o ponto sensível, porque muitos salvam o progresso apenas no aparelho. Se o jogo não tiver login com conta própria, como Facebook, Google Play Games ou Game Center, o progresso pode não ser transferido. Nesse caso, não tem muito o que fazer além de aceitar que vai começar de novo.
+
+Também vale lembrar dos aplicativos que exigem token físico ou confirmação por outro dispositivo. Alguns bancos e corretoras usam o celular antigo como segundo fator. Se você desligar o antigo antes de configurar tudo no novo, pode ficar sem acesso. Faça a transição com os dois aparelhos ligados e conectados à internet.
+
+## Passo a passo para a transferência dar certo
+
+Aqui vai um roteiro na ordem que costuma funcionar melhor. Adapte conforme o seu caso, mas não pule etapas.
+
+1. Faça backup completo no celular antigo. Nuvem e, se possível, também cópia local no computador ou em um HD externo.
+
+2. Confira a data e o tamanho do último backup. Se falhou, refaça antes de seguir.
+
+3. Exporte as conversas importantes do WhatsApp e salve as mídias que você não quer perder.
+
+4. Transfira os códigos do autenticador de dois fatores para o aparelho novo ou guarde os códigos de recuperação em local seguro.
+
+5. Anote as senhas que não estão em gerenciador, ou confirme que o gerenciador está sincronizado.
+
+6. Ligue o celular novo e faça a configuração inicial escolhendo restaurar backup. Não pule essa etapa.
+
+7. Instale os aplicativos essenciais primeiro. Banco, e-mail, mensagens, autenticador, carteira digital.
+
+8. Teste cada um. Faça login, confirme dois fatores, envie uma mensagem, abra o app do banco.
+
+9. Confira a galeria, os contatos, o calendário e o WhatsApp no aparelho novo.
+
+10. Só depois de confirmar que tudo está no lugar, apague os dados do celular antigo.
+
+Esse último passo é o mais esquecido e um dos mais importantes. Antes de vender, doar ou guardar o aparelho velho, faça a redefinição de fábrica. Isso apaga suas contas, seus arquivos e suas senhas. Se o aparelho for para outra pessoa, isso protege você. Se for ficar guardado, também evita surpresa caso alguém tenha acesso.
+
+## O que fazer com o celular antigo e os erros que custam caro
+
+Depois que tudo passou, você tem um aparelho usado nas mãos. Pode vender, doar, trocar na compra do novo, guardar como reserva ou reciclar. Se for vender, a redefinição de fábrica é obrigatória. Confira também se o aparelho não está vinculado à sua conta Google ou iCloud, porque isso pode bloquear o próximo dono. Desvincule antes de entregar.
+
+Se for guardar como reserva, vale deixá-lo carregado pela metade e desligado, em um lugar seco. Bateria totalmente descarregada por meses pode estragar, e bateria cheia demais também não é ideal. Meia carga é o ponto.
+
+Sobre os erros que aparecem com mais frequência. O primeiro é confiar em backup que nunca foi testado. Backup só é backup quando você confirma que restaurou e os arquivos estão lá. O segundo é apagar o celular antigo antes de confirmar que tudo chegou no novo. O terceiro é esquecer os autenticadores e ficar trancado para fora das contas. O quarto é não conferir o espaço na nuvem antes de começar. E o quinto, talvez o mais comum, é deixar para fazer tudo na pressa, no dia em que o celular novo chegou.
+
+Reserve uma tarde ou uma noite para isso. Com o celular velho funcionando, o novo na mão, internet estável e paciência. Feito com calma, a troca vira um processo tranquilo, quase chato. E você termina o dia com tudo no lugar, sem ter perdido aquela foto que não tem preço.
+
+## O hábito que protege você na próxima troca
+
+Transferir tudo para um celular novo não exige conhecimento técnico avançado. Exige método. Fazer backup, conferir, restaurar, testar e só então apagar o antigo. Cada etapa protege você de um tipo diferente de perda. Quem segue a ordem raramente se arrepende. Quem pula etapa geralmente descobre o problema tarde demais, quando o celular antigo já foi formatado ou vendido.
+
+Se ficar alguma dúvida no meio do caminho, a regra é simples. Não apague nada enquanto não tiver certeza de que a cópia está no novo aparelho e funcionando. Na dúvida, mantenha os dois celulares ligados por alguns dias, até sentir que tudo migrou. E aproveite para criar um hábito. Backup automático ativo, senhas em gerenciador, autenticador sincronizado. Assim, a próxima troca vai ser ainda mais tranquila do que esta.

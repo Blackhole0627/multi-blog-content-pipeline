@@ -1,0 +1,111 @@
+Receber uma mensagem de um amigo pedindo dinheiro urgente, com uma história convincente de emergência, é uma das situações mais comuns de golpe digital no Brasil. E o pior detalhe vem depois, quando você descobre que o número dele foi clonado e que quem estava do outro lado era um criminoso. A clonagem do WhatsApp não é uma invasão de computador sofisticada. Na maioria das vezes, ela acontece porque alguém conseguiu um código de verificação enviado por SMS ou por ligação, e esse código é a chave da sua conta.
+
+O aplicativo usa o seu número de telefone como identidade. Quando você troca de celular ou reinstala o app, ele envia um código de seis dígitos para confirmar que o número é seu. Quem tem esse código consegue ativar a conta em outro aparelho, e a sua sessão no aparelho antigo cai. A partir daí, o golpista passa a responder suas mensagens, pedir dinheiro aos seus contatos e acessar grupos. Em muitos casos, ele também tenta clonar o número de outras pessoas usando a sua lista de contatos.
+
+A boa notícia é que a maioria absoluta desses casos depende de erro humano ou de descuido com o código. Não existe um botão mágico que resolva tudo, mas existe um conjunto de travas que torna a vida do criminoso bem mais difícil. Este guia reúne o que realmente funciona, do básico que quase ninguém ativa até o passo a passo de como agir se a clonagem já aconteceu.
+
+## Entenda como a clonagem realmente acontece
+
+A palavra clonagem assusta, mas o mecanismo é simples de entender. O WhatsApp não guarda sua conta em um servidor com senha e login como um e-mail. Ele identifica você pelo número de telefone. Quando alguém tenta ativar esse número em outro aparelho, o aplicativo manda um código por SMS ou por chamada de voz. Se o criminoso conseguir esse código, ele ativa a conta e assume o controle.
+
+O golpe mais comum é a engenharia social por telefone. Alguém liga se passando por atendente de operadora, banco ou suporte do próprio WhatsApp. Diz que há um problema na sua linha, que vão fazer uma atualização no sistema, que você precisa confirmar alguns dados. Em algum momento, pede o código que chegou por SMS. Muita gente repassa sem pensar, porque a ligação parece oficial e o tom é de urgência.
+
+Outra via conhecida é o acesso físico ao aparelho. Um conhecido pega seu celular emprestado por um minuto, abre o app, solicita o código e lê a notificação na tela bloqueada. Em segundos, a conta migra para outro chip. Há ainda casos de chips pré-pagos comprados em nome de terceiros, o que facilita a ativação de linhas usadas no golpe. E existe o golpe do falso funcionário da operadora pedindo para você digitar combinações no teclado, que redirecionam chamadas e mensagens.
+
+Vale lembrar de um detalhe técnico. A verificação em duas etapas do WhatsApp é diferente da verificação em duas etapas das operadoras. As duas ajudam, mas protegem coisas diferentes. A do app cria um PIN que trava a ativação do número. A da operadora protege o acesso à sua linha. As duas juntas formam uma barreira bem mais sólida.
+
+## Ative a verificação em duas etapas agora
+
+Esse é o passo mais importante de todos e leva menos de dois minutos. A verificação em duas etapas do WhatsApp cria um PIN de seis dígitos que passa a ser exigido sempre que alguém tentar ativar seu número em outro aparelho. Sem o PIN, o código por SMS não resolve nada.
+
+O caminho no Android e no iPhone é parecido. Abra o WhatsApp, toque nos três pontinhos ou em Ajustes, entre em Conta e depois em Verificação em duas etapas. Toque em Ativar, crie um PIN de seis dígitos e confirme. O app vai pedir um e-mail de recuperação. Coloque um e-mail que você acessa com frequência e que esteja protegido por senha forte e verificação em duas etapas também.
+
+Existe um detalhe que muita gente ignora. Se alguém tentar ativar seu número e errar o PIN várias vezes, o WhatsApp bloqueia a ativação por um período. Isso dá tempo para você perceber e agir. Sem esse PIN, o criminoso ativa a conta na hora e você só descobre quando um amigo liga perguntando por que você está pedindo dinheiro.
+
+Guarde o PIN em um gerenciador de senhas ou em um lugar seguro fora do celular. Não anote em notas do próprio aparelho. Não use data de nascimento, sequência como 123456 ou os seis últimos dígitos do seu telefone. Um PIN previsível é quase o mesmo que não ter PIN nenhum.
+
+## Proteja o chip e a conta da operadora
+
+De nada adianta blindar o WhatsApp se a sua linha telefônica está aberta. O criminoso pode pedir um chip novo em seu nome, o famoso golpe da portabilidade ou do chip clonado, e com a linha nas mãos ele recebe o SMS de verificação. Por isso, a conta da operadora merece atenção especial.
+
+Ligue para a sua operadora, Vivo, Claro, TIM ou qualquer outra, e pergunte se existe um PIN de segurança para atendimento e para troca de chip. A maioria oferece. Defina esse código e cadastre uma senha de acesso ao autoatendimento. Sem ele, ninguém consegue fazer alterações na linha por telefone ou no aplicativo da operadora.
+
+Ative também o bloqueio de portabilidade. Esse recurso impede que seu número seja transferido para outra operadora sem sua autorização expressa. O processo varia por operadora, mas costuma ser feito pelo aplicativo ou pela central de atendimento. Em algumas, é preciso pedir o bloqueio e renová-lo a cada certo período. Vale a pena o incômodo.
+
+Fique atento a sinais estranhos. Se o seu celular ficar sem sinal de repente, sem motivo aparente, e demorar a voltar, pode ser sinal de que alguém está mexendo na sua linha. Se você receber mensagens da operadora sobre troca de chip ou portabilidade que você não pediu, ligue imediatamente. Não clique em links dessas mensagens, mesmo que pareçam verdadeiros.
+
+## Cuidado com o código de seis dígitos
+
+O código de verificação é a chave da sua conta. Trate como você trata a senha do banco. Nenhuma pessoa ou empresa legítima vai ligar pedindo esse código. Nem o WhatsApp, nem a operadora, nem o banco. Se alguém pedir, é golpe, sem exceção.
+
+O WhatsApp tem uma função que ajuda nisso. Nas configurações de Privacidade, existe a opção de mostrar notificações de segurança. Ative. Quando alguém tenta verificar seu número, o app envia um alerta para o seu aparelho. Se você receber esse aviso sem ter pedido nada, é sinal de que alguém está tentando clonar sua conta naquele momento. Aja rápido.
+
+Outro ponto de atenção é a tela de bloqueio. Se o seu celular mostra o conteúdo das notificações mesmo bloqueado, qualquer pessoa que pegue o aparelho por um instante consegue ler o código. Configure para ocultar o conteúdo das mensagens na tela bloqueada. No Android e no iPhone dá para escolher mostrar apenas que chegou uma mensagem, sem exibir o texto.
+
+Cuidado também com apps que prometem espiar conversas de outras pessoas, rastrear parceiros ou ler mensagens apagadas. Boa parte desses aplicativos é golpe. Eles pedem seu número, pedem o código de verificação e, com isso, clonam justamente a sua conta. Desconfie de qualquer serviço que peça o código do WhatsApp.
+
+## Reconheça os sinais de que sua conta foi clonada
+
+Nem sempre o WhatsApp avisa de forma clara. Alguns sinais, porém, entregam que algo errado está acontecendo. O primeiro e mais comum é o aplicativo pedir para você verificar o número novamente, do nada. Isso significa que a conta foi ativada em outro aparelho e a sua sessão caiu.
+
+Outro sinal é receber mensagens de amigos perguntando sobre pedidos de dinheiro que você nunca fez. Se alguém do seu contato te liga dizendo que recebeu uma solicitação estranha em seu nome, pode ser que sua conta esteja nas mãos de outra pessoa. Também vale desconfiar se você parar de receber mensagens de grupos de repente, sem ter saído, ou se as mensagens ficarem sem os tiques de entrega.
+
+Verifique as sessões ativas. No WhatsApp, em Aparelhos conectados, aparece a lista de dispositivos que estão usando sua conta. Se houver algum que você não reconhece, encerre a sessão imediatamente. Faça essa checagem de vez em quando, mesmo sem suspeita. Leva menos de um minuto.
+
+Fique atento ainda ao comportamento de contatos próximos. Golpistas costumam usar a conta clonada para aplicar golpes em nome da vítima. Eles pegam conversas antigas, imitam o jeito de escrever e pedem transferências com histórias de emergência. Se um amigo seu começar a pedir dinheiro de forma estranha, ligue para ele antes de fazer qualquer coisa.
+
+## O passo a passo para recuperar a conta clonada
+
+Se você identificou que sua conta foi clonada, aja rápido. Cada minuto conta, porque o criminoso está usando seu nome para enganar outras pessoas. Siga esta sequência.
+
+1. Instale ou reinstale o WhatsApp no seu celular com o seu número. O aplicativo vai enviar um novo código de verificação.
+
+2. Digite o código quando ele chegar. Se você já tiver ativado a verificação em duas etapas, ele vai pedir o PIN. Informe o PIN que você criou.
+
+3. Assim que entrar, o criminoso perde o acesso à conta. A sessão dele cai automaticamente.
+
+4. Vá em Aparelhos conectados e encerre todas as sessões que você não reconhece. Não deixe nenhuma ativa por dúvida.
+
+5. Ative a verificação em duas etapas, caso ainda não tenha. Crie um PIN novo e um e-mail de recuperação que você acessa.
+
+6. Avise seus contatos, um por um ou em grupos, que sua conta foi clonada e que qualquer pedido de dinheiro feito nas últimas horas é golpe.
+
+7. Se alguém do seu contato chegou a transferir dinheiro para o golpista, oriente essa pessoa a registrar boletim de ocorrência e a falar com o banco o quanto antes.
+
+8. Registre um boletim de ocorrência, mesmo que você não tenha tido prejuízo financeiro. O registro ajuda a mapear a ação dos criminosos e pode ser exigido pelo banco ou pela operadora.
+
+9. Comunique a operadora sobre a clonagem do chip, se for o caso, e peça o bloqueio de portabilidade.
+
+10. Troque as senhas de contas ligadas ao seu número, como e-mail, banco e redes sociais, caso você use o mesmo número para recuperação.
+
+Se você não conseguir recuperar a conta porque o criminoso mudou o PIN ou o e-mail de recuperação, use a opção de recuperação pelo próprio aplicativo. Em último caso, entre em contato com o suporte do WhatsApp pelo site oficial. O processo pode levar alguns dias, então mantenha a calma e não pague nada a ninguém que prometa resolver rápido. Isso também é golpe.
+
+## Cuidados extras que fazem diferença no dia a dia
+
+Além da verificação em duas etapas e da proteção do chip, alguns hábitos reduzem muito o risco. O primeiro é não clicar em links recebidos por mensagem, mesmo de contatos conhecidos. Se um amigo mandar um link estranho, confirme por ligação antes de abrir. Muitas contas clonadas são usadas justamente para espalhar links maliciosos.
+
+O segundo é revisar as permissões dos aplicativos instalados. Apps de teclado, limpeza de memória e lanterna costumam pedir acesso a SMS e a notificações. Não existe motivo para um teclado ler suas mensagens. Revise as permissões nas configurações do celular e retire o que não faz sentido.
+
+O terceiro é manter o sistema e o WhatsApp atualizados. As atualizações corrigem falhas de segurança e trazem recursos novos de proteção. Ativar a atualização automática resolve. E o quarto é desconfiar de ofertas boas demais em grupos. Sorteios, promoções de lojas famosas e vagas de emprego com salário alto costumam ser iscas para roubar dados e códigos.
+
+Outro cuidado importante é com o número que você usa como recuperação de contas. Se o seu e-mail de recuperação é um endereço antigo que você quase não acessa, pode ser que ele já tenha sido invadido sem você saber. Mantenha os e-mails de recuperação ativos, com senha forte e verificação em duas etapas. O mesmo vale para o número de telefone cadastrado como backup em bancos e redes sociais.
+
+Por fim, evite compartilhar seu número em qualquer lugar. Cadastros em sites duvidosos, promoções em lojas e formulários aleatórios alimentam bancos de dados usados por golpistas. Quanto menos lugares tiverem seu número, menor a chance de ele aparecer em uma lista de alvos.
+
+## O que fazer se um amigo pedir dinheiro pelo WhatsApp
+
+Essa situação virou rotina. Um contato próximo manda mensagem pedindo um PIX urgente, com uma história de hospital, carro quebrado ou conta atrasada. Antes de transferir qualquer valor, ligue para a pessoa. Não responda pelo próprio WhatsApp, porque pode ser o golpista. Ligue pelo número que você já conhece, ou faça uma chamada de vídeo.
+
+Se não conseguir falar, tente confirmar por outro canal, como uma ligação para um familiar ou uma mensagem em outra rede social. Golpistas costumam evitar chamadas de voz e vídeo, porque a voz e o rosto entregam. Se a pessoa inventar desculpas para não atender, desconfie.
+
+Nunca faça transferência para contas de terceiros. Se o pedido vier com um nome diferente do dono do número, é sinal claro de golpe. E se você já transferiu, fale com o seu banco imediatamente e registre boletim de ocorrência. O prazo para contestar transações é curto, então não deixe para depois.
+
+Avise seus contatos quando perceber que a conta de alguém foi clonada. Muita gente só descobre que o número foi usado para golpe quando os amigos começam a cobrar. Quanto mais rápido a rede de contatos for avisada, menos gente cai.
+
+## Educação digital como principal defesa
+
+Nenhuma ferramenta resolve tudo sozinha. A clonagem do WhatsApp depende, quase sempre, de um momento de distração, de pressa ou de confiança mal colocada. Por isso, entender o mecanismo do golpe é tão importante quanto ativar as travas. Quando você sabe que nenhum atendente legítimo pede código por telefone, a ligação do falso funcionário perde o poder.
+
+Conversar sobre isso com a família ajuda muito. Pais e avós costumam ser alvos preferenciais, porque confiam em ligações com tom oficial e têm menos familiaridade com os detalhes técnicos. Explique com calma, mostre exemplos reais de mensagens que circulam, combine uma palavra-chave de segurança para pedidos de dinheiro dentro da família. Uma combinação simples, como uma pergunta cuja resposta só vocês sabem, já evita muitos prejuízos.
+
+No fim, proteger o WhatsApp é menos sobre tecnologia e mais sobre hábitos. Verificação em duas etapas ativada, chip protegido na operadora, código de seis dígitos tratado como segredo, desconfiança saudável de pedidos urgentes. Com essas quatro coisas, você sai da lista dos alvos fáceis. E se algo acontecer, age rápido, recupera a conta e avisa quem precisa. O criminoso depende da sua pressa e da sua distração. Retirar essas duas coisas do caminho é o melhor antivírus que existe.

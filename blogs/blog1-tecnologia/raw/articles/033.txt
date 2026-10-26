@@ -1,0 +1,141 @@
+Você provavelmente tem mais contas online do que consegue contar de cabeça. Banco, e-mail, redes sociais, streaming, delivery, loja de roupa, aplicativo de transporte, carteira digital, aquela plataforma da faculdade ou do trabalho. Cada uma pede um login. E cada login pede uma senha. O problema é que a maioria das pessoas resolve isso do jeito mais fácil e mais perigoso possível. Usa a mesma senha em tudo, ou variações óbvias como acrescentar um número no final.
+
+Isso funciona até o dia em que um desses serviços sofre um vazamento de dados. Aí a senha que você usava naquela lojinha vira chave para o seu e-mail, para o seu banco, para tudo. Criminosos fazem isso de forma automática. Pegam uma lista de e-mails e senhas vazadas e testam em dezenas de outros sites em segundos. Se você reutiliza senha, a chance de cair nesse tipo de ataque é alta.
+
+Um gerenciador de senhas resolve esse problema de forma simples. Ele guarda tudo em um cofre criptografado, gera senhas longas e únicas para cada serviço e preenche os campos automaticamente. Você só precisa lembrar de uma senha mestre. Parece mágica, mas é só criptografia bem feita. A questão é que existem vários apps no mercado, com modelos de negócio diferentes, e escolher o errado pode te deixar numa situação pior do que estava. Este texto vai te ajudar a pensar nos critérios que importam de verdade.
+
+## O que um gerenciador de senhas faz na prática
+
+A função básica é armazenar credenciais. Login, senha, site, às vezes perguntas de segurança e códigos de recuperação. Tudo isso fica dentro de um banco de dados criptografado. Para abrir, você usa uma senha mestre. Sem ela, o conteúdo é ilegível, mesmo que alguém roube o arquivo.
+
+Além de guardar, ele gera senhas. Você clica em um botão e ele cria algo como uma sequência aleatória de letras maiúsculas, minúsculas, números e símbolos. Nada de "Maria2010" ou "123456". São senhas que ninguém adivinha e que não se repetem entre serviços.
+
+Tem também o preenchimento automático. Em vez de digitar, você usa o app no celular ou a extensão no navegador. Ele reconhece o site e preenche. Isso reduz o risco de você cair em páginas falsas, porque o gerenciador só preenche no domínio correto. Se o site for falso, ele não reconhece e não entrega nada.
+
+Outra função útil é o alerta de senhas fracas ou repetidas. O app varre seu cofre e avisa. Alguns checam se sua senha apareceu em vazamentos conhecidos. Isso ajuda a priorizar o que trocar primeiro.
+
+## O modelo de negócio muda tudo
+
+Existem basicamente três modelos. O primeiro é o gratuito com recursos limitados. Você usa de graça, mas só sincroniza em um dispositivo ou tem um número máximo de senhas. É o caso de versões básicas de apps conhecidos.
+
+O segundo é o pago por assinatura. Você paga uma mensalidade ou um valor anual e tem sincronização ilimitada, compartilhamento com família, suporte e recursos extras como autenticação de dois fatores integrada.
+
+O terceiro é o open source, muitas vezes mantido por uma comunidade ou empresa que vende suporte. O código é aberto, qualquer um pode auditar. Isso é um ponto positivo para quem entende de segurança, mas não garante que o app seja melhor. Só significa que eventuais falhas podem ser encontradas por mais gente.
+
+Nenhum modelo é automaticamente mais seguro. O gratuito pode ser tão seguro quanto o pago. O que muda é o suporte, a sincronização e a tranquilidade de ter uma empresa por trás. Se você tem poucas senhas e não se importa de digitar, o gratuito resolve. Se você quer praticidade em vários dispositivos, provavelmente vai acabar pagando.
+
+## Criptografia local ou na nuvem
+
+Esse é o ponto mais técnico e também o mais importante. Quando você salva uma senha, ela vai para algum lugar. Pode ficar só no seu aparelho, pode ir para um servidor da empresa. A pergunta é: quem consegue ler?
+
+No modelo de conhecimento zero, a empresa não tem acesso à sua senha mestre nem ao conteúdo do seu cofre. Tudo é criptografado e descriptografado no seu dispositivo. O servidor só guarda um bloco de dados ilegíveis. Se a empresa for invadida, o atacante leva lixo criptográfico. Esse é o padrão que você deve buscar.
+
+No modelo em que a empresa tem a chave, ela consegue, em tese, acessar seus dados. Isso pode facilitar recuperação de conta, mas é um risco. Você está confiando na honestidade e na segurança da empresa.
+
+Na prática, quase todos os gerenciadores sérios hoje usam conhecimento zero. Mas vale conferir. Procure na documentação do app se ele fala em criptografia de ponta a ponta ou conhecimento zero. Se não fala nada, desconfie.
+
+## Sincronização entre celular e computador
+
+Você usa o banco no celular, o e-mail no notebook, o streaming na TV. Se o gerenciador só funciona em um aparelho, a experiência fica ruim. Você vai acabar anotando senha em papel ou repetindo a mesma em tudo de novo.
+
+A sincronização resolve isso. Você instala o app no Android ou iPhone, instala a extensão no navegador do computador e tudo fica igual. Muda uma senha no celular, aparece no desktop em segundos.
+
+Alguns apps sincronizam via nuvem própria. Outros usam iCloud, Google Drive ou Dropbox. Outros ainda sincronizam direto entre dispositivos na mesma rede local, sem passar por servidor nenhum. Cada abordagem tem vantagens. A nuvem própria costuma ser mais prática. A sincronização local é mais privada, mas exige que os aparelhos estejam na mesma rede.
+
+O importante é que a sincronização seja criptografada. Os dados devem viajar embaralhados e só serem montados no destino. Se o app manda tudo em texto puro, é um problema sério.
+
+## Autenticação de dois fatores e chaves de acesso
+
+Senha sozinha já não basta. A maioria dos serviços oferece autenticação de dois fatores, o famoso 2FA. Você digita a senha e depois um código que muda a cada trinta segundos. Esse código vem de um app autenticador ou de SMS.
+
+Um bom gerenciador de senhas também guarda esses códigos. Em vez de usar um app separado, você centraliza tudo. Isso é prático, mas tem um risco. Se alguém acessar seu cofre, tem senha e segundo fator no mesmo lugar. Ainda assim, é melhor do que não usar 2FA.
+
+Mais recente são as chaves de acesso, ou passkeys. Em vez de senha, você usa a biometria do celular ou do computador. A chave fica guardada no dispositivo e nunca sai dele. É mais seguro e mais rápido. Alguns gerenciadores já suportam passkeys. Se você está escolhendo agora, vale considerar esse recurso.
+
+## Compartilhamento com família ou equipe
+
+Se você mora com alguém, provavelmente compartilha senhas. Netflix, Wi-Fi, conta de luz, às vezes o e-mail da casa. Passar senha por WhatsApp ou papelzinho na gaveta é comum, mas é ruim. Você nunca sabe quem viu, e mudar depois é um parto.
+
+Gerenciadores pagos costumam ter planos familiares. Você cria uma pasta compartilhada e coloca ali só o que interessa. Quem está no grupo vê aquelas senhas, mas não vê o resto do seu cofre. Se alguém sair do grupo, você remove o acesso e troca a senha compartilhada.
+
+Para equipes pequenas, funciona parecido. O time de marketing compartilha o login do Instagram da empresa, o financeiro compartilha o do banco. Cada um tem seu cofre pessoal e um cofre comum. Isso evita que senha circule em planilha ou grupo de mensagem.
+
+## Checklist para escolher o seu
+
+Antes de baixar qualquer app, passe por estes pontos. Eles vão te poupar tempo e evitar arrependimento.
+
+- Teste o app por alguns dias. A maioria tem versão gratuita ou período de teste. Veja se o preenchimento automático funciona nos sites que você mais usa. Se falha muito, a experiência fica irritante.
+
+- Confira se tem conhecimento zero. Procure na documentação ou no site oficial. Se a empresa não deixa claro como criptografa, é sinal de alerta.
+
+- Veja se sincroniza nos aparelhos que você tem. Android, iPhone, Windows, Mac, Linux. Nem todo app suporta tudo.
+
+- Cheque se exporta seus dados. Você precisa conseguir tirar tudo do app se quiser mudar depois. Formato CSV ou JSON. Se não exporta, você fica preso.
+
+- Verifique o suporte a 2FA e passkeys. Quanto mais opções de login seguro, melhor.
+
+- Veja o preço. Planos gratuitos costumam ter limite de dispositivos ou de senhas. Planos pagos ficam na faixa de dez a trinta reais por mês, dependendo do recurso. Não precisa ser o mais caro.
+
+- Leia sobre o histórico da empresa. Já sofreu invasão? Como reagiu? Empresas que comunicam bem os incidentes passam mais confiança.
+
+- Teste a recuperação de conta. O que acontece se você esquecer a senha mestre? Alguns apps não têm recuperação nenhuma, e isso é proposital. Se você esquecer, perde tudo. Outros permitem recuperação via chave de emergência. Pense no que faz sentido para você.
+
+## Erros comuns na hora de configurar
+
+Muita gente instala o app e acha que está protegido. Mas alguns deslizes comprometem tudo.
+
+O primeiro é usar uma senha mestre fraca. Ela precisa ser longa, de preferência uma frase que você decora. Algo como "cachorro-azul-pula-cerca-47". Nada de "senha123" ou data de nascimento.
+
+O segundo é não ativar o 2FA no próprio gerenciador. Se alguém descobrir sua senha mestre, o segundo fator segura o ataque. Ative.
+
+O terceiro é salvar a senha mestre no navegador ou em um arquivo no desktop. Isso anula a proteção. Se precisar anotar, use papel guardado em local físico seguro. Parece antiquado, mas funciona.
+
+O quarto é ignorar os alertas de senha repetida. O app avisa, você deixa para depois. Aí um site vaza e o problema se espalha. Troque as senhas repetidas aos poucos, começando pelas contas mais importantes. E-mail, banco, governo.
+
+O quinto é não fazer backup. Se o app sumir do celular e você não tiver a senha mestre, perde tudo. Alguns apps permitem exportar o cofre criptografado. Guarde esse arquivo em um pendrive ou em local seguro. Não é obrigatório, mas é prudente.
+
+## E se eu não quiser usar um gerenciador?
+
+Existe alternativa. Você pode usar um método mnemônico para criar senhas diferentes. Por exemplo, pegar a primeira letra do serviço, mais uma frase fixa, mais um número que muda. Funciona, mas é trabalhoso e falha quando o site exige regras específicas. Além disso, você não tem o preenchimento automático nem os alertas.
+
+Outra opção é o bloco de notas criptografado. Alguns apps de notas oferecem essa função. É melhor do que nada, mas não tem geração de senha, nem sincronização decente, nem preenchimento.
+
+Para a maioria das pessoas, um gerenciador dedicado é mais prático e mais seguro. O esforço de configurar uma vez compensa.
+
+## O que fazer depois de escolher
+
+Depois de instalar e configurar, comece a migração. Não precisa trocar todas as senhas de uma vez. Comece pelas contas críticas. E-mail principal, porque é por ele que você recupera quase tudo. Banco e carteira digital. Contas de governo, como a do imposto de renda. Depois vá para redes sociais e serviços de assinatura.
+
+Ao trocar, use o gerador do app. Deixe o comprimento no máximo que o site aceitar. Ative o 2FA em cada serviço que oferecer. Guarde os códigos de recuperação dentro do próprio gerenciador, em uma nota segura. Assim você não perde o acesso se trocar de celular.
+
+Revise o cofre a cada poucos meses. Veja se tem senha repetida, se tem conta antiga que você não usa mais. Conta esquecida é porta aberta. Se não usa, exclua. Se não dá para excluir, pelo menos troque a senha e guarde.
+
+## Segurança não é produto, é hábito
+
+Nenhum app faz milagre se você clicar em links suspeitos, instalar coisas de origem duvidosa ou responder e-mail de banco pedindo senha. O gerenciador é uma ferramenta. Ele reduz muito o risco, mas não elimina.
+
+Desconfie de mensagens com urgência. "Sua conta será bloqueada", "você ganhou um prêmio", "atualize seus dados". Bancos não pedem senha por e-mail ou WhatsApp. Operadoras não ligam pedindo código. Se receber algo assim, ignore e abra o app oficial.
+
+Mantenha o celular e o computador atualizados. As atualizações corrigem falhas de segurança. Parece chato, mas é uma das coisas mais eficazes que você pode fazer.
+
+E não saia instalando extensão de navegador de qualquer lugar. Extensão tem acesso ao que você digita. Uma extensão maliciosa pode capturar senhas antes mesmo do gerenciador. Instale só o que você conhece e confia.
+
+## Perguntas que costumam aparecer
+
+"Posso confiar em app gratuito?" Depende. Alguns gratuitos são excelentes e têm versão paga para quem quer sincronizar. Outros ganham dinheiro vendendo dados, o que é incompatível com um gerenciador sério. Leia a política de privacidade. Se não ficar claro como o app se sustenta, desconfie.
+
+"E se eu esquecer a senha mestre?" Na maioria dos apps com conhecimento zero, não tem recuperação. Você perde o acesso. Por isso a senha mestre precisa ser memorável e você precisa guardar uma cópia de emergência em local físico seguro. Alguns apps oferecem uma chave de recuperação. Use.
+
+"Posso usar o gerenciador do próprio navegador?" Chrome, Firefox e Edge têm gerenciadores embutidos. Eles quebram um galho, mas são limitados. Não geram senhas tão fortes, não têm compartilhamento, e a sincronização depende da sua conta no navegador. Se você usa só um navegador e não quer instalar nada, dá para começar. Mas um app dedicado é mais completo.
+
+"Preciso pagar?" Não necessariamente. Mas se você tem muitas contas e usa vários dispositivos, o plano pago compensa. Pense no tempo que você perde tentando lembrar senha ou recuperando conta. O valor mensal é pequeno perto do transtorno.
+
+"Funciona em site que não tem preenchimento automático?" Funciona. Você abre o app, copia a senha e cola. Não é tão prático, mas é seguro. Alguns apps têm atalho no teclado para facilitar.
+
+## Um caminho sem volta
+
+Depois que você se acostuma a ter senhas longas e únicas em tudo, voltar atrás parece impensável. Você deixa de decorar senha, deixa de anotar em papel, deixa de repetir. O celular vira sua chave. E se ele for roubado, o cofre continua protegido pela senha mestre e pelo 2FA.
+
+O investimento inicial é de uma tarde. Você escolhe o app, instala, configura, começa a migrar as contas principais. Em uma semana, a maior parte do seu acesso já está no cofre. Em um mês, você nem lembra como era antes.
+
+A escolha do gerenciador não é definitiva. Você pode trocar depois, exportar os dados e importar em outro. O importante é dar o primeiro passo. Cada conta que você protege com senha única é uma porta que fica mais difícil de arrombar. E no fim, é disso que se trata. Não de ter o app perfeito, mas de reduzir o risco de um jeito que caiba na sua rotina.

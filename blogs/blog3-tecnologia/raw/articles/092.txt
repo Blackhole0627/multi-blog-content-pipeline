@@ -1,0 +1,109 @@
+Montar um PC do zero é uma daquelas tarefas que parecem simples até você abrir a primeira loja online e se deparar com centenas de opções. Processador, placa-mãe, memória, placa de vídeo, fonte, gabinete, armazenamento, cooler. Cada peça tem dezenas de marcas e modelos, e a vontade inicial é sair comprando o que parece mais legal. Só que a ordem de escolha muda tudo, inclusive quanto você vai gastar no fim.
+
+Quem monta o primeiro computador costuma cometer um erro clássico. Compra a placa de vídeo primeiro porque viu um vídeo empolgante, ou escolhe o gabinete porque achou bonito, e só depois tenta encaixar o resto. O resultado é uma build desequilibrada, com peças caras demais em um ponto e gargalo em outro. Pior ainda, às vezes a placa-mãe não é compatível com o processador que chegou depois, e aí começa a novela de trocas e devoluções.
+
+A verdade é que montagem de PC tem uma lógica. Existe uma peça que define o rumo de todas as outras, e existe uma sequência que reduz retrabalho, economiza dinheiro e evita dor de cabeça. Vamos destrinchar essa ordem com calma, pensando no uso real que você vai dar à máquina.
+
+## Por que a ordem de escolha importa tanto
+
+Toda build gira em torno de duas decisões centrais. A primeira é o processador, porque ele determina a plataforma. A segunda é o orçamento total, porque ele diz até onde você pode ir em cada peça sem estourar o limite. Se você define o processador antes de tudo, já sabe qual soquete a placa-mãe precisa ter, qual tipo de memória é compatível e qual faixa de fonte faz sentido.
+
+Escolher fora de ordem gera incompatibilidades que custam tempo e dinheiro. Um exemplo comum é comprar memória DDR5 antes de decidir o processador, e depois descobrir que a plataforma escolhida trabalha com DDR4. Ou pegar uma fonte de 500 watts porque estava barata, e depois perceber que a placa de vídeo pede bem mais que isso. Cada peça comprada sem contexto vira uma âncora que limita as escolhas seguintes.
+
+Também existe a questão do equilíbrio. De nada adianta um processador topo de linha com uma placa de vídeo de entrada, ou o contrário. O computador vai render o desempenho da peça mais fraca em cada tarefa. Então a ordem de escolha não é só sobre compatibilidade, é sobre garantir que cada real gasto esteja trabalhando junto com os outros.
+
+## O processador vem primeiro, e isso não é opinião
+
+O processador é o ponto de partida porque ele define a plataforma inteira. Quando você escolhe entre um Ryzen e um Core, está decidindo o soquete da placa-mãe, o tipo de memória que vai usar e até o cooler que serve. Essa decisão trava ou libera uma série de caminhos.
+
+Pense no uso que você vai dar ao PC. Se o foco é jogar, um processador de faixa intermediária já dá conta da maioria dos jogos, desde que a placa de vídeo acompanhe. Se o foco é edição de vídeo, renderização ou programação pesada, aí a quantidade de núcleos e threads pesa mais. Se é uso básico de escritório, navegação e planilhas, um processador de entrada resolve bem, e gastar mais nele é desperdício.
+
+Outro ponto é a longevidade da plataforma. Alguns soquetes duram mais gerações e permitem trocar só o processador no futuro. Outros mudam rápido e obrigam a trocar placa-mãe junto. Se você pretende atualizar em dois ou três anos, vale escolher uma plataforma com histórico de suporte mais longo. Isso não é sobre marca, é sobre planejamento.
+
+E tem a questão do cooler incluso. Muitos processadores de entrada e intermediária vêm com cooler na caixa, o que economiza uma compra. Modelos mais potentes normalmente não vêm, e aí você precisa reservar orçamento para um air cooler ou water cooler. Esse detalhe muda o custo total da build e precisa entrar na conta desde o começo.
+
+## Placa-mãe depois do processador, nunca antes
+
+Com o processador definido, a placa-mãe deixa de ser um mar de opções e vira uma escolha guiada. Você já sabe o soquete, já sabe se precisa de DDR4 ou DDR5 e já tem uma ideia da faixa de preço. O que sobra é decidir o chipset e o formato.
+
+O chipset define recursos como quantidade de portas USB, suporte a overclock, número de slots de memória e linhas PCIe disponíveis. Para a maioria dos usuários, um chipset intermediário entrega tudo que é necessário. Chipsets de topo fazem sentido para quem vai usar vários SSDs NVMe, placas de expansão ou pretende fazer overclock com frequência.
+
+O formato também importa. Placas ATX são maiores, têm mais slots e geralmente melhor dissipação. Placas micro-ATX são menores e mais baratas, com poucos slots, mas suficientes para a maioria das builds. Placas mini-ITX são para gabinetes compactos e custam mais caro justamente por serem especializadas. Escolher o formato antes do gabinete evita a frustração de comprar uma caixa bonita que não cabe a placa.
+
+Vale conferir também a qualidade dos componentes da placa-mãe, como fases de energia e dissipadores. Isso influencia estabilidade e vida útil, principalmente se você usar um processador mais parrudo. Não precisa ser a placa mais cara, mas também não vale pegar a mais barata sem olhar a construção.
+
+## Memória RAM e armazenamento andam juntos
+
+Com processador e placa-mãe definidos, a memória RAM é quase uma consequência. Você já sabe se é DDR4 ou DDR5, então resta decidir capacidade e frequência. Para uso geral e jogos, 16 GB é o ponto de equilíbrio na maioria dos casos. Para edição pesada, virtualização ou muitos programas abertos ao mesmo tempo, 32 GB começa a fazer sentido.
+
+A frequência da memória importa mais em plataformas que se beneficiam disso, como as da AMD. Em plataformas da Intel, a diferença é menor na prática. Mas há um limite. Passar de certa frequência pode exigir ativação de perfil na BIOS e nem sempre é estável. O mais seguro é escolher um kit que a placa-mãe lista como compatível.
+
+Sobre quantidade de pentes, dois pentes de 8 GB costumam render mais que um de 16 GB, porque ativam o dual channel. Isso melhora o desempenho em jogos e tarefas que usam muita memória. Então prefira sempre dois pentes em vez de um, mesmo que a capacidade total seja a mesma.
+
+Já o armazenamento hoje gira em torno do SSD NVMe. Ele é bem mais rápido que o SSD SATA e muito mais rápido que o HD tradicional. Para o sistema e os programas, um NVMe de 500 GB ou 1 TB resolve bem. Se você guarda muitos arquivos grandes, como vídeos e fotos, um HD adicional de 2 TB ou mais serve como armazenamento secundário sem pesar no bolso. O importante é não economizar demais no SSD principal, porque ele afeta a velocidade do sistema inteiro.
+
+## Placa de vídeo, a peça que mais pesa no orçamento
+
+A placa de vídeo é a peça mais cara da maioria das builds gamers e a que mais confunde. Ela vem depois do processador na ordem de escolha, mas com uma ressalva. Se o seu foco é jogar, ela pode ser a peça que define o resto, e aí vale inverter a lógica e começar por ela. O critério é simples. Se o jogo é a prioridade máxima, escolha a placa de vídeo primeiro e depois um processador que não faça gargalo.
+
+Para quem não joga ou joga pouco, a placa de vídeo dedicada pode nem ser necessária. Muitos processadores têm vídeo integrado suficiente para escritório, vídeos e até jogos leves. Isso reduz bastante o custo e simplifica a build.
+
+Ao escolher a placa, olhe a resolução do seu monitor. Uma placa de entrada roda bem em 1080p. Uma intermediária encara 1440p com folga. Uma topo de linha é para 4K ou altas taxas de atualização. Comprar uma placa potente para um monitor 1080p de 60 Hz é desperdício, e comprar uma fraca para um monitor 1440p de 144 Hz é frustração.
+
+Também confira o consumo de energia e os conectores de alimentação. Placas mais potentes pedem fontes maiores e cabos específicos. Esse detalhe conecta direto com a próxima peça da lista.
+
+## Fonte e gabinete fecham a conta
+
+A fonte é a peça que mais gente negligencia, e é um erro sério. Uma fonte ruim pode queimar componentes, causar desligamentos aleatórios e encurtar a vida útil do PC. A regra é somar o consumo de todas as peças e escolher uma fonte com folga de pelo menos 20 a 30 por cento. Isso dá margem para picos e para futuras atualizações.
+
+Certificações como 80 Plus indicam eficiência, mas não garantem qualidade. Marcas conhecidas e reviews sérios ajudam mais que o selo. Prefira fontes com proteções elétricas, como contra sobrecarga e curto-circuito. E não economize aqui. Uma fonte boa dura anos e pode ser reaproveitada em builds futuras.
+
+O gabinete vem por último, mas não é menos importante. Ele precisa caber a placa-mãe, a placa de vídeo e o cooler. Precisa ter bom fluxo de ar, com espaço para ventoinhas na frente e atrás. E precisa ter espaço para organizar os cabos, o que melhora a refrigeração e facilita a manutenção. Um gabinete bonito mas apertado vira um forno e um pesadelo na hora de montar.
+
+## Checklist prático para não errar na ordem
+
+Antes de comprar qualquer peça, vale seguir uma sequência simples que evita retrabalho.
+
+- Defina o orçamento total e o uso principal do PC. Isso guia todas as decisões seguintes.
+
+- Escolha o processador pensando na plataforma e no cooler incluso.
+
+- Escolha a placa-mãe compatível com o soquete e com os recursos que você precisa.
+
+- Defina a memória RAM, prefira dois pentes e confira a compatibilidade.
+
+- Escolha o SSD NVMe para o sistema e, se precisar, um HD para armazenamento.
+
+- Escolha a placa de vídeo de acordo com a resolução do monitor, ou pule se usar vídeo integrado.
+
+- Calcule o consumo e escolha uma fonte com folga e boa reputação.
+
+- Por último, escolha o gabinete que caiba tudo e tenha bom fluxo de ar.
+
+- Confira tudo de novo antes de finalizar a compra, soquete, tipo de memória, tamanho da placa e conectores da fonte.
+
+Esse checklist não é burocrático. Ele existe porque cada peça depende da anterior, e comprar fora de ordem custa caro. Se você seguir essa sequência, a chance de incompatibilidade despenca e o dinheiro rende mais.
+
+## Erros comuns que você pode evitar agora
+
+Um erro frequente é gastar demais no processador e de menos na placa de vídeo, ou o contrário. Em jogos, o equilíbrio entre os dois é o que importa. Em trabalho pesado, o processador e a memória pesam mais. Entender o seu uso evita esse desequilíbrio.
+
+Outro erro é ignorar a fonte. Muita gente compra uma fonte barata de marca desconhecida para economizar, e depois enfrenta travamentos e até queima de componentes. A fonte é o coração elétrico do PC, e cortar custo nela é falso barato.
+
+Também é comum esquecer o fluxo de ar do gabinete. Um gabinete com uma única ventoinha e sem espaço para mais pode esquentar demais, principalmente com placas de vídeo potentes. Isso reduz o desempenho e a vida útil das peças.
+
+E tem a pressa. Comprar tudo em um dia, sem pesquisar preço e compatibilidade, costuma resultar em arrependimento. Vale montar a lista, esperar promoções e conferir reviews antes de fechar o carrinho.
+
+## Quando faz sentido inverter a ordem
+
+Existe uma situação em que a ordem muda. Se o seu foco é jogar em altíssima resolução ou com taxas de atualização altas, a placa de vídeo passa a ser a peça central. Nesse caso, escolha a placa primeiro e depois monte o resto em volta dela. O processador precisa acompanhar para não virar gargalo, e a fonte precisa suportar o consumo.
+
+Outro caso é quando você já tem algumas peças. Se você já tem uma fonte boa e um gabinete, a build começa por eles como base. Se já tem memória DDR4, talvez valha escolher uma plataforma que use DDR4 para reaproveitar. A ordem é uma guia, não uma regra rígida.
+
+Para uso profissional específico, como edição de vídeo em 4K ou renderização 3D, o processador e a memória voltam a ser prioridade. A placa de vídeo ajuda, mas não resolve tudo sozinha. Cada perfil de uso tem uma peça que puxa as decisões.
+
+## Planejamento vale mais que pressa
+
+Montar um PC é menos sobre encaixar peças e mais sobre tomar decisões na ordem certa. O processador define a plataforma, a placa-mãe define os recursos, a memória e o armazenamento completam a base, a placa de vídeo define o desempenho em jogos, e a fonte e o gabinete sustentam tudo. Quando você segue essa lógica, cada compra tem propósito e o conjunto fica equilibrado.
+
+Não existe build perfeita, existe build adequada ao seu uso e ao seu bolso. Pesquise, compare, leia reviews e não tenha pressa. O PC que você monta com calma dura mais e dá menos dor de cabeça do que aquele comprado no impulso. E se surgir dúvida em alguma etapa, voltar uma casa na ordem é mais barato que trocar peça depois de comprada.

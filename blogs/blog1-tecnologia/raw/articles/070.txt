@@ -1,0 +1,85 @@
+Se você cresceu usando computador com Windows, provavelmente lembra daquelas caixinhas de diálogo aparecendo do nada, avisando que um vírus foi detectado e colocado em quarentena. Passar o antivírus era quase um ritual de sexta-feira, como tirar o pó da mesa. Só que de uns anos para cá, muita gente começou a achar que isso ficou para trás. O sistema operacional já vem com proteção embutida, o celular tem loja de aplicativos controlada, e a nuvem guarda quase tudo. Então para que pagar por um programa que só fica rodando em segundo plano?
+
+A resposta curta é que o antivírus mudou de cara, mas não deixou de ser necessário. O que a gente chamava de antivírus hoje é uma suíte de segurança que lida com ameaças bem diferentes das dos anos 2000. Naquela época, o objetivo era pegar um arquivo executável malicioso antes que ele apagasse seus documentos. Hoje, boa parte dos golpes nem instala nada na sua máquina. Eles convencem você a entregar a senha, clicar num link falso do banco, autorizar uma transferência por WhatsApp. Nenhum antivírus do mundo impede alguém de digitar a senha num site clonado.
+
+Isso não significa que a proteção automática seja inútil. Significa que ela cobre só uma parte do problema. Entender qual parte é essa, e o que sobra para você resolver com hábito e atenção, é o que separa quem se protege de verdade de quem só confia na sensação de segurança. Vamos destrinchar isso com calma, sem terrorismo e sem promessa milagrosa.
+
+## O que mudou desde os tempos do vírus de pen drive
+
+O modelo clássico de ameaça era simples. Um arquivo infectado circulava por pen drive, anexo de e-mail ou download duvidoso. Ao executar, ele se espalhava e causava dano. O antivírus funcionava com uma lista de assinaturas, espécie de banco de dados de códigos maliciosos conhecidos. Se o arquivo batesse com a lista, era bloqueado. O problema óbvio é que a lista só funciona depois que alguém já foi infectado e a ameaça foi catalogada.
+
+Hoje isso mudou em dois eixos. Primeiro, a detecção ficou comportamental. Em vez de só comparar assinaturas, o software observa o que o programa tenta fazer. Se um executável recém-baixado tenta mexer na pasta de inicialização do sistema, criptografar vários arquivos de uma vez ou desativar o firewall, isso acende o alerta mesmo que aquele código específico nunca tenha sido visto antes. Segundo, a ameaça migrou do arquivo para a interação. O golpe mais comum hoje não quer infectar seu computador. Quer que você mesmo faça a transferência.
+
+Pense no golpe do falso funcionário de banco. Alguém liga dizendo que há uma compra suspeita no seu cartão. Para "cancelar", pede que você instale um aplicativo de acesso remoto, tipo aqueles usados em suporte técnico. Você instala, dá permissão, e a pessoa do outro lado passa a ver sua tela e controlar seu mouse. Nenhum antivírus barra isso de forma confiável, porque o aplicativo é legítimo e você autorizou. A proteção real, nesse caso, é desligar o telefone e ligar você mesmo para o número que está atrás do cartão.
+
+## Por que o antivírus embutido resolve parte do problema
+
+Windows Defender, o antivírus nativo do Windows, evoluiu muito. Hoje ele é considerado uma proteção de base respeitável, com detecção em nuvem e comportamento em tempo real. Para a maioria das pessoas que usam o computador para navegar, trabalhar em planilhas e assistir vídeo, ele dá conta do recado. O mesmo vale para o Google Play Protect no Android, que varre aplicativos instalados e baixados fora da loja.
+
+O ponto é que proteção de base não é proteção completa. Ela cobre o essencial, mas costuma deixar de fora recursos que fazem diferença em situações específicas. Um exemplo é a proteção contra sequestro de dados, o ransomware. Um antivírus pago pode monitorar pastas específicas e impedir que qualquer programa não autorizado altere ou criptografe arquivos ali. Isso não impede o ataque, mas pode salvar suas fotos e documentos de serem bloqueados.
+
+Outro recurso comum em suítes pagas é a proteção de identidade, que monitora se seus dados apareceram em vazamentos conhecidos e avisa quando isso acontece. Isso é útil, mas exige que você aja depois do aviso, trocando senhas e ativando verificação em duas etapas. O software sozinho não resolve. Ele só te conta que o problema existe.
+
+Existe ainda a questão do desempenho. Muita gente reclama que antivírus deixa o computador lento. Isso era verdade anos atrás. Hoje, as suítes mais modernas consomem pouca memória e fazem varredura em horários ociosos. Se você tem um computador com pouca memória RAM e processador modesto, vale testar a versão gratuita antes de comprar, para sentir se o impacto é aceitável no seu uso.
+
+## O elo mais fraco continua sendo você
+
+Nenhuma ferramenta compensa senha repetida em todos os sites. Se você usa a mesma senha no e-mail, no banco e numa loja online qualquer, um vazamento na loja entrega sua conta de e-mail. E a conta de e-mail é a chave mestra. Com ela, o golpista reseta senhas de outros serviços, recebe códigos de verificação e se passa por você. Aí não adianta ter o antivírus mais caro do mercado.
+
+A verificação em duas etapas é o hábito que mais reduz risco com menos esforço. Ativar em todas as contas que oferecem o recurso leva uma tarde. Prefira o aplicativo autenticador em vez do SMS, porque o SMS pode ser interceptado por clonagem de chip ou ataque de troca de número. Bancos, e-mail, redes sociais e WhatsApp permitem esse tipo de proteção. É chato na primeira semana e depois vira automático.
+
+Senhas longas e diferentes para cada serviço também são essenciais, e ninguém consegue decorar cinquenta senhas distintas. É aí que entra o gerenciador de senhas. Ele guarda tudo criptografado e você só precisa lembrar de uma senha mestra forte. Muitos navegadores já têm gerenciador embutido, mas um aplicativo dedicado costuma ser mais seguro e funciona em vários dispositivos.
+
+Cuidado com a pressa. Golpes exploram urgência. "Sua conta será bloqueada em duas horas", "há uma compra suspeita no seu cartão", "seu pacote está retido, pague a taxa". Quando a mensagem exige ação imediata, o correto é parar, não clicar em nada e verificar por um canal oficial. Abra o aplicativo do banco você mesmo, sem usar link. Ligue para a operadora pelo número que está na sua conta. Essa pausa de dois minutos evita a maioria dos prejuízos.
+
+## Golpes que passam longe do antivírus
+
+Vale detalhar os formatos mais comuns, porque reconhecer o padrão é metade da defesa. O falso boleto é clássico. Você compra algo, recebe um e-mail com boleto anexo, paga, e o dinheiro vai para outra conta. O boleto parece legítimo, tem logo, código de barras. A diferença está no beneficiário. Sempre confira o nome da empresa e o CNPJ antes de pagar qualquer boleto, principalmente os que chegam por e-mail.
+
+O golpe do falso emprego também cresceu. A pessoa recebe mensagem oferecendo vaga com salário atraente, mas precisa pagar curso, material ou taxa de cadastro. Nenhuma empresa séria cobra para contratar. Outra variação pede que você faça tarefas simples, tipo curtir vídeos, e promete pagamento. No começo até pagam valores pequenos para ganhar confiança, depois pedem depósito para "liberar" ganhos maiores. É pirâmide disfarçada.
+
+Nas redes sociais, o sequestro de conta do WhatsApp é rotina. O golpista clona o perfil, manda mensagem para seus contatos pedindo dinheiro emprestado, e muita gente cai porque acredita que é você. A defesa é combinar com familiares uma palavra-chave para pedidos de dinheiro e nunca transferir sem ligar e ouvir a voz da pessoa. Verificação em duas etapas no WhatsApp também dificulta o sequestro.
+
+Existe ainda o golpe do falso suporte técnico. Aparece uma janela na tela dizendo que o computador está infectado e pedindo para ligar num número. Do outro lado, alguém pede acesso remoto e cobra por um "conserto". Empresas sérias não fazem isso. Se aparecer uma tela dessas, feche o navegador ou reinicie o computador. Não ligue para o número.
+
+## Práticas de proteção que cabem no dia a dia
+
+- Mantenha o sistema e os aplicativos atualizados. Atualização corrige falhas que criminosos usam para invadir sem que você perceba.
+
+- Use verificação em duas etapas em todas as contas que oferecem o recurso, com aplicativo autenticador.
+
+- Baixe aplicativos só das lojas oficiais e desconfie de APKs enviados por mensagem.
+
+- Faça backup dos arquivos importantes em dois lugares, sendo um deles fora do computador, como HD externo ou nuvem.
+
+- Evite usar rede Wi-Fi pública para acessar banco ou fazer compras, e se precisar, use os dados móveis.
+
+Essas cinco práticas não custam nada e cobrem boa parte do risco real. Nenhuma delas depende de comprar software. Dependem de criar hábito. A tentação de adiar a verificação em duas etapas é grande, porque dá trabalho. Mas pense no tempo que você levaria para recuperar uma conta invadida, avisar contatos, disputar cobranças, trocar senhas. Ativar a proteção hoje é muito mais rápido.
+
+## Como escolher e configurar sua proteção
+
+Se você decidir que a proteção embutida não basta, o próximo passo é escolher uma suíte. Não existe uma melhor para todo mundo. Existe a que se encaixa no seu uso e no seu bolso. As versões gratuitas costumam cobrir vírus e malware básico. As pagas adicionam recursos como proteção de pastas contra ransomware, VPN, controle parental e monitoramento de vazamento de dados. Os planos costumam ficar na faixa dos cem a trezentos reais por ano, dependendo de quantos dispositivos você quer cobrir.
+
+Antes de assinar, verifique três coisas. Primeiro, se o programa é de uma empresa conhecida e com histórico no mercado de segurança. Segundo, se ele tem versão de teste, para você sentir o impacto no desempenho do seu computador. Terceiro, se o cancelamento é simples, porque assinatura que dificulta sair é sinal de alerta.
+
+Na hora de configurar, não deixe tudo no padrão. Ative a proteção em tempo real, se não estiver ligada. Programe varreduras semanais completas, de preferência quando você não estiver usando a máquina. Ative a proteção de pastas importantes contra alteração não autorizada, se o programa oferecer. E confira se o antivírus está realmente ativo, porque às vezes uma atualização do sistema desliga o serviço sem avisar.
+
+No celular, a lógica é parecida, mas o risco maior é o aplicativo malicioso baixado fora da loja e o link em mensagem. Mantenha o Play Protect ativo, revise as permissões dos aplicativos instalados e remova o que você não usa. Um app de lanterna que pede acesso a contatos e localização é motivo para desconfiar.
+
+## Quando o problema já aconteceu
+
+Se você suspeita que caiu num golpe, aja rápido. Se foi no banco, ligue imediatamente para a central e peça o bloqueio. Transações recentes podem ser contestadas. Se foi na conta de e-mail, troque a senha de outro dispositivo confiável e ative a verificação em duas etapas. Avise seus contatos para não caírem em mensagens enviadas em seu nome.
+
+Se o computador ficou lento, apareceu programa que você não instalou ou o navegador abre páginas estranhas, rode uma varredura completa com o antivírus. Se o problema persistir, pode ser necessário usar ferramentas específicas de remoção ou, em casos graves, formatar o sistema. Antes disso, faça backup do que for importante, mas cuidado. Se houver suspeita de ransomware, não conecte o HD externo antes de ter certeza de que a máquina está limpa, senão você pode criptografar o backup também.
+
+Se dados seus apareceram num vazamento, troque as senhas das contas afetadas e de qualquer outra que use a mesma senha. Ative verificação em duas etapas em tudo. Fique atento a mensagens de phishing que citam o vazamento para parecer legítimas. Criminosos adoram usar a notícia do vazamento como isca para novos golpes.
+
+## O equilíbrio entre ferramenta e comportamento
+
+Antivírus ainda é necessário, mas não é suficiente. Ele cobre a parte da ameaça que tenta invadir sua máquina sem pedir licença. Não cobre a parte que pede sua autorização, e é justamente aí que mora a maioria dos prejuízos hoje. A proteção real é uma combinação. Software atualizado, sistema em dia, verificação em duas etapas, senhas únicas, backup e desconfiança saudável de mensagens urgentes.
+
+Pense nisso como trancar a porta de casa. A fechadura é importante e você não deixaria a porta aberta. Mas se você mesmo entregar a chave para um estranho que bateu na porta dizendo que veio do banco, a fechadura não serve de nada. O antivírus é a fechadura. Os hábitos são a decisão de não entregar a chave.
+
+Não existe configuração que deixe você 100% seguro, e quem promete isso está vendendo ilusão. O objetivo é dificultar o suficiente para que o criminoso desista e vá atrás de alguém mais fácil. A maioria dos golpes é oportunista e em massa. Se você tem verificação em duas etapas, senhas diferentes e não clica em tudo que chega, já saiu da lista dos alvos fáceis. E isso, na prática, resolve mais do que qualquer programa caro.
+
+Comece pelo que dá menos trabalho. Ative a verificação em duas etapas no e-mail e no banco hoje. Instale um gerenciador de senhas e vá trocando as repetidas aos poucos. Confira se a proteção do seu sistema está ativa. Faça um backup. Em uma tarde você muda seu nível de segurança mais do que comprando o antivírus mais caro da prateleira. A ferramenta ajuda, mas quem decide o jogo ainda é você.

@@ -1,0 +1,95 @@
+Casa grande tem um jeito próprio de humilhar roteador. Você instala o aparelho na sala, senta no sofá e tudo funciona bem. Aí vai para o quarto no fundo do corredor, abre o celular e o vídeo trava. Ou pior, a smart TV do quarto começa a rodar aquele círculo de carregamento bem no meio do filme. Não é imaginação sua. Parede derruba sinal, e quanto mais paredes entre o roteador e o dispositivo, pior fica.
+
+O problema é que a maioria das pessoas compra roteador olhando só a caixa. Vê "1200" ou "3000" em letras garrafais, acha que é potência e leva. Só que esses números não significam o que parece. Eles somam velocidades de faixas diferentes, muitas vezes contam tecnologia que o seu celular nem usa, e não dizem nada sobre alcance real. Um roteador caro pode ir pior que um simples em casa grande se estiver mal posicionado ou se o aparelho não der conta de tanta parede.
+
+Esta análise é para quem tem casa grande de verdade, com dois andares, corredor comprido, quintal, garagem afastada ou aqueles cômodos que parecem bunker. Vou explicar o que importa na hora de escolher, onde a maioria erra, quais tipos de aparelho fazem sentido para cada situação e um passo a passo para montar a rede sem gastar à toa. Nada de recomendação de marca específica, porque o que serve para um não serve para outro.
+
+## O que os números da caixa realmente querem dizer
+
+Quando você vê "AX3000" ou "AC1200" na embalagem, está olhando a soma das velocidades teóricas de todas as faixas de frequência do aparelho. Um roteador dual band comum pode ser 300 Mbps na faixa de 2,4 GHz mais 867 Mbps na de 5 GHz, o que dá algo perto de 1200. Só que nenhum dispositivo seu conecta nas duas ao mesmo tempo. O celular escolhe uma faixa e pronto. Então o número real que você usa é bem menor que o da caixa.
+
+Tem outra pegadinha. A velocidade teórica nunca é atingida na prática. Metade já seria lucro. O 5 GHz entrega mais velocidade, mas viaja menos e sofre mais com parede. O 2,4 GHz viaja mais longe, atravessa melhor, mas é mais lento e vive congestionado, porque todo mundo usa essa faixa, do micro-ondas ao vizinho. Em casa grande, essa diferença é o que decide se o quarto do fundo vai ter sinal decente ou não.
+
+O padrão também importa. Hoje convivem aparelhos Wi-Fi 5, Wi-Fi 6 e Wi-Fi 6E. O Wi-Fi 6 melhora o desempenho quando tem muita gente conectada ao mesmo tempo, o que é comum em casa cheia. Não é só velocidade de pico, é capacidade de atender vários dispositivos sem engasgar. Se na sua casa tem TV, dois celulares, notebook, videogame, câmera e assistente de voz tudo ligado junto, essa diferença aparece.
+
+## Cobertura não é potência, é geometria
+
+Muita gente acha que roteador com mais antenas alcança mais longe. Antena não aumenta mágica nenhuma. O que define cobertura é a combinação de potência de transmissão, sensibilidade de recepção, posicionamento e obstáculos no caminho. Uma casa com paredes de alvenaria comum já derruba bastante sinal. Se tiver parede com azulejo até o teto, espelho grande ou aquele forro de gesso com estrutura metálica, o estrago é maior.
+
+Pense no sinal como luz. O roteador é uma lâmpada. Se você coloca a lâmpada dentro de um armário fechado, ela ilumina pouco. Se coloca no centro do ambiente, ilumina tudo. Roteador escondido atrás da TV, dentro do rack de madeira, no canto da casa ou no chão atrás do sofá está fazendo exatamente isso, se sabotando. O lugar ideal é mais alto, central e livre de obstáculos.
+
+Em casa de dois andares, o erro clássico é deixar o roteador no andar de baixo, num canto. O andar de cima fica com sinal fraco justamente onde as pessoas passam mais tempo. Se a casa tem formato comprido, com corredor long, o sinal morre no fim. Nesses casos, um único roteador, por melhor que seja, dificilmente resolve. Não é questão de gastar mais, é questão de arquitetura.
+
+## Roteador único, mesh ou repetidor
+
+Existem três caminhos principais para resolver cobertura em casa grande. O primeiro é um roteador único potente, bem posicionado. Funciona em casas de até uns 100 metros quadrados, sem muitos obstáculos, com formato mais quadrado. Acima disso, começa a ficar no limite. O segundo é o sistema mesh, que usa vários pontos espalhados pela casa formando uma rede única. O terceiro é o repetidor de sinal, que é a solução mais barata e também a mais problemática.
+
+O mesh ganhou espaço porque resolve o problema da troca de rede. Você anda pela casa e o celular migra de um ponto para outro sem você perceber. Com repetidor, muitas vezes você precisa trocar de rede na mão ou fica preso num ponto fraco. O mesh também distribui melhor os dispositivos entre os pontos, o que ajuda quando tem muita coisa conectada. O ponto negativo é o preço, que costuma ser bem mais alto que um roteador comum.
+
+O repetidor tem seu lugar, mas é limitado. Ele pega o sinal existente e amplifica. Só que ele amplifica também o ruído, e geralmente corta a velocidade pela metade, porque usa a mesma faixa para receber e transmitir. Em casa grande, se você usar repetidor para levar sinal até o quarto do fundo, pode acabar com sinal cheio e internet lenta. Serve para casos específicos, tipo levar sinal até a garagem para a câmera, mas não é solução para a casa toda.
+
+## Quando vale a pena investir em mesh
+
+O mesh faz sentido quando você tem mais de um andar, quando a casa passa de uns 120 metros quadrados, quando tem muitos obstáculos ou quando você está cansado de ficar trocando de rede. Também faz sentido se você tem muitos dispositivos e quer que a rede aguente bem. Em casa com família grande, cada um com celular, notebook e tablet, o mesh distribui melhor a carga e evita que um ponto fique sobrecarregado.
+
+Um sistema mesh básico, com dois pontos, costuma ficar na faixa dos mil reais. Modelos com três pontos e Wi-Fi 6 sobem bastante, podendo passar dos dois mil. Vale avaliar se a casa realmente precisa de três pontos ou se dois bem posicionados resolvem. Muita gente compra kit com três e acaba usando dois, porque o terceiro não faz diferença. O ideal é começar com dois e adicionar depois se precisar.
+
+Tem um detalhe importante sobre mesh. A comunicação entre os pontos precisa de banda. Se eles se conectam por cabo, ótimo, a rede fica muito mais estável. Se for tudo sem fio, os pontos usam parte da banda para conversar entre si, o que reduz a velocidade final. Em casa grande, se você conseguir passar pelo menos um cabo entre o ponto principal e um dos secundários, o ganho é enorme. Não precisa cabear tudo, mas um cabo estratégico ajuda muito.
+
+## O que olhar antes de comprar
+
+Antes de decidir, meça sua casa. Não precisa de precisão milimétrica, mas saiba quantos metros quadrados tem, quantos andares e onde ficam os cômodos que mais usam internet. Isso muda tudo. Uma casa de 150 metros quadrados em um andar é bem diferente de 150 metros quadrados em dois andares. A segunda vai exigir mais pontos ou um aparelho mais parrudo.
+
+Veja quantos dispositivos conectam ao mesmo tempo. Hoje uma casa comum tem mais de vinte. Televisões, celulares, notebooks, tablets, caixas de som, câmeras, lâmpadas inteligentes, videogame, impressora. Cada um consome um pouco da capacidade do roteador. Se o aparelho for simples, ele começa a engasgar. Um roteador com processador melhor e mais memória lida melhor com isso.
+
+Considere também a sua internet. De nada adianta roteador top se o plano é lento. O roteador distribui a velocidade que chega, não cria velocidade. Se o plano entrega 300 Mbps, o roteador não vai transformar isso em 600. O que ele pode fazer é garantir que essa velocidade chegue bem distribuída pela casa, sem perdas desnecessárias. Em casa grande, a perda por distância é o principal vilão.
+
+## Passo a passo para montar a rede em casa grande
+
+A parte prática que muita gente pula e depois se arrepende. Siga na ordem.
+
+- Mapeie a casa antes de comprar. Anote metros quadrados, andares e os cômodos onde a internet precisa ser boa. Marque onde tem parede grossa, espelho grande, forro metálico ou azulejo até o teto. Isso define quantos pontos você vai precisar.
+
+- Posicione o ponto principal no centro da casa, não no canto. Se for dois andares, o ideal é perto da escada ou no teto do andar intermediário. Evite rack fechado, atrás da TV e perto de micro-ondas ou geladeira.
+
+- Leve o ponto principal para o andar de cima se a casa for vertical. Assim o sinal desce e sobe melhor. Roteador no andar de baixo, num canto, é receita para o andar de cima ficar sem sinal.
+
+- Espalhe os pontos mesh sem exagerar. Cada ponto deve ficar a uma distância que ainda permita boa comunicação com o principal. Se colocar longe demais, o ponto entrega sinal fraco. Se colocar perto demais, é dinheiro jogado fora.
+
+- Use cabo sempre que puder. Um cabo entre o ponto principal e o secundário resolve boa parte dos problemas de velocidade. Se a casa já tem cabeamento, melhor ainda. Se não tem, passar um cabo pelo forro ou pelo rodapé pode valer mais que comprar um ponto extra.
+
+- Teste em cada cômodo com o celular. Use um app de medição de sinal ou simplesmente abra um vídeo em alta resolução e veja se trava. Anote os pontos fracos. Ajuste a posição dos aparelhos antes de comprar mais coisa.
+
+- Separe as redes se precisar. Em casa grande, às vezes vale deixar uma rede só para dispositivos que não se movem, como TV e videogame, e outra para celulares. Isso reduz a bagunça e melhora a estabilidade.
+
+- Atualize o firmware e reinicie de vez em quando. Roteador não é eletrodoméstico que você instala e esquece. Atualização corrige falhas e melhora desempenho. Reiniciar a cada mês ou dois ajuda a limpar a memória.
+
+## Erros comuns que sabotam a rede
+
+O primeiro erro é comprar roteador potente e deixar no canto da casa. Não existe aparelho que vença geometria ruim. O segundo é usar repetidor como solução principal. Ele até leva sinal, mas entrega velocidade ruim e cria redes separadas. O terceiro é achar que mais antena significa mais alcance. Antena é só uma peça, o que importa é o conjunto.
+
+Tem também o erro de ignorar o cabeamento. Muita gente tem casa com tomada de rede em vários cômodos e nem usa. Se a casa tem cabeamento, aproveite. É a forma mais estável de levar internet para os pontos mesh. Outro erro é não considerar a quantidade de dispositivos. Roteador simples com trinta aparelhos conectados vai sofrer, não importa a velocidade do plano.
+
+E tem o erro de comprar pelo número maior da caixa. O "AX6000" pode ser pior para o seu caso que um "AX3000" bem posicionado. O número não diz nada sobre qualidade de processador, memória, número de portas ou desempenho real. Olhar só isso é como escolher carro pela velocidade máxima anunciada, ignorando consumo, espaço e conforto.
+
+## Vale a pena trocar o roteador da operadora
+
+Essa é uma dúvida comum. O roteador que a operadora entrega costuma ser básico. Ele funciona bem em apartamento pequeno, com poucos dispositivos e sem muitas paredes. Em casa grande, ele costuma ser o gargalo. Sinal fraco nos quartos, quedas quando muita gente conecta, dificuldade para configurar. Trocar por um aparelho melhor faz diferença, mas não é obrigatório se o seu problema for só de posicionamento.
+
+Se você tem plano de internet decente e o problema é sinal em cômodos distantes, um roteador melhor ou um mesh resolve. Se o problema é a internet cair direto, pode ser a operadora ou o cabeamento, não o roteador. Antes de gastar, identifique a causa. Às vezes o modem da operadora está em modo bridge e o roteador próprio faz o trabalho, o que dá mais controle. Outras vezes, o aparelho da operadora é suficiente e o problema é outro.
+
+Uma alternativa intermediária é manter o roteador da operadora como modem e colocar um roteador próprio ou mesh atrás dele. Isso costuma dar mais qualidade sem trocar tudo. Só é preciso configurar direito para evitar conflito de rede. Se você não tem paciência para isso, um sistema mesh fácil de configurar pode ser o caminho. Hoje tem opções que se configuram pelo celular em poucos minutos.
+
+## Como decidir sem se arrepender
+
+Comece pelo diagnóstico. Meça a casa, identifique os pontos fracos, veja quantos dispositivos usam a rede. Se o problema for só um cômodo distante, talvez um repetidor bem posicionado resolva, mesmo com as limitações. Se o problema for a casa toda, mesh é o caminho. Se for só posicionamento, mudar o roteador de lugar pode resolver sem gastar nada.
+
+Defina um orçamento antes de olhar modelos. Roteador simples bom fica na faixa dos trezentos a seiscentos reais. Mesh com dois pontos começa na faixa dos mil e sobe. Não caia na tentação de comprar o mais caro achando que resolve tudo. O mais caro mal posicionado perde para o mais barato bem posicionado. O que importa é a combinação de aparelho adequado, posicionamento e, se possível, cabo.
+
+Pense no futuro. Se você pretende aumentar a casa, trazer mais dispositivos ou mudar para um plano mais rápido, um aparelho com Wi-Fi 6 e boa capacidade de processamento dura mais tempo. Não precisa comprar o topo de linha, mas evite o mais básico se a casa já é grande. O barato que não resolve vai te fazer gastar de novo em pouco tempo.
+
+## Fechando a conta
+
+Casa grande exige pensar em rede como sistema, não como aparelho isolado. O roteador é só uma peça. Posicionamento, número de pontos, cabeamento e quantidade de dispositivos importam tanto quanto o modelo. A maioria dos problemas de sinal em casa grande não se resolve comprando o roteador mais caro, e sim entendendo a geometria da casa e distribuindo a rede de forma inteligente. Mesh ajuda, cabo ajuda, posicionamento ajuda. E às vezes a solução é mais simples do que parece.
+
+Se você chegou até aqui, já tem o que precisa para avaliar sua situação sem cair em promessa de caixa. Meça, teste, ajuste e só depois invista. A rede boa é aquela que você não percebe que existe, porque simplesmente funciona em todos os cantos. E isso é mais conquista de planejamento do que de potência bruta.

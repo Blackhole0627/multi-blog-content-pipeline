@@ -1,0 +1,113 @@
+Lâmpada inteligente não é aquela coisa que muda de cor e vira festa na sala. Pelo menos não só isso. A promessa real é mais chata e mais útil. Acender a luz certa, na hora certa, sem você precisar levantar do sofá ou lembrar que deixou a varanda acesa desde as sete da noite. Parece pouco. Mas quando você mora sozinho, tem criança pequena em casa ou simplesmente trabalha o dia inteiro fora, esse pouco começa a pesar.
+
+A confusão começa no nome. "Inteligente" sugere que a lâmpada pensa por você. Ela não pensa. Ela obedece. O que existe é uma lâmpada comum com um chip de comunicação dentro, quase sempre Wi-Fi ou Zigbee, e um aplicativo no celular que manda ordens. Às vezes essas ordens vêm de um assistente de voz, tipo Alexa ou Google Assistente. Às vezes vêm de uma rotina programada. Em nenhum caso a lâmpada decide nada sozinha.
+
+Então vale ajustar a expectativa antes de gastar dinheiro. Lâmpada inteligente resolve três coisas muito bem. Liga e desliga remotamente. Ajusta intensidade e temperatura de cor. E entra em automações com outros aparelhos. Fora disso, ela é uma lâmpada. Vou passar pelos pontos que costumam gerar dúvida, pelos problemas que aparecem só depois da instalação e por um caminho prático pra quem quer começar sem se arrepender.
+
+## O que muda de verdade na rotina
+
+O ganho mais imediato é não precisar levantar pra apagar a luz. Parece preguiça, mas não é. Quem tem bebê pequeno sabe o que é acordar de madrugada e não querer acender o teto inteiro. Uma lâmpada com intensidade baixa e cor quente resolve isso sem acordar ninguém. Você pega o celular, arrasta o dedo, a luz fica no mínimo.
+
+Outro caso comum é a luz esquecida. Garagem, quintal, corredor externo, varanda. Aquela lâmpada que fica acesa a tarde toda porque ninguém voltou pra apagar. Com automação por horário, ela liga ao anoitecer e desliga de manhã. Ou liga quando o sensor de presença detecta movimento, se você tiver um sensor. A economia de energia existe, mas é modesta. Uma lâmpada LED de 9 watts ligada oito horas por dia consome algo em torno de dois quilowatts-hora no mês. Não é isso que vai mudar sua conta de luz. O ganho é mais de conveniência e de não se irritar consigo mesmo.
+
+Tem também o ajuste de cor conforme a hora. Luz muito branca à noite atrapalha o sono de algumas pessoas. Luz amarelada de manhã deixa o ambiente com cara de escritório antigo. Lâmpada inteligente permite programar. Mais quente depois das dez da noite, mais neutra durante o dia. Isso é conforto, não milagre. Mas conforto conta.
+
+E tem o efeito que ninguém comenta. A casa parece mais habitada quando você não está. Ligar e desligar luzes em horários variados, de longe, dá uma sensação de segurança. Não impede arrombamento. Só reduz a chance de alguém achar que a casa está vazia. É pouco, e é real.
+
+## Wi-Fi, Zigbee e a bagunça dos protocolos
+
+Toda lâmpada inteligente precisa de um caminho pra receber ordens. Os dois caminhos mais comuns no Brasil são Wi-Fi e Zigbee.
+
+Lâmpada Wi-Fi conecta direto no seu roteador. Não precisa de nenhum aparelho extra. Você compra, parafusa no soquete, baixa o app, configura a rede. Funciona bem quando são poucas lâmpadas. O problema aparece quando são muitas. Cada lâmpada Wi-Fi é um aparelho a mais disputando espaço no roteador. Roteadores domésticos comuns começam a engasgar com vinte, trinta dispositivos conectados. Fora isso, lâmpada Wi-Fi costuma ser mais cara e às vezes mais lenta pra responder.
+
+Lâmpada Zigbee não fala direto com o roteador. Ela fala com um hub, uma centralzinha que fica plugada na tomada e conversa com o roteador. O hub custa à parte, o que assusta no começo. Em troca, você pode ter dezenas de lâmpadas sem sobrecarregar a rede. E o Zigbee forma uma malha. Cada lâmpada ligada na tomada ajuda a repassar sinal pra lâmpada mais distante. Isso melhora o alcance dentro de casa, principalmente em apartamento com paredes grossas.
+
+Existe ainda o Bluetooth, que serve pra controlar de perto e não funciona bem pra automação. E o Matter, um padrão mais novo que promete fazer aparelhos de marcas diferentes se entenderem. Na prática, Matter ainda está engatinhando no Brasil. Funciona em alguns casos, dá dor de cabeça em outros. Se você está começando agora, não escolha seus aparelhos pensando só em Matter.
+
+O conselho prático é simples. Se você quer duas ou três lâmpadas, Wi-Fi resolve. Se você pretende montar a casa inteira, com sensores, interruptores e mais de dez pontos de luz, vá de Zigbee desde o início. Trocar depois é caro e chato.
+
+## O interruptor continua sendo o vilão
+
+Aqui está o problema que quase ninguém menciona antes da compra. Sua lâmpada inteligente precisa de energia o tempo todo pra receber comandos. Se alguém apagar no interruptor de parede, a lâmpada perde a alimentação e sai da rede. O app mostra "offline". A automação não roda. A lâmpada vira uma lâmpada burra, só que mais cara.
+
+Isso vira briga em casa. Visita apaga a luz no interruptor por hábito. Filho pequeno apaga. Cônjuge apaga. E aí você passa a tarde tentando entender por que a rotina da varanda não funcionou.
+
+Existem três saídas. A primeira é educar todo mundo a não usar o interruptor, o que funciona até a primeira visita. A segunda é travar o interruptor, com uma capinha ou fita, o que é feio e improvisado. A terceira, e a certa, é trocar o interruptor de parede por um interruptor inteligente, que não corta a energia da lâmpada e ainda permite controle físico.
+
+Interruptor inteligente tem suas próprias complicações. Precisa de neutro na caixa, o que nem toda instalação antiga tem. Precisa de hub, se for Zigbee. E a instalação exige cuidado com a fiação, porque é 110 ou 220 volts de verdade. Se você não tem familiaridade com elétrica, chame um eletricista. Não é lugar pra aprender na prática.
+
+Se trocar interruptor não é opção agora, aceite a limitação. Deixe as lâmpadas inteligentes nos pontos que ninguém apaga no interruptor. Abajur, luminária de canto, varanda, quarto com interruptor de tomada. E deixe as lâmpadas comuns nos pontos de uso intenso. Não é derrota. É escolher onde a automação faz sentido.
+
+## Automação que serve pra alguma coisa
+
+Muita gente compra lâmpada inteligente, configura pra mudar de cor, mostra pros amigos e nunca mais mexe. A parte que realmente vale é a automação. E automação boa é automação chata, que você esquece que existe.
+
+Alguns exemplos que funcionam no dia a dia brasileiro. Luz do corredor liga às seis da manhã e desliga às sete, quando todo mundo já saiu. Luz da sala acende ao pôr do sol e apaga às onze da noite. Luz do quarto do bebê fica em intensidade mínima entre uma e cinco da manhã, caso você precise entrar. Luz da garagem acende quando o portão abre, se o portão for inteligente também.
+
+Você pode montar isso no app da própria marca ou num app mais amplo, tipo Alexa, Google Home ou Home Assistant. O Home Assistant é gratuito e roda num computador ou mini PC em casa. É mais trabalhoso de configurar, mas não te prende a marca nenhuma. Se você gosta de mexer com tecnologia, vale considerar desde o começo. Se não gosta, fique no app da marca e aceite as limitações.
+
+Cuidado com o excesso. Casa cheia de automação mal feita é casa com luz acendendo sozinha às três da manhã porque o sensor de presença pegou o gato passando. Comece com duas ou três rotinas. Ajuste. Depois adicione mais.
+
+## O que essas lâmpadas não resolvem
+
+Lâmpada inteligente não substitui iluminação bem planejada. Se a sala tem uma única lâmpada no teto, de 100 watts, nenhuma automação vai deixar o ambiente agradável. O problema é distribuição de luz, não controle. Luminária de piso, abajur, fita de LED embaixo do armário, arandelas. Isso sim muda a cara do ambiente. A lâmpada inteligente só te dá controle sobre o que já existe.
+
+Também não resolve conta de luz alta. Como já falei, o consumo é baixo e a automação economiza pouco. Quem quer reduzir conta precisa olhar pra chuveiro, ar-condicionado e geladeira velha. Esses sim pesam.
+
+Não resolve problema de internet. Se sua conexão cai, automação local pode continuar funcionando, dependendo do sistema. Mas controle remoto pelo celular, fora de casa, para de funcionar. E se você depende de assistente de voz pra tudo, fica sem.
+
+E não substitui interruptor. Já falei disso, mas repito porque é o erro mais comum. A lâmpada inteligente é um complemento ao interruptor, não um substituto na maioria das casas.
+
+## Checklist antes de comprar
+
+Antes de sair comprando, passe por estes pontos. Eles evitam a maior parte do arrependimento.
+
+- Confira o soquete da sua luminária. E27 é o mais comum, mas tem E14 em abajur e GU10 em spots embutidos. Comprar errado é devolver e esperar.
+
+- Veja se a lâmpada cabe na luminária. Algumas inteligentes são mais compridas que as comuns e não fecham dentro da cúpula.
+
+- Verifique se sua rede Wi-Fi é de 2,4 GHz. Quase toda lâmpada Wi-Fi só funciona nessa frequência. Se seu roteador separa 2,4 e 5 GHz em redes diferentes, conecte na de 2,4.
+
+- Decida o protocolo. Wi-Fi pra poucas lâmpadas. Zigbee se você pretende crescer.
+
+- Pense no interruptor. Quem vai apagar essa luz na parede? Se a resposta for "todo mundo", repense a escolha do ponto.
+
+- Escolha uma marca que você consiga manter. Se der problema no app daqui a dois anos, você quer suporte e reposição. Marcas muito baratas somem.
+
+- Não compre tudo de uma vez. Comece com uma lâmpada. Use uma semana. Só depois compre as outras.
+
+Esse último ponto é o mais importante. A maioria das pessoas compra um kit de quatro lâmpadas, instala todas no mesmo dia e descobre que a rotina que imaginou não faz sentido na prática. Uma lâmpada de teste custa pouco e te ensina muito.
+
+## Preço, marcas e o que esperar
+
+Lâmpada inteligente no Brasil custa, em geral, na faixa de cinquenta a duzentos reais, dependendo da marca, do protocolo e do que ela faz. Modelos com cores costumam ser mais caros que os só de temperatura branca. Modelos Zigbee costumam ser mais baratos que os Wi-Fi equivalentes, mas você paga o hub à parte, na faixa dos duzentos a quatrocentos reais.
+
+Marcas conhecidas de iluminação têm linhas inteligentes. Marcas de tecnologia também. E tem muita marca genérica em marketplace, com app ruim e suporte inexistente. Não dá pra dizer qual é melhor sem citar nome, e citar nome aqui não faz sentido porque o mercado muda rápido. O critério que funciona é olhar avaliações de quem já tem o produto há meses, não de quem comprou na semana passada. E ver se o app tem atualização recente. App abandonado é sinal de produto abandonado.
+
+Assistente de voz é o mesmo esquema. Alexa e Google Assistente funcionam bem pra ligar, desligar e ajustar intensidade. Pra cores e cenas, o app da marca costuma ser melhor. Não espere controle perfeito por voz de tudo.
+
+## Instalando a primeira lâmpada
+
+O passo a passo é mais simples do que parece, mas tem ordem.
+
+Baixe o app da marca antes de parafusar a lâmpada. Crie a conta. Alguns apps exigem conta antes de qualquer coisa.
+
+Parafuse a lâmpada no soquete com o interruptor desligado. Depois ligue o interruptor. A lâmpada vai piscar ou dar algum sinal de que está pronta pra parear. Se não piscar, desligue e ligue algumas vezes seguidas. É o modo de reset que quase toda marca usa.
+
+No app, toque em adicionar dispositivo. Escolha a lâmpada na lista. Se não aparecer, procure o modo de pareamento manual. O app vai pedir sua senha de Wi-Fi. Digite com cuidado, porque quase todo erro de configuração é senha errada ou rede 5 GHz.
+
+Dê um nome pra lâmpada que faça sentido. Não "Lâmpada 1". Use "Luz da varanda" ou "Abajur do quarto". Você vai agradecer depois, quando tiver várias.
+
+Teste ligar e desligar pelo app. Teste a intensidade. Teste a cor, se tiver. Só depois disso crie a primeira automação.
+
+Crie uma rotina simples. Liga às dezoito, desliga às vinte e três. Roda por três dias. Veja se os horários fazem sentido. Ajuste. Agora você entendeu como funciona e pode expandir.
+
+## Quando vale e quando não vale
+
+Vale a pena se você tem um ponto de luz difícil de alcançar, tipo pé direito alto ou varanda externa. Vale se você quer acordar com luz suave em vez de despertador estridente. Vale se você tem criança pequena e quer luz baixa de madrugada. Vale se você gosta de mexer com tecnologia e quer montar automações.
+
+Não vale se você quer economizar energia. Não vale se sua casa tem uma lâmpada por cômodo e ninguém nunca esquece luz acesa. Não vale se ninguém em casa tem paciência pra app. E não vale se você não quer lidar com interruptor de parede.
+
+A lâmpada inteligente é uma ferramenta pequena. Ela resolve problemas pequenos. Conveniência, conforto, um pouco de segurança. Quem vende promete casa do futuro. Quem usa sabe que é isso, uma luz que obedece melhor. E tá tudo bem. Ferramenta pequena que funciona vale mais que promessa grande que não entrega.
+
+Se você chegou até aqui e ainda está na dúvida, compre uma. Só uma. Instale no ponto que mais te irrita hoje, aquele que você tem que levantar pra apagar toda noite. Use por duas semanas. Aí você vai saber, na prática, se isso faz diferença na sua rotina ou se é só mais um gadget na tomada. A resposta varia de casa pra casa, e não tem jeito de descobrir sem testar.

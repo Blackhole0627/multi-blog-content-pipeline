@@ -1,0 +1,109 @@
+Comprar carregador e power bank virou uma tarefa confusa. Antes bastava olhar o conector do celular. Hoje tem carregador de 20 W, de 65 W, de 100 W, cabo USB-C para USB-C, USB-A para Lightning, power bank de 10.000 mAh, de 20.000 mAh, com carga rápida, sem carga rápida, com PD, com QC, com PPS. É muita sigla junta e pouca explicação honesta.
+
+O resultado é que muita gente compra errado. Compra um carregador que promete carga rápida mas não entrega, um cabo que não aguenta a potência, ou um power bank que carrega o celular uma vez e meia. Pior quando o aparelho esquenta demais ou para de funcionar depois de alguns meses.
+
+Este guia é para você que quer entender o que realmente importa antes de gastar dinheiro. Sem promessa mágica, sem indicação de marca específica, sem número inventado. Só o que faz diferença na prática, com exemplos do dia a dia brasileiro.
+
+## O que muda de verdade entre um carregador bom e um ruim
+
+A primeira coisa que muita gente ignora é a potência, medida em watts (W). Um carregador de 5 W é o básico dos básicos, aquele que vinha na caixa de celulares antigos. Carrega, mas devagar. Um celular com bateria de 5.000 mAh pode levar a noite inteira para chegar a 100%.
+
+Quando você sobe para 20 W, a coisa muda. É a potência que a maioria dos celulares intermediários aceita como carga rápida. Já 30 W, 45 W e 65 W aparecem em aparelhos mais robustos, alguns notebooks leves e tablets. Mas aqui vem o detalhe que quase ninguém explica. Não adianta ter um carregador de 100 W se o seu celular só aceita 20 W. O aparelho vai puxar só o que aguenta, e o resto da potência fica parada. Você pagou mais caro por algo que não vai usar.
+
+Outro ponto é o protocolo de carga. Os mais comuns no Brasil são o Power Delivery (PD), o Quick Charge (QC) da Qualcomm e o PPS, uma variação do PD usada por algumas marcas. Se carregador e celular não falam a mesma língua, a carga rápida não acontece. O celular carrega devagar, como se fosse um carregador comum.
+
+E tem o cabo, o elo mais esquecido. Um cabo ruim limita a potência, mesmo com carregador potente. Cabos muito finos, comprados em feira por alguns reais, muitas vezes só aguentam 2 A ou 3 A. Para potências maiores, é preciso um cabo que suporte 5 A e tenha o chip certo para comunicação. Por isso tanta gente reclama que comprou um carregador de 65 W e o celular continua carregando devagar. O problema quase sempre está no cabo.
+
+## Carga rápida, turbo, ultra: o que esses nomes querem dizer
+
+As marcas adoram inventar nomes. Carga turbo, carga rápida, super carga, carga inteligente. No fundo, quase tudo se resume a dois ou três protocolos. O que muda é o marketing.
+
+Quando você vê "carga rápida de 33 W" na caixa de um celular, geralmente significa que ele usa um protocolo proprietário da marca, que só funciona com o carregador original ou com carregadores que emulam aquele protocolo. Se você perder o carregador original, pode comprar um de outra marca com a mesma potência e ainda assim não ter a mesma velocidade. O celular vai reconhecer o carregador genérico e limitar a potência por segurança.
+
+Já o padrão USB PD é mais universal. É usado por muitos notebooks, tablets, celulares e até alguns consoles portáteis. Se você tem um carregador PD de 65 W, ele provavelmente carrega seu notebook, seu celular e seus fones, cada um na potência que aceita. É o padrão mais versátil para quem quer um carregador só para tudo.
+
+O PPS, Programmable Power Supply, é uma extensão do PD. Permite que tensão e corrente variem de forma mais fina durante a carga, o que reduz o aquecimento e preserva a bateria. Alguns celulares Android de marcas conhecidas usam PPS para atingir a potência máxima. Se o seu celular é um desses, vale procurar um carregador com PPS nas especificações.
+
+Uma verdade que pouca gente fala. Carga rápida esquenta a bateria. Quanto mais rápido você carrega, mais calor é gerado. Por isso os fabricantes limitam a potência a partir de certo percentual. Normalmente, a carga é rápida até uns 50% ou 60%, e depois desacelera para proteger a bateria. Se o seu celular carrega rápido até a metade e depois fica lento, não é defeito. É o gerenciamento fazendo o trabalho dele.
+
+## Power banks: entenda a capacidade real antes de comprar
+
+Power bank é aquele aparelho que você carrega na tomada e leva na mochila para carregar o celular depois. A capacidade é medida em miliampere-hora (mAh). Os números mais comuns são 5.000 mAh, 10.000 mAh, 20.000 mAh e 30.000 mAh. Mas aqui tem uma pegadinha que decepciona muita gente.
+
+A capacidade anunciada é a da bateria interna, medida a 3,7 V, tensão típica das células de lítio. Só que a saída USB é em 5 V ou mais. Quando o power bank converte a tensão para carregar o celular, parte da energia se perde em forma de calor. Na prática, você usa algo entre 60% e 70% da capacidade nominal. Ou seja, um power bank de 10.000 mAh entrega algo como 6.000 a 7.000 mAh reais para o celular.
+
+Para ter uma ideia, um celular com bateria de 5.000 mAh costuma receber uma carga completa e mais um pouco com um power bank de 10.000 mAh. Já um de 20.000 mAh dá conta de carregar o mesmo celular três vezes, às vezes três e meia, dependendo do consumo e da temperatura. Se você usa o celular enquanto carrega, o rendimento cai.
+
+Outro detalhe é a potência de saída. Um power bank de 10.000 mAh com saída de 10 W vai carregar devagar, mesmo que o celular aceite 20 W. Se você quer carga rápida no power bank, precisa olhar a potência de saída. Modelos com PD de 20 W ou mais já entregam velocidade decente. Alguns chegam a 30 W, 45 W ou até 65 W, o que permite carregar notebook leve.
+
+E tem o tamanho e o peso. Um power bank de 20.000 mAh pesa em média 400 a 500 gramas. Não parece muito, mas na mochila você sente. Um de 10.000 mAh costuma ficar na faixa dos 200 a 250 gramas, bem mais confortável para levar no bolso ou na bolsa pequena.
+
+## Cabos: o componente que quase todo mundo subestima
+
+Se tem um item que merece atenção, é o cabo. Ele não é só um fio. Dentro dele passam energia e dados, e a qualidade dos condutores e dos conectores faz toda a diferença.
+
+Para carga rápida, você precisa de um cabo que suporte a corrente necessária. Cabos USB-C para USB-C que aguentam 5 A são os mais indicados para potências acima de 45 W. Cabos de 3 A funcionam bem para até 60 W em algumas configurações, mas ficam no limite. Já os cabos USB-A para USB-C ou USB-A para Lightning geralmente limitam a carga a 2,4 A ou 3 A, porque o próprio conector USB-A não foi feito para potências muito altas.
+
+O comprimento também influencia. Cabos muito longos, acima de 2 metros, tendem a ter mais perda de energia. Para carga rápida, o ideal é usar cabos de 1 metro ou 1,5 metro. Se precisar de mais comprimento, prefira cabos de marca conhecida e com especificação clara de suporte à potência.
+
+Outra coisa é o desgaste. Cabo de celular não dura para sempre. O conector USB-C acumula sujeira e sofre com o uso diário. Se o cabo começar a esquentar perto do conector, ou se o celular só carrega em certa posição, é sinal de que ele está indo embora. Insistir em cabo ruim pode danificar a porta do celular, e o conserto não é barato.
+
+Vale lembrar que cabo não serve só para carregar. Se você usa o cabo para transferir arquivos, precisa que ele tenha os fios de dados. Muitos cabos baratos só têm os fios de energia e não funcionam para conectar o celular ao computador. Se essa função importa para você, confira se o cabo é de dados, não só de carga.
+
+## Segurança: o que evitar para não colocar sua casa em risco
+
+Carregador e power bank lidam com energia elétrica, e isso não é brincadeira. Produtos muito baratos, sem certificação, podem superaquecer, derreter ou até pegar fogo. Já vi casos de carregadores genéricos que derreteram na tomada e deixaram cheiro de queimado no quarto.
+
+O primeiro filtro é a certificação. No Brasil, produtos elétricos precisam ter o selo do Inmetro. Isso não garante que o produto é excelente, mas garante que passou por testes mínimos de segurança. Se você compra em site internacional ou em feira, e o produto não tem nenhuma marca de certificação, o risco é seu.
+
+O segundo ponto é a procedência. Carregador de marca desconhecida, com preço muito abaixo do mercado, é aposta. Às vezes funciona bem por anos. Às vezes dura duas semanas. E às vezes dá problema. Não tem como saber sem abrir e testar, e ninguém faz isso na hora da compra.
+
+Tem também a questão da tomada. Carregador que fica quente a ponto de você não conseguir segurar é sinal de alerta. Um pouco de calor é normal, principalmente em carga rápida. Mas se o carregador está quente a ponto de incomodar, pare de usar. Pode ser que ele não esteja dando conta da potência, ou que a tomada esteja sobrecarregada.
+
+No caso do power bank, evite deixar no carro sob sol forte. Bateria de lítio não gosta de calor, e o calor acelera a degradação. Também não deixe o power bank descarregado por meses. Se for guardar, deixe com uns 50% de carga e recarregue a cada três ou quatro meses. Isso ajuda a manter a saúde da bateria.
+
+## Como escolher na prática: um checklist para levar na loja ou no site
+
+Antes de comprar, responda essas perguntas. Elas vão te poupar dinheiro e dor de cabeça.
+
+- Qual é a potência máxima que o seu celular aceita? Procure no manual ou no site do fabricante. Se for 20 W, não precisa comprar um carregador de 65 W, a menos que você queira usar no notebook também.
+
+- Qual protocolo de carga o seu aparelho usa? PD, QC ou algum proprietário? Isso define quais carregadores vão entregar carga rápida de verdade.
+
+- Você quer um carregador só para o celular ou para vários aparelhos? Se for para notebook, tablet e celular, um carregador PD de 65 W ou mais resolve.
+
+- Quantas portas você precisa? Carregador com duas ou três portas é prático, mas fique atento. A potência total é dividida entre as portas quando você usa mais de uma ao mesmo tempo.
+
+- Para o power bank, qual a capacidade que faz sentido para você? 10.000 mAh para o dia a dia, 20.000 mAh para viagens ou uso intenso.
+
+- O power bank tem carga rápida de entrada? Isso define quanto tempo você vai levar para recarregar o próprio power bank. Um de 20.000 mAh sem carga rápida pode levar a noite inteira para encher.
+
+- O cabo que você tem em casa suporta a potência do carregador? Se não, inclua um cabo novo na compra.
+
+- O produto tem certificação e marca conhecida? Se for muito barato e sem procedência, pense duas vezes.
+
+Outra dica prática é ler os comentários de quem já comprou. Não os de uma linha, mas os que explicam o uso real. Procure relatos sobre aquecimento, durabilidade e se a carga rápida realmente funciona com o modelo de celular que você tem. Isso vale mais do que qualquer especificação de embalagem.
+
+## Erros comuns que fazem você gastar dinheiro à toa
+
+Um erro clássico é comprar carregador de 100 W achando que o celular vai carregar em cinco minutos. Não vai. O celular tem limite, e a bateria tem limite. A carga rápida ajuda, mas não faz milagre. Um celular com bateria grande e carga de 20 W leva facilmente uma hora e meia para ir de zero a cem.
+
+Outro erro é usar carregador de notebook no celular sem conferir o protocolo. Alguns carregadores de notebook só entregam potência alta em 20 V, e o celular precisa de 9 V ou 5 V. Nesse caso, o carregador pode até carregar, mas devagar, ou nem carregar. O ideal é que o carregador tenha múltiplas faixas de tensão, o que é comum em modelos PD.
+
+Tem também quem compre power bank só pelo número de mAh e ignore a potência de saída. Aí fica com um aparelho de 20.000 mAh que carrega o celular a 5 W, lentamente, enquanto a pessoa espera carga rápida. Não adianta ter capacidade grande se a saída é fraca.
+
+E tem o erro de achar que cabo é tudo igual. Já perdi a conta de quantas vezes vi alguém trocar o carregador achando que estava com defeito, quando o problema era o cabo. Antes de culpar o carregador, teste com outro cabo. É o teste mais simples e mais revelador.
+
+Por fim, tem a questão da garantia. Produto eletrônico dá problema. Carregador e power bank não são exceção. Comprar de vendedor que oferece garantia e que tem canal de atendimento facilita muito se algo der errado. Guarde a nota fiscal, mesmo que seja digital. Sem ela, a garantia vira conversa.
+
+## O que esperar de preço e durabilidade
+
+Não vou dar preço exato porque isso muda toda hora e varia de loja para loja. Mas dá para ter uma noção. Carregador de marca conhecida, com PD de 20 W a 30 W, costuma ficar na faixa dos cem a duzentos reais. Um de 65 W, com duas portas, pode passar dos trezentos. Power bank de 10.000 mAh com carga rápida fica na faixa dos duzentos a trezentos reais. Um de 20.000 mAh com PD de 30 W ou mais pode chegar aos quatrocentos ou quinhentos.
+
+Durabilidade depende muito do uso. Carregador de qualidade, usado com cuidado, dura anos. Power bank tem vida útil menor, porque a bateria de lítio perde capacidade com o tempo. Depois de dois ou três anos, é normal notar que ele já não segura tanta carga. Não é defeito, é desgaste natural.
+
+Se você usa o carregador todos os dias, vale investir em um modelo confiável. Se é para usar só em viagem, um modelo mais simples pode dar conta. O importante é não comprar no escuro, sem entender o que está levando.
+
+No fim das contas, carregador e power bank não são produtos para comprar por impulso. Eles ficam com você por muito tempo, e um erro de escolha significa dinheiro jogado fora ou risco de segurança. Entender potência, protocolo, cabo e capacidade real é o que separa uma compra tranquila de uma dor de cabeça.
+
+Se você tem dúvida, comece pelo básico. Veja a potência que seu celular aceita, escolha um carregador que fale o protocolo certo, compre um cabo decente e, se precisar de power bank, olhe a capacidade real e a potência de saída. Com essas informações, você não acerta só na primeira compra. Você passa a entender por que cada peça importa, e isso vale para qualquer aparelho que você tiver no futuro.

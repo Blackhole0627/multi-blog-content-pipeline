@@ -1,0 +1,85 @@
+Indicar cripto pra alguém é uma daquelas situações que parecem simples até virarem problema. Você passou meses estudando, acompanhou gráficos, entendeu como funciona uma carteira, uma exchange, um stablecoin. Aí chega um amigo, um primo, um colega de trabalho, e pergunta o que você acha. A tentação de responder com entusiasmo é enorme. Só que a conversa que começa inocente pode terminar em amizade estremecida, prejuízo real e uma culpa que ninguém merece carregar.
+
+O ponto central aqui não é se cripto é bom ou ruim. É sobre o peso que você assume quando coloca essa ideia na cabeça de outra pessoa. Diferente de indicar um filme ou um restaurante, cripto envolve dinheiro, risco e uma curva de aprendizado que muita gente subestima. Quem entra sem entender direito costuma sair machucado, e normalmente culpa quem indicou.
+
+Vale pensar nisso com calma antes de abrir a boca. O que segue abaixo é um mapa do que considerar, dos erros mais comuns e de como ter essa conversa sem transformar sua amizade em prejuízo compartilhado.
+
+## Por que indicar cripto é diferente de indicar qualquer outra coisa
+
+Quando você indica um restaurante e a comida é ruim, o prejuízo é uma noite e alguns reais. Quando indica um livro e a pessoa não gosta, ninguém perde nada além de tempo. Cripto não funciona assim. O ativo oscila forte, às vezes em questão de horas, e quem entra empolgado costuma entrar no pior momento possível. A euforia coletiva empurra gente comum pra dentro do mercado bem na hora em que quem entendeu o ciclo está saindo.
+
+Tem também o fator emocional. Dinheiro mexe com a cabeça das pessoas de um jeito particular. Perder mil reais num investimento que você mesmo escolheu é uma coisa. Perder os mesmos mil porque um amigo falou que era boa ideia é outra completamente diferente. A mágoa costuma durar mais que o prejuízo. Já vi gente que parou de falar com parente por causa de indicação malfeita, e o valor envolvido nem era tão alto assim.
+
+Existe ainda a assimetria de informação. Você estudou, acompanha notícias, sabe o que é uma seed phrase, entende que exchange pode quebrar. A outra pessoa provavelmente não sabe nada disso. Indicar sem preparar essa pessoa é como entregar as chaves de um carro pra alguém que nunca dirigiu. A intenção pode ser boa, mas o resultado costuma ser desastre.
+
+## O que a outra pessoa realmente entende sobre cripto
+
+Antes de qualquer coisa, vale medir o nível de conhecimento de quem pergunta. Muita gente associa cripto a duas coisas apenas, ficar rico rápido e golpe. Os dois extremos são reais, mas escondem o meio, que é onde a maioria das pessoas opera de verdade. Se o seu amigo acha que bitcoin é uma ação da internet ou que dá pra comprar meio bitcoin no banco, a conversa precisa começar bem antes da indicação.
+
+Pergunte o que a pessoa já ouviu falar, o que ela imagina que seja, qual a experiência dela com investimentos em geral. Se ela nunca teve contato com renda variável, o choque de volatilidade do cripto pode ser grande demais. Uma pessoa acostumada com poupança e Tesouro Direto vê uma queda de vinte por cento em uma semana como catástrofe. Quem já passou por bolsa encara isso com mais naturalidade.
+
+Também importa saber por que a pessoa quer entrar. Se a motivação é medo de ficar de fora, ou pressa pra resolver um problema financeiro, o alerta deve subir. Cripto não é atalho pra sair de dívida nem plano de aposentadoria garantido. Quem entra por desespero raramente aguenta a primeira correção e vende no fundo, realizando o prejuízo exatamente onde não deveria.
+
+## O risco de virar consultor financeiro sem querer
+
+No momento em que você indica, você deixa de ser amigo e vira referência. A pessoa vai te procurar quando o preço cair, quando subir, quando ela não souber como sacar, quando esquecer a senha. Isso vira uma responsabilidade que ninguém pediu oficialmente, mas que se instala na prática. E aí começam as cobranças silenciosas. Por que você não me avisou pra vender no topo. Por que você não disse que ia cair.
+
+O problema é que ninguém sabe o futuro do mercado. Quem afirma que sabe está mentindo ou vendendo algo. Se você indicou uma cripto e ela subiu, a pessoa acha que você é gênio. Se caiu, acha que você errou feio. Nos dois casos, a relação fica refém de algo que você não controla. Isso é um fardo pesado pra carregar por tempo indeterminado.
+
+Existe uma saída elegante pra isso, que é nunca indicar um ativo específico. Em vez de dizer compre tal moeda, você explica como funciona o mercado, quais são os riscos, quais cuidados tomar. Você ensina a pescar em vez de entregar o peixe. A decisão final fica com a pessoa, e a responsabilidade também. Se ela quiser sua opinião sobre um projeto específico, você pode dar, mas deixando claro que é sua visão pessoal, não recomendação.
+
+## Educação financeira antes de qualquer cripto
+
+Talvez o maior erro de quem indica cripto seja pular etapas. Cripto deveria ser a última camada de uma construção, não a primeira. Antes de colocar um centavo em bitcoin ou qualquer outra moeda, a pessoa precisa ter o básico resolvido. Reserva de emergência em algo líquido e seguro, dívidas caras quitadas, noção mínima de como funciona juros compostos e risco.
+
+Sem essa base, cripto vira aposta. E aposta com dinheiro que faz falta é receita pra tragédia. Já vi gente usando limite do cartão pra comprar cripto na alta, convencida de que ia dobrar o valor em um mês. Quando o mercado virou, a dívida ficou, com juros. Esse tipo de história se repete todo ciclo, sempre com os mesmos personagens, gente que entrou sem entender o que estava fazendo.
+
+Se a pessoa não tem reserva de emergência, o conselho honesto é esperar. Fale sobre construir essa reserva primeiro, explique por que isso importa, mostre que cripto pode esperar. O mercado vai continuar existindo daqui a seis meses ou um ano. Se a oportunidade some, é porque não era oportunidade de verdade. Esse tipo de paciência é chato de ouvir, mas é o que separa quem sobrevive no mercado de quem vira estatística.
+
+## Volatilidade, custódia e os detalhes que ninguém conta
+
+Cripto tem características que não existem em outros investimentos, e ignorar isso é perigoso. A volatilidade é a mais comentada, mas não é a única. A custódia talvez seja a mais importante e a menos discutida. Quando você compra uma ação, ela fica registrada no seu nome numa corretora regulada, com regras claras de proteção. Com cripto, quem guarda é você, na maioria dos casos. Se perder a chave, perdeu tudo, sem recurso, sem central de atendimento, sem nada.
+
+Isso muda completamente o jogo. Uma pessoa que não entende o que é uma carteira, uma seed phrase, uma transação na blockchain, está em terreno minado. Golpes são comuns, e não estou falando só de esquemas óbvios. Tem phishing, tem site falso, tem contrato malicioso, tem exchange que some com o dinheiro dos clientes. A lista é longa e criativa.
+
+Fora isso, tem a parte prática que ninguém menciona. Declarar no imposto de renda, entender que cada operação pode gerar tributação, guardar os comprovantes. Muita gente entra animada e só descobre essas obrigações depois, quando o Leão já está batendo na porta. Explicar isso antes evita surpresa desagradável e aquela sensação de ter sido enganado por quem indicou.
+
+## Como ter essa conversa sem gerar expectativa errada
+
+A forma como você fala importa tanto quanto o conteúdo. Se você começa a conversa com histórias de gente que ficou milionária, está criando uma expectativa que quase nunca se realiza. Melhor começar pelo risco, pela complexidade, pelas coisas que podem dar errado. Quem continua interessado depois disso está mais preparado pra lidar com a realidade do mercado.
+
+Evite prometer qualquer coisa. Não diga que tal moeda vai subir, não diga que é o momento certo de comprar, não diga que é seguro. Use frases como na minha visão, eu particularmente acho, mas cada pessoa precisa avaliar. Isso tira de você o papel de guru e devolve pra pessoa a responsabilidade pela própria decisão.
+
+Também vale deixar claro que você não é especialista. Mesmo quem estuda muito tem limites, e o mercado é imprevisível por natureza. Admitir isso não te diminui, te protege. Se depois a pessoa perder dinheiro, ela não vai poder dizer que você se apresentou como autoridade no assunto. Você foi honesto desde o começo sobre o que sabia e o que não sabia.
+
+## Um passo a passo pra quem insiste em entrar
+
+Se depois de tudo isso a pessoa continua querendo entrar, você pode ajudar de forma responsável. O roteiro abaixo serve como um caminho seguro, sem indicar ativo específico nem prometer resultado. A ideia é preparar terreno pra que ela não faça besteira nos primeiros meses, que é quando a maioria dos erros acontece.
+
+- Comece apenas com o que você entende. Se a pessoa não sabe o que é blockchain, comece por aí, com vídeos, artigos, cursos gratuitos. Sem essa base, qualquer passo seguinte é chute.
+
+- Defina um valor que pode ser perdido por completo. Não use dinheiro do aluguel, da comida, da reserva de emergência. Cripto é o tipo de ativo em que perder tudo é uma possibilidade real, não um exagero.
+
+- Escolha onde guardar com cuidado. Pesquise sobre custódia, entenda a diferença entre deixar em corretora e ter carteira própria. Cada opção tem riscos e responsabilidades diferentes.
+
+- Faça a primeira compra pequena, quase simbólica. O objetivo no começo não é ganhar dinheiro, é aprender o processo, do depósito ao saque, passando por taxas e confirmações.
+
+- Anote tudo, cada operação, cada data, cada valor. Isso ajuda no imposto e serve como registro pra entender sua própria evolução.
+
+- Estude sobre golpes antes de se aventurar em projetos menores. A maior parte das perdas em cripto não vem de queda de preço, vem de gente caindo em armadilha.
+
+- Nunca invista com pressa ou por medo de ficar de fora. Se a oportunidade é real, ela aguenta uma semana de reflexão. Se não aguenta, não era oportunidade.
+
+Esse roteiro não garante lucro, ninguém pode garantir. Ele apenas reduz a chance de erros básicos que custam caro. A parte mais importante é a primeira, que quase todo mundo pula, que é entender o que está fazendo antes de colocar dinheiro.
+
+## Os sinais de que você não deveria indicar
+
+Existem situações em que a resposta honesta é simplesmente não. Se a pessoa está desesperada por dinheiro, se tem dívidas rolando no cartão, se enxerga cripto como salvação, o melhor conselho é ficar de fora. Nesses casos, indicar é quase crueldade. A chance de dar errado é alta, e o impacto na vida dela pode ser grande.
+
+Também evite indicar pra quem não tem paciência pra estudar. Cripto exige atenção contínua, não necessariamente diária, mas constante. Quem não quer ler, não quer entender, só quer que alguém diga o que fazer, está no caminho pra perder dinheiro. E provavelmente vai te culpar quando isso acontecer.
+
+Se a relação com a pessoa é frágil, ou se você sabe que ela guarda rancor, pense duas vezes. Amizades e dinheiro se misturam mal quando o resultado é negativo. Às vezes a melhor ajuda é indicar fontes de estudo e deixar a pessoa trilhar o caminho sozinha, sem você no meio. Parece frieza, mas é cuidado com a relação e com o bolso dela.
+
+No fim das contas, indicar cripto é um ato que diz mais sobre você do que sobre o mercado. Mostra se você pensa no outro ou só na empolgação do momento. Mostra se você entende os limites do que sabe ou se confunde sorte com habilidade. A maioria das pessoas que se dá bem nesse mercado demorou anos pra chegar lá, errando, estudando, ajustando. Vender a ideia de que é rápido e fácil é enganoso, mesmo sem intenção.
+
+Se você chegou até aqui, já tem elementos pra decidir como agir na próxima vez que alguém pedir sua opinião. Pode ser que a resposta certa seja explicar os riscos, sugerir estudo, deixar claro que você não recomenda nada específico. Pode ser que seja dizer que prefere não opinar sobre dinheiro dos outros. As duas são válidas. O que não vale é empurrar alguém pra um mercado complexo sem preparo, e depois fingir que a culpa foi da pessoa ou do mercado.

@@ -1,0 +1,135 @@
+Planilha não é só coisa de escritório. Quem trabalha com controle de estoque, quem faz orçamento doméstico, quem organiza uma mudança de casa, quem acompanha treinos na academia. Em algum momento, a planilha aparece como ferramenta prática e resolve aquilo que o caderno perdido ou o aplicativo cheio de propaganda não deu conta.
+
+A ideia aqui é mostrar como montar planilhas que funcionem no seu dia a dia. Não importa se você usa Excel, Google Planilhas, LibreOffice ou até o Numbers, do Mac. A lógica é parecida. O que muda é o nome de algumas funções e o jeito de compartilhar. O importante é começar simples, com poucas colunas, e ir ajustando conforme a necessidade aparece.
+
+Também não precisa virar especialista em fórmula. Dá para organizar muita coisa só com soma, subtração, formatação de células e filtros. O resto vem com a prática. E se você já tentou montar uma planilha antes e desistiu no meio, talvez o problema não tenha sido você, mas o tamanho do projeto que tentou criar de uma vez.
+
+## Por que a planilha ainda ganha do caderno e do app
+
+O caderno tem uma vantagem enorme. Você abre e escreve. Não tem menu, não tem fórmula, não tem aba. O problema aparece quando você precisa somar as despesas do mês, comparar com o mês anterior e saber quanto sobrou. No papel, isso vira uma conta refeita três vezes e um monte de rasura.
+
+Os aplicativos de celular resolvem parte disso. Mas muitos são presos a um formato. O app de finanças quer que você lance cada compra na hora, com categoria pronta, e se você esquecer um gasto, o total fica errado. O app de tarefas quer que você use etiquetas e prazos do jeito dele. Quando você percebe, está organizando a vida para alimentar o aplicativo, não para resolver o seu problema.
+
+A planilha fica no meio do caminho. É mais flexível que o app, porque você cria as colunas que fazem sentido para você. E é mais inteligente que o caderno, porque faz contas sozinha e atualiza totais na hora. Você pode ter uma aba de gastos, outra de parcelas do cartão, outra de metas de economia. Tudo no mesmo arquivo.
+
+Outra vantagem é a possibilidade de enxergar padrão. Quando os dados estão em colunas, dá para ordenar do maior para o menor, filtrar só o que é assinatura, ver quanto você gastou em mercado nos últimos seis meses. Isso no caderno é praticamente impossível. No app, depende do que o desenvolvedor deixou você ver.
+
+## O começo certo é uma planilha feia e simples
+
+Muita gente trava na primeira linha. Fica pensando no cabeçalho perfeito, na cor da célula, no gráfico bonito. Enquanto isso, os dados do mês passado continuam numa sacola de compras com nota fiscal amassada.
+
+Comece feio. Abra uma planilha em branco e escreva quatro colunas. Data, descrição, categoria, valor. Só isso. Sem cor, sem negrito, sem aba extra. Salve com um nome que você reconheça, tipo "gastos 2025". Pronto, você já tem uma planilha funcional, mesmo que ela não pareça organizada.
+
+A categoria é o campo que mais ajuda e o que mais dá preguiça de preencher. Use poucas opções no início. Mercado, transporte, casa, saúde, lazer, outros. Se você criar vinte categorias, vai passar mais tempo escolhendo do que lançando. Depois, quando perceber que "outros" está gigante, você divide.
+
+O valor deve ser sempre número, não texto. Parece óbvio, mas é o erro mais comum. Se você digitar "R$ 50,00" com o símbolo e a vírgula, a planilha entende como texto e não soma. Digite 50 e formate a coluna como moeda depois. No Google Planilhas e no Excel, tem um botão de formato de moeda que resolve isso em dois cliques.
+
+## Aprenda cinco recursos e resolva quase tudo
+
+Você não precisa de cinquenta funções. Com cinco recursos, dá para fazer a maior parte das planilhas domésticas. O primeiro é a soma. A função SOMA pega um intervalo de células e devolve o total. Você escreve =SOMA(C2:C50) e a planilha faz o resto. Se você inserir uma linha no meio, ela ajusta sozinha.
+
+O segundo é o filtro. Ele transforma seu cabeçalho em menu suspenso. Você clica na setinha da coluna de categoria e escolhe mostrar só "mercado". A planilha esconde o resto. Isso ajuda a responder perguntas do tipo quanto gastei em mercado esse mês sem precisar apagar nada.
+
+O terceiro é a formatação condicional. Ela pinta a célula conforme o valor. Você pode fazer a coluna de saldo ficar vermelha quando estiver negativa e verde quando estiver positiva. Ou marcar em amarelo as parcelas que vencem nos próximos sete dias. É um recurso visual, mas muda o jeito de olhar a planilha.
+
+O quarto é a tabela dinâmica. O nome assusta, mas a ideia é simples. Ela pega seus lançamentos e resume por categoria, por mês, por forma de pagamento. Você arrasta os campos e vê o total. No Google Planilhas, fica no menu Inserir, Tabela dinâmica. No Excel, também em Inserir.
+
+O quinto é o congelar painéis. Serve para a primeira linha ficar fixa enquanto você rola a planilha para baixo. Sem isso, depois de duzentos lançamentos, você esquece qual coluna é qual. No Excel, fica em Exibir, Congelar Painéis. No Google, em Exibir, Congelar.
+
+## Montando um controle de gastos que você não vai abandonar
+
+O erro clássico é montar um controle de gastos gigante, com dez abas, gráficos e projeções, e abandonar depois de duas semanas. O que funciona é o contrário. Uma aba só, lançamento rápido, consulta fácil.
+
+Monte quatro colunas. Data, descrição, categoria, valor. Na linha abaixo da última, deixe a soma. Formate a coluna de valor como moeda. Congele a primeira linha. Pronto, o essencial está feito.
+
+Agora crie o hábito. Não precisa lançar na hora da compra. Junte as notas e os comprovantes do dia e lance tudo à noite, em cinco minutos. Quem tenta lançar no momento da compra geralmente desiste, porque é chato parar no caixa do mercado para abrir planilha.
+
+Uma vez por semana, olhe a tabela dinâmica por categoria. Você vai descobrir coisas simples e úteis. Que assinatura de streaming você esqueceu que tinha. Que o gasto com delivery subiu depois que você mudou de trabalho. Que o mercado concentra boa parte do orçamento e talvez valha pesquisar preço em outro lugar.
+
+Uma vez por mês, compare o total com o mês anterior. Se você ganha um valor fixo, dá para saber quanto sobrou. Se a renda é variável, como acontece com quem faz freela ou trabalha por comissão, a planilha ajuda a planejar o mês seguinte com base na média dos últimos três.
+
+## Organizando tarefas e prazos sem virar refém da lista
+
+Planilha também serve para organizar o que precisa ser feito. Não é o mesmo que um app de tarefas, mas tem uma vantagem. Você vê tudo de uma vez, em linhas, e pode ordenar por prazo, por prioridade, por pessoa responsável.
+
+Monte colunas assim. Tarefa, responsável, prazo, status, observação. Preencha com o que está pendente. Use a formatação condicional para pintar de amarelo o que vence em três dias e de vermelho o que já venceu. Use o filtro para esconder o que já foi concluído.
+
+Isso funciona bem para organização de casa. Lista de reforma, com orçamento de cada serviço e data prevista. Lista de mudança, com o que já foi embalado e o que falta. Lista de documentos para renovar, com data de vencimento do passaporte, da CNH, do seguro do carro.
+
+Funciona também para quem estuda. Uma planilha com matérias, datas de prova, capítulos a revisar e status de leitura ajuda mais do que um calendário cheio de post-it. Você ordena por prazo e sabe o que atacar primeiro. E quando termina, marca como concluído em vez de riscar no papel.
+
+O cuidado é não transformar a planilha em um projeto infinito. Se você passa mais tempo atualizando status do que fazendo a tarefa, a ferramenta virou o problema. Mantenha poucas colunas e revise uma vez por dia, não a cada meia hora.
+
+## Uma planilha para cuidados com a saúde e rotina
+
+Aqui o tom é educativo, sem substituir orientação médica. A planilha não diagnostica nada, não indica remédio, não substitui consulta. Ela só ajuda a registrar o que você já faz e levar informação organizada para o profissional de saúde.
+
+Você pode registrar horário de sono, quantidade de água, se tomou o remédio de uso contínuo, como foi a alimentação do dia. São colunas simples. Data, hora de dormir, hora de acordar, horas dormidas, observação. Depois de um mês, dá para ver padrão. Que nos dias em que você dorme menos de seis horas, a dor de cabeça aparece. Que nos dias em que você caminha de manhã, o sono melhora.
+
+Quem faz acompanhamento de pressão arterial pode registrar as medições em uma planilha com data, horário, valor medido e observação. Levar isso impresso ou no celular para a consulta ajuda o médico a ver a evolução. Mas o aparelho de medir em casa precisa ser calibrado e o registro não substitui a consulta.
+
+Para treino na academia, a planilha ajuda a acompanhar carga e repetição. Colunas de exercício, série, peso, repetições, data. Você vê quando aumentou a carga e quando estagnou. Isso é útil para quem treina sem personal e quer ter noção de progresso. Mas qualquer mudança brusca de rotina, dor persistente ou lesão pede avaliação profissional, não planilha.
+
+Para rotina de casa, a planilha pode virar um quadro de tarefas divididas entre moradores. Quem limpa o banheiro, quem tira o lixo, quem faz mercado. Com coluna de semana e status. Parece burocrático, mas em casa dividida por várias pessoas, evita aquela conversa repetida de "eu já fiz semana passada".
+
+## Passo a passo para montar sua primeira planilha útil hoje
+
+Escolha uma ferramenta. Google Planilhas é gratuito e funciona no navegador e no celular, desde que você tenha conta Google. Excel Online também tem versão gratuita. LibreOffice é instalável e não depende de internet. Qualquer uma serve.
+
+Abra um arquivo novo e dê um nome simples. Evite "planilha final definitiva". Use algo como "controle casa 2025".
+
+Na primeira linha, escreva os cabeçalhos. Comece com quatro colunas. Data, descrição, categoria, valor. Se for lista de tarefas, use tarefa, responsável, prazo, status.
+
+Formate a coluna de valor ou data conforme o tipo. Valor como moeda, data como data. Isso evita erro de soma e de ordenação.
+
+Congele a primeira linha. No Excel, Exibir, Congelar Painéis. No Google, Exibir, Congelar, Linha 1.
+
+Insira os primeiros lançamentos. Não espere ter tudo. Comece com o que está na sua frente agora. Cinco linhas já bastam para testar.
+
+Na linha seguinte, coloque a soma. =SOMA(D2:D1000). Deixe um intervalo maior do que você precisa. Assim, quando inserir mais linhas, a soma já pega.
+
+Ative o filtro na primeira linha. No Excel, Dados, Filtro. No Google, Dados, Criar filtro. Agora você consegue ver só uma categoria.
+
+Aplique formatação condicional na coluna de valor ou status. Vermelho para negativo ou atrasado, verde para positivo ou concluído.
+
+Crie uma tabela dinâmica depois de ter pelo menos trinta lançamentos. Antes disso, ela não mostra muita coisa. Use para resumir por categoria.
+
+Revise uma vez por semana. Marque o que foi concluído, confira os totais, ajuste o que estiver errado. Não deixe acumular.
+
+Faça uma cópia de segurança. No Google, o arquivo já fica na nuvem. No Excel local, salve uma versão em pasta na nuvem ou mande por e-mail para você mesmo. Perder planilha de meses por causa de computador queimado é mais comum do que parece.
+
+## Erros que fazem você largar a planilha na segunda semana
+
+O primeiro é criar abas demais. Uma aba para cada mês, uma para cada categoria, uma para cada cartão. Isso vira bagunça. Prefira uma aba só, com uma coluna de mês ou de forma de pagamento. A tabela dinâmica separa depois.
+
+O segundo é misturar número com texto na mesma coluna. Se você escreve "50 reais" em uma linha e "50" na outra, a soma não funciona. Padronize. Só número na coluna de valor, o símbolo fica na formatação.
+
+O terceiro é usar cor como única informação. Pintar de verde o que está pago e de vermelho o que não está parece prático, mas quem é daltônico não enxerga diferença. Use uma coluna de status com palavra escrita. Pago, pendente, atrasado. A cor vem como reforço, não como informação principal.
+
+O quarto é não revisar. Planilha sem revisão vira depósito de lançamento errado. Uma vez por semana, olhe as últimas linhas e confira se digitou certo. É chato, mas leva cinco minutos.
+
+O quinto é copiar modelo pronto da internet sem entender. Muitos modelos têm fórmula que não faz sentido para o seu caso, aba escondida, proteção de célula. Você tenta mexer, quebra tudo, desiste. Modelo pronto serve como inspiração, não como solução.
+
+O sexto é querer controlar tudo. Nem tudo precisa de planilha. Lista de compras do mercado, por exemplo, funciona melhor no bloco de notas do celular. A planilha é para o que precisa de conta, comparação ou histórico. Saber o que deixar de fora é parte do trabalho.
+
+## Quando a planilha deixa de ser suficiente
+
+Existe um ponto em que a planilha começa a ficar pesada. Muitos lançamentos, muitas abas, fórmulas que demoram para calcular. Nesse momento, pode valer migrar para um aplicativo específico ou para um sistema mais robusto. Mas isso só faz sentido depois que você já tem o hábito de registrar.
+
+Para finanças pessoais, se você já lança tudo há meses e quer categorização automática, um app de finanças pode ajudar. Mas ele vai exigir que você adapte seu jeito de registrar ao formato dele. Quem tem rotina simples, com poucos gastos, dificilmente precisa.
+
+Para controle de estoque de pequeno negócio, a planilha aguenta bem até certo volume. Quando começa a ter muitas vendas por dia, com baixa automática de estoque, um sistema dedicado evita erro. Mas para quem está começando, a planilha é o jeito mais barato de entender o próprio negócio antes de pagar mensalidade de software.
+
+Para organização de projetos em grupo, a planilha compartilhada funciona, mas fica limitada quando muita gente edita ao mesmo tempo. Nesse caso, ferramentas de gestão de tarefas fazem mais sentido. A planilha vira o registro histórico, não o painel principal.
+
+O critério é simples. Se você passa mais tempo consertando a planilha do que usando as informações dela, está na hora de mudar. Enquanto ela resolve, fica.
+
+## O hábito vale mais que a planilha bonita
+
+Nenhuma planilha organiza a vida sozinha. O que organiza é o hábito de olhar para ela. Uma planilha feia, com quatro colunas e revisada toda semana, resolve mais do que uma planilha perfeita abandonada no drive.
+
+Comece pequeno. Uma coisa de cada vez. Primeiro os gastos. Depois as tarefas. Depois a rotina de saúde, se fizer sentido. Cada planilha nova é uma decisão de olhar para aquele pedaço da vida com mais atenção.
+
+E não tenha medo de apagar o que não funciona. Se a aba de metas não está sendo usada, exclua. Se a coluna de observação só tem espaço em branco, tire. A planilha é sua ferramenta, não uma obrigação. Ela muda quando você muda, e isso é uma das melhores coisas de não depender de um aplicativo fechado.
+
+Com o tempo, você percebe que organizar a vida não é ter tudo sob controle. É saber onde estão as informações quando você precisa delas. A planilha faz esse papel sem drama, sem propaganda e sem cobrar assinatura.

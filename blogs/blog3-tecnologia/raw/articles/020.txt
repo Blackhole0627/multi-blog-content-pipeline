@@ -1,0 +1,113 @@
+A poeira é uma inimiga silenciosa do seu computador. Ela não quebra nada de um dia para o outro, mas se acumula aos poucos, entope as saídas de ar, reduz a eficiência da refrigeração e faz o equipamento trabalhar mais quente do que deveria. Com o tempo, isso pode significar travamentos, queda de desempenho e até desligamentos inesperados no meio de uma tarefa importante.
+
+Quem mora em cidade grande, perto de avenida movimentada ou convive com animais de estimação costuma notar esse problema mais rápido. Em apartamentos com carpete, cortina grossa e janela sempre aberta, então, a situação piora bastante. Um desktop que fica no chão do quarto pode juntar uma camada visível de poeira em poucos meses. Um notebook apoiado na cama ou no sofá também sofre, porque as entradas de ar ficam abafadas e sugam tudo o que está por perto.
+
+A boa notícia é que a limpeza interna não é nenhum bicho de sete cabeças. Dá para fazer em casa, com cuidado, ferramentas simples e paciência. O que não pode faltar é atenção a alguns detalhes que evitam danos caros. O objetivo deste texto é justamente esse, mostrar um caminho seguro, do começo ao fim, para quem nunca abriu um computador e também para quem já tem alguma experiência mas quer revisar o processo.
+
+## Por que a poeira causa tanto problema
+
+A poeira funciona como um cobertor. Ela se deposita nas aletas do dissipador, nas hélices das ventoinhas e nas grades de ventilação. Quando isso acontece, o ar quente produzido pelo processador e pela placa de vídeo não consegue sair direito. O sistema de refrigeração tenta compensar aumentando a rotação das ventoinhas, o que gera mais ruído e consome mais energia.
+
+Em notebooks, o problema é ainda mais delicado. O espaço interno é pequeno, e qualquer obstrução tem efeito grande. É comum o usuário perceber que a máquina está esquentando demais na região do teclado, que o cooler parece um avião decolando e que a bateria dura cada vez menos. Muitas vezes a causa não é defeito, é sujeira acumulada.
+
+Em desktops, o gabinete com filtro de poeira na frente ajuda bastante, mas não elimina o problema. Os filtros retêm parte das partículas, e o restante passa. Fonte de alimentação, cooler do processador e ventoinhas da placa de vídeo são os pontos que mais sofrem. Se o computador fica ligado muitas horas por dia, a sujeira se compacta e vira uma massa difícil de remover depois.
+
+Existe ainda a questão da umidade. Poeira úmida conduz eletricidade melhor do que poeira seca, e isso aumenta o risco de curtos. Em regiões litorâneas ou em épocas de chuva constante, vale redobrar a atenção. Não é motivo para pânico, mas é um bom argumento para manter a limpeza em dia.
+
+## Com que frequência limpar cada tipo de máquina
+
+Não existe uma regra única. Tudo depende do ambiente e do uso. Como referência prática, um desktop em casa, num quarto limpo e sem animais, pede limpeza interna a cada seis meses ou um ano. Se houver tapete, cortina, janela aberta e bicho de estimação, esse intervalo pode cair para três ou quatro meses.
+
+Notebooks costumam precisar de mais atenção. Como ficam apoiados em superfícies variadas e têm entradas de ar pequenas, a poeira se acumula mais rápido. Uma boa média é abrir e limpar a cada seis meses, principalmente se você usa o aparelho várias horas por dia. Se ele já está esquentando mais do que o normal ou fazendo barulho excessivo, não espere o prazo, antecipe a limpeza.
+
+Vale observar alguns sinais. Ventoinha que dispara do nada, base quente mesmo com o computador ocioso, travamentos em jogos ou programas pesados e desligamentos súbitos são indícios de que a refrigeração está comprometida. Em notebooks, também aparece aquele cheiro leve de plástico quente, que incomoda bastante.
+
+Quem tem gato ou cachorro em casa conhece bem o desafio. Os pelos se misturam à poeira e formam uma espécie de feltro dentro do gabinete. Nesse caso, a limpeza precisa ser mais frequente e mais caprichada, porque esse material bloqueia a passagem de ar com facilidade.
+
+## Ferramentas e cuidados antes de começar
+
+Você não precisa de um laboratório. O básico resolve. Separe uma chave Phillips pequena, uma escova de dentes macia ou pincel de cerdas suaves, um pincel antirreflexo, ar comprimido em lata ou um soprador de ar, álcool isopropílico e lenços de microfibra. Se tiver um aspirador de pó pequeno com bocal estreito, ele ajuda, mas use com cautela e nunca encoste no interior dos componentes.
+
+O ar comprimido em lata é prático, porém tem duas armadilhas. A primeira é a condensação, que pode acontecer se você inclinar a lata demais. A segunda é a pressão, que pode ser forte o suficiente para danificar hélices de ventoinhas ou empurrar poeira para dentro de fendas. Mantenha a lata na posição vertical, dê jatos curtos e segure as hélices com um palito ou dedo limpo para que não girem com o vento.
+
+Antes de qualquer coisa, desligue o computador e tire o cabo de força da tomada. Em notebooks, se a bateria for removível, retire. Se não for, tudo bem, apenas mantenha o aparelho desligado e sem carregador. Espere alguns minutos para que os componentes esfriem. Não abra uma máquina quente, o risco de choque térmico em peças delicadas é real.
+
+Trabalhe em uma mesa limpa, bem iluminada e longe de tapetes ou cortinas. Evite o chão, porque a poeira levantada volta para dentro do equipamento. Separe potes pequenos para parafusos, de preferência com divisórias ou etiquetas, porque parafuso de notebook é fácil de perder e cada um costuma ter um lugar certo.
+
+Uma pulseira antiestática é uma boa companheira, mas se você não tiver, toque em uma superfície metálica aterrada antes de mexer nas peças. Evite trabalhar com roupa de lã ou em ambiente muito seco, onde a eletricidade estática se acumula. Esses cuidados parecem exagero até o dia em que um componente para de funcionar sem explicação.
+
+## Passo a passo para limpar um desktop
+
+Comece abrindo o painel lateral do gabinete. Na maioria dos modelos, são dois parafusos na traseira. Guarde-os com cuidado. Se o gabinete tiver filtro de poeira na frente, na base ou no topo, remova e lave com água corrente. Deixe secar completamente antes de recolocar. Filtro úmido dentro do gabinete é convite para mofo.
+
+Com o painel aberto, observe a disposição dos componentes. O cooler do processador fica no centro da placa-mãe, a fonte de alimentação geralmente ocupa a parte de baixo ou de cima, e a placa de vídeo aparece encaixada num slot horizontal. Não é preciso desmontar nada nesta primeira etapa. O objetivo é remover o excesso de poeira com jatos curtos de ar comprimido, sempre de dentro para fora do gabinete.
+
+Segure as ventoinhas com um dedo limpo ou um palito enquanto aplica o ar. Isso evita que elas girem em alta velocidade e gerem corrente elétrica pelo motor, o que pode danificar a placa. Aproveite para limpar as aletas do dissipador com o pincel. Vá com calma, sem forçar, porque essas lâminas são finas e entortam fácil.
+
+Depois de soltar a poeira, use o aspirador com bocal estreito para recolher o que ficou depositado no fundo do gabinete. Não encoste o bocal nos componentes. Se não tiver aspirador, um pano de microfibra levemente umedecido com álcool isopropílico ajuda nas superfícies metálicas. Evite pano úmido perto de contatos e chips.
+
+Se a sujeira estiver muito compactada no cooler do processador, pode valer a pena remover a ventoinha e limpar as aletas com mais detalhe. Nesse caso, anote de onde saiu cada parafuso. Ao recolocar, aperte sem exagerar, porque rosca de plástico espanada é dor de cabeça. Se você não se sentir seguro para desmontar, faça apenas a limpeza superficial com ar e pincel. Já resolve boa parte do problema.
+
+Para fechar, confira se não sobrou nenhum parafuso solto dentro do gabinete. Passe a mão leve na parte de baixo para sentir se há objetos. Recoloque o painel, os filtros secos e ligue o computador. Observe as temperaturas nos primeiros minutos. Se as ventoinhas girarem mais devagar e o ruído diminuir, o trabalho deu certo.
+
+## Passo a passo para limpar um notebook
+
+Notebook exige mais paciência e menos força. Desligue, remova o carregador e, se a bateria for removível, tire. Vire o aparelho e remova os parafusos da tampa inferior. Guarde cada um em um pote separado, porque muitos modelos usam parafusos de tamanhos diferentes. Alguns têm parafusos escondidos sob os pés de borracha, então verifique antes de forçar a tampa.
+
+Com a tampa solta, use uma palheta de plástico ou um cartão velho para desencaixar as travas, sem forçar. Abra devagar e observe se há cabos conectados à tampa, como os da ventoinha ou do conector de energia. Se houver, desconecte com cuidado, puxando pelo conector e nunca pelo fio.
+
+Localize a ventoinha e o dissipador. A poeira costuma formar uma camada grossa entre as aletas e a saída de ar. Use o pincel de cerdas macias para soltar e o ar comprimido em jatos curtos para remover. Segure a hélice da ventoinha com um palito para que não gire. Se a ventoinha estiver presa por parafusos, você pode removê-la para limpar melhor, mas só faça isso se tiver certeza do que está fazendo.
+
+A pasta térmica é outro ponto. Se o notebook já tem alguns anos e nunca foi aberto, pode valer a pena trocar. Mas isso é uma etapa mais avançada, que exige remover o dissipador, limpar a pasta antiga com álcool isopropílico e aplicar uma camada nova. Se você nunca fez isso, assista a um vídeo do modelo específico antes. Fazer errado pode piorar a refrigeração.
+
+Aproveite para limpar o teclado com um pincel e ar comprimido, e as saídas de ar laterais com um cotonete levemente umedecido. Não use álcool em excesso, porque ele pode escorrer para dentro e atingir a placa. O ideal é umedecer o cotonete e torcer para tirar o excesso antes de passar.
+
+Ao fechar, encaixe a tampa com cuidado, aperte os parafusos sem forçar e ligue o aparelho. Teste o teclado, o touchpad e as portas USB. Se algo não funcionar, desligue e verifique se algum cabo ficou solto. Na maioria das vezes, o problema é um conector mal encaixado.
+
+## Erros que podem custar caro
+
+O primeiro e mais comum é usar o aspirador de pó encostado nos componentes. A sucção pode arrancar peças pequenas e a eletricidade estática do bocal pode danificar chips. Use o aspirador apenas para recolher poeira solta no fundo do gabinete, com bocal estreito e sem encostar.
+
+O segundo é aplicar ar comprimido de perto e por muito tempo. Isso empurra a poeira para dentro de fendas e pode condensar umidade. Mantenha uma distância de alguns centímetros e dê jatos curtos, com pausas.
+
+O terceiro é girar as ventoinhas com o ar. Além de gerar corrente, isso pode desgastar o rolamento e fazer a ventoinha começar a roncar depois. Segure sempre as hélices.
+
+O quarto é limpar com pano úmido dentro do gabinete. Água e eletrônica não combinam. Se precisar de umidade, use álcool isopropílico em pano de microfibra, e mesmo assim só nas superfícies metálicas, longe de contatos.
+
+O quinto é esquecer de descarregar a estática do corpo. Toque em uma parte metálica aterrada antes de mexer nas peças. Em dias secos, evite roupa de lã e trabalhe descalço em piso frio, se possível.
+
+O sexto é perder parafusos. Isso parece bobagem, mas é uma das principais causas de dor de cabeça. Um parafuso a mais dentro do gabinete pode causar curto. Use potes etiquetados e uma bandeja magnética, se tiver.
+
+## Checklist rápido antes de fechar o computador
+
+- Cabo de força removido e aparelho desligado há pelo menos cinco minutos.
+
+- Parafusos separados por tamanho e local, sem sobras dentro do gabinete.
+
+- Ventoinhas seguras durante a aplicação do ar comprimido.
+
+- Filtros de poeira lavados e completamente secos.
+
+- Nenhum cabo desconectado ou mal encaixado.
+
+- Pasta térmica verificada, se você optou por trocar.
+
+- Superfícies metálicas limpas com álcool isopropílico, sem excesso.
+
+- Tampa encaixada sem forçar e parafusos apertados na medida.
+
+## Cuidados com o ambiente e a rotina
+
+Manter a casa limpa ajuda mais do que parece. Aspirar o chão com frequência, trocar o filtro do ar-condicionado e evitar tapetes grossos perto do computador reduzem bastante a poeira que entra no equipamento. Se você tem animais, escove-os regularmente e mantenha o gabinete o mais alto possível, longe do chão.
+
+Para notebooks, use uma base elevada ou um suporte que deixe a entrada de ar livre. Evite apoiar na cama, no sofá ou no colo por longos períodos. Essas superfícies abafam a ventilação e fazem o aparelho sugar poeira e pelos com mais força. Uma mesa firme e uma base com inclinação já melhoram o fluxo de ar.
+
+Considere comprar um filtro de poeira para o gabinete, se o seu modelo não tiver. Existem opções magnéticas que se encaixam na frente e na base, fáceis de remover e lavar. Elas não eliminam a necessidade de limpeza interna, mas reduzem a frequência.
+
+Se o computador fica ligado 24 horas por dia, como em casos de servidor caseiro ou máquina de trabalho, a limpeza precisa ser mais frequente. Nesse cenário, vale programar uma data fixa a cada três ou quatro meses para abrir e verificar. Anote no calendário, porque a rotina corrida faz a gente esquecer.
+
+Por fim, se você não se sentir seguro para abrir o equipamento, procure um técnico de confiança. Muitas assistências cobram um valor acessível para fazer a limpeza completa, incluindo troca de pasta térmica. Em notebooks com placa de vídeo dedicada, que esquentam mais, esse serviço pode ser um bom investimento a cada dois anos.
+
+A limpeza interna é uma daquelas tarefas que parecem chatas, mas trazem retorno imediato. Um computador limpo trabalha mais frio, faz menos barulho e tende a durar mais. Você não precisa ser expert em hardware para cuidar disso. Basta seguir o passo a passo, respeitar os limites de cada peça e ter paciência.
+
+Com o tempo, você pega o jeito e a limpeza vira rotina. Separe um sábado de manhã, coloque uma música, organize as ferramentas e faça com calma. Seu computador agradece com desempenho mais estável e menos sustos no meio do trabalho ou da diversão. E se surgir qualquer dúvida sobre um modelo específico, procure o manual ou um vídeo do aparelho antes de mexer. Informação certa evita arrependimento.

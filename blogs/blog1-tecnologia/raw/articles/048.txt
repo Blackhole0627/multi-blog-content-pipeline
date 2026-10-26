@@ -1,0 +1,149 @@
+Você sai de casa com o celular no bolso e a cabeça cheia de coisas. Trânsito, trabalho, aquela mensagem que precisa responder, o Pix que tem que cair. O aparelho virou extensão da sua vida. Ele guarda conversas, fotos da família, contas bancárias, senhas, documentos. Perder tudo isso de uma vez, seja por roubo ou por descuido, é um transtorno que pode levar meses para ser resolvido.
+
+O problema é que a maioria das pessoas só pensa em proteção depois que o pior acontece. Aí já é tarde para bloquear o aplicativo do banco, para apagar os dados remotamente, para impedir que alguém acesse suas conversas. A prevenção precisa vir antes. E ela não é complicada. São ajustes que levam minutos e que fazem uma diferença enorme na hora do aperto.
+
+Este guia reúne o que funciona de verdade no dia a dia brasileiro, considerando as operadoras que usamos, os apps que estão no nosso celular e as situações reais de rua. A ideia é que você termine a leitura com o aparelho configurado, ou pelo menos com uma lista clara do que fazer ainda hoje.
+
+## Por que o celular virou o alvo preferido dos ladrões
+
+O celular é o objeto mais visado em assaltos nas cidades brasileiras. Não é só pelo valor do aparelho em si. O que o ladrão quer, muitas vezes, é o acesso ao que está dentro dele. Aplicativos de banco abertos, senhas salvas, contas de redes sociais, tudo isso vale mais do que o próprio telefone no mercado ilegal.
+
+Um celular desbloqueado nas mãos de um criminoso pode render transferências via Pix, empréstimos em nome da vítima, compras com cartão cadastrado e até golpes contra os contatos da agenda. Em poucos minutos, o prejuízo pode passar de milhares de reais. E o pior, a dor de cabeça com bancos, boletos e recuperação de contas pode durar semanas.
+
+Existe também o mercado de peças. Mesmo que o aparelho seja bloqueado, muitas vezes ele é desmontado e vendido por partes. Tela, bateria, câmera, tudo isso tem comprador. Por isso, só bloquear não basta. É preciso dificultar o acesso, apagar os dados e garantir que o aparelho não sirva nem para revenda.
+
+A boa notícia é que os sistemas operacionais evoluíram bastante nesse ponto. Tanto Android quanto iPhone têm camadas de segurança que, se bem configuradas, tornam a vida do ladrão muito difícil. O segredo está em ativar essas proteções antes, não depois.
+
+## Bloqueio de tela forte é o primeiro passo
+
+A senha do celular é a porta de entrada. Se ela for fraca, todo o resto cai. Muita gente ainda usa padrão de desenhar ou um PIN de quatro dígitos óbvio, tipo data de nascimento. Isso é fácil de descobrir olhando por cima do ombro ou até testando combinações comuns.
+
+O ideal é usar uma senha alfanumérica, com letras e números, de pelo menos seis caracteres. Parece chato digitar toda vez, mas a proteção compensa. Se preferir PIN, use no mínimo seis dígitos e fuja de sequências como 123456 ou 000000.
+
+No Android, vá em Configurações, Segurança, Bloqueio de tela. No iPhone, em Ajustes, Face ID e Código, ou Toque ID e Código. Escolha a opção de senha personalizada alfanumérica. Ative também o bloqueio automático para um tempo curto, tipo 30 segundos ou um minuto. Isso reduz a janela de oportunidade se o celular for tomado da sua mão enquanto está desbloqueado.
+
+Outra configuração importante é esconder notificações na tela bloqueada. Muitos apps mostram o conteúdo das mensagens sem precisar desbloquear. Isso pode expor códigos de verificação, conversas e até dados bancários. Desative a visualização de conteúdo sensível na tela de bloqueio.
+
+Se o seu aparelho tiver leitor biométrico, use. Digital ou reconhecimento facial são mais rápidos e seguros do que digitar senha na frente dos outros. Mas atenção, em situações de risco, como abordagem na rua, o ladrão pode pegar o celular já desbloqueado e forçar o rosto ou o dedo da vítima. Por isso, a senha forte continua sendo a última linha de defesa.
+
+## Ative o rastreamento e o apagamento remoto hoje
+
+Todo celular moderno tem um sistema de localização e apagamento remoto. No Android, é o Encontre Meu Dispositivo, do Google. No iPhone, é o Buscar, da Apple. Esses recursos precisam estar ativados antes do roubo. Depois, não tem como ligar.
+
+No Android, acesse Configurações, Google, Encontre Meu Dispositivo. Ative a opção. Verifique também se a localização está ligada e se o aparelho está vinculado à sua conta Google. No iPhone, vá em Ajustes, seu nome, Buscar, Meu iPhone. Ative Localizar Meu iPhone e a Rede Buscar. Ative também a opção de enviar última localização quando a bateria estiver acabando.
+
+Esses sistemas permitem três coisas principais. Localizar o aparelho no mapa, tocar um som para achar perto de casa, e apagar todos os dados remotamente. O apagamento remoto é o mais importante. Se você perceber que o celular foi roubado e não vai voltar, apague tudo. Assim, ninguém acessa suas fotos, mensagens ou aplicativos.
+
+Vale testar antes. Entre no site do Encontre Meu Dispositivo ou no app Buscar de outro aparelho e veja se o seu celular aparece. Faça isso agora, enquanto está tudo bem. Na hora do desespero, você já vai saber o caminho.
+
+Um detalhe importante. Depois de apagar remotamente, o celular não pode ser rastreado de novo. Então, se a polícia estiver acompanhando o caso, avise antes de apagar. Em muitos casos, porém, o apagamento imediato é a melhor escolha para proteger os dados.
+
+## Proteja as contas e aplicativos sensíveis
+
+O celular é a chave de quase tudo. Se alguém pega o aparelho desbloqueado, pode acessar e-mail, redes sociais, banco, tudo. Por isso, cada app importante precisa de uma camada extra de proteção.
+
+Comece pelo e-mail. A conta de e-mail é a chave mestra. Com ela, o ladrão pode redefinir senhas de outros serviços. Ative a verificação em duas etapas no Gmail, Outlook ou qualquer provedor que use. Assim, mesmo com a senha, ninguém entra sem o segundo fator.
+
+Nos aplicativos de banco, ative o bloqueio por biometria ou senha própria. A maioria dos bancos oferece isso. O app só abre depois de digital ou senha. Se o celular for roubado desbloqueado, o ladrão não consegue acessar o banco direto.
+
+Use também o cofre de senhas do sistema. Tanto Android quanto iPhone têm gerenciadores nativos que guardam senhas criptografadas. Evite salvar senhas no bloco de notas ou em apps de mensagem. Isso é um convite para o crime.
+
+Redes sociais também precisam de atenção. WhatsApp, Instagram, Telegram. Ative a verificação em duas etapas em todos. No WhatsApp, por exemplo, vá em Configurações, Conta, Verificação em duas etapas. Sem isso, qualquer pessoa com o chip pode ativar a conta em outro aparelho.
+
+Sobre o chip, ligue para a operadora e peça o bloqueio do SIM card imediatamente após o roubo. Isso impede que o ladrão receba SMS de verificação em seu nome. Vivo, Claro, TIM e Oi têm centrais de atendimento e apps para isso. Guarde o número da operadora em um lugar que não seja o celular.
+
+## Cuidado com o que você guarda no aparelho
+
+Mesmo com todas as proteções, o melhor é não guardar certas coisas no celular. Documentos como RG, CPF, comprovante de residência e cartão de crédito não precisam estar no aparelho. Se precisar, use apps de cofre criptografado e nunca deixe na galeria.
+
+Fotos de documentos na galeria são um prato cheio. O ladrão pode usar para abrir contas, pedir empréstimos ou aplicar golpes. Se tiver que fotografar algo, apague depois de usar. O mesmo vale para senhas anotadas em bloco de notas.
+
+Evite também deixar o aplicativo do banco com saldo visível na tela inicial. Muitos apps mostram o saldo sem precisar de senha. Isso dá ao ladrão uma noção do que ele pode tentar transferir. Configure para esconder o saldo ou use a opção de modo privado.
+
+Outra dica é não manter cartões de crédito salvos em apps de compra, tipo iFood, Mercado Livre, Amazon. Se o celular for roubado desbloqueado, o ladrão pode fazer compras em seu nome. Remova os cartões e digite na hora da compra. É mais trabalhoso, mas muito mais seguro.
+
+Se você usa Pix, configure limites baixos para transferências noturnas. A maioria dos bancos permite ajustar isso no app. Assim, mesmo que alguém acesse sua conta, o valor que pode sair é limitado. Ative também notificações de todas as transações.
+
+## O que fazer na hora do roubo
+
+O momento do roubo é caótico. A adrenalina sobe, a cabeça trava. Por isso, ter um plano pronto ajuda. O primeiro passo é não reagir. Entregue o celular. Sua vida vale mais do que qualquer aparelho. Depois, respire e comece a sequência de bloqueios.
+
+Assim que possível, use outro celular ou computador para acessar o Encontre Meu Dispositivo ou o Buscar. Tente localizar o aparelho. Se estiver em movimento, acione a polícia. Se estiver parado em algum lugar, avise as autoridades e não vá até lá sozinho.
+
+Em paralelo, ligue para a operadora e bloqueie o chip. Depois, entre em contato com os bancos e bloqueie os aplicativos. A maioria tem atendimento 24 horas. Peça o bloqueio imediato de contas e cartões. Anote os protocolos de atendimento.
+
+Troque as senhas de e-mail, redes sociais e apps importantes. Comece pelo e-mail principal. Se possível, faça isso de um computador confiável. Ative a verificação em duas etapas novamente, caso tenha sido desativada.
+
+Registre um boletim de ocorrência. Pode ser feito online na maioria dos estados. Isso ajuda com questões de seguro, recuperação de dados e comprovação para bancos. Guarde o número do BO.
+
+Se tiver seguro do celular, acione. Muitas operadoras e seguradoras oferecem planos que cobrem roubo e furto. Verifique as condições antes, porque algumas exigem boletim de ocorrência e têm franquia.
+
+## Checklist prático para configurar seu celular agora
+
+Aqui está uma lista para você seguir hoje mesmo. Leva menos de meia hora e pode salvar seus dados.
+
+- Defina uma senha de tela forte, alfanumérica, com pelo menos seis caracteres.
+
+- Ative o desbloqueio por biometria, se o aparelho tiver.
+
+- Esconda notificações sensíveis na tela bloqueada.
+
+- Ative o Encontre Meu Dispositivo ou o Buscar.
+
+- Teste o rastreamento e o apagamento remoto de outro aparelho.
+
+- Ative verificação em duas etapas no e-mail principal.
+
+- Ative verificação em duas etapas no WhatsApp e redes sociais.
+
+- Coloque senha ou biometria nos apps de banco.
+
+- Remova cartões salvos de apps de compra.
+
+- Ajuste limites de Pix e transferências no app do banco.
+
+- Guarde o número da operadora e do banco fora do celular.
+
+- Faça backup regular das fotos e contatos na nuvem.
+
+- Anote o IMEI do aparelho em um lugar seguro.
+
+O IMEI é um número único de 15 dígitos que identifica o celular. Ele está na caixa, na nota fiscal ou digitando *#06# no discador. Com ele, a operadora pode bloquear o aparelho na rede, impedindo que funcione com qualquer chip. Anote e guarde.
+
+## Backup e recuperação de dados
+
+De nada adianta proteger se você perde tudo e não tem backup. A maioria das pessoas só descobre o valor das fotos e conversas quando perde. Faça backup automático na nuvem. Google Fotos, iCloud, Google Drive, OneDrive. Todos têm opções gratuitas com espaço limitado e planos pagos na faixa dos vinte a cinquenta reais por mês.
+
+Configure o backup para rodar durante a noite, quando o celular está carregando e conectado ao Wi-Fi. Assim, você não precisa lembrar. Verifique de vez em quando se o backup está atualizado. Já vi casos de pessoas que achavam que estava tudo salvo e descobriram que o backup falhava há meses.
+
+Para contatos e agenda, use a conta Google ou iCloud. Assim, se trocar de celular, tudo volta. Para conversas de WhatsApp, ative o backup no Google Drive ou iCloud. Mas atenção, o backup do WhatsApp não inclui mídias grandes por padrão. Verifique as configurações.
+
+Se o celular for roubado e você tiver backup, a recuperação é tranquila. Basta configurar o novo aparelho com a mesma conta e restaurar. Sem backup, você começa do zero. E aí, muita coisa se perde para sempre.
+
+## Seguro e garantia valem a pena?
+
+Muitas operadoras e bancos oferecem seguro para celular. O valor mensal varia, mas costuma ficar entre quinze e cinquenta reais, dependendo do aparelho. Cobre roubo, furto qualificado, danos por queda e até quebra de tela. Vale a pena para quem tem aparelhos caros ou não consegue comprar outro à vista.
+
+Mas leia as condições. Alguns seguros não cobrem furto simples, só roubo com violência. Outros exigem boletim de ocorrência e têm franquia alta. Alguns não cobrem aparelhos comprados fora do Brasil ou sem nota fiscal. Verifique também o prazo de carência, que pode ser de até 90 dias.
+
+Se optar por seguro, guarde a apólice e os comprovantes de pagamento em local seguro, fora do celular. Na hora do sinistro, você vai precisar. E não deixe para acionar depois de muito tempo. A maioria tem prazo para comunicar o ocorrido.
+
+Para quem não quer seguro, uma alternativa é manter um celular reserva, mais simples, para emergências. Assim, se o principal for roubado, você não fica incomunicável. E pode usar o reserva para acessar as contas e resolver a situação.
+
+## Educação digital para o dia a dia
+
+Proteger o celular não é só configurar. É também mudar hábitos. Evite usar o aparelho na rua, principalmente em locais movimentados ou pouco iluminados. Se precisar, entre em um estabelecimento comercial. Não fique parado na calçada olhando a tela.
+
+Fique atento a abordagens. Ladrões agem rápido. Muitas vezes, um passa de bicicleta e arranca o celular da mão. Outros cercam a vítima. Se sentir que está sendo seguido, entre em uma loja, farmácia ou qualquer lugar com movimento. Não vá para casa se achar que está sendo observado.
+
+Cuidado com aplicativos que pedem muitos dados. Leia as permissões antes de instalar. Um jogo não precisa acessar seus contatos ou mensagens. Um app de lanterna não precisa da sua localização. Revise as permissões periodicamente nas configurações do sistema.
+
+Evite clicar em links suspeitos recebidos por SMS, WhatsApp ou e-mail. Golpes de phishing tentam roubar suas senhas e dados bancários. Se receber uma mensagem estranha, não clique. Entre no app ou site oficial digitando o endereço manualmente.
+
+Por fim, converse com a família. Pais, avós, filhos. Muita gente não sabe configurar essas proteções. Ajude quem você gosta a fazer o mesmo. Um celular protegido é um problema a menos para todo mundo.
+
+## Fechamento
+
+Proteger o celular contra roubo e perda de dados é um conjunto de atitudes que começa muito antes do crime acontecer. Senha forte, rastreamento ativo, verificação em duas etapas, backup em dia e cuidado com o que se guarda. Nada disso é complicado, mas exige que você reserve um tempo para configurar. Hoje, enquanto tudo está bem, é o melhor momento.
+
+Se você fizer apenas uma coisa depois de ler isto, que seja ativar o apagamento remoto e a verificação em duas etapas no e-mail. Esses dois passos sozinhos já evitam a maior parte dos prejuízos. O resto vem com o hábito. E se o pior acontecer, você vai estar preparado para agir rápido, bloquear tudo e recuperar sua vida digital sem grandes traumas.

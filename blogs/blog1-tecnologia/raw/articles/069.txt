@@ -1,0 +1,113 @@
+Aquele print de conversa que vazou no grupo da família. A foto do churrasco que apareceu num anúncio de cerveja. O comentário político que voltou três anos depois numa entrevista de emprego. Nada disso é ficção, e nada disso aconteceu porque alguém "fez algo errado". Aconteceu porque as configurações padrão das redes sociais foram desenhadas para expor, não para proteger.
+
+Quando você cria uma conta no Instagram, no Facebook, no TikTok ou no X, entra num pacote fechado de decisões que alguém tomou por você. Quem pode te marcar. Quem pode te encontrar pelo número de telefone. Se seu perfil aparece no Google. Se seus stories podem ser baixados. Se seu histórico de curtidas fica visível. A lista é longa, e o pior detalhe é que quase ninguém abre essas telas porque elas ficam escondidas em menus com nomes pouco óbvios, tipo "Preferências" ou "Controles de privacidade".
+
+A boa notícia é que dá para mudar quase tudo. A ruim é que ninguém vai te avisar quando uma atualização do app mudar uma configuração de volta. Privacidade em rede social não é um botão que você aperta uma vez e esquece. É manutenção, como trocar o óleo do carro ou revisar a fechadura de casa. Vamos por partes.
+
+## O que as redes realmente coletam de você
+
+Antes de mexer em qualquer configuração, vale entender o que está em jogo. Rede social não é um serviço gratuito por bondade. O produto é você, e o que se vende é atenção e dados. Cada curtida, cada segundo parado num vídeo, cada vez que você fecha o app e abre de novo em dois minutos, tudo isso vira sinal para o algoritmo.
+
+Além do que você faz dentro do app, existe a coleta que acontece fora dele. Muitos aplicativos usam identificadores que rastreiam você em outros sites e apps. É por isso que você pesquisa uma passagem aérea no navegador e, horas depois, aparece um anúncio de companhia aérea no feed. Isso não é coincidência nem escuta do microfone, como muita gente acredita. É rastreamento cruzado, feito com pixels instalados em sites e com identificadores de publicidade do seu celular.
+
+Tem também os metadados. Foto tirada com localização ativada carrega a coordenada exata de onde foi feita. Vídeo enviado no direct pode guardar informação de aparelho e horário. Áudio de mensagem de voz tem padrão que pode ser analisado. Nada disso é teoria de conspiração, é engenharia básica de arquivo.
+
+O ponto prático é o seguinte. Você não controla tudo que a plataforma coleta, mas controla boa parte do que ela exibe publicamente e do que ela compartilha com terceiros. É nessa parte que as configurações importam de verdade.
+
+## Quem consegue te encontrar
+
+O primeiro bloco de ajustes que faz diferença real é o de descoberta. Por padrão, muitas redes permitem que qualquer pessoa te ache pelo número de telefone ou pelo e-mail. Isso parece inofensivo até você lembrar que seu número está no grupo do condomínio, na lista da escola do seu filho, no cadastro da academia.
+
+Se alguém com má intenção tem seu número, consegue localizar seu perfil, ver suas fotos, descobrir onde você trabalha e montar um retrato bem completo da sua rotina. No Instagram, vá em Configurações, depois em "Quem pode te encontrar e te contactar" e desative as opções de localizar por telefone e e-mail. No Facebook, o caminho é Configurações e privacidade, depois Configurações, e a seção "Como as pessoas podem encontrar e entrar em contato com você".
+
+No WhatsApp, que muita gente não trata como rede social mas funciona como uma, o ajuste mais importante é o de foto de perfil, recado e "visto por último". Deixar tudo visível para todos os contatos é um convite para quem quer mapear seus horários. Se você some do app às 23h e volta às 6h, isso já diz muito sobre sua rotina para qualquer pessoa que tenha seu número salvo.
+
+Vale também revisar se o perfil aparece em buscadores. Muita gente não sabe, mas dá para impedir que seu perfil do Instagram seja indexado no Google. Isso reduz bastante a chance de alguém que só sabe seu nome completo encontrar tudo sobre você em dois cliques.
+
+## Amigos, seguidores e o problema das listas antigas
+
+Quase todo perfil tem uma lista de amigos ou seguidores acumulada ao longo de anos. Gente da escola que você não vê desde 2012. Colega de trabalho antigo. Aquele conhecido de festa que você adicionou bêbado. Essa lista é um passivo de privacidade, porque cada pessoa nela tem acesso ao que você publica para "amigos".
+
+O ajuste mais eficiente aqui é usar listas. Tanto Facebook quanto Instagram permitem criar grupos separados. Você pode ter uma lista de família próxima, uma de amigos de verdade, uma de trabalho. Aí, quando for postar algo mais pessoal, escolhe só a lista certa. O trabalho de montar isso leva meia hora e resolve anos de exposição desnecessária.
+
+Outro ponto crítico é a opção de marcar pessoas. Por padrão, muita gente permite que qualquer um te marque em posts e fotos, e essas marcações aparecem no seu perfil sem você aprovar. Desative a marcação automática e ative a revisão manual. Assim, nada entra no seu perfil sem passar por você.
+
+Vale olhar também quem pode comentar. Se você tem perfil público, qualquer pessoa pode deixar recado. Dá para limitar a comentários de quem você segue, ou criar listas de palavras bloqueadas. Isso corta boa parte de assédio e spam sem precisar fechar o perfil.
+
+## Stories, status e a ilusão de que somem
+
+Muita gente publica story achando que ele desaparece em 24 horas e que isso resolve qualquer problema. Não resolve. Prints existem, downloads existem, e várias plataformas guardam o conteúdo por bem mais tempo do que o usuário imagina para treinar sistemas internos.
+
+No Instagram, existe a opção de desativar o download dos seus stories por outras pessoas. Isso não impede print de tela, mas impede o download direto, que é o caminho mais comum. Existe também a opção de compartilhar stories apenas com a lista de amigos próximos, em vez de todos os seguidores.
+
+No WhatsApp, o status tem controle de privacidade que muita gente ignora. Dá para escolher entre "todos os contatos", "meus contatos, exceto" e "somente compartilhar com". Se você usa status para coisas pessoais, vale restringir para um grupo pequeno.
+
+Um detalhe que pouca gente percebe. Reagir a story de alguém, ou responder, cria uma interação que pode revelar seu padrão de uso. Não é motivo para paranoia, mas é bom lembrar que cada ação deixa rastro visível para quem está do outro lado.
+
+## O que os apps fazem com seus contatos e sua agenda
+
+Esse é um dos pontos mais subestimados. Quando você instala o TikTok, o Instagram ou o Telegram, muitos pedem acesso à sua lista de contatos. A justificativa é "encontrar amigos". O que acontece de fato é que essa lista inteira, com nomes, telefones e e-mails, sobe para os servidores da empresa.
+
+Isso significa que você está entregando dados de pessoas que nunca autorizaram nada. Seu primo, sua dentista, o motorista do aplicativo. Todos entram na base sem saber. Em vários países isso já rendeu processo e multa, mas a prática continua sendo padrão em muitos apps.
+
+A recomendação prática é negar acesso à agenda sempre que possível. No iPhone, dá para ir em Ajustes, rolar até o app e desligar o acesso a Contatos. No Android, é em Configurações, depois Apps, o app específico, e Permissões. Se o app não funcionar sem isso, pense se vale a pena manter ele instalado.
+
+O mesmo vale para localização. Poucos apps precisam da sua localização o tempo todo. A maioria funciona bem com "somente durante o uso" ou "nunca". Deixar em "sempre" é abrir mão de privacidade em troca de quase nada.
+
+## Anúncios, rastreamento e a tal personalização
+
+Sabe quando você pesquisa um produto e ele te persegue por dias em todo canto? Isso vem do rastreamento entre apps e sites. Dá para reduzir bastante.
+
+No iPhone, existe a opção "Permitir que apps solicitem rastreamento", que você pode desligar de uma vez. Isso força cada app a pedir permissão individual, e você pode negar. No Android, vá em Configurações, depois Privacidade, depois Anúncios, e desative o ID de publicidade. Também dá para excluir o ID, o que zera o histórico de personalização.
+
+Dentro das próprias redes, vale mexer nas preferências de anúncio. Facebook e Instagram têm uma seção onde você vê os interesses que a plataforma atribuiu a você. Muita gente descobre coisas erradas ali, tipo "interessado em cirurgia plástica" ou "interessado em produtos para calvície". Você pode remover esses interesses um por um. Não zera a coleta, mas reduz o uso.
+
+Outra dica prática. Sempre que possível, use a versão web em vez do app. Navegador dá mais controle sobre cookies e rastreadores, e você pode usar extensões que bloqueiam pixels de rastreamento. O app sempre tem acesso mais amplo ao aparelho.
+
+## Passo a passo para revisar tudo em uma tarde
+
+Aqui vai um roteiro prático. Reserve uma tarde, pegue o celular e faça uma rede por vez. Não precisa fazer tudo de uma vez, mas fazer direito.
+
+- Instagram. Configurações, Privacidade. Desative localização por telefone e e-mail. Ative "perfil privado" se fizer sentido para você. Em "Stories", desative download por outras pessoas. Em "Marcações", ative revisão manual. Em "Comentários", limite a quem você segue. Em "Anúncios", remova interesses que não fazem sentido.
+
+- Facebook. Configurações e privacidade, Configurações. Revise "Quem pode ver o que você compartilha", "Como as pessoas podem encontrar e entrar em contato" e "Marcação e verificação". Em "Anúncios", desative a personalização baseada em dados de parceiros. Em "Apps e sites", remova tudo que você não usa mais.
+
+- WhatsApp. Configurações, Privacidade. Ajuste "Visto por último", "Foto do perfil", "Recado", "Status" e "Grupos". Em "Grupos", escolha "Meus contatos, exceto" para evitar ser adicionado por desconhecidos. Ative a verificação em duas etapas.
+
+- TikTok. Configurações e privacidade. Em "Privacidade", revise quem pode comentar, fazer dueto, mandar mensagem e ver vídeos curtidos. Desative a sincronização de contatos. Em "Segurança", ative verificação em duas etapas.
+
+- Celular em geral. Vá em Configurações e revise permissões de localização, contatos, microfone e câmera, app por app. Negue o que não faz sentido.
+
+Depois de fazer isso, anote em algum lugar o que você mudou. Assim, na próxima atualização do app, você consegue conferir se algo voltou ao padrão.
+
+## Senhas, verificação em duas etapas e o básico que salva
+
+Nenhuma configuração de privacidade adianta se sua conta for invadida. E a maior parte das invasões não é hacking sofisticado, é senha fraca reaproveitada e falta de verificação em duas etapas.
+
+Use senha longa, única para cada serviço, e um gerenciador de senhas. O gerenciador do próprio navegador ou do celular já resolve para a maioria das pessoas. Não precisa pagar nada. O importante é não repetir senha entre redes sociais, e-mail e banco.
+
+Ative verificação em duas etapas em todas as redes. Prefira o aplicativo autenticador em vez de SMS. SMS pode ser interceptado por clonagem de chip, prática comum no Brasil. Se a rede oferecer chave física ou passkey, melhor ainda.
+
+Revise também os dispositivos conectados. Instagram, Facebook, WhatsApp e Telegram mostram em quais aparelhos sua conta está logada. Se aparecer algo que você não reconhece, encerre a sessão e troque a senha na hora.
+
+Por fim, cuidado com links recebidos por mensagem. Golpe de "sua conta será desativada" e "confirme seus dados" é o mais comum. Nunca clique. Vá direto no app ou no site digitando o endereço.
+
+## O que fazer quando algo já vazou
+
+Se você descobrir que uma foto íntima, um print ou um dado seu circulou sem autorização, a primeira coisa é não entrar em pânico. A segunda é agir rápido.
+
+Registre tudo. Prints das conversas, links, horários, nomes de perfil. Isso serve tanto para denúncia dentro da plataforma quanto para eventual ação judicial. No Brasil, vazamento de conteúdo íntimo sem consentimento é crime, e existe delegacia especializada em ambiente virtual em várias cidades.
+
+Denuncie dentro da rede social. Todas têm canal específico para conteúdo íntimo não consensual. Peça remoção. Se a rede não remover, dá para acionar o Ministério Público ou a Defensoria Pública, que têm núcleos de proteção de dados.
+
+Se for dado financeiro, como número de cartão ou conta, avise o banco imediatamente e bloqueie o que for possível. Se for documento, registre boletim de ocorrência. Não espere o problema crescer.
+
+## Privacidade não é sumir, é escolher
+
+Tem uma ideia errada de que privacidade em rede social significa sair de tudo, apagar perfil e viver offline. Não é isso. Significa escolher o que você quer mostrar, para quem, e por quanto tempo. É ter controle, não ausência.
+
+Você pode continuar postando viagem, foto do cachorro, opinião sobre série. A diferença é que isso passa a ser decisão sua, não padrão de fábrica. E quando alguém tentar usar aquilo contra você, o estrago é bem menor.
+
+A verdade é que ninguém vai fazer essa manutenção por você. As plataformas não têm incentivo para isso. Configuração padrão exposta gera mais engajamento, mais dados e mais anúncio. Proteger você dá trabalho e reduz número. Então o trabalho sobra para quem usa.
+
+Reserve uma tarde. Faça o roteiro. Anote as mudanças. Repita a cada seis meses, ou sempre que o app mudar de visual. É chato, é repetitivo, mas é uma das coisas mais baratas que você pode fazer para se proteger. E, diferente de muita coisa na internet, depende só de você.

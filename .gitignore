@@ -1,0 +1,19 @@
+# dependencies and caches (reinstall with: cd pipeline/adapta_bot && npm install && npx playwright install chromium)
+node_modules/
+__pycache__/
+*.pyc
+
+# editor / tool state
+.claude/
+.vscode/
+.idea/
+
+# runtime logs and screenshots
+*.log
+pipeline/adapta_bot/*.png
+
+# never commit credentials
+.env
+.env.*
+*credentials*
+*.token

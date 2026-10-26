@@ -1,0 +1,93 @@
+## Regras novas chegando em série
+
+Quem trabalha com tecnologia no Brasil sabe que 2026 está sendo um ano atípico. Não pela quantidade de lançamentos ou pela velocidade das mudanças técnicas, mas pela enxurrada de normas que estão entrando em vigor quase ao mesmo tempo. Plataformas digitais, aplicativos de transporte, serviços de nuvem, ferramentas de inteligência artificial, tudo isso está sendo reposicionado por um conjunto de leis, decretos e portarias que saíram do papel.
+
+A sensação para quem opera uma empresa de tecnologia é de que o chão se moveu. Modelos de negócio que funcionavam havia anos agora exigem revisão. Departamentos jurídicos que cuidavam de contratos e proteção de dados passaram a ter que entender de moderação de conteúdo, de publicidade de apostas, de reconhecimento facial e até de creditamento tributário. É muita coisa junta, e muita coisa que chega com prazo curto para adequação.
+
+O ponto central é que o Brasil deixou de ser um país que apenas discute regulação de tecnologia e passou a efetivamente regular. A mudança não veio de uma única lei, mas de um conjunto de medidas que se sobrepõem e criam um ambiente novo. Entender esse emaranhado virou condição prática para continuar operando, e quem ignorar essa realidade vai sentir no caixa, na reputação ou nos dois.
+
+## O novo regime de responsabilidade das plataformas
+
+A mudança mais estrutural veio pela regulamentação do Marco Civil da Internet. O Decreto nº 12.975/2026 alterou o Decreto nº 8.771/2016 e transformou a forma como as plataformas respondem por conteúdo ilícito. O antigo regime, que exigia ordem judicial para responsabilizar provedores por conteúdo de terceiros, foi flexibilizado em várias frentes, e isso muda a lógica de operação de qualquer serviço que hospede conteúdo gerado por usuários.
+
+Agora existe o chamado dever de cuidado. Para um rol específico de crimes graves, terrorismo, indução ao suicídio, racismo, homofobia, violência contra a mulher, crimes sexuais contra vulneráveis e atos antidemocráticos, a plataforma pode ser responsabilizada por falha sistêmica, sem necessidade de notificação individual. Isso significa que a empresa precisa ter mecanismos ativos de prevenção, não apenas reagir quando alguém reclama. A pergunta que a fiscalização vai fazer não é se a plataforma removeu um post específico depois de ser avisada, mas se ela tem processos capazes de evitar que aquele tipo de conteúdo se espalhe em escala.
+
+A lógica é diferente daquela que estávamos acostumados. A presença de um conteúdo criminoso isolado não configura falha sistêmica. O problema está na ausência de medidas adequadas para inibir a circulação massiva desse tipo de material. O ônus de comprovar que as medidas são eficazes fica com a própria plataforma. Na prática, isso significa que ter uma política de comunidade publicada não basta. É preciso demonstrar com dados, logs e relatórios que aquela política funciona.
+
+Para anúncios pagos e impulsionamentos, a responsabilidade é ainda mais direta. Se um conteúdo ilícito é promovido mediante pagamento, a plataforma responde independentemente de notificação, e só se exonera se comprovar atuação diligente em tempo razoável. Pense no que isso significa para uma rede social que vende impulsionamento. Se um anunciante paga para promover um post com discurso de ódio, a plataforma não pode alegar que só soube depois. Ela lucrou com aquilo. O filtro de compliance na área de publicidade precisa ser muito mais rigoroso do que era até pouco tempo atrás.
+
+## A fiscalização ficou com a ANPD
+
+Um ponto que gerou bastante discussão é quem fiscaliza tudo isso. A resposta que se consolidou foi a Agência Nacional de Proteção de Dados. A ANPD deixou de ser apenas a autoridade de proteção de dados pessoais e passou a ter um papel mais amplo de governança digital. É uma mudança de identidade institucional que afeta diretamente a forma como empresas de tecnologia se relacionam com o órgão.
+
+A agência agora fiscaliza o cumprimento do dever de cuidado pelas plataformas, apura infrações relacionadas à circulação de conteúdo ilícito e também monitora o ECA Digital, o conjunto de regras voltado à proteção de crianças e adolescentes no ambiente online. É uma expansão significativa de escopo para uma autarquia que foi criada com foco específico em privacidade e que agora precisa dominar temas como moderação de conteúdo e segurança de menores.
+
+Para quem trabalha com compliance em empresas de tecnologia, isso significa que a interface com a ANPD mudou. Não é mais só uma questão de responder a incidentes de vazamento de dados. Envolve demonstrar que a plataforma tem processos estruturados de prevenção de danos em escala, canais de denúncia funcionais e documentação que comprove atuação proativa. A agência vai querer ver evidências, não declarações de intenção.
+
+A ANPD também ganhou poder de polícia mais robusto com a Lei nº 15.352/2026, que a transformou em autarquia de natureza especial e criou a carreira de Especialista em Regulação de Proteção de Dados. Isso dá à agência estrutura para fiscalizar um setor que exige competências técnicas específicas. Traduzindo, a ANPD está montando time para autuar, e não apenas para orientar. Empresas que tratavam a conformidade como algo secundário precisam rever essa postura.
+
+## IA espera votação enquanto regras chegam por outros caminhos
+
+O marco legal da inteligência artificial, o PL 2338/2023, segue em tramitação na Câmara dos Deputados. Foi aprovado no Senado no final de 2024 e desde então aguarda análise pelos deputados. O texto adota uma abordagem baseada em risco, com obrigações mais pesadas para sistemas de alto risco, como algoritmos de recrutamento, análise de crédito e diagnóstico médico. A ideia é que quanto maior o potencial de dano de um sistema de IA, mais exigências de transparência, auditoria e supervisão humana ele precisa cumprir.
+
+Enquanto o projeto não avança, algumas regras relacionadas à IA já estão chegando por vias indiretas. O reconhecimento facial, por exemplo, foi tema de um projeto aprovado pela Câmara em agosto de 2026. O PL 1828/23 autoriza o uso da tecnologia em estações de metrô, ônibus, vias públicas e prédios públicos, mas estabelece uma série de restrições que buscam equilibrar segurança e direitos fundamentais.
+
+A validação humana obrigatória é um dos pontos centrais. Nenhuma pessoa pode ser abordada, detida ou ter direitos restringidos apenas com base na identificação automática do sistema. Antes de qualquer medida, um humano precisa confirmar a identificação. Isso vale para abordagem policial, para bloqueio de catraca e para qualquer outra consequência prática. Também ficou proibida a vigilância em massa e o monitoramento de banheiros, vestiários e templos religiosos, ambientes onde a expectativa de privacidade é maior.
+
+O texto segue para o Senado. Se aprovado, cria um regime específico para uma tecnologia que já vinha sendo usada por estados e municípios sem regras nacionais unificadas. Hoje, cada governo estadual faz do seu jeito, com níveis diferentes de transparência e controle. A falta de padronização gerou uma série de questionamentos judiciais, e a aprovação do projeto pode trazer mais segurança jurídica para todos os lados.
+
+## Publicidade de apostas entrou na mira
+
+As bets foram outro alvo de regulação pesada. Duas portarias publicadas em julho de 2026 mudaram as regras de publicidade do setor. A Portaria SPA/MF nº 1.964/2026 e a Portaria Interministerial MF/SECOM/MJSP nº 73/2026 estabeleceram exigências que afetam tanto operadores quanto plataformas que veiculam anúncios. É um setor que movimenta muito dinheiro e que vinha operando com pouca regra específica sobre como se comunicar com o público.
+
+A partir de agora, toda peça publicitária de apostas precisa exibir alertas como "Ministério da Fazenda adverte: Apostar pode causar dependência" e "Aposta não é investimento", ocupando pelo menos 10% da área do anúncio. Anúncios dirigidos a crianças e adolescentes são considerados abusivos por definição. Isso inclui peças que usem linguagem infantojuvenil, personagens de desenhos ou qualquer elemento que possa atrair esse público.
+
+Para as plataformas, a obrigação vai além de simplesmente aceitar ou rejeitar anúncios. Antes de veicular, é preciso confirmar se o anunciante é operador autorizado pela Secretaria de Prêmios e Apostas. Também é necessário manter registros do CNPJ e do número de autorização do anunciante. Anúncios de operadores não autorizados, com links ou códigos promocionais que direcionem para esses sites, são proibidos. O desafio operacional é significativo, porque plataformas de redes sociais, lojas de aplicativos e provedores de conteúdo publicitário precisam implementar processos de verificação prévia que antes não existiam. E o descumprimento pode gerar responsabilização.
+
+## Reforma tributária mexe com o caixa das empresas de tecnologia
+
+Enquanto a regulação de conteúdo avança, a reforma tributária traz seus próprios desafios. O novo sistema de IBS e CBS está sendo implementado de forma escalonada, e o setor de tecnologia tem características que o colocam numa situação particularmente delicada. Não é só uma questão de calcular imposto diferente. É uma mudança na forma como o caixa da empresa funciona.
+
+A maioria das empresas de tecnologia concentra seus custos na aquisição de serviços de nuvem, licenciamento de ferramentas e infraestrutura. Pelo princípio da não cumulatividade, essas aquisições geram créditos de IBS e CBS. O problema é que, do outro lado, as receitas são quase todas liquidadas por meios eletrônicos, cartão, Pix, arranjos de pagamento. Isso atrai a aplicação do split payment, mecanismo que segrega e recolhe os tributos no momento da liquidação financeira.
+
+Se o imposto devido já é retido na saída, a empresa não consegue usar os créditos das entradas para abater débitos na apuração mensal. O saldo credor se acumula e a liquidez passa a depender do ressarcimento. Para empresas que operam com margem apertada, isso pode significar a diferença entre ter capital de giro e enfrentar um aperto no fluxo de caixa.
+
+A Resolução CGIBS 6/2026 introduziu uma regra que preocupa especialmente. O artigo 486 permite ao Comitê Gestor negar pedido de ressarcimento quando houver auto de infração pendente de julgamento administrativo. Isso cria um risco de capital de giro significativo, porque uma autuação ainda em discussão pode travar a devolução de créditos que a empresa tem direito. Basta uma divergência de interpretação para que o dinheiro fique preso por meses.
+
+Para empresas de tecnologia com margens apertadas e capital de giro sensível, esse é um ponto que exige atenção. A recomendação é revisar a parametrização dos sistemas fiscais e preparar documentação que comprove o direito aos créditos antes que os prazos de obrigatoriedade se estreitem. Também vale mapear o fluxo de liquidação das receitas para entender em que momento o split payment vai incidir e como isso afeta o caixa no dia a dia.
+
+## O que sua empresa precisa fazer agora
+
+Se você trabalha em uma empresa de tecnologia que opera no Brasil, independentemente do tamanho, algumas adequações são urgentes. O prazo para as plataformas digitais se adequarem ao novo regime de responsabilidade terminou em julho de 2026. Quem não se mexeu está operando em zona de risco. Aqui está um roteiro prático do que priorizar:
+
+- Mapeie quais normas se aplicam ao seu negócio. Nem toda empresa está sujeita ao dever de cuidado do Marco Civil, mas quem opera plataforma com conteúdo de terceiros provavelmente está. Quem veicula anúncios precisa olhar as regras de publicidade de bets e de conteúdo ilícito. Quem usa reconhecimento facial deve acompanhar o PL 1828/23. Fazer esse diagnóstico é o primeiro passo.
+
+- Revise os canais de denúncia. A norma exige canal permanente e de fácil acesso para notificações. Muitas plataformas têm formulários escondidos em páginas de ajuda. Isso não basta. O canal precisa ser funcional e a empresa precisa ter fluxo para processar as denúncias e responder aos notificantes em prazo razoável.
+
+- Documente seus processos. A fiscalização da ANPD vai olhar para evidências de atuação proativa. Ter políticas internas escritas, registros de treinamento, logs de decisões de moderação e relatórios periódicos faz diferença numa eventual apuração. Se não está documentado, na prática não aconteceu.
+
+- Adapte a área de publicidade. Se sua plataforma aceita anúncios, os processos de verificação precisam ser revisados. Para bets, é obrigatório confirmar autorização do anunciante antes de veicular. Para conteúdo ilícito impulsionado, a responsabilidade é presumida.
+
+- Olhe para o caixa. Empresas de tecnologia com saldo credor de IBS devem entender o novo fluxo de ressarcimento e se preparar para a possibilidade de retenção de créditos em caso de autuação pendente. Isso pode afetar o capital de giro de forma relevante.
+
+- Acompanhe a tramitação do PL 2338/2023. O marco de IA ainda não é lei, mas quando passar na Câmara vai criar obrigações específicas para sistemas de alto risco. Empresas que já usam IA para decisões que afetam pessoas devem começar a mapear esses sistemas e avaliar riscos.
+
+- Prepare a estrutura de compliance. A tendência é que a ANPD cobre não apenas conformidade pontual, mas uma arquitetura de governança que demonstre capacidade de identificar e mitigar riscos sistêmicos. Isso exige pessoal técnico, processos documentados e ferramentas de monitoramento.
+
+## O que ainda está em aberto
+
+Nem tudo está definido. Alguns pontos importantes das novas normas ainda aguardam regulamentação complementar. Os critérios específicos para avaliar a atuação sistêmica das plataformas, os prazos detalhados de adequação e as penalidades aplicáveis ainda precisam ser detalhados pela ANPD. Isso significa que o ambiente regulatório vai continuar mudando ao longo dos próximos meses, e quem parar de acompanhar agora pode ser pego de surpresa depois.
+
+O PL 2338/2023, que cria o marco de IA, segue parado na Câmara. A aprovação no Senado foi em dezembro de 2024 e desde então o texto aguarda votação. Há discussões sobre remuneração de produtores de conteúdo usados no treinamento de modelos, o que pode gerar novas obrigações para empresas que desenvolvem IA generativa no Brasil. O debate envolve direitos autorais, transparência algorítmica e responsabilidade por danos.
+
+A regulação do reconhecimento facial depende do Senado. Se aprovado sem mudanças, o projeto vai criar um regime nacional para uma tecnologia que vinha sendo usada sem parâmetros uniformes. Estados e municípios que já implantaram sistemas próprios vão precisar se adaptar.
+
+A reforma tributária continua sua implantação gradual. O cronograma de inclusão de IBS e CBS na NFS-e tem etapas em outubro de 2026, dezembro de 2026 e janeiro de 2027. Empresas de tecnologia estão no grupo que entra na segunda etapa, em dezembro. Quem não ajustar os sistemas até lá pode ter problemas de conformidade fiscal.
+
+## O que muda na prática para quem empreende
+
+O cenário é de transição. As regras estão chegando, sendo ajustadas e complementadas em ritmo acelerado. Para quem trabalha com tecnologia no Brasil, acompanhar esse movimento deixou de ser tarefa exclusiva do jurídico. Virou parte da operação. O fundador de uma startup precisa entender o básico sobre dever de cuidado, assim como o gestor de produto precisa saber o que pode ou não ser impulsionado.
+
+A boa notícia é que o Brasil não está inventando tudo do zero. Boa parte dessas regras dialoga com o que já existe na Europa, como o Digital Services Act e o AI Act. Empresas que já operam internacionalmente podem reaproveitar processos e estruturas de compliance. Quem só atua no mercado brasileiro precisa construir isso agora.
+
+O momento pede menos improviso e mais método. Mapear obrigações, documentar processos, treinar equipes e acompanhar a tramitação dos projetos em aberto. Não é glamouroso, mas é o que separa as empresas que vão navegar bem o novo ambiente regulatório daquelas que vão passar os próximos anos apagando incêndio.

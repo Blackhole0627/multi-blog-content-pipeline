@@ -1,0 +1,107 @@
+Escolher um gabinete parece uma decisão simples até você montar um PC que esquenta demais e começa a fazer barulho. A verdade é que a caixa onde tudo vai dentro não é só estética. Ela define quanto ar entra, quanto ar sai e o quão fácil é manter a temperatura sob controle. Quem já montou um computador com gabinete fechado demais sabe bem como é. As ventoinhas giram no máximo, o processador baixa a frequência sozinho e o desempenho cai justo na hora que você mais precisa.
+
+Muita gente gasta uma grana boa em placa de vídeo e processador e deixa o gabinete de lado, comprando qualquer modelo barato só porque cabe tudo. O problema aparece depois. Peças boas presas em um espaço sem fluxo de ar trabalham pior, duram menos e incomodam com ruído. Ventilação não é um detalhe de quem é entusiasta. É parte básica de qualquer montagem que queira durar e performar bem.
+
+Pensar em ventilação desde o começo evita dor de cabeça. Em vez de comprar o gabinete primeiro e depois tentar encaixar componentes, o caminho é entender o que cada peça precisa de ar e escolher a caixa que entrega isso. O resto do texto mostra como avaliar isso na prática, sem decoreba.
+
+## O que realmente importa na hora de escolher
+
+Ventilação começa pela geometria do gabinete, não pelas ventoinhas que vêm na caixa. Duas coisas definem quase tudo. A primeira é a quantidade de aberturas por onde o ar entra e sai. A segunda é o caminho que esse ar percorre por dentro. Um gabinete com frente de vidro maciço, sem grade nem fresta, pode até ter espaço para três ventoinhas, mas elas vão girar praticamente sem puxar ar. Aí você tem um forno bonito.
+
+O caminho do ar precisa ser curto e direto. O ideal é que ele entre por um lado, passe pelas peças que esquentam e saia por outro sem voltar. Na maioria das montagens, o ar entra pela frente e por baixo e sai por cima e por trás. Quando a frente é fechada, o ar acaba sendo puxado por frestas laterais, o que reduz muito o volume. Por isso frente com tela ou grade ventilada é quase sempre a melhor escolha para quem prioriza temperatura.
+
+Outro ponto é o tamanho interno. Gabinetes maiores têm mais espaço para o ar circular e mais pontos para instalar ventoinhas. Isso não quer dizer que gabinete grande sempre esfria melhor. Um mid tower bem projetado vence um full tower mal desenhado com facilidade. O que conta é o projeto, não só o volume.
+
+Também pesa a posição da fonte. Fonte com ventoinha virada para baixo, puxando ar de fora por um filtro, ajuda a não jogar ar quente dentro do gabinete. Fonte que puxa ar de dentro acaba competindo com as outras peças por ar frio. Esse detalhe muda pouco em PCs simples, mas faz diferença em configurações com placa de vídeo parruda.
+
+## Fluxo de ar positivo, negativo e o equilíbrio
+
+Existe uma conversa antiga sobre pressão positiva e negativa dentro do gabinete. Vale entender sem complicar. Pressão positiva é quando entra mais ar do que sai. Nesse caso, o ar escapa pelas frestas e isso ajuda a reduzir poeira, porque o ar sai por todo lugar em vez de entrar. Pressão negativa é o contrário, sai mais ar do que entra, e aí o gabinete puxa poeira por qualquer abertura.
+
+Na prática, ninguém precisa medir isso com precisão. O que funciona é ter mais ventoinhas puxando ar para dentro do que jogando para fora, ou pelo menos manter um equilíbrio. Um arranjo comum é duas ou três ventoinhas na frente puxando ar e uma ou duas atrás e em cima jogando para fora. Esse desenho cria um fluxo contínuo e ainda ajuda a manter a poeira sob controle.
+
+Pressão positiva tem um limite. Se entrar ar demais e sair de menos, o ar quente pode ficar preso em cantos, principalmente perto da placa de vídeo e dos drives. Por isso o ideal é que a saída também seja generosa. Não adianta entupir a frente de ventoinha e deixar só uma fresta atrás. O ar precisa de porta de saída.
+
+Em gabinetes com frente de vidro, a saída traseira e superior vira o único caminho real. Nesse caso, vale investir em ventoinhas de exaustão mais fortes. É comum ver montagens assim com três ventoinhas na frente e só uma atrás, o que gera pressão positiva demais e pouco alívio. Duas na frente e duas atrás costuma ser mais equilibrado.
+
+## Filtros de poeira, manutenção e o que eles mudam
+
+Filtro de poeira é ao mesmo tempo aliado e inimigo. Ele segura sujeira e protege as peças, mas também restringe o fluxo de ar. Filtros muito finos, quando entopem, transformam uma frente ventilada em uma parede. A diferença entre um filtro limpo e um sujo pode ser sentida na mão, com o gabinete ligado. O ar que sai enfraquece bastante.
+
+Por isso, escolha gabinetes com filtros fáceis de remover e limpar. Frente que sai com um clique, filtro inferior que desliza, tampa superior removível. Se limpar for chato, você não vai limpar, e a ventilação vai piorar aos poucos sem você perceber. Empoeiramento é um dos motivos mais comuns de temperatura alta em PCs com meses de uso.
+
+A frequência de limpeza depende do ambiente. Apartamento com ar-condicionado e piso frio junta bem menos poeira que casa com janela aberta, carpete e animal de estimação. Em ambientes mais sujos, uma limpeza a cada dois ou três meses resolve. Em ambientes limpos, a cada seis meses costuma bastar. O sinal de alerta é quando as ventoinhas começam a fazer mais barulho do que o normal.
+
+Vale lembrar que filtro não substitui organização interna. Cabos soltos atrapalham o fluxo de ar e criam pontos de turbulência. Passar os cabos por trás da placa-mãe, usando os furos de gerenciamento, deixa o caminho do ar mais livre. Não é frescura estética. É ventilação.
+
+## O papel das ventoinhas e das curvas de rotação
+
+As ventoinhas que vêm com o gabinete variam muito de qualidade. Muitas são barulhentas, com rolamento simples e vida útil curta. Outras são surpreendentemente boas. O ponto é não assumir que a ventoinha inclusa é suficiente. Se o gabinete vem com uma só na traseira, provavelmente você vai precisar comprar mais.
+
+Tamanho importa menos do que se pensa. Uma ventoinha de 140 mm move mais ar com menos rotação que uma de 120 mm, o que costuma significar menos ruído. Mas isso só vale se o gabinete tiver espaço para ela. Gabinetes que aceitam 140 mm na frente e em cima levam vantagem em silêncio.
+
+O controle de rotação é outro fator. Placas-mãe modernas têm conectores para ventoinhas com controle por PWM, que ajusta a velocidade conforme a temperatura. Ventoinhas ligadas direto na fonte giram no máximo o tempo todo. Se o gabinete tem espaço para conectar tudo na placa-mãe, aproveite. Você ganha silêncio em tarefas leves e desempenho quando precisa.
+
+Curvas de rotação bem ajustadas fazem mais diferença que trocar ventoinha. Uma curva que sobe rápido demais deixa o PC barulhento sem necessidade. Uma curva que demora a subir deixa a peça quente. O ideal é começar com rotação baixa até uns 50 graus e subir de forma gradual. A maioria das placas-mãe traz utilitários para isso, e dá para ajustar em poucos minutos.
+
+## Placa de vídeo, processador e o calor que cada um gera
+
+Nem toda peça esquenta igual, e o gabinete precisa acomodar o componente mais exigente. Placas de vídeo modernas jogam ar quente para os lados e para cima, dependendo do modelo. Algumas têm ventoinhas que jogam ar direto para a placa-mãe, outras sopram para fora pelo painel traseiro. Saber como a sua placa se comporta ajuda a posicionar as ventoinhas do gabinete.
+
+Processadores com coolers torre grandes precisam de espaço vertical. Um cooler alto demais pode bater na tampa lateral ou ficar tão perto que sufoca o fluxo. Verifique a altura máxima de cooler que o gabinete aceita antes de comprar. O mesmo vale para o comprimento máximo da placa de vídeo. Peça grande em gabinete apertado deixa pouco espaço para o ar circular.
+
+Configurações com processador de alto consumo e placa de vídeo potente pedem um gabinete mais generoso. Se você usa o PC para jogos pesados ou renderização, priorize modelos com frente ventilada, espaço para ventoinhas em cima e boa saída traseira. Para um PC de escritório, com processador simples e sem placa dedicada, quase qualquer gabinete com uma ventoinha traseira dá conta.
+
+Um erro comum é montar um sistema potente em um gabinete pequeno demais só porque cabe. Cabe não significa que ventila bem. Às vezes vale subir um tamanho e ganhar folga. O custo extra costuma ser menor que o de trocar peças que esquentaram demais.
+
+## Passo a passo para avaliar um gabinete antes de comprar
+
+Antes de fechar a compra, faça essa checagem. Ela leva poucos minutos e evita arrependimento.
+
+1. Veja se a frente é ventilada. Grade, tela ou frestas generosas. Vidro maciço só funciona se houver entradas laterais ou inferiores bem dimensionadas.
+
+2. Confira quantos pontos de ventoinha existem na frente, em cima e atrás. O mínimo saudável é dois na frente e um atrás. Dois atrás ou um em cima é melhor ainda.
+
+3. Meça o espaço para a placa de vídeo e para o cooler do processador. Compare com as especificações das suas peças.
+
+4. Verifique se o gabinete aceita ventoinhas de 140 mm. Menos rotação e menos ruído.
+
+5. Veja se os filtros de poeira são removíveis sem desmontar tudo.
+
+6. Cheque se há espaço para passar cabos por trás da placa-mãe.
+
+7. Confirme se a fonte fica na parte de baixo, com entrada de ar independente.
+
+8. Leia relatos de quem já montou no modelo. Problemas de fluxo de ar aparecem rápido nesses relatos.
+
+Depois de comprar, monte pensando no caminho do ar. Coloque as ventoinhas da frente puxando para dentro, a de trás jogando para fora e, se tiver, a de cima também jogando para fora. Ajuste as curvas na placa-mãe. Limpe os filtros com regularidade. Esses três hábitos resolvem a maior parte dos problemas de temperatura.
+
+Se mesmo assim a temperatura continuar alta, o problema pode não ser o gabinete. Cooler mal encaixado, pasta térmica seca ou ventoinha travada são causas comuns. Vale investigar antes de trocar a caixa.
+
+## Quando vale trocar de gabinete
+
+Trocar de gabinete só por estética raramente compensa. Mas há sinais claros de que a caixa atual está limitando o PC. Temperatura do processador ou da placa de vídeo subindo acima do normal em cargas pesadas é o principal. Ruído alto mesmo com curvas ajustadas é outro. Poeira acumulando rápido demais, mesmo com filtros, também indica que o projeto não ajuda.
+
+Outro sinal é falta de espaço para upgrades. Se você quer colocar uma placa de vídeo maior ou um cooler melhor e não cabe, o gabinete virou gargalo. Nesse caso, trocar faz sentido. O mesmo vale se o gabinete atual só aceita ventoinhas pequenas e barulhentas.
+
+Antes de trocar, tente resolver com o que você tem. Adicione uma ventoinha, reposicione as existentes, limpe tudo, ajuste as curvas. Muitas vezes o ganho é grande com pouco gasto. Se depois disso o problema persistir, aí sim vale procurar um modelo com projeto de ventilação melhor.
+
+Na hora de escolher o novo, volte ao passo a passo. Frente ventilada, espaço para ventoinhas grandes, filtros fáceis, bom gerenciamento de cabos. Esses critérios valem mais que qualquer recurso chamativo.
+
+## Erros que sabotam a ventilação sem você perceber
+
+Tem coisas que parecem inofensivas e atrapalham bastante. Empilhar o gabinete em um nicho fechado da mesa é uma delas. Se a frente e a traseira ficam coladas em paredes, o ar quente não tem para onde ir. O gabinete precisa de espaço livre na frente e atrás, uns bons centímetros, para respirar.
+
+Colocar o PC no chão, em cima de tapete, também é ruim. O tapete abafa a entrada de ar inferior e ainda junta poeira. Se não tiver outro lugar, use uma base rígida para levantar o gabinete. Mesas com prateleira para o PC ajudam, desde que não seja um compartimento fechado.
+
+Deixar a tampa lateral aberta achando que melhora a temperatura é outro mito. Em alguns casos até piora, porque quebra o fluxo direcionado e permite que a poeira entre sem filtro. O correto é manter fechado e garantir que o ar entre e saia pelos lugares certos.
+
+Ventoinhas instaladas ao contrário também acontecem. A seta na lateral da ventoinha indica a direção do ar. Se você colocar uma jogando para dentro onde deveria jogar para fora, o fluxo se anula. Na dúvida, ligue o PC com a mão na frente da ventoinha e sinta para onde o ar vai. É um teste simples e resolve a dúvida.
+
+Por fim, ignorar o ruído das ventoinhas baratas. Uma ventoinha de rolamento ruim pode ser a peça mais barulhenta do PC inteiro. Trocar por modelos melhores custa pouco e melhora muito a experiência. Silêncio e ventilação não são inimigos. Com as peças certas, você tem os dois.
+
+## Fechando a escolha com cabeça fria
+
+Gabinete bom não é o mais caro nem o mais bonito. É o que deixa o ar entrar, circular e sair sem esforço, com espaço para as peças que você tem e para as que ainda vai colocar. Frente ventilada, pontos de ventoinha suficientes, filtros removíveis e gerenciamento de cabos decente resolvem a maioria dos casos. O resto é ajuste fino.
+
+Se você guardar uma ideia deste texto, que seja esta. Ventilação se decide antes da compra, não depois. Olhar a ficha técnica com atenção, conferir medidas e pensar no caminho do ar evita gastar duas vezes. Um gabinete bem escolhido acompanha várias trocas de peça e continua dando conta. Um gabinete mal escolhido vira problema recorrente, por mais que o resto do PC seja bom.

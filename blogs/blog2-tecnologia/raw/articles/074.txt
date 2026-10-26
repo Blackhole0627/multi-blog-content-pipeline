@@ -1,0 +1,131 @@
+Você e um amigo tiveram uma ideia, começaram a trabalhar nela e, de repente, aquilo que era só conversa de fim de semana virou um negócio com clientes e decisões importantes. Aí bate a pergunta que quase ninguém quer enfrentar cedo. Como dividir a sociedade entre os fundadores? Parece burocracia, mas é uma das decisões que mais definem se a empresa vai crescer saudável ou se vai implodir em conflito societário.
+
+O problema é que a maioria dos fundadores faz essa divisão no impulso. Dois sócios, divide meio a meio. Três sócios, um terço para cada. Simples, justo na cabeça de quem está começando, e muitas vezes errado. A divisão de sociedade não é sobre amizade nem sobre quem teve a ideia primeiro. É sobre expectativa de trabalho, risco, dinheiro investido e papel dentro da operação ao longo dos anos.
+
+Existe uma diferença enorme entre dividir a empresa no primeiro dia e definir como essa divisão se ajusta conforme cada um entrega. Também existe diferença entre participação no capital e poder de decisão. Você pode ter 30% da empresa e ainda assim ter voto de qualidade em temas sensíveis. Ou ter 50% e descobrir que não manda em nada porque o contrato social diz outra coisa. Este texto vai destrinchar como essa engrenagem funciona na prática, com exemplos de startups brasileiras, erros comuns e um roteiro para conversar com seus sócios sem transformar a reunião em briga.
+
+## O que a divisão de sociedade realmente significa
+
+Quando alguém fala em divisão de sociedade, normalmente está falando de participação societária. É o percentual que cada fundador detém da empresa. Se você tem 40% e seu sócio tem 60%, isso significa que, em uma venda futura, 40% do valor vai para o seu bolso e 60% para o dele. Também significa que, em uma distribuição de lucros, a proporção segue a mesma lógica, a menos que o contrato social diga o contrário.
+
+Mas participação no capital é só uma parte da história. Existem pelo menos três camadas que precisam estar alinhadas. A primeira é a participação econômica, que é o direito sobre lucros e sobre o valor da empresa em uma eventual venda. A segunda é o poder de decisão, que define quem manda no dia a dia e quem precisa aprovar temas como captação de investimento, contratação de executivos ou venda da empresa. A terceira é a remuneração, que pode ser salário, pró-labore, distribuição de lucros ou uma combinação disso.
+
+É comum ver fundadores dividindo tudo meio a meio e depois descobrindo que um trabalha 60 horas por semana e o outro aparece duas vezes por mês. Ou que um colocou dinheiro do próprio bolso para pagar o servidor e o outro não colocou nada. A divisão no papel não acompanha a realidade da operação. Isso gera ressentimento, e ressentimento entre sócios é o começo do fim.
+
+Outro ponto que confunde muita gente é a diferença entre sociedade e vesting. Vesting é um mecanismo que faz o sócio ganhar a participação aos poucos, ao longo do tempo, desde que continue na empresa. Se um sócio sai no sexto mês, ele não leva os 50% embora. Leva só a parte que já vestou, proporcional ao tempo trabalhado. Esse detalhe evita o pesadelo de ter um ex-sócio dono de metade da empresa sem fazer nada por ela.
+
+## O erro clássico de dividir tudo igual
+
+Dividir igual é tentador porque parece justo. Ninguém quer começar uma sociedade negociando percentuais e parecendo mesquinho. Só que igualdade matemática não é igualdade de contribuição. E quando a empresa cresce, essa diferença aparece.
+
+Imagine dois fundadores. Um largou o emprego CLT, está sem renda fixa e trabalha na startup em tempo integral. O outro mantém o emprego, ajuda à noite e nos fins de semana, e por isso não arrisca nada. Dividir 50% para cada um ignora que o risco é completamente diferente. O primeiro está apostando o sustento. O segundo está fazendo um projeto paralelo. Em seis meses, o primeiro vai estar exausto e olhando para o segundo com uma pergunta na cabeça. Por que ele tem metade disso?
+
+Outro cenário comum é o da ideia. Alguém teve a ideia original e acha que isso vale 50% da empresa. Ideia, sozinha, não vale quase nada. O que vale é execução. Quem constrói o produto, quem vende, quem resolve o problema do cliente, quem aguenta a pressão. A ideia é o ponto de partida, não a estrada inteira. Fundadores que supervalorizam a própria ideia costumam criar sociedades desequilibradas desde o primeiro dia.
+
+Existe ainda o caso dos sócios que entram depois. Um terceiro fundador chega no sexto mês, quando o produto já está no ar e os primeiros clientes pagantes existem. Ele não pode receber o mesmo percentual de quem começou do zero. O risco dele é menor, o trabalho acumulado dos outros é maior. A divisão precisa refletir o momento de entrada, e isso não é injustiça. É matemática de risco.
+
+## O que entra na conta na hora de definir percentuais
+
+Definir percentual é menos sobre matemática exata e mais sobre conversa estruturada. Alguns fatores precisam estar na mesa, e todos os sócios devem concordar com o peso de cada um.
+
+O primeiro fator é tempo e dedicação. Quem está em tempo integral, quem está em meio período, quem vai entrar só depois de um ano. Isso precisa estar escrito, com expectativa de horas ou de disponibilidade, para não virar zona depois.
+
+O segundo é capital investido. Se um sócio colocou dinheiro para cobrir custos iniciais, isso pode virar participação ou pode virar um empréstimo a ser pago. São coisas diferentes. Dinheiro investido como empréstimo não deveria inflar a participação societária, a não ser que todos concordem com isso.
+
+O terceiro é o risco assumido. Quem largou a estabilidade, quem assinou contrato de trabalho, quem está sem salário. Risco maior costuma justificar participação maior, especialmente nos primeiros anos.
+
+O quarto é o papel estratégico. Quem cuida do produto, quem cuida das vendas, quem cuida do financeiro. Se uma função é crítica e só uma pessoa consegue exercê-la, isso tem peso. Não é sobre ego, é sobre dependência.
+
+O quinto é a propriedade intelectual ou ativos trazidos. Um sócio que já chega com uma carteira de clientes, uma patente ou um código pronto está trazendo valor concreto. Isso pode ser reconhecido na divisão, mas com cuidado para não criar dependência eterna de algo que já foi entregue.
+
+Uma forma prática de organizar isso é montar uma tabela simples com esses critérios e dar notas de 1 a 5 para cada sócio em cada item. Depois, ponderar os pesos conforme a importância para o negócio. Não é ciência exata, mas tira a conversa do campo do achismo. O importante é que todos participem da definição dos critérios antes de verem os resultados.
+
+## Capital, poder e remuneração são coisas diferentes
+
+Muita gente entra em sociedade achando que 50% de participação significa 50% de tudo. Não significa. Capital, poder e remuneração são eixos separados, e misturar os três é receita para conflito.
+
+A participação no capital define quanto cada um recebe em uma venda ou em uma distribuição de lucros. O poder de decisão é definido pelo contrato social e pelo acordo de sócios. A remuneração é definida por contrato de trabalho ou por pró-labore, e pode ser diferente da participação.
+
+Você pode ter uma empresa com três sócios em que um tem 40%, outro 40% e outro 20%, mas as decisões estratégicas exigem aprovação de dois dos três. Ou pode ter um sócio com 10% que tem direito a veto em temas específicos, como venda da empresa ou entrada de investidor. Isso é comum em startups que captam investimento, porque o fundo que entra quer proteger seu capital.
+
+A remuneração também não precisa seguir a participação. Um sócio que trabalha em tempo integral pode receber pró-labore, enquanto outro que está só investindo não recebe nada até a empresa dar lucro. Distribuição de lucros, por outro lado, costuma seguir a participação societária, a menos que o contrato social estabeleça outra regra. É perfeitamente possível prever que, nos primeiros anos, todo lucro seja reinvestido e ninguém receba distribuição.
+
+Esse desenho separado evita uma armadilha comum. O sócio que trabalha muito e recebe pouco começa a se sentir explorado. O sócio que investiu e não trabalha começa a se sentir excluído das decisões. Quando capital, poder e remuneração estão claros e separados, cada um sabe exatamente o que tem e por quê.
+
+## Vesting, cliff e o que acontece quando alguém sai
+
+Vesting é o mecanismo que mais evita dor de cabeça em sociedade de startup. A ideia é simples. Em vez de o sócio receber todos os seus percentuais de uma vez, ele vai ganhando aos poucos, ao longo de um período, geralmente quatro anos. Se ele sair antes, leva só o que já vestou.
+
+O cliff é um período inicial mínimo, normalmente um ano, em que nada vesta. Se o sócio sair antes de completar o cliff, ele não leva participação nenhuma. Isso protege a empresa de alguém que entra, fica três meses e vai embora levando uma fatia da sociedade.
+
+Um exemplo prático. Um sócio entra com 25% da empresa, sujeito a vesting de quatro anos com cliff de um ano. Isso significa que, após 12 meses, ele veste 25% dos seus 25%, ou seja, aproximadamente 6,25%. A cada mês seguinte, ele veste mais um pouco, até completar os 25% no fim do quarto ano. Se sair no segundo ano, leva apenas a parte proporcional que já vestou.
+
+O vesting pode ser por tempo, como nesse exemplo, ou por metas. Algumas startups definem que o sócio veste quando atinge determinados marcos, como lançar o produto, atingir mil clientes ou fechar uma rodada de investimento. Metas podem ser motivadoras, mas também criam incerteza. O mais comum é combinar tempo com alguns marcos estratégicos.
+
+Além do vesting, o acordo de sócios precisa prever o que acontece em caso de saída, invalidez ou falecimento. Existe direito de preferência, que dá aos sócios a chance de comprar a parte de quem sai antes de ela ir para terceiros. Existe também a cláusula de compra e venda, que define o preço e as condições dessa compra. Sem isso, a empresa pode acabar com um sócio indesejado ou com herdeiros que não têm interesse no negócio.
+
+## Como formalizar tudo isso na prática
+
+A formalização começa com o contrato social, que registra a empresa e define a divisão básica. Mas o contrato social raramente dá conta de todos os detalhes. Por isso existe o acordo de sócios, um documento à parte que regula temas como vesting, direito de preferência, cláusulas de saída, governança e resolução de conflitos.
+
+O acordo de sócios não precisa ser um calhamaço de cinquenta páginas. Precisa ser claro e cobrir os cenários que podem acontecer. Quem decide o quê, o que exige unanimidade, o que exige maioria, como se resolve empate, o que acontece se um sócio quiser sair, o que acontece se um sócio parar de trabalhar. Tudo isso precisa estar escrito e assinado.
+
+Outro ponto importante é a separação entre pessoa física e pessoa jurídica. Sócio não é a empresa. Se um sócio tem dívidas pessoais, isso não pode respingar na startup, desde que as contas estejam separadas. Por isso, conta bancária da empresa, contabilidade regular e pró-labore definido são essenciais. Misturar dinheiro pessoal com dinheiro da empresa é um dos erros mais comuns e mais perigosos.
+
+Também vale pensar na governança desde cedo. Quem toma decisão no dia a dia, quem precisa ser consultado, como funcionam as reuniões de sócios. Startups muito pequenas tendem a achar que isso é burocracia desnecessária, mas é justamente quando a empresa é pequena que os hábitos se formam. Reunião mensal de sócios, ata simples do que foi decidido, registro das deliberações. Parece excesso, mas evita que daqui a dois anos ninguém lembre quem combinou o quê.
+
+## Passo a passo para dividir a sociedade sem briga
+
+Aqui vai um roteiro prático para usar com seus sócios. Não é receita de bolo, mas ajuda a organizar a conversa.
+
+1. Listem todos os fundadores e o momento de entrada de cada um. Quem começou no dia zero, quem entrou depois, quem ainda vai entrar.
+
+2. Definam o nível de dedicação de cada um. Tempo integral, meio período, consultoria esporádica. Coloquem isso por escrito.
+
+3. Levantem o capital investido por cada um. Separem o que é investimento do que é empréstimo.
+
+4. Avaliem o risco assumido. Quem largou o emprego, quem está sem salário, quem mantém outra fonte de renda.
+
+5. Mapeiem as funções críticas. Quem cuida do quê e qual a dependência de cada pessoa.
+
+6. Montem uma tabela de critérios com pesos. Notem cada sócio em cada critério e discutam os resultados abertamente.
+
+7. Cheguem a um percentual inicial. Não precisa ser perfeito, precisa ser aceito por todos.
+
+8. Definam o vesting. Prazo total, cliff, se haverá metas.
+
+9. Escrevam o acordo de sócios com ajuda de um advogado. Não economizem nessa parte.
+
+10. Registrem tudo. Contrato social, acordo de sócios, ata de reunião. Guardem cópias acessíveis a todos.
+
+11. Revisem uma vez por ano. A empresa muda, os papéis mudam, a divisão pode precisar de ajuste.
+
+12. Combinem como resolver conflitos antes que eles aconteçam. Mediação, arbitragem, o que for. O importante é ter um caminho.
+
+Esse roteiro não elimina a dificuldade da conversa, mas dá estrutura. E estrutura é o que evita que a conversa vire briga.
+
+## Erros que custam caro e como evitá-los
+
+O primeiro erro é dividir sociedade sem contrato. Apertar as mãos e combinar verbalmente funciona até o primeiro desacordo. Depois, ninguém lembra do que foi dito e cada um tem uma versão diferente. Contrato não é desconfiança, é clareza.
+
+O segundo é não prever saída. Todo sócio sai um dia, por vontade própria ou não. Se a saída não estiver prevista, a empresa fica travada. Quem sai quer receber, quem fica não tem dinheiro para comprar, e o impasse pode matar o negócio.
+
+O terceiro é misturar dinheiro pessoal com dinheiro da empresa. Parece óbvio, mas acontece muito em startup pequena. O sócio paga uma conta pessoal com o cartão da empresa, depois compensa de algum jeito. Isso bagunça a contabilidade, complica a captação de investimento e pode gerar problema com o fisco.
+
+O quarto é dar participação demais para quem entrou cedo demais. O sócio que ajudou nos primeiros meses, mas não vai continuar, não deveria levar uma fatia grande. Vesting resolve isso, mas só se estiver no acordo.
+
+O quinto é ignorar o impacto emocional. Sociedade entre amigos e familiares tem uma camada afetiva que não existe em sociedade entre estranhos. Conversar sobre dinheiro e poder com quem você ama é desconfortável. Mas evitar a conversa não protege a relação, só adia o problema.
+
+## O que muda quando entra investidor
+
+Quando uma startup capta investimento, a divisão de sociedade muda. O investidor entra comprando uma parte da empresa, o que dilui todos os sócios. Se um fundo investe e fica com 20%, os fundadores passam a dividir os 80% restantes na proporção original. A participação de cada um cai, mas o valor total da empresa sobe. Diluição não é necessariamente ruim, desde que o crescimento compense.
+
+Além da diluição, o investidor costuma exigir cláusulas de proteção. Direito de veto em decisões estratégicas, assento no conselho, preferência em caso de venda. Tudo isso precisa estar previsto no acordo de sócios e ser aceito por todos os fundadores. Se o acordo original não previa entrada de investidor, vai ser preciso negociar.
+
+Outro ponto é o pool de opções para funcionários. Muitas startups reservam uma fatia da empresa, geralmente entre 5% e 15%, para dar opções de compra a colaboradores-chave. Essa fatia sai da participação dos fundadores, diluindo todo mundo. É uma forma de atrair talento sem pagar salário de mercado, mas precisa ser planejada com antecedência.
+
+## Fechando a conversa
+
+Dividir sociedade é menos sobre números e mais sobre alinhamento. Os números são consequência de uma conversa honesta sobre quem faz o quê, quem arrisca o quê e quem espera o quê. Quando essa conversa acontece cedo, com estrutura e com contrato, a empresa ganha fôlego para crescer sem que os fundadores vivam olhando para o lado com desconfiança.
+
+Não existe divisão perfeita. Existe divisão que faz sentido para o momento e que pode ser ajustada conforme a empresa muda. O importante é não deixar para resolver depois o que precisa ser resolvido agora. Sociedade é como casamento. Começa com empolgação, mas só dura com combinados claros e conversa constante. Se você está começando agora, respire fundo e chame seus sócios para essa conversa. Se já começou e nunca formalizou, ainda dá tempo. Melhor tarde do que em conflito.

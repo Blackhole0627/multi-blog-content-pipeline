@@ -1,0 +1,113 @@
+Quando a luz pisca durante uma tempestade de verão, muita gente olha para a tomada e pensa no que pode ter queimado. A geladeira, o roteador, a TV, o videogame que o filho ganhou no aniversário. É nesse momento que o filtro de linha aparece na conversa, às vezes chamado de benjamim, às vezes de régua, às vezes de protetor elétrico. O problema é que esses nomes viraram sinônimos no vocabulário popular, mas eles não significam a mesma coisa. E a diferença entre um e outro pode decidir se o seu equipamento sobrevive a uma descarga elétrica ou vira peso de papel.
+
+A confusão começa nas prateleiras. Você encontra modelos de dez reais e modelos de várias centenas de reais, todos com cara parecida, todos com tomadas alinhadas e um botão vermelho. O barato às vezes tem selo do Inmetro, às vezes não. O caro promete proteção contra raios, filtragem de ruído e até USB. Como saber o que realmente importa? A resposta não está no preço nem na quantidade de tomadas, mas em três ou quatro especificações técnicas que quase ninguém lê na embalagem.
+
+Este texto existe para desmontar essa confusão. Vou falar do que um filtro de linha faz de verdade, do que um protetor elétrico faz de diferente, dos critérios que separam um produto decente de uma armadilha e de como escolher de acordo com o que você tem em casa. Sem prometer milagre, sem indicar marca específica como solução única. A ideia é te dar repertório para olhar a embalagem e entender o que está comprando.
+
+## Filtro de linha, protetor elétrico e benjamim não são a mesma coisa
+
+O benjamim é o mais simples dos três. É aquela peça que transforma uma tomada em três ou quatro, sem nenhum componente eletrônico interno. Serve para multiplicar pontos de energia, nada mais. Não protege contra picos, não filtra ruído, não desliga sozinho. Se você usar um benjamim para ligar geladeira, micro-ondas e air fryer na mesma tomada, está criando um risco real de sobrecarga e superaquecimento do fio. O benjamim é o acessório mais barato e o mais perigoso quando mal usado.
+
+O filtro de linha é o passo seguinte. Ele normalmente tem um fusível ou um disjuntor rearmável, às vezes tem componentes que reduzem interferência eletromagnética e quase sempre tem um interruptor geral. A função principal dele é organizar as tomadas e oferecer uma proteção básica contra sobrecarga. Ele não foi projetado para segurar um raio. Se a descarga vier da rede elétrica com energia suficiente, o filtro pode até queimar junto com o equipamento. Ele ajuda no dia a dia, mas não é blindagem.
+
+O protetor elétrico, também chamado de supressor de surto, é o equipamento projetado especificamente para desviar picos de tensão para o terra. Ele usa componentes chamados varistores, que conduzem a energia excedente para fora do circuito quando a tensão passa de um limite seguro. Um protetor de verdade precisa de aterramento funcionando. Sem terra, o varistor não tem para onde mandar o surto e a proteção simplesmente não acontece. Esse é o ponto que mais gente ignora.
+
+Na prática, muitos produtos vendidos como filtro de linha têm alguma proteção contra surto embutida, e muitos protetores têm tomadas múltiplas. A fronteira é borrada de propósito pelo marketing. O que importa é olhar a embalagem e procurar as especificações, não o nome na caixa.
+
+## O que realmente importa na hora de escolher
+
+A primeira especificação é a corrente máxima suportada, medida em ampères. Um filtro comum no Brasil trabalha com 10 A ou 20 A. Se você liga um secador de cabelo de 2000 W numa tomada de 127 V, isso dá algo perto de 16 A. Colocar isso num filtro de 10 A é pedir para o fusível abrir ou, pior, para o plástico esquentar. Some o consumo dos aparelhos que vão ficar ligados ao mesmo tempo e compare com o limite do filtro. Parece óbvio, mas a maioria das pessoas nunca fez essa conta.
+
+A segunda é a tensão de operação. O Brasil tem redes de 127 V e 220 V, e alguns lugares ainda convivem com as duas. Um filtro feito para 127 V não deve ser usado em 220 V, e vice-versa, a menos que a embalagem diga claramente que ele é bivolt. Muita queima de equipamento acontece porque a pessoa mudou de casa ou de cidade e levou o filtro antigo sem conferir.
+
+A terceira é a energia de surto que o protetor consegue dissipar, medida em joules. Quanto maior o número, mais energia ele aguenta antes de se sacrificar. Um protetor de entrada costuma ficar na casa das centenas de joules. Modelos mais robustos passam de mil joules. Não existe número mágico, mas desconfie de produtos que não informam isso na embalagem. Se o fabricante esconde a especificação, provavelmente não há muita proteção ali.
+
+A quarta é o tempo de resposta. Um bom varistor age em nanossegundos, rápido o suficiente para cortar o pico antes que ele chegue ao aparelho. Isso raramente aparece em letras grandes, mas está no manual técnico. Fabricantes sérios informam.
+
+A quinta é o aterramento. Sem ele, a proteção contra surto é parcial. Se a tomada da sua casa é de dois pinos, ou se o terceiro pino está lá mas não está ligado de verdade, o protetor não consegue desviar a energia. Vale testar com um multímetro ou chamar um eletricista. É chato, mas é a diferença entre proteção real e sensação de proteção.
+
+## A questão do aterramento e por que tanta gente ignora
+
+Muita casa brasileira antiga tem tomada de dois pinos. Muita casa nova tem tomada de três pinos, mas o fio de terra não foi ligado no quadro. Isso acontece mais do que se imagina, principalmente em reformas feitas sem acompanhamento técnico. O resultado é que o protetor elétrico fica bonito na parede, com luzinha acesa, e não protege quase nada.
+
+O terra serve como caminho de fuga para a energia do surto. Quando a tensão sobe além do normal, o varistor vira um condutor e manda o excesso para a terra. Sem esse caminho, a energia não tem para onde ir e acaba passando pelo aparelho. Em alguns casos, o próprio protetor queima. Em outros, o equipamento queima junto.
+
+Existe uma alternativa para quem não tem terra, que são os protetores com tecnologia de isolamento, mas eles são mais caros e menos comuns no mercado brasileiro. A maioria dos produtos de prateleira depende do terra. Então, antes de comprar um protetor caro, vale investir em colocar o terra na tomada. Pode parecer inversão de prioridade, mas é o caminho lógico.
+
+Outro ponto é o disjuntor do quadro. Ele protege a instalação inteira contra sobrecorrente, mas não contra picos rápidos de tensão. O disjuntor não substitui o protetor, e o protetor não substitui o disjuntor. Cada um tem sua função. Em casas com instalação antiga, vale conversar com um eletricista sobre um dispositivo de proteção contra surtos no quadro geral, o famoso DPS. Ele é a primeira linha de defesa, e o protetor de tomada é a segunda.
+
+## Quando o filtro de linha basta e quando ele não basta
+
+Para quem tem só um roteador, um modem e talvez um telefone fixo na tomada, um filtro de linha simples resolve bem. Esses aparelhos consomem pouco, não geram picos internos e ficam ligados direto. O filtro organiza os cabos e oferece uma proteção mínima contra oscilações leves. Não é blindagem, mas é melhor que nada.
+
+Para quem tem computador, monitor, impressora e caixa de som na mesma bancada, a conversa muda. O investimento em um protetor com boa capacidade de joules e tomadas bem espaçadas faz sentido. Computadores são sensíveis a picos e a queda de energia durante uso pode corromper arquivos e danificar a fonte. Um protetor decente reduz esse risco, embora não elimine.
+
+Para eletrodomésticos de alto consumo, como geladeira, micro-ondas, air fryer e torneira elétrica, o filtro de linha comum não é indicado. Esses aparelhos puxam muita corrente e devem ficar em tomadas dedicadas, de preferência com disjuntor próprio. Usar filtro nesses casos é gambiarra e aumenta o risco de incêndio.
+
+Para equipamentos caros e sensíveis, como home theater, console de videogame e instrumentos musicais, um protetor de qualidade com filtragem de ruído ajuda a evitar interferência e protege contra picos. Músicos que gravam em casa costumam notar diferença no zumbido de fundo quando usam filtros com filtragem eletromagnética.
+
+## Um roteiro prático para escolher o seu
+
+Antes de comprar, faça o levantamento do que vai ficar ligado no aparelho. Anote a potência de cada equipamento, some e veja se a corrente total cabe no limite do filtro. Essa etapa evita 90% dos problemas.
+
+- Verifique se a tomada tem terra funcionando. Sem isso, protetor contra surto perde boa parte da função.
+
+- Confira a tensão da sua rede e compre um produto compatível. Se for bivolt, melhor, mas nem todo modelo é.
+
+- Procure a corrente máxima em ampères e compare com a soma dos aparelhos.
+
+- Veja se a embalagem informa a energia de surto em joules. Se não informar, desconfie.
+
+- Prefira modelos com disjuntor rearmável em vez de fusível descartável. É mais prático no dia a dia.
+
+- Cheque se as tomadas são espaçadas o suficiente para os plugs que você usa. Fonte de notebook e carregador de celular costumam ser largos.
+
+- Considere a presença de portas USB se for carregar celular e fones. Mas lembre que a carga por USB costuma ser lenta.
+
+- Verifique o selo do Inmetro. Produto sem certificação pode não cumprir o que promete.
+
+- Leia avaliações de outros compradores, principalmente as que falam de durabilidade e de atendimento em caso de defeito.
+
+- Guarde a nota fiscal. Se o protetor queimar em um surto, algumas marcas oferecem garantia estendida para os equipamentos conectados, mas só com comprovação de compra.
+
+Esse roteiro não é infalível, mas cobre o essencial. A ideia é não comprar no impulso nem confiar só no preço.
+
+## Erros comuns que aparecem em quase toda casa
+
+O primeiro erro é usar filtro de linha como extensão permanente para ligar tudo o que aparece. A pessoa compra um de oito tomadas e vai preenchendo até não caber mais. O filtro vira uma central de energia sobrecarregada, muitas vezes escondida atrás do móvel, sem ventilação. Isso é receita para aquecimento e, em casos extremos, para incêndio.
+
+O segundo é achar que o filtro protege contra raio. Ele pode até ajudar em descargas distantes, que chegam atenuadas pela rede, mas um raio direto na rede elétrica não tem filtro de tomada que segure. Nesse caso, a única proteção real é desligar os aparelhos da tomada durante a tempestade. Sim, é trabalhoso. Sim, é o que funciona.
+
+O terceiro é ignorar o estado dos cabos. Filtro com cabo ressecado, tomada folgada ou cheiro de queimado deve ser substituído imediatamente. Não vale a pena insistir em equipamento danificado.
+
+O quarto é comprar filtro sem certificação em feira ou em loja de variedades. Esses produtos às vezes usam fios finos, contatos ruins e plástico que não resiste ao calor. O barato sai caro.
+
+O quinto é acreditar que o filtro melhora a qualidade da energia da casa inteira. Ele atua apenas nos aparelhos conectados a ele. O resto da instalação segue como está.
+
+## Manutenção e sinais de que o filtro precisa ser trocado
+
+Filtro de linha não é equipamento para durar décadas. Com o tempo, os contatos internos oxidam, o cabo resseca e a proteção contra surto se esgota. Um protetor que já absorveu vários picos pode ter perdido parte da capacidade. Alguns modelos têm indicador luminoso que apaga quando a proteção acabou. Outros não avisam nada.
+
+Vale observar alguns sinais. Cheiro de plástico quente, interruptor que não firma, tomada que esquenta ao toque, luz piscando quando se mexe no cabo. Qualquer um desses é motivo para trocar. Não tente consertar filtro de linha em casa. A peça é barata e o risco não compensa.
+
+A limpeza é simples. Desligue da tomada, passe um pano seco ou levemente úmido, nunca borrife líquido direto. Evite deixar o filtro no chão, onde poeira e umidade se acumulam. Prefira locais ventilados e longe de cortinas ou tapetes.
+
+Se você mora em região com muitas quedas de energia, vale considerar um nobreak para o computador e um protetor para os demais equipamentos. O nobreak mantém o aparelho ligado por alguns minutos e permite salvar o trabalho. O protetor cuida dos picos. São funções diferentes e complementares.
+
+## O que ninguém te conta sobre filtros com USB
+
+Filtros com portas USB viraram moda porque eliminam o carregador da tomada. A praticidade é real, mas tem limite. A corrente de carga costuma ser baixa, na faixa de 1 A a 2,4 A, o que carrega celular devagar. Para tablet ou notebook que carrega por USB-C, pode não dar conta.
+
+Além disso, a porta USB não está protegida da mesma forma que as tomadas. Em geral, ela recebe a energia depois da filtragem, mas não tem a mesma robustez contra surto. Se o filtro for barato, a porta USB pode queimar antes do resto.
+
+Outro detalhe é que muitos modelos com USB continuam consumindo energia mesmo com o interruptor desligado, porque a fonte interna fica ativa. O consumo é pequeno, mas existe. Se a economia de energia for prioridade, prefira modelos sem USB ou com chave que corta tudo de verdade.
+
+Nada disso torna o filtro com USB ruim. Só é bom saber o que esperar. Para carregar fone de ouvido e smartwatch, funciona bem. Para carregar notebook, melhor usar a fonte original na tomada.
+
+## Fechando a conta sem cair em promessa de milagre
+
+Escolher filtro de linha ou protetor elétrico é menos sobre marca e mais sobre entender o que sua casa precisa. Se você tem aterramento, aparelhos sensíveis e histórico de queda de energia, um protetor com boa capacidade de joules faz diferença. Se você só quer organizar tomadas e proteger um roteador, um filtro simples e certificado resolve. O importante é não confundir um com o outro e não achar que qualquer régua branca é proteção de verdade.
+
+O preço ajuda a separar as categorias, mas não é garantia. Já vi filtro caro com especificação ruim e protetor barato com número honesto de joules. O caminho é ler a embalagem, conferir o selo do Inmetro, verificar o aterramento e fazer a conta da corrente. Com essas informações, você escolhe sem depender de vendedor nem de propaganda.
+
+E lembre que nenhum aparelho desses substitui cuidados básicos. Desligar equipamentos caros da tomada durante tempestades fortes continua sendo a proteção mais eficaz que existe. Filtro e protetor ajudam no dia a dia, mas não fazem mágica. Tratar a instalação elétrica da casa com respeito, chamar eletricista quando necessário e não sobrecarregar tomadas são atitudes que valem mais do que qualquer embalagem bonita.

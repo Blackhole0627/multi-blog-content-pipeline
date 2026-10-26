@@ -1,0 +1,103 @@
+A Receita Federal enxerga criptomoeda como bem, não como moeda. Isso muda tudo na hora de declarar e pagar imposto. Se você comprou Bitcoin naquela corretora nacional, guardou algumas altcoins numa carteira física e ainda fez umas operações numa exchange gringa, cada uma dessas situações tem regra própria. E a conta não é só no Imposto de Renda anual. Tem declaração mensal, tem apuração de ganho de capital, tem código de DARF específico.
+
+A parte que mais gera dúvida é a isenção. Muita gente acha que vender até trinta e cinco mil reais no mês está livre de qualquer imposto. Isso é verdade para operações em corretoras brasileiras. Mas se você operou numa plataforma estrangeira, a história muda. E aí entram as regras da lei das offshores, que passaram a valer para criptoativos mantidos fora do país.
+
+Vou explicar como isso funciona na prática. Sem prometer economia de imposto, sem indicar corretora, sem inventar número. Só o que está na legislação e no dia a dia de quem declara.
+
+## O que a Receita considera criptoativo
+
+A primeira coisa que você precisa entender é a classificação. A Receita Federal trata criptoativo como bem, um ativo financeiro que compõe seu patrimônio. Não é moeda de curso legal, não é ação, não é poupança. É bem. Isso significa que as regras de ganho de capital na alienação de bens se aplicam, com algumas adaptações.
+
+Entram nessa categoria o Bitcoin, claro. Mas também Ethereum, XRP, Litecoin, stablecoins como USDT e USDC, NFTs, tokens de governança, qualquer coisa que use criptografia e registro distribuído. A Receita tem códigos específicos para declarar cada tipo. O 01 é para Bitcoin. O 02 para altcoins em geral. O 03 para stablecoins. O 10 para NFTs. E o 99 para o que não se encaixa nos anteriores.
+
+Guarde isso porque o código errado na declaração pode gerar inconsistência e te levar para a malha fina. Não é o fim do mundo, mas dá trabalho para resolver.
+
+## Quando você é obrigado a declarar no IR anual
+
+Existem dois momentos distintos. O primeiro é a declaração de bens e direitos, que faz parte do Imposto de Renda anual. O segundo é a apuração de ganho de capital, que acontece mensalmente quando você vende ou troca cripto.
+
+Na declaração anual de bens, a regra é clara. Se em 31 de dezembro você tinha criptoativos cujo custo de aquisição somava cinco mil reais ou mais, precisa informar. Importante, custo de aquisição não é valor de mercado. É quanto você pagou. Se comprou um Bitcoin por duzentos mil reais e no fim do ano ele vale cento e cinquenta, você declara os duzentos mil. A desvalorização não interessa para a ficha de Bens e Direitos.
+
+Outro ponto. A obrigatoriedade de declarar cripto no IR anual não significa automaticamente que você precisa entregar a declaração. Significa que se você já está obrigado por outros motivos, renda acima do limite, patrimônio acima de oitocentos mil, precisa incluir os criptoativos. Se a única coisa que você tem de relevante são os criptoativos e eles não passam de cinco mil reais de custo, você pode não estar obrigado a declarar.
+
+Mas atenção. Se você vendeu cripto com lucro em algum mês, isso já cria uma obrigação separada, que é a apuração de ganho de capital. E essa apuração pode te obrigar a declarar mesmo que o valor total dos seus bens seja baixo.
+
+## A isenção de trinta e cinco mil e onde ela se aplica
+
+Essa é a parte que mais confunde. A isenção de trinta e cinco mil reais por mês existe para alienações de bens de pequeno valor. Se você vendeu cripto e o total das vendas no mês ficou abaixo disso, o lucro é isento. Mas tem uma pegadinha.
+
+A isenção vale para operações em corretoras brasileiras. Se você usou uma exchange estrangeira, a regra é outra. A Lei das Offshores, a Lei nº 14.754 de 2023, mudou o tratamento de criptoativos mantidos no exterior. Nesse caso, não existe a isenção mensal de trinta e cinco mil. Você apura o resultado do ano inteiro, soma lucros e prejuízos, e o que sobrar de lucro é tributado a quinze por cento.
+
+Isso vale para Binance, Bybit, OKX, qualquer plataforma que não tenha sede no Brasil. Mesmo que você seja pessoa física, mesmo que os valores sejam pequenos. A lógica é que a Receita não tem como cruzar dados de exchanges estrangeiras com a mesma facilidade, então trata tudo como operação no exterior.
+
+Vale dizer que existem emendas no Congresso tentando restabelecer a isenção de trinta e cinco mil para operações em exchanges estrangeiras, mas até agora não houve mudança definitiva. O que está valendo é a regra da lei das offshores.
+
+## Como calcular o ganho de capital
+
+Ganho de capital é a diferença entre o valor de venda e o custo de aquisição. Se você comprou um Ethereum por dez mil reais e vendeu por quinze mil, o ganho é de cinco mil. Esse valor entra na apuração mensal.
+
+O cálculo não é feito venda por venda. É o total do mês. Você soma todas as vendas e todas as compras daquele período e chega ao resultado. Se o total de alienações ficou abaixo de trinta e cinco mil, o ganho é isento e você não paga nada. Mas precisa declarar como rendimento isento na declaração anual.
+
+Se passou de trinta e cinco mil, o ganho é tributado. A alíquota começa em quinze por cento para ganhos até cinco milhões de reais. É uma alíquota progressiva, mas na prática quem investe valores normais fica sempre na faixa dos quinze por cento. As faixas superiores só atingem ganhos muito altos, acima de cinco milhões.
+
+O imposto é pago via DARF, código 4600, até o último dia útil do mês seguinte à operação. O programa para calcular é o GCAP, da própria Receita. Você preenche, gera o documento de arrecadação e paga.
+
+Uma coisa importante. Prejuízo em operação com cripto não pode ser compensado com lucro de outras aplicações financeiras. E em operações em corretoras brasileiras, também não pode ser compensado com lucros futuros. Só em operações no exterior você pode acumular prejuízo e abater de lucros no mesmo ano.
+
+## A nova declaração mensal de criptoativos
+
+A partir de julho de 2026, entrou em vigor a DeCripto, a Declaração de Criptoativos. Ela substitui a antiga IN 1.888 e amplia bastante as obrigações de reporte.
+
+Funciona assim. As exchanges brasileiras já reportavam as operações dos clientes. Agora, quem opera em plataformas estrangeiras, P2P ou DeFi também precisa declarar diretamente à Receita, mensalmente, sempre que o volume de operações no mês passar de trinta e cinco mil reais.
+
+O prazo é o último dia útil do mês seguinte. A entrega é pelo e-CAC. E o escopo do que precisa ser informado é amplo. Compra, venda, permuta, transferência, staking, qualquer movimentação. A multa por atraso ou omissão pode chegar a cento e cinquenta reais por mês para pessoa física, mas o valor da multa é o menor dos problemas. O risco real é a malha fina.
+
+Essa mudança alinha o Brasil ao padrão internacional de troca de informações fiscais sobre criptoativos. Na prática, significa que a Receita terá muito mais capacidade de cruzar dados e identificar quem não está declarando corretamente.
+
+## Passo a passo para organizar sua situação
+
+A parte prática. Se você tem criptomoedas, siga essa sequência para não se perder.
+
+Primeiro, separe os extratos. Baixe os relatórios de todas as corretoras e carteiras que você usou. Corretora brasileira, exchange estrangeira, carteira própria. Cada uma tem um histórico de transações. Você precisa da data, do valor em reais, da quantidade de cripto e das taxas pagas.
+
+Segundo, calcule o custo de aquisição. Para cada criptoativo, some tudo o que você pagou para adquiri-lo. Se comprou em várias datas e preços diferentes, faça a média ponderada. O custo de aquisição é o que importa para a declaração, não o valor de mercado.
+
+Terceiro, apure os ganhos mensais. Para cada mês em que você vendeu ou trocou cripto, some as vendas. Se o total ficou abaixo de trinta e cinco mil em operações brasileiras, o lucro é isento. Se passou, calcule o ganho e pague o DARF até o último dia útil do mês seguinte.
+
+Quarto, verifique as operações no exterior. Se você usou exchange estrangeira, some todos os lucros e prejuízos do ano. O resultado positivo é tributado a quinze por cento, pago no ano seguinte. Não existe isenção mensal aqui.
+
+Quinto, organize a declaração anual. Na ficha de Bens e Direitos, informe cada criptoativo pelo custo de aquisição. Use o código correto. Se houve venda isenta, informe na ficha de Rendimentos Isentos. Se pagou DARF, importe o arquivo do GCAP.
+
+Sexto, guarde tudo. Comprovantes de compra, extratos, DARFs pagos, relatórios de exchange. A Receita pode questionar até cinco anos depois. Ter a documentação organizada é a melhor defesa.
+
+## Erros comuns que geram dor de cabeça
+
+O erro mais frequente é declarar pelo valor de mercado em vez do custo de aquisição. A ficha de Bens e Direitos não é para mostrar quanto seu patrimônio vale hoje. É para mostrar quanto você pagou por ele. Se você atualizar o valor, está inventando um ganho que não existiu e vai pagar imposto sobre algo que não realizou.
+
+Outro erro é ignorar as operações pequenas. Muita gente acha que vender mil reais em cripto não precisa declarar. Se estiver dentro do limite mensal, o ganho é isento. Mas a venda precisa ser informada na declaração anual como rendimento isento. E se você operou em exchange estrangeira, mesmo valores baixos entram na apuração anual.
+
+Tem também o erro de esquecer o staking. Recompensas de staking são rendimentos. Elas precisam ser declaradas, mesmo que você não tenha vendido nada. O valor de aquisição dessas recompensas é zero, o que significa que quando você vender, o ganho será integral. É uma situação que pega muita gente de surpresa.
+
+E tem a confusão entre corretora nacional e estrangeira. A isenção de trinta e cinco mil só vale para operações em corretoras brasileiras. Se você usou Binance, Bybit ou qualquer plataforma sem sede no Brasil, a regra é da lei das offshores. Não tem isenção mensal. O imposto é sobre o lucro anual consolidado.
+
+## O que muda com a DeCripto na prática
+
+A DeCripto não mudou as alíquotas nem a base de cálculo. O que mudou foi a transparência. A Receita passa a ter informação direta sobre operações que antes ficavam invisíveis, especialmente as feitas em plataformas estrangeiras.
+
+Para quem sempre declarou tudo corretamente, não há grande impacto. Você continua fazendo o que já fazia, só que agora com uma declaração mensal adicional se operar fora do Brasil acima do limite.
+
+Para quem deixou de declarar nos últimos anos, a situação fica mais delicada. A Receita terá dados que antes não tinha. O cruzamento vai ficar mais eficiente. Se você tem operações não declaradas de anos anteriores, o momento de regularizar é agora.
+
+Existe a opção de retificar declarações antigas e pagar os impostos devidos com multa e juros. Não é agradável, mas é melhor do que esperar uma intimação. A multa por omissão de ganho de capital varia conforme o tempo, e quanto antes você resolver, menor o custo.
+
+## A parte que ninguém quer ouvir
+
+Imposto não é opcional. Criptomoeda não é terra sem lei. Desde 2019, quando a IN 1.888 entrou em vigor, a Receita deixou claro que quer saber o que acontece com ativos digitais. A DeCripto apenas aprofundou essa fiscalização.
+
+A boa notícia é que as regras são razoavelmente claras. A isenção de trinta e cinco mil para operações brasileiras protege o pequeno investidor. As alíquotas são as mesmas de outros ganhos de capital. O sistema de DARF e GCAP existe e funciona.
+
+A má notícia é que a complexidade aumentou. Quem opera em múltiplas plataformas, faz staking, usa carteiras próprias e ainda transaciona em exchanges estrangeiras precisa de organização. Não dá para confiar na memória ou em planilhas improvisadas.
+
+O caminho do meio é simples. Mantenha registros desde o primeiro dia. Use uma ferramenta de controle ou uma planilha bem feita. Declare tudo, mesmo o que parece pequeno. Pague o imposto quando devido. E se a dúvida for grande, procure um contador que entenda de criptoativos. O custo de um profissional é menor do que o custo de uma malha fina.
+
+No fim, a tributação de criptomoedas no Brasil segue uma lógica que você já conhece de outros investimentos. Ganhou, paga. Não ganhou, declara. A diferença é que o controle é mais rigoroso e a tolerância para erro é menor. Entender as regras não é apenas uma questão de evitar multa. É uma questão de dormir tranquilo.

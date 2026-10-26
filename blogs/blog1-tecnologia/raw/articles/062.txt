@@ -1,0 +1,95 @@
+Receber uma mensagem estranha no WhatsApp já virou rotina para muita gente. Um número desconhecido manda um "oi, tudo bem?" e some. Dias depois, aparece com uma história triste, um prêmio ou uma cobrança. Do outro lado, alguém está tentando transformar sua boa fé em dinheiro. O golpe não é novidade, mas a criatividade de quem aplica também não para.
+
+A verdade é que quase todo mundo conhece alguém que caiu em um. Pode ser a tia que clicou num link de promoção, o primo que tentou vender um celular no marketplace e acabou com o dinheiro sumido, ou o colega de trabalho que recebeu um e-mail do "banco" pedindo para atualizar o cadastro. São situações comuns, do dia a dia, e que muitas vezes começam de um jeito banal.
+
+A boa notícia é que a maioria desses golpes segue um roteiro previsível. Eles dependem de pressa, medo, ganância ou distração. Se você souber onde estão as armadilhas, fica muito mais difícil cair. Este texto reúne os esquemas que mais aparecem no Brasil hoje, explica como cada um funciona e mostra o que fazer para se proteger.
+
+## Golpes de phishing e mensagens falsas de banco
+
+Phishing é o nome técnico para a tentativa de pescar seus dados com uma isca. A isca pode ser um SMS, um e-mail, uma mensagem no WhatsApp ou até um anúncio patrocinado nas redes sociais. O objetivo quase sempre é o mesmo. Fazer você clicar em um link que leva a uma página falsa, parecida com a do seu banco, da operadora ou de uma loja, e digitar ali seus dados.
+
+O roteiro clássico funciona assim. Você recebe uma mensagem dizendo que sua conta será bloqueada, que há uma compra suspeita no cartão ou que você tem um valor a receber. A mensagem tem um tom urgente. "Confirme seus dados em até 24 horas", "clique aqui para evitar o bloqueio", "última chance de resgatar". O link leva para uma página que copia o visual do site verdadeiro, com logotipo, cores e até o cadeado de segurança.
+
+Quando você digita CPF, senha e token, os golpistas capturam tudo em tempo real. Em segundos, eles acessam sua conta, fazem transferências ou contratam empréstimos no seu nome. Tem uma variação ainda mais perigosa, em que o criminoso liga para você se passando por atendente do banco. Ele diz que sua conta foi invadida e pede para você instalar um aplicativo de acesso remoto, tipo aqueles usados para suporte técnico. A partir daí, ele vê tudo o que você faz na tela e controla o celular.
+
+Como evitar. Desconfie de qualquer mensagem com link pedindo dados pessoais. Bancos não mandam SMS com link para atualizar cadastro. Se tiver dúvida, feche a mensagem e abra o aplicativo oficial do banco ou ligue para o número que está no verso do seu cartão. Nunca instale aplicativos de acesso remoto a pedido de quem ligou. Ative a verificação em duas etapas, de preferência com aplicativo autenticador em vez de SMS, porque o SMS pode ser clonado. E olhe sempre o endereço do site antes de digitar qualquer coisa.
+
+## Falsa central de atendimento e o golpe da falsa venda
+
+Esse é um dos campeões de reclamação. Você anuncia um celular, uma bicicleta ou um móvel em um site de classificados. Logo aparece um interessado. Ele diz que quer comprar, mas inventa uma desculpa. Não pode ir até você, ou prefere mandar um motoboy para buscar o produto. Ele pede seus dados bancários para depositar o valor. Até aí, nada demais.
+
+O golpe vem depois. O criminoso envia um comprovante de transferência falso, muito bem feito, ou diz que fez um PIX e que o dinheiro vai cair em minutos. Ele pressiona. "O motoboy já está indo", "preciso que você confirme agora", "meu filho está esperando". Quando o entregador chega, você entrega o produto acreditando que o pagamento foi feito. O dinheiro nunca aparece. O comprovante era falso.
+
+Tem ainda a variação da falsa central. Você anuncia o produto e recebe uma ligação de alguém se passando por funcionário do site de vendas. A pessoa diz que há um problema com o anúncio, que precisa validar seus dados ou que você precisa pagar uma taxa para liberar a venda. Em alguns casos, pedem para você digitar sua senha em uma suposta tela de confirmação. É golpe.
+
+Para se proteger, siga uma regra simples. Só entregue o produto depois que o dinheiro estiver disponível na sua conta, não apenas com um comprovante na tela. Abra o aplicativo do banco e confira o saldo. Desconfie de pressa excessiva e de histórias complicadas. Se o comprador não pode ir até você, proponha outra forma de pagamento ou cancele a negociação. Nenhuma venda vale o risco de perder o produto e ainda ficar sem o dinheiro.
+
+## O golpe do falso parente e do sequestro virtual
+
+Essa modalidade mexe com o emocional. O criminoso manda uma mensagem no WhatsApp se passando por um filho, sobrinho ou neto. Ele troca de número e diz que o antigo foi bloqueado. Em seguida, pede dinheiro emprestado para pagar uma conta urgente, um conserto ou uma emergência. O valor costuma ser alto, mas não absurdo. Na faixa dos mil reais, às vezes mais.
+
+O detalhe que engana é o tom. A pessoa escreve de um jeito parecido com o do familiar, usa apelidos e mostra conhecimento de detalhes da família. Tudo isso pode ter sido coletado de redes sociais ou de conversas antigas. Se você tentar ligar, a chamada não completa. O golpista diz que está sem sinal, que o celular quebrou ou que está em uma reunião. Ele insiste para você fazer o PIX naquele momento.
+
+Existe uma versão ainda mais agressiva, o sequestro virtual. Você recebe uma ligação de alguém chorando, dizendo que foi sequestrado. Ao fundo, vozes de homens pedindo dinheiro e ameaçando. Na verdade, é tudo gravação ou encenação. Eles pedem sigilo absoluto e um pagamento rápido. A vítima, em pânico, faz a transferência sem pensar.
+
+A defesa aqui é criar um protocolo de família. Combine com seus parentes uma palavra-chave ou uma pergunta de segurança que só vocês sabem. Se receber um pedido de dinheiro por mensagem, ligue para a pessoa em outro número, ou para alguém próximo dela. Nunca faça transferência sem falar com a pessoa por voz. Em caso de suposta emergência, mantenha a calma e chame a polícia. O sequestro virtual é crime e as autoridades sabem como agir.
+
+## Golpes em compras online e falsas promoções
+
+As redes sociais viraram vitrine de golpe. Uma página anuncia um celular novo pela metade do preço, com frete grátis e poucas unidades. O anúncio tem fotos bonitas, depoimentos falsos e um botão de compra que leva para um site que parece confiável. Você paga com PIX ou boleto e nunca recebe o produto. Quando tenta reclamar, a página sumiu.
+
+Outra versão é o golpe do frete. Você compra em uma loja que parece séria, mas depois recebe uma cobrança extra para liberar a entrega. A mensagem diz que o produto está retido e que é preciso pagar uma taxa. Quem paga, perde o valor e continua sem o produto. Também tem o golpe do boleto adulterado. Você gera o boleto no site oficial, mas um programa no seu computador troca o código de barras. O pagamento vai para a conta do criminoso.
+
+Para evitar, compre apenas em sites conhecidos e que tenham reclamações consistentes. Pesquise o nome da loja antes de pagar. Desconfie de preços muito abaixo do mercado, porque isso não existe. Prefira pagar com cartão de crédito, que oferece mecanismos de contestação, ou com PIX apenas se o vendedor for confiável. Nunca pague taxa extra para liberar entrega. Se receber um boleto, confira o beneficiário no aplicativo do banco antes de finalizar.
+
+## Golpes de emprego e falsas oportunidades
+
+Com tanta gente procurando trabalho, os golpistas exploram essa necessidade. Eles anunciam vagas com salários atraentes, trabalho remoto e poucos requisitos. Você manda o currículo, faz uma entrevista rápida por mensagem e é aprovado na hora. Aí vem o pedido. Pagar um curso de capacitação, comprar um kit de material ou depositar uma taxa de cadastro. Quem paga, nunca recebe a vaga.
+
+Tem também o golpe da renda extra. A proposta é ganhar dinheiro avaliando produtos, curtindo páginas ou assistindo vídeos. No começo, pagam valores pequenos para ganhar sua confiança. Depois, pedem que você deposite dinheiro para "liberar tarefas maiores". Quando você tenta sacar, descobrem que o saldo sumiu. É uma pirâmide disfarçada de aplicativo.
+
+A regra é clara. Nenhum emprego sério cobra para contratar. Se pedirem pagamento, dados bancários antes da contratação ou instalação de aplicativos estranhos, é golpe. Pesquise a empresa no Google, veja se tem CNPJ e reclamações. Desconfie de propostas muito boas para serem verdade, principalmente se vierem por mensagem no WhatsApp e sem entrevista formal.
+
+## Como se proteger no dia a dia, um checklist prático
+
+Aqui vai um roteiro que você pode seguir sempre que desconfiar de algo. Não precisa decorar, só consultar quando bater dúvida.
+
+- Desconfie de urgência. Golpista sempre quer que você aja rápido, sem pensar. Respire, confirme os fatos e só depois tome qualquer atitude.
+
+- Nunca clique em links recebidos por mensagem. Abra o aplicativo ou site oficial digitando o endereço você mesmo.
+
+- Confirme a identidade de quem pede dinheiro. Ligue para a pessoa em outro número, faça uma pergunta que só ela sabe responder ou combine uma palavra-chave na família.
+
+- Ative a verificação em duas etapas em todas as contas importantes. E-mail, banco, redes sociais e WhatsApp.
+
+- Use senhas diferentes para cada serviço. Se uma vazar, as outras continuam protegidas. Um gerenciador de senhas ajuda muito.
+
+- Mantenha celular, computador e aplicativos atualizados. Atualização corrige falhas que golpistas usam para invadir.
+
+- Evite usar Wi-Fi público para acessar banco ou fazer compras. Prefira os dados móveis.
+
+- Revise as permissões dos aplicativos. Um app de lanterna não precisa acessar seus contatos.
+
+- Cuidado com o que você publica. Fotos de viagem, nome de familiares e endereço ajudam o golpista a montar uma história convincente.
+
+- Se cair em um golpe, registre boletim de ocorrência e avise o banco imediatamente. Quanto mais rápido, maiores as chances de bloquear o dinheiro.
+
+Esse checklist não é infalível, mas cobre a maioria das situações. O importante é criar o hábito de parar e verificar antes de agir. Golpista conta com a pressa. Se você desacelera, ele perde.
+
+## O que fazer se você cair em um golpe
+
+Cair em um golpe não é motivo de vergonha. Os criminosos são profissionais e estudam formas de enganar. O primeiro passo é manter a calma e agir rápido. Avise seu banco ou operadora de cartão. Eles podem bloquear a transação ou contestar o pagamento. Registre um boletim de ocorrência, de preferência em uma delegacia especializada em crimes cibernéticos. Guarde todos os comprovantes, conversas e prints. Eles servem como prova.
+
+Depois, troque suas senhas. Se você digitou dados em uma página falsa, mude a senha do banco, do e-mail e de qualquer serviço que use a mesma combinação. Ative a verificação em duas etapas se ainda não fez. Avise familiares e amigos para que não caiam no mesmo golpe. Muitas vezes, os criminosos usam sua lista de contatos para aplicar o próximo.
+
+Se o golpe envolveu um aplicativo de acesso remoto, desinstale imediatamente e faça uma varredura no celular com um antivírus confiável. Em casos de sequestro virtual, acione a polícia pelo 190. Não pague nada e não mantenha sigilo, apesar do que o criminoso pedir. A polícia tem protocolos para essas situações.
+
+Também vale acompanhar seu CPF em serviços de proteção ao crédito. Se alguém abrir uma conta ou pedir empréstimo no seu nome, você descobre rápido e pode contestar. Muitos bancos oferecem alertas de movimentação por SMS ou notificação. Ative esses avisos.
+
+## Educação digital é a melhor defesa
+
+Nenhuma ferramenta substitui o hábito de desconfiar. Golpes mudam de forma, mas a essência é sempre a mesma. Alguém quer seu dinheiro ou seus dados e vai usar uma história para conseguir. Se você conhece os roteiros mais comuns, fica mais difícil ser pego de surpresa.
+
+Conversar sobre isso com a família ajuda muito. Pais e avós costumam ser alvos preferidos, justamente por terem menos familiaridade com a tecnologia. Explique para eles como funciona o golpe do falso parente, o da falsa central e o do boleto. Combine uma palavra-chave. Ensine a nunca clicar em links e a sempre confirmar por telefone. Esse cuidado simples evita prejuízos grandes.
+
+No fim, segurança digital é uma prática diária, como trancar a porta de casa. Não dá para eliminar todos os riscos, mas dá para reduzir bastante. Fique atento, desconfie do que parece bom demais e nunca tenha pressa na hora de tomar uma decisão que envolve dinheiro ou dados pessoais. Se algo parecer estranho, pare. Confirmar leva alguns minutos. Recuperar o prejuízo pode levar meses.

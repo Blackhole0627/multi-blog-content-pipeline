@@ -1,0 +1,119 @@
+O sinal do Wi-Fi fraco é um dos problemas mais comuns em casas brasileiras. Você está no quarto assistindo a um vídeo e do nada a imagem trava. Vai para a cozinha e o celular nem carrega as mensagens do grupo da família. Parece que a internet caiu, mas o roteador está lá, com as luzinhas acesas, funcionando. O problema quase nunca é a operadora. Na maioria das vezes, é a forma como o sinal se espalha pela casa, os obstáculos no caminho e a posição do aparelho.
+
+Muita gente acha que a solução é contratar um plano mais caro ou comprar um roteador potente. Isso ajuda em alguns casos, mas não resolve tudo. Um aparelho caro mal posicionado pode ter desempenho pior que um modelo simples bem colocado. O segredo está em entender como o Wi-Fi funciona no seu ambiente e fazer ajustes práticos. Você não precisa ser técnico em redes para isso. Basta seguir alguns passos e observar as mudanças.
+
+Neste texto, vou explicar por que o sinal enfraquece, o que atrapalha a propagação e quais atitudes realmente fazem diferença. Vamos falar de posição do roteador, canais, frequências, interferências e até de soluções caseiras que funcionam. Também vou mostrar um checklist para você aplicar hoje mesmo. A ideia é que, ao final, você consiga melhorar a cobertura da sua casa sem gastar muito, ou pelo menos entender quando vale a pena investir em algo novo.
+
+## Como o Wi-Fi se espalha pela casa
+
+O Wi-Fi é uma onda de rádio. Ele sai do roteador e se espalha em todas as direções, mas não atravessa tudo com a mesma facilidade. Materiais densos como concreto, tijolo, metal e até aquários bloqueiam bastante o sinal. Paredes finas de drywall atrapalham menos. Vidros com película metálica também seguram a onda. Por isso, aquele quarto atrás da parede da cozinha pode ficar com sinal ruim mesmo estando perto do roteador.
+
+A frequência também influencia. A maioria dos roteadores modernos trabalha em duas faixas. Uma de 2,4 GHz, que alcança distâncias maiores e atravessa melhor as paredes, mas é mais lenta e sofre mais interferência. Outra de 5 GHz, que é mais rápida e sofre menos interferência, mas tem alcance menor e penetra pior nos obstáculos. Saber disso muda a forma como você posiciona os aparelhos e escolhe a rede no celular.
+
+Além disso, o sinal se espalha de forma desigual. Perto do roteador, a intensidade é alta. Conforme se afasta, a potência cai. Não é uma queda linear. Em certos pontos, o sinal pode até cancelar parte de si mesmo por reflexos. Isso cria zonas mortas, onde a conexão some mesmo sem parede grossa no caminho. Móveis grandes, espelhos e superfícies metálicas refletem a onda e bagunçam a cobertura.
+
+## O lugar do roteador importa mais do que você imagina
+
+Muita gente esconde o roteador atrás da TV, dentro de um armário ou no chão da sala. Isso é um erro. O aparelho precisa de espaço aberto para irradiar o sinal. Colocar ele dentro de um móvel fechado é como tentar falar com alguém dentro de uma caixa. O som sai, mas abafado. O mesmo vale para prateleiras cheias de livros ou eletrônicos.
+
+O ideal é posicionar o roteador em um ponto central da casa, na altura da cintura para cima. Quanto mais alto, melhor. Evite o chão, porque móveis e pessoas bloqueiam a onda. Evite também cantos e paredes externas. Se a casa tem dois andares, coloque o roteador no andar de cima, perto do centro. O sinal desce melhor do que sobe.
+
+Outro detalhe é a distância de outros aparelhos. Roteador perto de micro-ondas, telefone sem fio, caixa de som e até TV pode sofrer interferência. O micro-ondas, quando ligado, atrapalha muito a faixa de 2,4 GHz. Se possível, mantenha pelo menos um metro de distância desses equipamentos. Espelhos e aquários também devem ficar longe.
+
+## Interferência de vizinhos e aparelhos da própria casa
+
+Em prédios e condomínios, o ar fica cheio de redes Wi-Fi. Cada vizinho tem um roteador, e todos competem pelo mesmo espaço. Isso é especialmente problemático na faixa de 2,4 GHz, que tem poucos canais disponíveis. Quando várias redes usam o mesmo canal, o sinal fica lento e instável. Não é que a internet caia, mas ela engasga.
+
+Fora isso, aparelhos domésticos também interferem. Bluetooth, babá eletrônica, controle de portão, fone sem fio e até lâmpadas inteligentes usam a mesma faixa. Se você tem muitos desses aparelhos, a rede sofre. A solução pode ser migrar parte dos dispositivos para a faixa de 5 GHz, que é mais limpa, ou mudar o canal do roteador.
+
+Para saber se há interferência, você pode usar aplicativos de análise de Wi-Fi no celular. Eles mostram quantas redes estão por perto e quais canais usam. Se o seu canal está lotado, troque para um mais vazio. Isso costuma melhorar bastante a estabilidade. O aplicativo não resolve sozinho, mas dá uma pista do que está acontecendo.
+
+## A diferença entre 2,4 GHz e 5 GHz na prática
+
+Muitos roteadores criam duas redes com nomes parecidos. Uma termina com "2G" ou "2.4G" e a outra com "5G". Não confunda com o 5G do celular, que é outra tecnologia. Essas duas redes vêm do mesmo aparelho, mas se comportam de forma diferente. A de 2,4 GHz é mais lenta, porém chega mais longe. A de 5 GHz é mais rápida, mas tem alcance menor.
+
+O que fazer na prática? Use a rede de 5 GHz quando estiver perto do roteador. Para assistir a vídeos em alta resolução, jogar online ou fazer chamadas de vídeo, ela é melhor. Use a de 2,4 GHz quando estiver longe, em outro andar ou no quintal. Ela é mais lenta, mas mantém a conexão. O ideal é que seu celular e notebook alternem entre as duas conforme você se move.
+
+Se o seu roteador tem a função de banda única, ele junta as duas redes em um só nome e decide qual usar. Isso é prático, mas nem sempre funciona bem. Às vezes o aparelho insiste em ficar na rede errada. Se você perceber que a conexão está lenta mesmo perto do roteador, separe as redes com nomes diferentes e escolha manualmente. Esse ajuste simples resolve muitos casos.
+
+## Quando o problema é o aparelho ou o plano
+
+Nem sempre a culpa é do posicionamento. Às vezes o roteador é antigo e não suporta a velocidade do plano. Se você paga por uma internet de 500 mega e usa um roteador que só entrega 100 mega, a culpa não é do sinal. É do equipamento. Operadoras costumam fornecer roteadores básicos, que dão conta do recado em casas pequenas, mas ficam devendo em imóveis maiores.
+
+Outro ponto é o número de dispositivos conectados. Hoje é comum ter celular, notebook, tablet, TV, videogame, Alexa e até geladeira na rede. Um roteador simples pode não aguentar tantos aparelhos ao mesmo tempo. Ele começa a travar e a distribuir mal o sinal. Nesse caso, não adianta mexer na posição. É preciso um roteador melhor ou uma rede mesh.
+
+A rede mesh usa vários pontos espalhados pela casa. Eles se comunicam entre si e cobrem áreas maiores sem perder velocidade. É uma solução mais cara, mas eficiente para casas grandes ou com muitos obstáculos. Antes de comprar, porém, tente os ajustes de posição e canal. Muitas vezes o problema se resolve sem gastar nada.
+
+## O que realmente funciona e o que é mito
+
+Existe muita dica caseira para melhorar o sinal. Algumas funcionam, outras não passam de lenda. Latinha de alumínio atrás da antena, por exemplo, pode até direcionar um pouco o sinal, mas o ganho é pequeno e imprevisível. Papel alumínio embolado perto do roteador só bagunça. Não caia nessa.
+
+O que funciona mesmo é posicionar bem, evitar obstáculos, escolher a frequência certa e, se necessário, trocar o canal. Também ajuda manter o roteador atualizado. Fabricantes lançam atualizações de firmware que corrigem bugs e melhoram o desempenho. Acesse o painel do aparelho e verifique se há versão nova. Isso é chato, mas faz diferença.
+
+Outra coisa que funciona é reiniciar o roteador de vez em quando. Ele é um computador pequeno e também trava. Desligar da tomada por um minuto e ligar de novo limpa a memória e resolve travamentos. Não precisa fazer isso todo dia, mas uma vez por semana ou quando a rede estiver estranha ajuda.
+
+## Checklist para melhorar o sinal hoje mesmo
+
+Aqui está um passo a passo prático. Você pode seguir na ordem e testar o sinal depois de cada mudança. Use um aplicativo de medição de Wi-Fi no celular para comparar antes e depois. Anote os valores para não se perder.
+
+- Coloque o roteador em um ponto central da casa, alto e longe de paredes grossas.
+
+- Afaste o roteador de micro-ondas, telefone sem fio, caixas de som e TVs.
+
+- Evite armários fechados, prateleiras cheias e o chão.
+
+- Separe as redes de 2,4 GHz e 5 GHz com nomes diferentes.
+
+- Conecte aparelhos próximos na rede de 5 GHz e os distantes na de 2,4 GHz.
+
+- Troque o canal da rede de 2,4 GHz para um menos usado.
+
+- Atualize o firmware do roteador pelo painel de configuração.
+
+- Reinicie o roteador pelo menos uma vez por semana.
+
+- Verifique quantos aparelhos estão conectados e desconecte os que não usa.
+
+- Se a casa for grande, avalie um repetidor ou uma rede mesh.
+
+Esse checklist cobre a maioria dos problemas. Se depois de tudo o sinal continuar ruim, pode ser limitação do aparelho ou do plano. Aí vale conversar com a operadora ou considerar um roteador novo. Mas não pule etapas. Muita gente compra equipamento caro sem antes tentar o básico.
+
+## Erros comuns que pioram o sinal
+
+Um erro frequente é esconder o roteador para não ficar feio. A pessoa coloca dentro de um móvel planejado, com portas de madeira. O sinal até sai, mas enfraquece muito. Se você não quer ver o aparelho, prefira uma prateleira aberta. Outro erro é deixar o roteador no rack junto com outros eletrônicos. O calor e a interferência atrapalham.
+
+Também é comum usar o roteador da operadora como único ponto de rede e nunca mexer nas configurações. Muitos vêm com canal automático, que às vezes escolhe uma opção ruim. Entrar no painel e fixar um canal melhor resolve. O endereço de acesso costuma estar na etiqueta do aparelho, algo como 192.168.0.1. O login e a senha também vêm na etiqueta.
+
+Outro erro é achar que antena maior resolve tudo. Antena não aumenta a potência do sinal de forma mágica. Ela direciona. Se você apontar para o lugar errado, pode até piorar. O ideal é deixar as antenas na vertical, uma paralela à outra. Se o roteador tem antenas internas, não há o que ajustar.
+
+## Quando vale a pena investir em equipamento novo
+
+Se sua casa é pequena, até uns 60 metros quadrados, e você já fez os ajustes, provavelmente não precisa de nada novo. O roteador da operadora dá conta. Mas se a casa tem muitos cômodos, paredes grossas ou dois andares, pode ser hora de investir. Um roteador melhor ou um sistema mesh resolve.
+
+Não precisa comprar o mais caro. Modelos intermediários, na faixa dos mil reais, já oferecem bom desempenho para a maioria das casas. Antes de comprar, veja se o aparelho suporta a velocidade do seu plano e tem a tecnologia Wi-Fi 6, que lida melhor com muitos dispositivos. Se o seu plano é de 100 mega, não adianta comprar um roteador de 3 mil reais. Ele não vai criar velocidade que não existe.
+
+Também considere a possibilidade de usar repetidores. Eles são mais baratos, mas podem reduzir a velocidade pela metade, porque repetem o sinal. Funcionam como paliativo. Se você precisa de estabilidade, o mesh é melhor. Avalie o custo-benefício e o tamanho do problema.
+
+## Segurança não é o foco, mas afeta a experiência
+
+Não vou entrar fundo em segurança, mas vale um lembrete. Se sua rede está aberta ou com senha fraca, vizinhos podem se conectar e consumir sua banda. Isso deixa a internet lenta para você. Use uma senha forte e o tipo de criptografia mais recente que o roteador oferecer. WPA2 ou WPA3 são os recomendados.
+
+Além disso, muitos roteadores têm função de convidado. Se alguém visitar sua casa, coloque na rede de convidados. Assim você não compartilha seus arquivos nem sua senha principal. Isso evita que um aparelho infectado do visitante atrapalhe sua rede. É um cuidado simples que melhora a estabilidade.
+
+Outro ponto é o controle parental ou limite de banda. Se alguém em casa fica baixando torrents o dia inteiro, sua conexão sofre. Alguns roteadores permitem priorizar certos aparelhos ou limitar a velocidade de outros. Se você não tem esse recurso, converse com quem usa a rede. Às vezes o problema não é técnico, é de uso.
+
+## Testando o resultado e ajustando
+
+Depois de aplicar as mudanças, teste. Vá até os pontos onde o sinal era ruim e veja se melhorou. Use o celular para medir a intensidade. Aplicativos como Wi-Fi Analyzer mostram a potência em dBm. Quanto mais perto de zero, melhor. Valores como -50 dBm são ótimos. -70 dBm é fraco. -80 dBm é quase inutilizável.
+
+Não espere sinal perfeito em todos os cantos. O Wi-Fi tem limitações físicas. Mas dá para melhorar muito com ajustes simples. Se depois de tudo a conexão continua caindo, pode ser problema na operadora ou no cabeamento. Nesse caso, vale abrir um chamado e pedir uma visita técnica.
+
+Ajustar o Wi-Fi é um processo de tentativa e erro. O que funciona na casa do vizinho pode não funcionar na sua. Por isso, teste, observe e vá refinando. Com o tempo, você conhece os pontos fracos da sua casa e sabe onde colocar o roteador e como configurar.
+
+## Uma rede boa é uma rede bem planejada
+
+Melhorar o sinal do Wi-Fi não é complicado. Na maioria das vezes, o problema está no posicionamento do roteador, na interferência ou na escolha da frequência errada. Você não precisa de conhecimento avançado para resolver. Basta seguir o checklist, evitar os erros comuns e testar.
+
+Se depois de tudo o sinal ainda não cobrir sua casa, aí sim vale investir em um roteador melhor ou uma rede mesh. Mas faça os ajustes primeiro. Muita gente gasta dinheiro sem necessidade. O básico bem feito resolve a maior parte dos casos.
+
+No fim, o que importa é ter uma conexão estável para trabalhar, estudar e se divertir. Wi-Fi bom não é aquele que tem a maior velocidade, mas o que chega onde você precisa, sem cair. Com paciência e alguns ajustes, você chega lá.

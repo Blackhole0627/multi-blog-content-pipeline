@@ -1,0 +1,119 @@
+Configurar um roteador novo pode parecer intimidador na primeira vez, especialmente quando a caixa vem cheia de cabos, um manual fino e um adesivo com senhas que ninguém entende de cara. Mas o processo é bem mais simples do que parece. A maioria dos roteadores modernos, sejam os fornecidos pela operadora ou os comprados separadamente, segue uma lógica parecida de instalação e configuração.
+
+A diferença entre um roteador mal configurado e um bem configurado é enorme no dia a dia. Afeta a velocidade que chega aos seus dispositivos, a estabilidade da conexão, a segurança da sua rede e até a forma como você resolve problemas quando a internet cai. Vale dedicar meia hora para fazer isso com calma.
+
+Neste guia, você vai encontrar o passo a passo completo, desde tirar o aparelho da caixa até ajustes finos que fazem diferença. A ideia é que você consiga fazer tudo sozinho, sem precisar chamar um técnico, e entenda o que cada etapa significa.
+
+## O que você precisa antes de começar
+
+Antes de mexer em qualquer cabo, organize o que vai usar. Ter tudo à mão evita interrupções no meio do processo.
+
+Você vai precisar do roteador, da fonte de energia dele, do cabo de rede que acompanha o aparelho (geralmente um cabo curto amarelo ou azul), do modem ou da ONT da sua operadora e de um computador ou celular para acessar o painel de configuração. Se o roteador for novo, guarde a caixa e o manual por alguns dias, caso precise consultar algo.
+
+Também é útil ter em mãos o nome da sua rede Wi-Fi e a senha que você quer usar. Pense em algo que seja fácil de lembrar para você, mas difícil de adivinhar para os outros. Evite usar seu nome, endereço ou números óbvios como 12345678.
+
+Se você mora em casa ou apartamento com paredes grossas, vale pensar antes em onde o roteador vai ficar. O ideal é um ponto central, longe de paredes de concreto, micro-ondas, televisores e outros aparelhos que interferem no sinal. Não precisa decidir tudo agora, mas já ter uma ideia ajuda.
+
+Por último, anote ou fotografe as informações do adesivo que vem colado embaixo do roteador. Ali estão o endereço de acesso ao painel, o usuário e a senha padrão. Você vai usar isso nos próximos minutos.
+
+## Entendendo a diferença entre modem e roteador
+
+Muita gente confunde os dois aparelhos, e isso atrapalha na hora de configurar. O modem, ou a ONT no caso da fibra óptica, é o equipamento que recebe o sinal da operadora. Ele traduz o que vem pela rede da operadora (cabo coaxial, fibra ou telefone) para um formato que seus dispositivos entendem.
+
+O roteador é quem distribui esse sinal. Ele cria a rede Wi-Fi, gerencia os dispositivos conectados, atribui endereços IP internos e decide por onde cada dado vai passar. Sem roteador, você até consegue conectar um computador direto no modem, mas só um por vez e sem Wi-Fi.
+
+Hoje, muitas operadoras entregam um aparelho que faz as duas funções ao mesmo tempo. É o famoso modem roteador. Nesse caso, você pode usar só ele ou colocar um roteador extra em modo bridge, que desliga as funções de roteamento do aparelho da operadora e deixa o trabalho todo para o seu roteador. Esse modo costuma dar mais estabilidade e mais controle sobre a rede.
+
+Se você comprou um roteador separado, a ligação básica é simples. O cabo de rede sai de uma porta do modem (geralmente chamada LAN) e entra na porta WAN do roteador, que costuma ser de cor diferente das outras. As demais portas do roteador, chamadas LAN, servem para conectar aparelhos por cabo, como computadores e videogames.
+
+## Ligando tudo e acessando o painel
+
+Com os cabos no lugar, ligue o modem primeiro e espere ele estabilizar. Isso leva de um a dois minutos. Depois, ligue o roteador na tomada. As luzes do painel frontal vão acender e algumas vão piscar. Isso é normal.
+
+Agora conecte seu computador ou celular ao roteador. Se for pelo celular, procure nas configurações de Wi-Fi o nome da rede que aparece. Roteadores novos costumam vir com uma rede aberta ou com uma senha simples impressa no adesivo. Se for pelo computador, você pode usar o cabo de rede ligado a uma das portas LAN.
+
+Abra o navegador e digite o endereço que está no adesivo. Pode ser algo como 192.168.0.1, 192.168.1.1 ou um endereço com letras, tipo tplinkwifi.net. Cada fabricante usa um padrão. Aperte Enter e uma tela de login deve aparecer.
+
+Digite o usuário e a senha padrão. Em muitos casos, é admin para os dois campos. Se não funcionar, confira o adesivo ou o manual. Assim que entrar, o roteador pode pedir para você criar uma senha nova de administração. Faça isso. É uma proteção importante para que ninguém de fora mexa nas suas configurações.
+
+Se a tela não abrir, verifique se o cabo está bem encaixado e se o computador está realmente conectado à rede do roteador, e não à de um vizinho. Às vezes, o navegador insiste em usar uma conexão antiga. Desconecte e conecte de novo.
+
+## Configurando o acesso à internet
+
+Essa é a parte que varia conforme a operadora. Em muitas redes de fibra ou cabo, o roteador detecta sozinho o tipo de conexão e já sai funcionando. Se for o caso, você vai ver um aviso de que a internet está conectada e pode pular para a próxima etapa.
+
+Em outras situações, a operadora usa PPPoE, que exige usuário e senha fornecidos por ela. Esses dados vêm na carta de instalação ou no contrato. Procure na configuração do roteador a opção de tipo de conexão e escolha PPPoE. Preencha os campos com o que a operadora mandou.
+
+Também existe o modo IP dinâmico, que é o mais comum em planos residenciais. Nesse caso, o roteador pega um endereço automaticamente e você não precisa fazer nada. Já o IP fixo é raro em casa e costuma vir com configurações específicas que a operadora informa.
+
+Se depois de tudo a internet não funcionar, reinicie o modem e o roteador na ordem. Desligue os dois, ligue o modem, espere as luzes estabilizarem e só então ligue o roteador. Essa sequência resolve boa parte dos problemas de conexão inicial.
+
+## Criando a rede Wi-Fi e escolhendo a senha
+
+Agora vem a parte que todo mundo quer. No painel do roteador, procure a seção de Wi-Fi ou rede sem fio. Você vai encontrar dois campos principais, o nome da rede (SSID) e a senha.
+
+Escolha um nome que não entregue informações pessoais. Evite "Apartamento 302 Silva" ou "Casa do João". Prefira algo neutro, que não diga onde você mora nem quem você é. Isso reduz o risco de alguém tentar invadir sua rede.
+
+A senha precisa ter pelo menos oito caracteres, misturando letras maiúsculas, minúsculas, números e símbolos. Evite datas de nascimento, nomes de familiares e sequências como 12345678. Uma boa dica é usar uma frase curta sem espaços, com algumas letras trocadas por números e símbolos.
+
+A maioria dos roteadores modernos trabalha com duas faixas, 2.4 GHz e 5 GHz. A de 2.4 GHz tem alcance maior e atravessa melhor as paredes, mas é mais lenta e sofre mais interferência. A de 5 GHz é mais rápida e estável, porém alcança menos distância.
+
+Você pode dar nomes diferentes para cada faixa, como Casa e Casa_5G, e escolher qual usar conforme o aparelho. Celulares e notebooks mais novos se dão melhor com a 5 GHz perto do roteador. Aparelhos antigos e dispositivos smart da casa, como lâmpadas e tomadas inteligentes, costumam funcionar só na 2.4 GHz.
+
+## Ajustes de segurança que fazem diferença
+
+Trocar a senha padrão do painel de administração é o primeiro passo de segurança. Muita gente deixa admin para sempre, e isso é um risco. Se alguém acessar o painel, pode mudar sua senha de Wi-Fi, criar redes escondidas e até redirecionar seu tráfego.
+
+O tipo de criptografia também importa. Escolha WPA2 ou WPA3, que são os padrões atuais. Evite WEP e WPA antigos, que são fáceis de quebrar. Se o roteador tiver a opção WPA3, melhor ainda, desde que todos os seus aparelhos sejam compatíveis.
+
+Desative o WPS se ele estiver ativo. Esse recurso permite conectar aparelhos apertando um botão, mas tem falhas de segurança conhecidas. É mais seguro digitar a senha sempre que precisar conectar algo novo.
+
+Outra dica é desligar o acesso remoto ao painel do roteador. Essa função permite acessar as configurações de fora de casa, o que raramente é necessário para uso doméstico. Se não usa, desligue.
+
+Por fim, mantenha o firmware do roteador atualizado. O firmware é o sistema interno do aparelho. Fabricantes lançam atualizações que corrigem falhas e melhoram o desempenho. No painel, procure a seção de administração ou sistema e veja se há atualização disponível. Alguns modelos fazem isso sozinhos.
+
+## Passo a passo resumido para conferir depois
+
+Se você quer um roteiro rápido para revisar o que fez, use esta lista. Ela serve tanto para quem acabou de configurar quanto para quem quer checar se está tudo certo.
+
+- Confira se o cabo de rede sai da porta correta do modem e entra na WAN do roteador.
+
+- Acesse o painel pelo endereço do adesivo e troque a senha de administração.
+
+- Verifique se a conexão com a internet está ativa, seja por detecção automática ou por PPPoE.
+
+- Defina o nome da rede Wi-Fi e uma senha forte, sem informações pessoais.
+
+- Escolha WPA2 ou WPA3 como criptografia e desative o WPS.
+
+- Atualize o firmware do roteador se houver versão nova disponível.
+
+- Teste a conexão em pelo menos dois aparelhos diferentes, um perto e um longe do roteador.
+
+Depois de fazer tudo isso, reinicie o roteador uma vez. É normal que a primeira conexão depois da configuração demore um pouco mais. Se algum aparelho não conectar, esqueça a rede antiga e conecte de novo, digitando a senha nova.
+
+## Testando a conexão e resolvendo problemas comuns
+
+Com tudo configurado, faça testes reais. Abra um vídeo em alta definição, faça uma chamada de vídeo e navegue em várias abas ao mesmo tempo. Isso mostra se a rede aguenta o uso do dia a dia.
+
+Se a internet estiver lenta, verifique a posição do roteador. Paredes, móveis grandes e eletrodomésticos atrapalham o sinal. Levantar o roteador a pelo menos um metro do chão e deixá-lo longe de micro-ondas e TVs costuma melhorar bastante.
+
+Se a conexão cair com frequência, veja se muitos aparelhos estão usando a rede ao mesmo tempo. Roteadores mais simples têm limite de dispositivos. Nesse caso, pode valer desligar o Wi-Fi de aparelhos que não estão em uso ou considerar um roteador com mais capacidade.
+
+Problemas de alcance podem ser resolvidos com um repetidor ou um sistema mesh, que distribui o sinal por vários pontos da casa. Mas antes de comprar qualquer coisa, tente reposicionar o roteador. Muitas vezes a solução é só mudar de lugar.
+
+Se nenhum aparelho conecta, reinicie tudo na ordem, modem primeiro, roteador depois. Se ainda assim não funcionar, acesse o painel e confira se as configurações de conexão estão corretas. Em último caso, entre em contato com a operadora e informe que você trocou o roteador. Às vezes é preciso liberar o novo equipamento no sistema dela.
+
+## Quando vale trocar o roteador da operadora
+
+Muitas operadoras entregam roteadores básicos, que dão conta do recado em apartamentos pequenos e com poucos aparelhos. Mas se você tem uma casa grande, trabalha de casa, joga online ou tem muitos dispositivos conectados, o aparelho da operadora pode ser o gargalo.
+
+Sinais de que está na hora de trocar incluem quedas constantes, Wi-Fi que não chega aos quartos, lentidão mesmo com o plano contratado e dificuldade para configurar funções básicas. Nesses casos, comprar um roteador próprio na faixa dos mil reais, ou até menos, pode transformar a experiência.
+
+Para usar seu próprio roteador, você precisa colocá-lo em modo bridge ou desligar o Wi-Fi do aparelho da operadora e conectar seu roteador na porta LAN dele. Assim, o aparelho da operadora só recebe o sinal, e o seu roteador faz o resto. O resultado costuma ser uma rede mais estável e com mais controle.
+
+Antes de comprar, verifique se o roteador é compatível com o tipo de conexão da sua operadora. Alguns modelos funcionam melhor com fibra, outros com cabo. Ler avaliações de outros usuários e escolher marcas conhecidas reduz o risco de dor de cabeça.
+
+Configurar um roteador do zero não é um bicho de sete cabeças. Com calma e seguindo a ordem certa, você resolve em menos de uma hora e ainda entende melhor como sua internet funciona. A parte mais importante é não pular as etapas de segurança e testar tudo depois.
+
+Uma rede bem configurada trabalha silenciosamente a seu favor. Você percebe a diferença quando o vídeo não trava, a chamada não cai e o jogo não trava no meio da partida. Vale o esforço de fazer direito na primeira vez, e revisar de tempos em tempos conforme sua casa e seus aparelhos mudam.

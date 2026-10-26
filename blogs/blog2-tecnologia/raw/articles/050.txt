@@ -1,0 +1,129 @@
+Trocar de celular é uma sensação boa. Aparelho novo na mão, tela sem riscos, bateria durando o dia inteiro. Mas junto com a empolgação vem aquela gaveta cheia de celulares antigos, ou a vontade de vender o atual para ajudar a pagar o próximo. E é aí que mora um problema silencioso que muita gente ignora.
+
+O celular que você guarda ou vende não é só um pedaço de metal e vidro. Ele é um cofre. Dentro dele estão suas conversas de WhatsApp, fotos que você nem lembra que tirou, histórico de navegação, senhas salvas no navegador, contas de e-mail logadas, apps de banco, cartão salvo em aplicativo de transporte, talvez até documentos digitalizados. Se esse aparelho sai da sua mão sem uma limpeza bem feita, tudo isso vai junto.
+
+A boa notícia é que dá para fazer esse processo com calma e sem dor de cabeça. O ruim é que a maioria das pessoas faz só o básico, que muitas vezes não é suficiente. Apagar as fotos da galeria e tirar o chip não resolve quase nada. O que realmente protege seus dados é uma sequência de passos que começa antes mesmo de você pensar em anunciar o aparelho.
+
+A seguir, um roteiro completo do que fazer antes de vender ou doar um celular usado, com atenção especial ao que costuma dar errado. Vamos por partes, começando pelo que você precisa fazer enquanto o aparelho ainda está funcionando normalmente.
+
+## Antes de qualquer coisa, faça um backup de verdade
+
+Parece óbvio, mas muita gente só lembra disso depois de já ter apagado tudo. O backup precisa vir antes de qualquer exclusão. E não estou falando de salvar meia dúzia de fotos no Google Fotos e achar que está tudo certo.
+
+O ideal é fazer uma cópia completa do que importa. No Android, você pode usar o backup do Google, que salva contatos, calendário, algumas configurações e dados de apps compatíveis. No iPhone, o backup do iCloud ou do Finder resolve boa parte. Mas atenção, esses backups automáticos raramente incluem tudo. Conversas de WhatsApp, por exemplo, têm backup próprio dentro do app. Fotos em pastas locais que não sincronizam com a nuvem também ficam de fora.
+
+Vale a pena sentar com calma e passar app por app. Veja quais têm dados que você não quer perder. Bancos normalmente não precisam de backup, mas apps de anotação, listas, jogos com progresso salvo localmente, tudo isso pode sumir. Se você usa autenticador de dois fatores em app, esse é um ponto crítico. Muitos códigos de segurança ficam presos no aparelho e você pode ficar trancado fora das suas próprias contas se não migrar antes.
+
+Faça o backup, confira que ele está completo e só depois siga adiante. Se possível, teste abrindo alguns arquivos em outro dispositivo para garantir que nada corrompeu.
+
+## Saia de todas as contas antes de apagar qualquer coisa
+
+Este é o passo que mais gente pula. Apagar o celular sem sair das contas pode gerar dois problemas. O primeiro é que a limpeza pode não ser completa, dependendo do sistema. O segundo é que serviços como Google e Apple têm travas de segurança que impedem a reativação do aparelho por outra pessoa enquanto a conta antiga estiver vinculada.
+
+No Android, vá em Configurações, depois em Contas, e remova uma por uma. Google, Samsung, Xiaomi, e-mail, redes sociais, tudo. No iPhone, o caminho é Ajustes, toque no seu nome no topo e depois em Sair. Isso desativa o Bloqueio de Ativação, que é o mecanismo que impede o aparelho de ser usado por outra pessoa caso seja roubado. Se você esquecer esse passo, quem comprar seu iPhone pode ficar com um peso de papel caro nas mãos.
+
+Também é hora de desvincular o aparelho de serviços de mensagens. WhatsApp, Telegram e Signal permitem que você encerre a sessão em outros dispositivos. Faça isso antes de apagar o app. O mesmo vale para aplicativos de banco, que muitas vezes registram o celular como dispositivo confiável. Remova o aparelho da lista de dispositivos autorizados dentro do app do banco.
+
+Outro ponto importante são as senhas salvas. Se você usa o gerenciador de senhas do Google ou do iCloud, elas estão vinculadas à sua conta e não ao aparelho, então sair da conta já resolve. Mas se você salvou senhas direto no navegador sem sincronizar, elas vão embora com a limpeza. Verifique isso antes.
+
+## Remova o chip e o cartão de memória
+
+Parece básico, mas muita gente esquece. O chip (SIM) guarda seu número e, em alguns casos, contatos antigos. Ele não deve ir junto com o aparelho. Retire e guarde, ou destrua se não for usar mais. Operadoras como Vivo, Claro e TIM permitem bloquear o chip pelo app ou pela central de atendimento, o que é uma camada extra de segurança.
+
+O cartão de memória microSD é outro ponto. Se o celular tem slot para cartão e você usava um, ele provavelmente tem fotos, vídeos e talvez documentos. Remova antes de vender ou doar. Se você não quer mais o cartão, o ideal é formatá-lo em outro aparelho ou no computador antes de descartar. Dados em cartão removido continuam acessíveis se alguém colocar em outro dispositivo.
+
+Se o aparelho não tiver slot para cartão, ótimo, menos uma preocupação. Mas confira, porque alguns modelos intermediários ainda têm.
+
+## A limpeza de dados precisa ser feita do jeito certo
+
+Aqui está o coração do processo. Apagar arquivos manualmente, como fotos e vídeos, não remove os dados de verdade. Eles continuam no armazenamento até serem sobrescritos. Em teoria, alguém com ferramentas de recuperação poderia acessá-los. Na prática, para um celular que vai ser vendido ou doado, o risco é baixo, mas não custa fazer direito.
+
+O caminho correto é usar a opção de restauração de fábrica do próprio sistema. No Android, vá em Configurações, Sistema, Redefinir opções e depois Apagar todos os dados. No iPhone, é Ajustes, Geral, Transferir ou Redefinir, Apagar Conteúdo e Ajustes. Esse processo criptografa e apaga a chave de acesso aos dados, tornando a recuperação praticamente impossível.
+
+Antes de confirmar a restauração, o sistema vai pedir sua senha ou Apple ID. Isso é uma proteção para garantir que só o dono pode apagar. Tenha certeza de que você lembra da senha, porque sem ela o processo trava.
+
+Um detalhe importante. Se você usa Android e o aparelho tem criptografia ativada, o que é padrão nos modelos mais recentes, a restauração de fábrica já é suficiente para proteger seus dados. Se for um modelo muito antigo, sem criptografia, aí vale a pena considerar sobrescrever o armazenamento com arquivos grandes antes de apagar, mas isso é raro hoje em dia.
+
+Depois de apagar, o celular vai reiniciar como se fosse novo. Se ele pedir para configurar uma conta Google ou Apple na primeira tela, isso significa que a conta antiga ainda está vinculada. Nesse caso, você precisa voltar e sair da conta antes de tentar de novo.
+
+## O que fazer com o número e as contas vinculadas
+
+Vender o celular não significa que seu número some. Se você trocou de aparelho e manteve o mesmo chip, ótimo. Mas se você vai vender o celular com o chip dentro, o que não é recomendado, precisa transferir o número para outro chip antes. Isso é feito na operadora, muitas vezes pelo app.
+
+Contas vinculadas ao número de telefone também merecem atenção. WhatsApp, Telegram, Instagram, bancos e até iFood usam o número como identificação. Se você trocar de número, precisa atualizar essas contas. Se você mantém o número, não precisa fazer nada, mas lembre que quem tiver o chip antigo pode receber SMS de verificação. Por isso, nunca venda o celular com o chip.
+
+Outro ponto são os aplicativos que usam o celular como chave de segurança. O app do Banco do Brasil, por exemplo, pode registrar o aparelho como dispositivo confiável. Itaú, Bradesco, Nubank e outros fazem algo parecido. Ao vender o celular, remova o dispositivo da lista dentro do app ou pelo site do banco. Isso evita que alguém tente acessar sua conta usando o aparelho antigo como se fosse seu.
+
+## Cuidado com o que fica na nuvem e nos apps de terceiros
+
+Muita gente acha que apagar o celular resolve tudo, mas esquece que boa parte dos dados não está no aparelho e sim na conta. Google Fotos, iCloud, Dropbox, OneDrive, tudo isso continua acessível se você não sair da conta. Sair da conta no celular antes de apagar já resolve, mas vale conferir se não ficou nenhuma sessão ativa.
+
+Apps como WhatsApp guardam backup no Google Drive ou iCloud. Se você não apagar esse backup, ele continua lá, ocupando espaço e teoricamente acessível se alguém conseguir entrar na sua conta. Não é um risco enorme, mas é bom saber. Você pode apagar o backup do WhatsApp nas configurações do app antes de sair.
+
+Redes sociais também merecem uma olhada. Instagram, Facebook e TikTok permitem ver os dispositivos conectados à conta. Remova o celular antigo da lista. O mesmo vale para o Google, que mostra todos os aparelhos que acessaram sua conta recentemente. Se você vir o celular antigo lá, remova o acesso.
+
+## Checklist prático antes de entregar o aparelho
+
+Para não esquecer nada, segue um roteiro simples que você pode seguir na ordem. Leva menos de uma hora se você já tiver o backup pronto.
+
+- Faça backup completo de fotos, vídeos, contatos, conversas e documentos
+
+- Migre autenticadores de dois fatores para outro dispositivo
+
+- Saia de todas as contas, Google, Apple, e-mail, redes sociais, bancos
+
+- Encerre sessões de WhatsApp e Telegram em outros dispositivos
+
+- Remova o aparelho da lista de dispositivos confiáveis nos apps de banco
+
+- Remova o chip e o cartão de memória
+
+- Apague o backup do WhatsApp na nuvem, se não for usar
+
+- Faça a restauração de fábrica pelo menu do sistema
+
+- Confira se o aparelho reiniciou pedindo configuração inicial
+
+- Se possível, conecte-se a uma rede Wi-Fi e veja se ele não pede conta antiga
+
+- Guarde o chip em local seguro ou bloqueie junto à operadora
+
+- Anote o IMEI do aparelho antes de vender, caso precise registrar a venda
+
+Esse último ponto do IMEI é útil. O número fica na caixa, na nota fiscal ou digitando *#06# no teclado do celular. Ter esse registro ajuda se alguém usar o aparelho para algo irregular depois. Não é obrigatório, mas é uma precaução inteligente.
+
+## Erros comuns que ainda fazem gente perder dados
+
+Um erro clássico é apagar o celular antes de sair da conta Google. O aparelho reinicia, mas na hora de configurar pede a conta antiga. A pessoa não lembra a senha, o comprador fica esperando e o negócio desanda. Sempre saia da conta primeiro.
+
+Outro erro é confiar só no backup automático. O Google Fotos, por exemplo, só sincroniza o que está em pastas específicas. Se você salvou imagens em uma pasta de app que não é sincronizada, elas vão embora. O mesmo vale para áudios de WhatsApp que você salvou na memória interna. Confira pasta por pasta.
+
+Tem também quem venda o celular com o cartão de memória porque esqueceu que ele estava lá. Depois lembra que tinha fotos íntimas ou documentos de trabalho no cartão. Evite esse constrangimento. Remova sempre.
+
+E tem o caso de quem doa o celular para um parente ou instituição sem fazer a limpeza. A pessoa acha que é de confiança e não precisa. Mas dados são dados. Mesmo que seja para sua mãe, se ela for usar o aparelho, ela não precisa ter acesso às suas conversas de trabalho ou às suas fotos de viagem. Faça a limpeza do mesmo jeito.
+
+## Doar também exige os mesmos cuidados
+
+Muita gente trata a doação como algo mais leve. Não precisa se preocupar tanto porque é para alguém que precisa. Mas o processo é o mesmo. Se você doa para uma instituição, o aparelho pode passar por várias mãos antes de chegar ao destino final. Se doa para um conhecido, ele vai ter acesso a tudo que ficou para trás.
+
+Além disso, doar um celular que ainda tem sua conta vinculada pode impedir que a pessoa use o aparelho. No caso do iPhone, o Bloqueio de Ativação é implacável. No Android, a Proteção contra Restauração de Fábrica do Google faz algo parecido. A pessoa liga o celular, tenta configurar e trava na tela de verificação. Você vai ter que resolver isso depois, muitas vezes com o aparelho já longe.
+
+Então, independente de vender ou doar, o roteiro é o mesmo. A diferença é que na doação você pode até deixar alguns apps instalados, se for combinado, mas os seus dados precisam sair.
+
+## Depois de entregar, fique atento
+
+Mesmo depois de vender ou doar, vale ficar de olho. Verifique se não chegam notificações estranhas no seu e-mail, como tentativas de login em contas que você usava no celular antigo. Se chegar, troque a senha imediatamente. Isso pode indicar que algo não foi bem apagado ou que a pessoa está tentando acessar.
+
+Também é bom monitorar suas contas bancárias nos dias seguintes. Não para criar paranoia, mas porque é melhor prevenir. Se você removeu o aparelho da lista de confiáveis e saiu de todas as contas, o risco é mínimo. Mas atenção nunca é demais.
+
+Se você vendeu para um desconhecido, evite passar informações pessoais além do necessário. Não precisa dar seu CPF na nota de papel, por exemplo. Um recibo simples com data, valor e descrição do aparelho já basta. E prefira encontros em locais públicos, como shoppings ou delegacias, que têm espaço para isso.
+
+## A regra de ouro é simples
+
+Trate o celular antigo como você trataria uma pasta cheia de documentos importantes que você vai jogar fora. Você não deixa a pasta aberta na calçada. Você tira tudo que importa, confere se não sobrou nada e só então descarta.
+
+No celular é a mesma coisa. Backup, saída de contas, remoção de chip, restauração de fábrica. Nessa ordem. Se você fizer isso, pode vender ou doar com tranquilidade. Se pular etapas, pode ter surpresas desagradáveis semanas depois.
+
+A tecnologia facilita nossa vida, mas também guarda rastros que a gente esquece que existem. Um celular usado é um histórico inteiro de hábitos, relações e informações financeiras. Cuidar dele antes de passar adiante é uma forma de respeito com quem vai receber e, principalmente, com você mesmo.
+
+Reserve uma hora do seu dia para fazer isso direito. Coloque uma música, sente com calma e siga o checklist. Quando terminar, você vai ter a certeza de que aquele aparelho não carrega mais nada seu. E aí sim pode entregar, vender ou doar sem peso na consciência.

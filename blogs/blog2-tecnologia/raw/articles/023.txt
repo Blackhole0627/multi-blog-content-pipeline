@@ -1,0 +1,119 @@
+Quem usa o celular pra editar fotos costuma passar pelas mesmas fases. No começo, é só filtro pronto, aquele toque rápido que resolve a maioria das situações. Depois de um tempo, bate uma vontade de mexer em coisas mais específicas. Clarear só uma parte da imagem, apagar um objeto que atrapalhou a composição, trocar o fundo, controlar a cor de forma separada por tom. É aí que os filtros prontos começam a parecer limitados.
+
+A diferença entre um app de filtro e um app de edição de verdade está no controle. Filtro pronto aplica uma receita fechada em cima da foto inteira. Edição de verdade deixa você decidir o que muda, onde muda e quanto muda. Parece detalhe, mas é o que separa uma imagem que parece "com filtro" de uma imagem que parece bem feita.
+
+Este texto é pra quem já passou da fase do filtro e quer entender o que existe além. Vou falar de recursos, de apps comuns no Brasil, de situações do dia a dia e de um roteiro prático pra você editar melhor sem depender de receita pronta.
+
+## O que separa um filtro de uma edição de verdade
+
+Filtro é uma camada de cor aplicada de cima pra baixo. Ele não entende o conteúdo da foto. Aplica o mesmo tom no céu, na pele, na roupa e no chão. Às vezes funciona, às vezes deixa a pele esquisita e o verde da planta amarelado. O problema não é o filtro em si, é a falta de separação.
+
+Edição de verdade trabalha em camadas de informação. Você mexe em exposição, contraste, sombras, realces, temperatura, matiz, saturação, nitidez, textura. Cada um desses controles age sobre uma parte diferente do que a câmera capturou. Isso permite corrigir sem estragar. Clarear o rosto sem estourar o céu. Reduzir o ruído da sombra sem borrar o cabelo.
+
+Tem também a questão da máscara. Máscara é a seleção de uma área específica da imagem pra aplicar ajuste só ali. É o recurso que mais muda o jogo, porque permite tratar partes diferentes da foto de formas diferentes. Sem máscara, você edita a foto toda. Com máscara, você edita o que importa.
+
+Existe ainda a diferença entre edição destrutiva e não destrutiva. Destrutiva altera os pixels originais e não volta atrás. Não destrutiva guarda a receita separada da imagem, então você pode mudar de ideia depois. A maioria dos apps bons trabalha de forma não destrutiva, mesmo no celular.
+
+## Por que o celular virou plataforma séria de edição
+
+Durante muito tempo, editar foto no celular era sinônimo de perder qualidade. A tela pequena, o processamento fraco e a falta de ferramentas limitavam tudo. Isso mudou. Os chips de celular intermediário e topo de linha hoje dão conta de processar arquivos grandes sem travar. A tela, mesmo pequena, tem cor razoavelmente confiável na maioria dos aparelhos.
+
+Outro ponto é o fluxo. A foto nasce no celular. Tirar do celular, passar pro computador, editar, voltar pro celular pra postar é um caminho que a maioria das pessoas simplesmente não faz. Editar onde a foto nasceu elimina etapas. Pra quem publica em rede social, isso é ganho de tempo real.
+
+Os apps também amadureceram. Hoje existe edição por curvas, máscara por seleção de cor, remoção de objeto com preenchimento, correção de lente, perfil de cor. Recursos que antes eram exclusivos de programa de computador. A distância entre um editor de celular bom e um editor de computador encolheu bastante, pelo menos pra edição de foto do cotidiano.
+
+Vale lembrar que celular tem limite. Arquivo muito grande, muitas camadas e ajuste pesado ainda pedem computador. Mas pra foto de rede social, de viagem, de família, o celular resolve bem. E resolve na hora, sem depender de estar em casa.
+
+## Ferramentas que fazem diferença no dia a dia
+
+Alguns recursos aparecem em quase todo app bom e vale entender pra que servem. O primeiro é a curva de tom. Ela permite ajustar brilho e contraste por faixa de luminosidade. Em vez de um controle único de contraste, você mexe nas sombras, nos médios e nos realces separadamente. É o que dá aquele aspecto de foto tratada sem parecer artificial.
+
+O segundo é o ajuste seletivo de cor. Você escolhe uma faixa, tipo o laranja da pele ou o azul do céu, e mexe só nela. Isso resolve o problema clássico de filtro que deixa a pele alaranjada demais. Com ajuste seletivo, dá pra corrigir o tom da pele sem mexer no resto da imagem.
+
+O terceiro é a máscara por pincel ou por gradiente. Pincel você pinta a área que quer ajustar. Gradiente aplica um ajuste que vai sumindo ao longo da imagem, útil pra escurecer céu ou clarear primeiro plano. São ferramentas simples que mudam muito o resultado.
+
+O quarto é a remoção de objeto. Você marca o que quer tirar e o app preenche com o que estava em volta. Funciona bem em fundos simples, tipo parede, areia, grama. Em fundo complexo, com muita textura, o resultado pode ficar visível. Vale conferir de perto antes de salvar.
+
+O quinto é a correção de perspectiva e lente. Foto de prédio tirada de baixo fica com as linhas convergindo. Foto de grupo tirada de perto distorce as bordas. Essas ferramentas corrigem isso. É o tipo de ajuste que quase ninguém faz e que dá um acabamento profissional.
+
+## Apps conhecidos e o que cada um faz melhor
+
+O Lightroom Mobile é provavelmente o editor mais completo pra celular. A versão gratuita já traz os controles básicos e a versão paga libera máscara, curvas e edição por cor. Ele trabalha bem com arquivo bruto, o que dá mais margem pra recuperar informação. A interface é um pouco densa no começo, mas depois de acostumar vira referência.
+
+O Snapseed, do Google, é gratuito e tem ferramentas pontuais muito boas. O "seletivo" dele é prático pra ajustar áreas específicas sem complicação. A função de corrigir perspectiva é simples e eficaz. Ele não tem o fluxo de catálogo do Lightroom, mas pra edição pontual resolve muita coisa.
+
+O VSCO ficou conhecido pelos filtros, mas tem controles manuais decentes. É útil pra quem quer um meio termo, com preset como ponto de partida e ajuste fino depois. A comunidade e o feed dentro do app já foram mais fortes, hoje o foco é mais na ferramenta.
+
+O PicsArt e o Canva entram mais na parte de composição e design do que de edição fotográfica pura. Servem pra montar colagem, adicionar texto, criar peça pra rede social. Não são a primeira escolha pra tratar cor e luz, mas são úteis quando o objetivo é montar algo novo.
+
+Tem ainda apps de função única, tipo os de remover fundo, os de aumentar resolução e os de apagar objeto. Muitas vezes vale ter um app específico pra cada tarefa em vez de procurar tudo em um só. A desvantagem é que isso enche o celular de aplicativo. A vantagem é que cada um faz bem a sua parte.
+
+## Editar no celular sem estragar a foto
+
+Existe um erro comum em quem está começando. Exagerar nos controles. Puxar saturação, contraste e nitidez tudo pra cima, porque na tela pequena parece pouco. Na hora de ver em tela maior, a imagem aparece artificial, com halos e cores estouradas. Editar bem é editar com moderação e conferir em tela maior quando possível.
+
+Outro erro é editar em ambiente com luz errada. Se você edita com o celular no sol, aumenta o brilho da tela e a foto parece apagada. Se edita no escuro, a tela fica forte e você escurece demais a imagem. O ideal é editar com brilho de tela fixo, em ambiente de luz neutra, e conferir o resultado em outro momento.
+
+Tem também a questão do formato. Editar em JPEG limita a recuperação de informação. Se o celular permite salvar em formato bruto, vale usar quando a foto é importante. O arquivo bruto ocupa mais espaço e precisa de edição, mas dá muito mais margem pra corrigir exposição e cor. Pra foto do dia a dia, JPEG resolve.
+
+Por fim, guarde o original. Mesmo que o app trabalhe de forma não destrutiva, é bom manter uma cópia sem edição. Se você mudar de ideia depois, ou quiser refazer o tratamento do zero, o original está lá. Isso vale principalmente pra foto que você considera importante.
+
+## Um roteiro prático pra editar uma foto do começo ao fim
+
+Esse roteiro serve pra qualquer app com controles manuais. A ordem importa, porque cada etapa prepara a próxima. Pular direto pro filtro no final, sem passar pelas etapas, costuma dar resultado pior.
+
+- Passo 1, corrija o enquadramento e a perspectiva. Antes de mexer em cor e luz, ajuste o corte e endireite o horizonte. Se a foto tem distorção de lente, corrija agora. Mudar o enquadramento depois de editar cor obriga a refazer parte do trabalho.
+
+- Passo 2, ajuste a exposição geral. Use o controle de exposição pra deixar a imagem no brilho certo. Olhe pro ponto mais claro e pro mais escuro. Se o céu estourou ou a sombra fechou, mexa em realces e sombras pra recuperar.
+
+- Passo 3, corrija o balanço de branco. Escolha um ponto neutro da imagem, tipo uma parede branca ou uma roupa cinza, e ajuste a temperatura até ficar neutro. Isso resolve a maior parte do problema de cor esquisita.
+
+- Passo 4, mexa em contraste e curva de tom. Ajuste o contraste geral e depois refine com a curva, mexendo em sombras, médios e realces separadamente. Aqui você define o "clima" da imagem.
+
+- Passo 5, trate a cor por faixa. Ajuste o tom da pele, do céu, da vegetação, cada um na sua faixa. Reduza saturação do que está exagerado e aumente do que está apagado.
+
+- Passo 6, use máscara nas áreas que importam. Escureça o céu, clareie o rosto, dê nitidez nos olhos. Aplique ajuste só onde faz sentido, sem afetar o resto.
+
+- Passo 7, limpe o que atrapalha. Remova objeto indesejado, corrija imperfeição pontual. Faça isso por último, pra não ter que refazer caso mude o enquadramento.
+
+- Passo 8, aplique nitidez e redução de ruído com moderação. Nitidez demais cria halo. Redução de ruído demais borra detalhe. Vá devagar e confira em zoom.
+
+- Passo 9, confira em tela maior e em outro momento. Olhe a foto no celular, depois no computador se puder. Se possível, volte a ela no dia seguinte. O olho cansado engana.
+
+- Passo 10, exporte no formato e tamanho certos. Pra rede social, exporte no tamanho que a plataforma pede. Pra guardar, exporte em qualidade alta. Guarde também o arquivo de edição, se o app permitir.
+
+## Erros que quase todo mundo comete
+
+Um erro comum é editar cada foto do zero, sem aproveitar preset próprio. Preset é uma receita salva com seus ajustes preferidos. Depois de editar algumas fotos parecidas, vale salvar o conjunto de ajustes como ponto de partida. Isso economiza tempo e mantém consistência entre as imagens.
+
+Outro erro é confiar só na tela do celular. A tela pequena esconde problema de nitidez, de ruído e de halo. Sempre que possível, confira a foto em tela maior antes de publicar. Se não tiver como, dê zoom na imagem e olhe as áreas de detalhe.
+
+Tem gente que edita com o brilho da tela no máximo. Isso faz a foto parecer mais clara do que é. Na hora de ver em outra tela, a imagem aparece escura. O ideal é calibrar o brilho da tela num nível médio e manter sempre o mesmo ao editar. Assim seu olho se acostuma com a referência.
+
+Erro também é usar filtro pronto depois de editar tudo manualmente. Isso costuma desfazer o trabalho, porque o filtro aplica uma camada de cor por cima do que você ajustou. Se quiser usar filtro, aplique no começo, como ponto de partida, e ajuste por cima.
+
+Por último, tem a pressa. Editar com pressa leva a exagero e a erro que você só percebe depois. Se a foto é importante, dê uma pausa entre editar e publicar. Volte com o olho descansado e revise. Na maioria das vezes, você vai querer reduzir algum ajuste.
+
+## Como escolher o app certo pra você
+
+A escolha depende do que você faz com foto. Se o objetivo é publicar em rede social com qualidade, um app gratuito com controles manuais resolve. Se você trabalha com foto, vale investir em um app mais completo, com edição por curva, máscara e arquivo bruto. Se a demanda é composição e peça gráfica, aí a escolha vai pra apps de design.
+
+Vale testar mais de um app antes de decidir. Cada um tem interface e fluxo diferentes, e o que funciona pra uma pessoa pode não funcionar pra outra. Use a mesma foto nos dois ou três apps que você quer comparar. Veja qual te dá o resultado que você gosta com menos esforço.
+
+Considere também o custo. Muitos apps bons têm versão gratuita com limite e versão paga por assinatura. A faixa de preço varia bastante, e vale pensar se o uso justifica a mensalidade. Pra quem edita esporadicamente, a versão gratuita costuma bastar. Pra quem edita todo dia, a paga compensa.
+
+Pense no ecossistema. Se você já usa um app de nuvem pra guardar foto, pode fazer sentido escolher um editor que integre com ele. Se você trabalha em equipe, vale ver se o app permite compartilhar receita de edição. Essas integrações economizam tempo no dia a dia.
+
+E não subestime a curva de aprendizado. App mais completo tem mais recurso e mais coisa pra aprender. Se você tem paciência pra estudar, vale ir pro mais robusto. Se quer resultado rápido, comece pelo mais simples e vá evoluindo conforme a necessidade.
+
+## O que vem depois do filtro
+
+Depois que você entende edição de verdade, a relação com filtro pronto muda. Você continua podendo usar, mas como ponto de partida, não como solução final. O filtro deixa de ser o resultado e passa a ser uma etapa. Isso muda a forma como você olha pra foto e como você planeja o tratamento.
+
+Editar bem não é sobre ter o app mais caro ou o recurso mais avançado. É sobre entender o que cada controle faz e usar com intenção. A maioria das fotos do cotidiano não precisa de tratamento elaborado. Precisa de correção de exposição, balanço de branco certo e um ajuste de cor pontual. Com isso, a imagem já sai na frente da maioria.
+
+Com o tempo, você desenvolve um olhar próprio. Começa a perceber o que gosta e o que não gosta numa foto, e a editar pra chegar naquele resultado. Isso vale mais do que qualquer preset pronto. Preset resolve o agora, olhar treinado resolve todas as fotos que ainda vão vir.
+
+No fim, a diferença entre filtro e edição é a diferença entre aceitar o que veio e decidir o que a imagem deve ser. Os apps de hoje dão ferramenta suficiente pra essa decisão, mesmo no celular. O que falta, na maioria das vezes, não é recurso. É prática e atenção ao que a foto precisa.
+
+Então pegue uma foto sua, abra um desses apps e siga o roteiro sem pressa. Faça uma coisa de cada vez, confira o resultado e ajuste. Repita com outras fotos. Em pouco tempo, editar deixa de ser um bicho de sete cabeças e vira parte natural do processo de tirar foto. E aí os filtros prontos viram só mais uma opção entre várias, não a única.

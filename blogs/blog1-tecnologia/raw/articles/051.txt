@@ -1,0 +1,117 @@
+Montar um setup gamer que roda bem os jogos que você curte não precisa custar o preço de um carro popular. A maioria das pessoas que joga no Brasil hoje não tem orçamento sobrando para montar uma máquina topo de linha, e isso não é problema nenhum. O que separa um setup ruim de um setup bom não é quanto você gastou, mas como você distribuiu o dinheiro entre as peças.
+
+Tem muita gente que compra um computador pronto de loja de departamento, paga caro e ainda fica com um desempenho fraco. Outras pessoas gastam tudo em placa de vídeo e economizam na fonte, o que é receita para dor de cabeça. O segredo está em entender o que realmente importa para o tipo de jogo que você joga e onde dá para cortar sem perder experiência.
+
+Este guia é para quem quer jogar bem gastando pouco, seja montando um PC do zero ou melhorando o que já tem. Vou falar de peças, periféricos, alternativas usadas, configurações e aquele monte de detalhe que faz diferença no bolso. Você vai ver que dá para montar algo decente com planejamento e paciência.
+
+## Definindo o que você realmente joga
+
+Antes de comprar qualquer peça, a pergunta mais importante é simples. Que jogos você joga de verdade? Não os jogos que você viu num trailer e achou bonito, mas aqueles que ocupam suas noites e fins de semana.
+
+A diferença é enorme. Jogos competitivos como Valorant, CS2, League of Legends e Fortnite rodam bem em máquinas modestas. Eles foram feitos para alcançar o máximo de pessoas, então exigem pouco do hardware. Já jogos single player pesados como Cyberpunk 2077, Red Dead Redemption 2 ou Alan Wake 2 pedem uma placa de vídeo parruda e bastante memória.
+
+Se o seu foco é e-sports, você pode montar um PC muito mais barato e ainda assim rodar tudo a 144 frames por segundo ou mais. Se você gosta de jogos AAA recentes, vai precisar investir mais na placa de vídeo e aceitar rodar alguns títulos no médio.
+
+Também vale pensar no monitor. Um jogador de Valorant se beneficia muito mais de um monitor de 144 Hz do que de gráficos ultra. Já quem joga RPG de mundo aberto vai aproveitar mais uma tela com cores boas, mesmo que seja 60 Hz. Alinhar o setup com o seu estilo de jogo evita gastar com o que não traz retorno nenhum.
+
+## O processador e a placa de vídeo
+
+Esses dois componentes são o coração do PC gamer, e é onde a maior parte do orçamento vai. A boa notícia é que dá para economizar bastante escolhendo bem.
+
+Para jogos competitivos, processadores de entrada já dão conta. Modelos como o Ryzen 5 de gerações mais antigas ou o Core i3 recente entregam o necessário. Se você joga e-sports, o processador importa mais do que a placa de vídeo, porque esses jogos dependem muito da CPU para calcular tudo que acontece na tela. Uma placa de vídeo de entrada, como uma GTX 1650 ou uma RX 6400, já segura Valorant e CS2 com folga.
+
+Para jogos pesados, a placa de vídeo passa a ser a prioridade. Aqui vale considerar o mercado de usados. Placas como a RTX 2060, a GTX 1660 Super ou a RX 6600 aparecem com frequência em sites de usados por preços bem abaixo do novo. O risco existe, mas dá para reduzir bastante testando a placa na hora da compra e pedindo nota fiscal ou garantia, quando possível.
+
+Um ponto que muita gente esquece é o equilíbrio. Não adianta colocar uma placa de vídeo potente com um processador fraco, porque o processador vai limitar o desempenho. Isso se chama gargalo. Antes de comprar, pesquise combinações que funcionam bem juntas. Fóruns e vídeos de montagem ajudam bastante nessa parte.
+
+## Memória RAM, armazenamento e placa-mãe
+
+A memória RAM é barata e faz diferença. Hoje, 16 GB é o mínimo confortável para jogos. Com 8 GB você até roda alguns títulos, mas vai sentir travadas e fechamentos inesperados, principalmente se tiver o navegador aberto. Comprar dois pentes de 8 GB em vez de um de 16 GB é melhor, porque ativa o dual channel, que melhora o desempenho em jogos.
+
+A frequência da memória também importa, especialmente em processadores Ryzen. Memórias de 3200 MHz costumam ter bom custo-benefício. Não precisa exagerar em frequências muito altas, porque o ganho real é pequeno perto do preço que você paga.
+
+No armazenamento, o SSD mudou o jogo. Um SSD SATA já deixa o sistema e os jogos muito mais rápidos do que um HD antigo. Se puder, vá de SSD NVMe, que é ainda mais veloz e hoje tem preços parecidos. Um SSD de 500 GB resolve para começar, mas jogos modernos ocupam muito espaço. Considere um de 1 TB ou combine um SSD menor com um HD para guardar arquivos.
+
+A placa-mãe é onde dá para economizar sem culpa. Você não precisa de uma placa caríssima com recursos que nunca vai usar. Uma placa de entrada com bom suporte ao seu processador resolve. Só confira se ela tem slots suficientes de memória, conexões para seus periféricos e suporte ao SSD que você pretende usar.
+
+## Fonte, gabinete e refrigeração
+
+A fonte de alimentação é a peça que ninguém quer gastar, mas é a que mais protege seu investimento. Uma fonte ruim pode queimar todo o resto do PC. Nunca compre fonte genérica sem selo de eficiência. Procure modelos com certificação 80 Plus, mesmo que seja a versão mais simples.
+
+A potência depende das peças. Um PC de entrada com placa de vídeo modesta costuma pedir uma fonte de 500 W a 550 W. Um PC intermediário com placa mais forte fica na faixa de 600 W a 650 W. Não precisa exagerar, mas também não economize aqui. Marcas conhecidas custam um pouco mais, mas valem a tranquilidade.
+
+O gabinete é questão de gosto e fluxo de ar. Você não precisa de um gabinete caro com vidro temperado e luzes. Um modelo simples com boa ventilação já cumpre a função. O importante é ter espaço para as peças e entrada e saída de ar suficientes. Gabinetes com frente fechada costumam esquentar mais.
+
+Sobre refrigeração, o cooler que vem com o processador geralmente dá conta em modelos de entrada. Se você mora numa região quente ou pretende fazer overclock, um air cooler barato já melhora bastante as temperaturas. Não precisa partir para water cooler caro em setups econômicos.
+
+## Periféricos que fazem diferença
+
+Aqui é onde muita gente gasta demais sem perceber. Teclado, mouse, headset e monitor não precisam ser topo de linha para você jogar bem.
+
+O mouse é provavelmente o periférico que mais afeta seu desempenho em jogos competitivos. Você não precisa de um mouse de mil reais. Modelos na faixa dos cem a duzentos reais, de marcas conhecidas, já têm sensor bom e resposta rápida. O importante é que ele seja confortável na sua mão e tenha um sensor confiável.
+
+O teclado é mais questão de preferência. Teclados de membrana são mais baratos e silenciosos. Teclados mecânicos custam mais, mas dão feedback melhor e duram mais. Se o orçamento está apertado, um teclado de membrana bom resolve. Marcas nacionais e chinesas oferecem opções decentes por preço acessível.
+
+O headset importa para jogos que dependem de som, como shooters e jogos de terror. Você não precisa de um headset caro com som surround virtual. Um modelo com bom isolamento e microfone razoável resolve. Se já tiver um fone de ouvido comum, dá para usar ele e comprar um microfone de mesa barato separadamente.
+
+O monitor é o periférico que mais impacta a experiência visual. Para jogos competitivos, um monitor de 144 Hz muda tudo. A diferença de fluidez é grande. Para jogos single player, um monitor com bom contraste e cores boas agrada mais. Monitores de entrada de marcas conhecidas já entregam qualidade suficiente. Fuja de monitores muito baratos de marcas desconhecidas, porque a imagem costuma ser ruim.
+
+## Alternativas para gastar menos
+
+Existem vários caminhos para economizar sem abrir mão de jogar bem. Um deles é o mercado de usados. Placas de vídeo, processadores, memórias e até PCs completos aparecem em sites de classificados por preços bem menores. O segredo é testar tudo antes de comprar e desconfiar de preços bons demais.
+
+Outra alternativa é comprar peças em promoções. Lojas online fazem queimas de estoque com frequência, e datas comemorativas trazem descontos reais. Criar alertas de preço em sites de comparação ajuda a comprar no momento certo.
+
+Você também pode reaproveitar o que já tem. Se possui um PC antigo, talvez dê para salvar o gabinete, a fonte, o HD ou a memória. Antes de comprar tudo novo, veja o que dá para manter.
+
+Para quem tem orçamento muito apertado, o console usado ou o cloud gaming são opções. Serviços de jogos na nuvem permitem jogar títulos pesados sem ter um PC potente, desde que sua internet seja boa. O custo mensal pode sair mais barato do que montar uma máquina. Já consoles usados, como gerações passadas, rodam muitos jogos por preços acessíveis.
+
+Vale lembrar que o mercado de jogos para PC tem promoções constantes. Steam, Epic e outras lojas dão jogos de graça ou com descontos grandes. Montar um setup barato e aproveitar promoções é uma combinação que rende muitas horas de diversão.
+
+## Passo a passo para montar seu setup econômico
+
+Vou organizar tudo numa sequência prática para você seguir sem se perder.
+
+- Defina seu orçamento total e separe uma reserva de emergência de uns dez por cento para imprevistos.
+
+- Liste os jogos que você realmente joga e pesquise os requisitos recomendados de cada um.
+
+- Escolha o processador pensando no equilíbrio com a placa de vídeo, evitando gargalo.
+
+- Defina a placa de vídeo. Se joga e-sports, economize aqui. Se joga AAA, invista mais.
+
+- Compre 16 GB de RAM em dois pentes para ativar dual channel.
+
+- Escolha um SSD de pelo menos 500 GB, de preferência NVMe.
+
+- Selecione uma placa-mãe de entrada compatível com seu processador.
+
+- Escolha uma fonte de marca conhecida com selo 80 Plus e potência adequada.
+
+- Pegue um gabinete simples com boa ventilação.
+
+- Só depois de fechar o PC, escolha os periféricos, priorizando mouse e monitor.
+
+- Pesquise preços em pelo menos três lojas e considere o mercado de usados.
+
+- Monte com calma, assistindo vídeos do seu modelo de placa-mãe, ou pague alguém de confiança para montar.
+
+Depois de montar, instale os drivers atualizados da placa de vídeo e da placa-mãe. Ajuste as configurações gráficas de cada jogo. Muitas vezes, baixar de ultra para alto não muda quase nada visualmente e libera bastante desempenho. Desligar efeitos como sombras suaves e reflexos complexos dá um ganho grande em máquinas modestas.
+
+Também vale ajustar o sistema. Desative programas que abrem junto com o Windows, mantenha o disco com espaço livre e atualize os drivers com regularidade. Pequenos cuidados mantêm o desempenho estável por mais tempo.
+
+## Erros que custam caro
+
+Um erro comum é gastar demais em RGB e visual. Luzes coloridas não deixam o PC mais rápido. Se o orçamento está apertado, corte tudo que é enfeite e coloque o dinheiro em peças que importam.
+
+Outro erro é comprar fonte barata. Já vi gente perdendo placa de vídeo e placa-mãe por causa de fonte ruim. A economia de cem reais pode virar um prejuízo de milhares.
+
+Muita gente também ignora o monitor. De nada adianta um PC potente ligado numa tela ruim. O monitor é a janela para o jogo, e uma tela lenta ou com cores ruins estraga a experiência.
+
+Comprar peças incompatíveis é outra armadilha. Processador de uma marca não encaixa em placa-mãe de outra. Memória DDR4 não entra em slot DDR5. Antes de comprar, confira tudo. Sites de montagem de PC ajudam a validar a compatibilidade.
+
+Por fim, não compre por impulso. Pesquise, compare, espere uma promoção. A diferença de preço entre comprar na pressa e comprar com calma pode ser grande.
+
+Montar um setup gamer gastando pouco é mais sobre planejamento do que sobre sorte. Quando você entende o que cada peça faz e onde o dinheiro rende mais, fica fácil montar uma máquina que roda seus jogos favoritos sem pesar no bolso. Comece pelo que você joga, equilibre as peças, não economize na fonte e escolha periféricos com cabeça. O resto vem com pesquisa e paciência.
+
+Seu setup não precisa ser o mais bonito nem o mais potente da internet. Ele precisa rodar bem os jogos que você ama e caber no seu orçamento. Com as dicas deste guia, você tem o caminho para montar algo decente sem se endividar. Boa montagem e bons jogos.

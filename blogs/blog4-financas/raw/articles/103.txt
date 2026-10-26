@@ -1,0 +1,127 @@
+PGBL e VGBL. Duas siglas que aparecem toda vez que o assunto é aposentadoria, e que muita gente confunde ou acha que são a mesma coisa. A diferença entre eles não é pequena, e escolher o errado pode custar alguns milhares de reais ao longo dos anos.
+
+A decisão não é sobre qual é “melhor” no vácuo. É sobre qual encaixa no seu jeito de declarar o Imposto de Renda, no quanto você pretende guardar por ano e no que você espera desse dinheiro lá na frente. Um plano que funciona bem para uma pessoa pode ser um problema para outra.
+
+Vamos destrinchar os dois, sem pressa, com exemplos que fazem sentido para quem vive no Brasil e lida com INSS, declaração anual e aquela planilha de gastos que nunca fecha.
+
+## A diferença fundamental entre PGBL e VGBL
+
+A raiz de tudo está no tratamento tributário. No PGBL, você pode deduzir as contribuições da base de cálculo do Imposto de Renda, desde que faça a declaração no modelo completo e contribua para o INSS ou regime próprio de previdência-1-2. O limite é de 12% da renda bruta anual tributável.
+
+No VGBL, não existe essa dedução. Você aporta com dinheiro que já pagou imposto, e o plano funciona mais como um seguro de pessoa do que como previdência complementar no sentido estrito-1-7.
+
+Essa diferença na entrada tem uma consequência direta na saída. No PGBL, quando você resgatar, o Imposto de Renda vai incidir sobre o valor total, ou seja, tudo que você colocou lá dentro mais os rendimentos-17. No VGBL, o imposto incide apenas sobre os rendimentos, porque o principal já foi tributado antes-1-12.
+
+Parece detalhe, mas muda bastante o resultado final. Imagine que você acumulou R300milemumplano,sendoR 300 mil em um plano, sendo R300milemumplano,sendoR 180 mil de aportes e R120milderendimentos.NoPGBL,oimpostorecaisobreosR 120 mil de rendimentos. No PGBL, o imposto recai sobre os R120milderendimentos.NoPGBL,oimpostorecaisobreosR 300 mil. No VGBL, só sobre os R$ 120 mil-6. A alíquota pode até ser a mesma, mas a base de cálculo é muito diferente.
+
+## Quem pode usar o PGBL sem jogar dinheiro fora
+
+O PGBL só faz sentido para quem declara no modelo completo. Se você usa a declaração simplificada, o aporte não gera benefício nenhum na entrada, e na saída o imposto ainda incide sobre o valor todo. É o pior dos mundos-6.
+
+Também precisa contribuir para o INSS ou para regime próprio de servidor público. Sem isso, a Receita não permite a dedução-11-14.
+
+E o benefício tem teto. Você só pode deduzir até 12% da sua renda bruta anual tributável. Se sua renda tributável foi de R150milnoano,omaˊximoquevoce^deduzeˊR 150 mil no ano, o máximo que você deduz é R150milnoano,omaˊximoquevoce^deduzeˊR 18 mil em contribuições. Aportes acima disso não geram dedução adicional.
+
+Suponha que você ganha R120milporanoepretendeguardarR 120 mil por ano e pretende guardar R120milporanoepretendeguardarR 2 mil por mês, o que dá R24milanuais.Issorepresenta20 24 mil anuais. Isso representa 20% da renda. Só os primeiros R24milanuais.Issorepresenta20 14,4 mil (12% de R120mil)podemirparaoPGBLcomdeduc\ca~o.Orestante,R 120 mil) podem ir para o PGBL com dedução. O restante, R120mil)podemirparaoPGBLcomdeduc\c​a~o.Orestante,R 9,6 mil, deveria ir para um VGBL. Se você colocar tudo no PGBL, vai pagar imposto sobre o valor total no resgate sem ter tido benefício na entrada para essa parte excedente-6.
+
+A estratégia comum entre quem entende do assunto é justamente essa. Usar o PGBL até o limite de 12% e completar o que sobrar com VGBL.
+
+## Quando o VGBL é a escolha mais óbvia
+
+O VGBL atende três perfis principais. O primeiro é quem declara no modelo simplificado. Sem dedução possível, o VGBL é sempre mais vantajoso porque pelo menos na saída o imposto incide só sobre os rendimentos-1-6.
+
+O segundo é quem já esgotou o limite de 12% no PGBL e quer continuar guardando. Nesse caso, o excedente vai para o VGBL sem prejuízo nenhum.
+
+O terceiro é quem pensa em sucessão. O VGBL tem natureza de seguro de pessoa. Isso significa que, em caso de falecimento do titular, o valor vai direto para os beneficiários indicados, sem passar por inventário-1-4. É uma forma de deixar liquidez para a família em um momento em que contas costumam aparecer.
+
+O Supremo Tribunal Federal decidiu que não incide ITCMD sobre esse repasse, tanto no VGBL quanto no PGBL, em caso de morte do titular-4-16. Isso reforçou o uso desses planos como ferramenta de planejamento sucessório.
+
+Mas atenção a um ponto. A reforma tributária trouxe discussões sobre restringir essa isenção para aportes feitos muito próximos ao falecimento. A ideia é evitar que alguém use o VGBL como um jeito de transferir patrimônio sem imposto na véspera. As regras ainda estão se consolidando, e vale acompanhar-12.
+
+## Tabela progressiva ou regressiva
+
+Escolher entre PGBL e VGBL é metade da decisão. A outra metade é o regime de tributação. Existem dois, e eles mudam completamente quanto você vai pagar de imposto no resgate.
+
+A tabela progressiva segue as mesmas faixas do Imposto de Renda normal. No resgate, há uma retenção inicial de 15%, mas o valor entra na sua declaração anual e é ajustado conforme sua renda total. As alíquotas vão de isento até 27,5%-2-5.
+
+A tabela regressiva tem alíquotas que diminuem conforme o tempo de cada aporte. Até 2 anos, 35%. De 2 a 4 anos, 30%. Vai caindo de 5 em 5 pontos percentuais a cada dois anos, até chegar a 10% depois de 10 anos-13. É uma alíquota definitiva, não entra na declaração anual.
+
+A regressiva é pensada para quem vai deixar o dinheiro parado por muito tempo. Dez anos ou mais. Se você resgatar antes disso, a alíquota é alta e pode corroer boa parte do rendimento.
+
+A progressiva pode fazer sentido para quem planeja resgates menores na aposentadoria, quando a renda total for baixa. Se você projetar uma renda mensal que se encaixe nas faixas de isenção ou de alíquota baixa, a progressiva pode sair mais barata que os 10% da regressiva-5.
+
+Uma mudança recente trouxe mais flexibilidade. Antes, você tinha que escolher o regime no momento da contratação. Agora, com a Lei 14.803, a opção pode ser feita só no momento do primeiro resgate ou do início do benefício-2-5. Você pode deixar o dinheiro acumulando e decidir depois, com mais informação sobre sua situação.
+
+## Como declarar cada um no Imposto de Renda
+
+A declaração é uma fonte comum de confusão. PGBL e VGBL vão para fichas diferentes.
+
+O PGBL vai na ficha “Pagamentos Efetuados”, código 36, com o valor total dos aportes do ano-2. No resgate, se foi tabela regressiva, o valor entra em “Rendimentos Sujeitos à Tributação Exclusiva/Definitiva”. Se foi progressiva, vai em “Rendimentos Tributáveis Recebidos de Pessoa Jurídica”.
+
+O VGBL não tem dedução, então os aportes não aparecem como pagamento. O saldo acumulado vai na ficha “Bens e Direitos”, grupo 99, código 06-2-19. No resgate, segue a mesma lógica do PGBL para a tributação, regressiva em uma ficha, progressiva em outra.
+
+Errar a ficha é um caminho quase garantido para a malha fina. Vale conferir o informe de rendimentos que a instituição manda e seguir exatamente o que está lá.
+
+## Custos que ninguém comenta
+
+Taxa de administração e taxa de carregamento. Esses dois custos aparecem em qualquer plano de previdência, e fazem diferença no resultado final.
+
+A taxa de administração é cobrada anualmente sobre o patrimônio do fundo. Varia bastante entre instituições e entre fundos. Uma taxa de 1% ao ano pode parecer pequena, mas em vinte ou trinta anos de acumulação, come uma parte relevante do rendimento.
+
+A taxa de carregamento incide sobre cada aporte que você faz. Não são todos os planos que cobram, mas quando cobram, costuma ser um percentual que sai direto do valor que você colocou. Se você aporta R1.000eataxadecarregamentoeˊ3 1.000 e a taxa de carregamento é 3%, só R1.000eataxadecarregamentoeˊ3 970 entram para o fundo-1.
+
+Antes de contratar, peça o regulamento e confira essas taxas. Comparar entre instituições é trabalhoso, mas necessário. Uma diferença de meio ponto percentual na taxa de administração pode significar alguns milhares de reais a menos ou a mais no resgate.
+
+## O que acontece se você precisar do dinheiro antes
+
+Previdência privada não é conta corrente. O dinheiro fica lá e só sai em situações específicas. Resgate parcial, resgate total, portabilidade ou conversão em renda.
+
+Se você resgatar antes de completar dois anos de cada aporte, a alíquota da tabela regressiva é de 35%. Isso derruba boa parte do rendimento. Além disso, alguns planos cobram taxas específicas para resgates antecipados.
+
+A portabilidade permite levar o saldo para outro plano ou outra instituição sem pagar imposto na transferência-15. É uma saída útil quando você encontra um plano com taxas melhores. Mas a portabilidade só funciona entre planos do mesmo tipo. Não dá para portar PGBL para VGBL ou vice-versa-11.
+
+Existe também a possibilidade de transformar o saldo em renda mensal. Nesse caso, o dinheiro não sai de uma vez, e a tributação acontece conforme cada pagamento é feito. É uma forma de receber um complemento de aposentadoria sem precisar gerenciar o resgate do montante total.
+
+## Passo a passo para decidir qual contratar
+
+A decisão fica mais simples se você seguir uma ordem. Não precisa decorar tabela nem saber de cor as regras da Receita. Basta responder algumas perguntas na sequência.
+
+- Confira seu modelo de declaração. Abra sua última declaração do IR e veja se você optou por deduções legais (completo) ou desconto simplificado. Se for simplificado, o caminho é o VGBL-14.
+
+- Veja se contribui para o INSS ou regime próprio. Sem isso, o PGBL perde o sentido.
+
+- Calcule 12% da sua renda bruta tributável. Esse é o teto para dedução no PGBL. Se seus aportes planejados couberem nesse limite, o PGBL pode ser usado.
+
+- Decida o que fazer com o excedente. Se você pretende guardar mais que 12%, o que passar vai para o VGBL.
+
+- Pense no horizonte de tempo. Se for resgatar em menos de 10 anos, a tabela progressiva pode ser melhor. Se for deixar por mais de 10 anos, a regressiva tende a compensar.
+
+- Verifique as taxas do fundo. Taxa de administração e carregamento variam bastante. Compare antes de assinar.
+
+- Confirme a ficha da declaração. PGBL vai em Pagamentos Efetuados. VGBL vai em Bens e Direitos. Anote para não errar na hora do IR.
+
+## O que muda com a reforma tributária
+
+A reforma tributária trouxe discussões sobre os planos de previdência, especialmente no que diz respeito à sucessão. A isenção de ITCMD sobre o repasse a beneficiários foi confirmada pelo STF, mas há movimentação para limitar essa isenção a aportes feitos com mais de cinco anos antes do falecimento-12-16.
+
+Isso significa que quem pretende usar VGBL ou PGBL como ferramenta de sucessão precisa pensar no longo prazo. Não adianta fazer um aporte grande de última hora esperando que o valor saia livre de imposto. A tendência é que o planejamento precise ser feito com antecedência.
+
+Para quem está na fase de acumulação e não tem preocupação imediata com sucessão, as mudanças têm impacto menor. O foco continua sendo a escolha entre PGBL e VGBL conforme a declaração de IR e a tabela de tributação conforme o horizonte.
+
+A reforma também discute a tributação de dividendos e outras rendas, mas isso afeta a previdência de forma indireta, na medida em que muda a renda total do contribuinte e, por consequência, a alíquota efetiva na tabela progressiva.
+
+## Qual faz mais sentido pro seu caso
+
+Um erro frequente é contratar PGBL fazendo declaração simplificada. A pessoa ouve falar que o PGBL permite deduzir até 12% e assume que isso vale para todo mundo. Não vale. No simplificado, o aporte não gera benefício, e o resgate ainda é tributado sobre o valor total. A diferença pode passar de 5% do patrimônio acumulado-6.
+
+Outro erro é aportar acima do limite de 12% no PGBL. O excedente não gera dedução, mas na saída o imposto incide sobre ele do mesmo jeito. É dinheiro que entra sem benefício e sai com custo.
+
+Também é comum escolher a tabela regressiva sem intenção de esperar 10 anos. Se a pessoa resgata em 5 anos, a alíquota é 25%, bem acima dos 10% que ela imaginava.
+
+E tem o erro de ignorar as taxas. Um plano com taxa de administração de 2% ao ano pode parecer aceitável na hora da contratação, mas ao longo de décadas o impacto é grande. Comparar taxas antes de contratar é uma decisão que se paga sozinha.
+
+PGBL e VGBL não são rivais. São ferramentas diferentes para situações diferentes. O PGBL faz sentido para quem declara no completo, contribui para o INSS e quer reduzir o imposto agora. O VGBL atende quem declara no simplificado, já esgotou o limite de 12% ou quer uma ferramenta de sucessão.
+
+A escolha da tabela de tributação é igualmente importante. Progressiva para quem espera renda baixa na aposentadoria ou resgates menores. Regressiva para quem vai deixar o dinheiro parado por muito tempo e quer alíquota definitiva de 10%.
+
+O mais importante é não decidir no impulso. Confira sua declaração de IR, calcule o limite de 12%, pense no horizonte de tempo e leia o regulamento do fundo. A previdência privada é um investimento de longo prazo, e as decisões tomadas hoje vão ecoar por décadas.

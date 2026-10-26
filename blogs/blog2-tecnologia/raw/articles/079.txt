@@ -1,0 +1,93 @@
+Contratar as primeiras pessoas é uma das decisões mais difíceis que um fundador toma. Não porque faltem candidatos, mas porque falta quase tudo o que uma empresa grande usa para errar menos. Não existe marca empregadora consolidada, não existe processo seletivo testado, não existe alguém de RH com anos de estrada para filtrar o que é conversa bonita e o que é competência de verdade. Existe você, uma planilha, uma conta bancária que precisa durar e a pressão de crescer antes que o dinheiro acabe.
+
+O problema é que a maioria dos erros de contratação em startup não aparece na hora da entrevista. Aparece três meses depois, quando a pessoa pede demissão ou, pior, quando você percebe que ela está lá há seis meses produzindo pouco e ninguém tem coragem de dizer nada. O custo disso é brutal. Cada contratação errada consome salário, tempo de gestão, energia emocional e, muitas vezes, a oportunidade de ter contratado alguém bom que passou pela sua frente e você deixou ir.
+
+Este texto não é sobre como fazer o processo seletivo perfeito. É sobre os erros que mais travam startups no começo, aqueles que se repetem tanto que já dá para prever quando vão acontecer. Se você está contratando as primeiras cinco, dez ou vinte pessoas da sua empresa, provavelmente vai se reconhecer em mais de um trecho aqui. O objetivo é que você se reconheça antes de errar, não depois.
+
+## Contratar pela urgência em vez de contratar pela necessidade
+
+Toda startup vive um ciclo parecido. Uma demanda aparece, ninguém dá conta, o fundador entra em pânico, abre uma vaga e quer preencher em duas semanas. Esse é o terreno mais fértil para contratação ruim. Quando a urgência manda, o crivo abaixa. Você aceita um currículo mediano porque "dá para treinar depois", aceita alguém sem fit com o time porque "o momento pede", aceita um salário acima do que planejou porque "não dá para esperar mais".
+
+O erro aqui é confundir urgência com prioridade. Nem toda dor precisa ser resolvida com contratação. Às vezes precisa ser resolvida com processo, com automação simples, com uma ferramenta que custa pouco, ou até com um não para o cliente. Mas isso exige parar e pensar, e o fundador no meio do incêndio raramente para. Então contrata. E contrata mal.
+
+Uma pergunta útil antes de abrir qualquer vaga é se aquela função realmente existe de forma contínua ou se é um pico pontual. Se for pico, freelancer ou contrato temporário resolve melhor e mais barato. Se for contínuo, aí sim faz sentido buscar alguém fixo. Outra pergunta é o que aconteceria se essa posição não fosse preenchida por três meses. Muitas vezes a resposta honesta é que nada de grave aconteceria, o que revela que a urgência era mais ansiedade do que necessidade real.
+
+Startups que contratam bem aprendem a separar dor aguda de dor crônica. A dor aguda você trata com paliativo. A dor crônica exige tratamento estrutural, e contratação é tratamento estrutural. Misturar as duas coisas é o primeiro grande erro, e ele contamina todos os outros.
+
+## Descrever a vaga pelo que você quer, não pelo que a pessoa vai fazer
+
+Abra a descrição de vaga de qualquer startup e você vai encontrar uma lista de desejos. Inglês fluente, experiência em empresa grande, perfil generalista, vontade de aprender, resiliência, capacidade de trabalhar sob pressão, disponibilidade para mudanças. Tudo isso pode ser verdade, mas nada disso diz o que a pessoa vai fazer na segunda-feira de manhã.
+
+Descrição de vaga ruim gera candidato ruim. Quando você escreve em termos vagos, atrai gente que também pensa em termos vagos. Aí na entrevista ninguém consegue avaliar nada com precisão, porque não existe parâmetro. Você acaba decidindo por impressão, por simpatia, por currículo bonito, por indicação de alguém que você confia. Nenhum desses critérios é necessariamente ruim, mas nenhum deles é suficiente.
+
+O jeito prático de resolver isso é descrever as primeiras entregas esperadas. Não responsabilidades genéricas, entregas concretas. "Nos primeiros 30 dias, essa pessoa vai mapear nossos cinco maiores clientes e propor um plano de retenção." "Nos primeiros 60 dias, vai assumir a operação de suporte e reduzir o tempo médio de resposta." Isso muda tudo. Você passa a avaliar se a pessoa consegue fazer aquilo, e o candidato passa a entender o que esperar de verdade.
+
+Outro erro comum é copiar descrição de vaga de empresa grande. Startup não é empresa grande. Processo, escopo, autonomia e ritmo são completamente diferentes. Uma pessoa acostumada a executar tarefas muito bem definidas dentro de uma estrutura enorme pode se perder completamente em uma startup onde ninguém define nada e ela precisa criar do zero. Não é questão de ser melhor ou pior. É questão de contexto. E contexto errado produz desempenho ruim, mesmo com gente talentosa.
+
+## Confundir fit cultural com ser parecido com o fundador
+
+Fit cultural virou uma expressão perigosa. Na prática, em muitas startups, significa "a pessoa combina com a gente", que quase sempre quer dizer "a pessoa se parece com o fundador". Isso leva a times homogêneos, onde todo mundo pensa igual, concorda igual e erra igual. E time homogêneo é o pior cenário possível para uma empresa que precisa descobrir coisas novas todos os dias.
+
+Fit cultural de verdade é sobre valores de trabalho, não sobre personalidade. É sobre como a pessoa lida com feedback, com erro, com prazo, com conflito, com ambiguidade. Duas pessoas podem ser completamente diferentes em estilo e ainda assim compartilhar os mesmos valores de trabalho. Uma pode ser mais extrovertida e a outra mais reservada, e as duas serem honestas, responsáveis e abertas a aprender.
+
+O erro prático é usar a entrevista para confirmar afinidade. Você gosta de futebol, o candidato gosta de futebol, pronto, contratado. Ou você gosta de gente que fala muito, e o candidato fala muito, contratado. Isso é contratação por espelho, e ela falha porque o trabalho não é sobre afinidade, é sobre entrega.
+
+Uma forma melhor de avaliar fit é fazer perguntas sobre situações concretas. "Me conta uma vez em que você discordou do seu gestor. Como foi?" "Descreve um projeto que deu errado e o que você fez." "Como você organiza seu trabalho quando tem três prioridades urgentes ao mesmo tempo?" As respostas mostram valores reais, não discurso ensaiado. E mostram também se a pessoa consegue trabalhar do jeito que a sua startup trabalha, que quase nunca é o jeito de uma empresa grande.
+
+## Ignorar o custo total da contratação
+
+Fundador iniciante olha o salário e acha que é o custo. Não é. O custo real de uma contratação inclui encargos, benefícios, equipamento, software, tempo de onboarding, tempo de gestão, tempo de outras pessoas ajudando, e o custo de oportunidade de tudo isso. Em muitos casos, o custo real é quase o dobro do salário bruto. Isso muda completamente a conta.
+
+Imagine que você contratou alguém por um salário na faixa dos quatro mil reais. Com encargos, benefícios e ferramentas, isso vira algo perto de sete ou oito mil por mês. Some o tempo que você, fundador, gasta entrevistando, treinando e acompanhando. Some o tempo que um dev sênior gasta revisando o código da pessoa nova. Some o tempo que o time perde em reuniões de alinhamento que não existiriam sem aquele contratado. A conta real é bem maior do que a planilha simples mostra.
+
+Isso não é argumento para não contratar. É argumento para contratar com mais cuidado. Quando você entende o custo total, fica mais claro por que vale a pena esperar mais duas semanas por um candidato melhor, ou por que vale a pena pagar um pouco mais por alguém que vai render mais rápido. O barato inicial pode sair caro no acumulado de seis meses.
+
+Outro ponto é o custo de demitir. Rescisão, aviso prévio, tempo de recrutamento de novo, tempo de onboarding do próximo, queda de produtividade do time durante a transição. Tudo isso é real e quase nunca entra na conta no momento de decidir. Quando entra, a decisão muda.
+
+## Prometer o que a startup não pode cumprir
+
+Startup tem pouco dinheiro e muita promessa. É comum ver fundador prometendo participação societária generosa, crescimento rápido, cargo de liderança em seis meses, cultura incrível, flexibilidade total. Parte disso pode até ser verdade, mas parte é conversa para convencer o candidato. E conversa para convencer cobra juros depois.
+
+Quando a promessa não se cumpre, a confiança quebra. A pessoa se sente enganada, o que é pior do que se sentisse apenas frustrada. E confiança quebrada em time pequeno contamina todo mundo. Um contratado insatisfeito fala com os outros, e em uma startup de dez pessoas isso é metade do time.
+
+O jeito honesto de conduzir isso é ser transparente sobre o que existe e o que não existe. Se a participação é pequena, diga que é pequena. Se o crescimento depende de resultados que ainda não aconteceram, diga isso. Se a cultura tem problemas, não venda uma cultura perfeita. Candidato bom valoriza honestidade e foge de discurso grandioso. Candidato que só aceita por causa do discurso provavelmente não era o que você queria.
+
+Isso vale também para o dia a dia. Não prometa que não vai ter hora extra se você sabe que vai ter. Não prometa que a pessoa vai trabalhar só com o que ama se você sabe que metade do trabalho é chato. Não prometa autonomia total se você, fundador, ainda quer revisar tudo. Alinhamento real desde o começo evita frustração depois.
+
+## Contratar sênior demais ou júnior demais para o momento
+
+Startup no início precisa de gente que faz. Não precisa de diretor, não precisa de gerente de gerente, não precisa de especialista que só atua em uma camada muito específica. Precisa de generalista que resolve, que aprende rápido, que aceita fazer coisas abaixo do seu nível formal porque não existe estrutura para outra coisa.
+
+Contratar alguém sênior demais para o momento gera frustração dos dois lados. A pessoa se sente subutilizada, você se sente intimidado, e o trabalho que precisa ser feito não é feito porque ninguém está disposto a fazer. Contratar alguém júnior demais para uma função crítica gera sobrecarga, erro caro e retrabalho. O ponto certo é quase sempre no meio, alguém com experiência suficiente para não travar e com disposição suficiente para colocar a mão na massa.
+
+Isso muda conforme a fase. No começo, você quer generalistas. No meio, você quer especialistas. No fim, você quer gestores. Errar a fase é comum e caro. Startup que contrata especialista cedo demais fica com alguém caro e ocioso em metade do tempo. Startup que contrata generalista tarde demais fica com alguém sobrecarregado e sem profundidade.
+
+Outro erro relacionado é contratar por currículo em vez de por evidência. Currículo bonito de empresa famosa impressiona, mas não diz se a pessoa vai funcionar na sua realidade. Peça exemplos concretos, peça para a pessoa resolver um problema real da sua empresa, peça referências de gente que trabalhou com ela de perto. Isso filtra muita coisa.
+
+## Não definir quem decide e como decide
+
+Em startup pequena, decisão de contratação costuma ser confusa. O fundador acha que decide, o sócio acha que decide, o líder técnico acha que tem veto, o time acha que deveria ser consultado. Ninguém sabe quem tem a palavra final, e isso gera processo longo, desgastante e cheio de ruído.
+
+O erro não é ter várias pessoas opinando. É não ter clareza sobre quem decide. Você pode ouvir todo mundo, mas no fim alguém precisa bater o martelo. Em geral, quem vai gerir a pessoa diretamente deveria decidir, com input dos outros. Se o fundador decide tudo, ele vira gargalo. Se ninguém decide, a vaga fica aberta para sempre.
+
+Vale também definir os critérios antes de começar a entrevistar. O que é obrigatório, o que é desejável, o que é eliminatório. Se isso não está claro no começo, cada entrevistador avalia por um critério diferente e no fim ninguém consegue comparar candidatos de forma justa. Definir critério antes também protege contra viés, porque você olha para o que importa, não para o que impressiona.
+
+Outro ponto é o processo em si. Quantas etapas, quanto tempo, o que cada etapa avalia. Startup pequena não precisa de cinco fases e um painel com dez pessoas. Precisa de um processo enxuto, mas bem pensado. Duas ou três conversas bem estruturadas costumam bastar para a maioria das posições iniciais.
+
+## Checklist prático para não repetir os mesmos erros
+
+Antes de abrir uma vaga, responda por escrito. A função é contínua ou é pico. O que acontece se eu não contratar nos próximos três meses. Qual é o custo total mensal considerando salário, encargos, benefícios, ferramentas e tempo de gestão. Quem decide essa contratação. Quais são os critérios obrigatórios, desejáveis e eliminatórios.
+
+Ao escrever a descrição, foque em entregas concretas dos primeiros 30, 60 e 90 dias. Evite listas genéricas de qualidades. Evite copiar descrição de empresa grande. Deixe claro o que é o dia a dia, não só o que é o resultado final.
+
+Na entrevista, faça perguntas sobre situações reais, não sobre intenções. Peça exemplos de como a pessoa lidou com conflito, erro, prazo apertado, feedback difícil. Avalie valores de trabalho, não personalidade. Cuidado com contratação por afinidade.
+
+Na proposta, seja honesto sobre o que a startup oferece e o que não oferece. Não prometa o que não pode cumprir. Alinhe expectativa de carga de trabalho, de autonomia e de crescimento. Se possível, combine um período de experiência com critérios claros de avaliação.
+
+Nos primeiros 90 dias, acompanhe de perto. Defina entregas esperadas, faça check-ins semanais, dê feedback rápido. Não espere a avaliação formal para dizer que algo não está funcionando. E se ficar claro que não deu certo, aja rápido. Manter alguém que não funciona por pena ou por medo de recomeçar o processo custa mais caro do que demitir cedo.
+
+Por fim, trate contratação como aprendizado. Cada erro ensina algo sobre o que a sua startup realmente precisa. Anote o que deu errado, ajuste o processo, compartilhe com quem contrata com você. Com o tempo, você desenvolve um olho próprio para identificar quem encaixa e quem não encaixa, e isso vale mais do que qualquer manual.
+
+Contratar bem em startup é menos sobre acertar sempre e mais sobre errar menos e errar mais rápido. Nenhum fundador acerta todas as contratações, e quem diz que acerta provavelmente não está prestando atenção. O que diferencia as startups que sobrevivem é a capacidade de reconhecer o erro cedo, corrigir sem drama e aprender para a próxima. O time que você constrói nos primeiros anos define quase tudo o que vem depois. Vale dedicar tempo, cuidado e honestidade a essa parte, mesmo quando a pressão empurra para o atalho.
+
+No fim, o que trava uma startup não é a falta de talento disponível no mercado. É a pressa, a falta de clareza e a dificuldade de olhar para a própria contratação com honestidade. Se você conseguir evitar metade dos erros descritos aqui, já estará à frente da maioria. E se errar em algum, o que é provável, corrija rápido e siga. Startup é isso, ajuste constante, e contratação não é exceção.

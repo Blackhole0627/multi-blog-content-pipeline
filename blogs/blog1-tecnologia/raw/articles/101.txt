@@ -1,0 +1,141 @@
+Formatar o computador é uma daquelas tarefas que parecem assustadoras até você fazer a primeira vez. Depois que pega o jeito, vira só mais um procedimento de manutenção, tipo trocar o óleo do carro ou limpar a caixa d'água. A diferença é que, no computador, o risco de perder algo importante é real, então vale entender bem o processo antes de sair clicando em "avançar".
+
+A formatação serve para várias situações. O computador está lento demais, cheio de programas que você nem lembra que instalou, com vírus que nenhum antivírus resolve, ou simplesmente você quer começar do zero para vender a máquina ou passar para outra pessoa. Em todos esses casos, o caminho é parecido, mas os cuidados mudam um pouco.
+
+Neste guia, você vai ver o passo a passo completo, desde o backup até a instalação dos drivers e programas básicos. A ideia é que você consiga fazer tudo sozinho, com calma, entendendo o que cada etapa significa. Vamos começar pelo que precisa ser feito antes de qualquer coisa.
+
+## O que significa formatar o computador de verdade
+
+Muita gente usa "formatar" para se referir a qualquer limpeza pesada no sistema. Mas o termo tem um significado técnico. Formatar é preparar o disco para receber um sistema de arquivos novo. Isso apaga tudo que estava gravado ali, inclusive o sistema operacional. Depois da formatação, o computador não liga mais sozinho, ele precisa de um sistema instalado para funcionar.
+
+Existe também a reinstalação sem formatação, que é quando você instala o Windows por cima do antigo, mantendo arquivos e programas. Isso resolve alguns problemas, mas não é a mesma coisa. Se o objetivo é deixar a máquina limpa de verdade, o caminho é formatar mesmo.
+
+Vale entender a diferença entre formatar e resetar. O Windows 10 e o Windows 11 têm uma opção de "redefinir este PC" que apaga tudo e reinstala o sistema sem você precisar de pendrive. É mais simples, mas nem sempre funciona quando o sistema está muito corrompido. A formatação tradicional com pendrive dá mais controle e costuma ser mais confiável.
+
+## Quando vale a pena formatar
+
+Nem todo problema pede formatação. Às vezes, uma limpeza de arquivos temporários, remover programas da inicialização e desinstalar o que não usa já resolve. Se o computador está lento por falta de memória RAM ou por um disco rígido antigo, formatar não vai fazer milagre. O gargalo continua ali.
+
+Vale considerar a formatação em alguns casos específicos. O sistema trava demais, dá tela azul com frequência, tem vírus que voltam depois de removidos, ou você está com aquele acúmulo de anos de arquivos bagunçados. Também é o caminho natural quando você troca o HD por um SSD e quer aproveitar para começar limpo.
+
+Outro caso comum é quando você compra um computador usado ou recebe um de alguém. Formatar garante que não sobrou nada da pessoa anterior e que você está começando de um sistema confiável. Em máquinas que vão ser doadas, o mesmo vale. Ninguém quer entregar um computador com seus arquivos pessoais ainda gravados.
+
+Se o computador é novo e veio com o sistema de fábrica, não precisa formatar. A menos que você queira remover o bloatware que vem instalado, aqueles programas de teste que ninguém pediu. Nesse caso, uma formatação limpa deixa a máquina mais leve.
+
+## Backup, a etapa que ninguém pode pular
+
+Antes de qualquer coisa, backup. Formatar apaga tudo. Fotos, documentos, conversas salvas, senhas anotadas, favoritos do navegador, tudo vai embora. Se você não tem cópia, perdeu.
+
+O básico é copiar seus arquivos para um HD externo, um pendrive grande ou para a nuvem. Google Drive, OneDrive e Dropbox funcionam bem para documentos e fotos. Para volumes grandes, o HD externo é mais prático. Verifique se a cópia foi feita mesmo, abrindo algumas pastas no destino. Não confie só na impressão de que "deve ter ido".
+
+Além dos arquivos óbvios, tem coisa que a gente esquece. Favoritos do navegador, histórico de conversas do WhatsApp Web, listas de senhas salvas, configurações de e-mail no Outlook, jogos salvos em pastas escondidas. Dê uma olhada em Documentos, Imagens, Vídeos, Área de Trabalho e na pasta de Downloads. Às vezes tem coisa importante escondida ali.
+
+Para programas, não adianta copiar as pastas de instalação. Isso não funciona. O que você precisa é das licenças e dos instaladores. Anote ou exporte as senhas dos sites que você usa, especialmente se estiverem salvas no navegador. O Chrome e o Edge permitem exportar senhas para um arquivo, mas esse arquivo fica sem proteção, então guarde com cuidado e apague depois.
+
+Uma dica prática é fazer uma lista do que você usa no dia a dia. Navegador, pacote de escritório, programa de edição de imagem, jogos, ferramentas de trabalho. Assim, depois da formatação, você sabe o que precisa instalar de novo sem ficar lembrando aos poucos.
+
+## Escolhendo o sistema operacional e a edição certa
+
+A maioria das pessoas vai instalar Windows, porque é o sistema que vem na maior parte dos computadores e o que roda mais programas. Mas vale pensar na versão. Windows 10 e Windows 11 são as opções atuais, e o 11 tem exigências de hardware que nem toda máquina atende, como o chip TPM e o Secure Boot. Se o seu computador é mais antigo, o Windows 10 continua funcionando bem.
+
+Existe também a possibilidade de instalar Linux, que é gratuito e leve. Distribuições como Ubuntu, Mint e Fedora são amigáveis para quem vem do Windows. Se o computador é antigo e você só usa para navegar, escrever e ver vídeos, o Linux pode dar uma sobrevida boa. Mas se você depende de programas específicos como AutoCAD, pacote Adobe ou jogos pesados, o Windows ainda é o caminho.
+
+Para quem usa Mac, o processo é diferente. O macOS tem uma ferramenta de recuperação que reinstala o sistema sem pendrive, e o procedimento é bem guiado. Este guia foca no Windows, que é o caso mais comum, mas os princípios de backup e cuidado valem para qualquer sistema.
+
+## Preparando o pendrive de instalação
+
+Para instalar o Windows do zero, você vai precisar de um pendrive de pelo menos 8 GB. Ele será apagado durante o processo, então não use um que tenha arquivos importantes. O ideal é ter um pendrive só para isso, guardado depois para eventuais formatações futuras.
+
+O próprio site da Microsoft oferece a ferramenta Media Creation Tool. Você baixa, executa e ela cria o pendrive bootável sozinha. O processo demora um pouco, porque baixa o sistema e grava no pendrive. Tenha paciência e não interrompa. Se preferir, também dá para baixar a imagem ISO e usar programas como Rufus ou Ventoy para criar o pendrive. O Rufus é bem direto e funciona bem no Windows.
+
+Para quem vai instalar Linux, o processo é parecido. Baixe a ISO da distribuição escolhida e grave no pendrive com Rufus, Balena Etcher ou similar. O pendrive precisa ser reconhecido como bootável pela BIOS, o que esses programas fazem automaticamente.
+
+Um detalhe importante. Se o seu computador usa apenas USB-C e o pendrive é USB-A, tenha um adaptador à mão. Parece bobo, mas é o tipo de coisa que trava o processo na hora H.
+
+## Acessando a BIOS ou o menu de boot
+
+Para o computador iniciar pelo pendrive, você precisa entrar na BIOS ou no menu de boot. A tecla varia conforme a marca. Em notebooks Dell, costuma ser F2 ou F12. Em HP, F9 ou Esc. Em Lenovo, F12 ou Fn+F12. Em placas-mãe Asus, Del ou F2. Em Acer, F12. Na dúvida, pesquise o modelo exato do seu computador com "tecla boot" e você acha.
+
+A diferença entre BIOS e menu de boot é simples. O menu de boot só serve para escolher de onde iniciar naquela vez. A BIOS é a tela de configurações, onde você pode mudar a ordem de boot permanentemente. Para formatar, o menu de boot já resolve. Você liga o computador e aperta a tecla repetidamente até aparecer a tela de seleção.
+
+Se o Windows estiver funcionando, tem um atalho. No Windows 10 ou 11, vá em Configurações, Sistema, Recuperação e reinicie com a opção de inicialização avançada. De lá você consegue escolher iniciar pelo pendrive sem precisar caçar a tecla.
+
+Em computadores mais novos com UEFI, pode ser que o pendrive apareça com dois nomes, um com "UEFI" na frente e outro sem. Prefira o que tem UEFI, que é o modo mais moderno e costuma dar menos problema.
+
+## O passo a passo da instalação
+
+Com o pendrive pronto e o backup feito, chegou a hora. O processo é mais simples do que parece. Siga a ordem com calma.
+
+- Conecte o pendrive, ligue o computador e entre no menu de boot pela tecla correta.
+
+- Escolha o pendrive na lista. Se aparecerem duas opções, escolha a que tem UEFI.
+
+- Na tela de instalação do Windows, escolha idioma, formato de hora e teclado. Clique em Avançar.
+
+- Clique em "Instalar agora". Se pedir chave de produto, você pode clicar em "Não tenho a chave" e ativar depois. O Windows funciona sem ativar, com algumas limitações visuais.
+
+- Escolha a edição. Para uso doméstico, Home basta. Para recursos de rede e criptografia mais avançados, Pro.
+
+- Aceite os termos e escolha "Personalizada" na tela de tipo de instalação. Essa é a opção que permite formatar.
+
+- Na lista de partições, apague todas as partições do disco onde vai instalar. Cuidado para não apagar o disco errado se tiver mais de um.
+
+- Selecione o espaço não alocado e clique em Avançar. O Windows cria as partições e começa a copiar os arquivos.
+
+- O computador vai reiniciar algumas vezes. Não mexa em nada até chegar à tela de configuração inicial.
+
+- Configure região, teclado, conta da Microsoft ou conta local, e as preferências de privacidade.
+
+A parte das partições é a que mais assusta. Se você tem só um disco, apague todas as partições que aparecerem. Se tem dois discos, confira pelo tamanho qual é o certo. O disco onde vai o sistema costuma ser o menor, se você tem um SSD pequeno para o sistema e um HD grande para dados. Na dúvida, desconecte o disco de dados antes de começar. É mais seguro.
+
+## Depois da instalação, o que fazer primeiro
+
+O sistema está instalado, mas ainda não está pronto para uso. A primeira coisa é conectar à internet e deixar o Windows Update rodar. Ele vai baixar atualizações de segurança e, muitas vezes, drivers importantes. Isso pode levar um tempo e reiniciar algumas vezes.
+
+Depois, instale os drivers que faltam. A maioria vem pelo Windows Update, mas alguns específicos, como o de vídeo, vale baixar direto do site do fabricante do notebook ou da placa. Se o vídeo está com resolução estranha ou o som não funciona, provavelmente é driver faltando. O site do fabricante do seu computador tem uma página de suporte onde você digita o modelo e baixa o que precisa.
+
+Só então comece a instalar seus programas. Navegador, pacote de escritório, antivírus, se você usa um. O Windows já vem com o Defender, que é razoável, então não precisa sair instalando qualquer coisa. Vá com calma e instale só o que você realmente usa. Cada programa a mais é peso e mais uma coisa para atualizar.
+
+Por fim, restaure seus arquivos do backup. Copie de volta para as pastas certas e configure os programas com suas contas e preferências. Esse é o momento de conferir se nada ficou para trás. Se perceber que esqueceu algo, ainda dá tempo de recuperar do backup antes de apagar a cópia.
+
+## Checklist final antes de considerar tudo pronto
+
+Vale revisar alguns pontos para não ter surpresa depois. Uma passada rápida por essa lista evita retrabalho.
+
+- Backup conferido, abrindo arquivos aleatórios para garantir que copiaram certo.
+
+- Senhas e favoritos exportados ou anotados em local seguro.
+
+- Pendrive de instalação guardado, caso precise formatar de novo.
+
+- Windows Update rodado até o fim, com todas as reinicializações feitas.
+
+- Drivers de vídeo, som e rede instalados e funcionando.
+
+- Programas essenciais instalados e configurados com suas contas.
+
+- Arquivos restaurados e organizados nas pastas certas.
+
+- Antivírus ativo, seja o Defender ou outro de sua preferência.
+
+- Chave de produto do Windows ativada, se você tiver uma.
+
+Se algo não funcionou, respire e refaça a etapa. Formatação não é uma corrida. Na maioria dos casos, os problemas vêm de driver faltando ou de uma partição que não foi apagada direito. Refazer com calma resolve.
+
+## Erros comuns e como evitar
+
+Um erro clássico é apagar o disco errado. Quando você tem dois discos, é fácil se confundir. A dica de desconectar o disco de dados antes da instalação evita esse problema de vez. Se não puder desconectar, confira o tamanho e o nome antes de apagar qualquer coisa.
+
+Outro erro é não fazer backup antes. Parece óbvio, mas muita gente lembra dos documentos e esquece das fotos no celular sincronizadas, das conversas do WhatsApp ou dos jogos salvos. Faça uma varredura completa antes de começar.
+
+Tem também o problema do pendrive que não é reconhecido. Às vezes a BIOS está em modo Legacy e o pendrive foi criado em UEFI, ou o contrário. Trocar o modo na BIOS ou recriar o pendrive com a opção certa resolve. Se o computador não dá boot de jeito nenhum, tente outra porta USB, de preferência as traseiras em desktops.
+
+Por fim, tem a questão da ativação. Se você tinha o Windows ativado antes, a licença digital fica vinculada à conta da Microsoft ou à placa-mãe. Ao reinstalar a mesma edição, ele ativa sozinho ao conectar na internet. Se você trocou peças importantes, pode precisar reativar por telefone ou pelo suporte. Não é o fim do mundo, mas dá algum trabalho.
+
+## Formatar vale a pena quando feito com cuidado
+
+Formatar o computador não é nenhum bicho de sete cabeças. O processo é bem documentado, as ferramentas são gratuitas e o resultado costuma ser uma máquina visivelmente mais rápida e organizada. O que separa uma formatação tranquila de uma dor de cabeça é o cuidado antes de começar, especialmente com o backup e com a identificação correta das partições.
+
+Se você seguir o passo a passo, fizer o backup com calma e não tiver pressa na hora de apagar as partições, as chances de dar errado são pequenas. E mesmo que algo saia diferente do esperado, quase sempre dá para refazer a etapa sem grandes prejuízos. O importante é não pular o backup, nem se deixar levar pela pressa de ver o sistema novo funcionando.
+
+Depois de formatar uma vez, você percebe que virou uma habilidade útil para a vida toda. Computador lento, vírus teimoso, máquina usada que chegou em casa, tudo isso deixa de ser um problema grande. Você sabe o caminho e sabe que dá conta.

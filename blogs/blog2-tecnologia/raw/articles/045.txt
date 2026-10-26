@@ -1,0 +1,99 @@
+Configurar um roteador parece uma tarefa simples. Você tira da caixa, conecta na tomada, liga o cabo do modem e pronto, a internet funciona. A maioria das pessoas faz exatamente isso e nunca mais mexe no aparelho. O problema é que a configuração de fábrica foi feita para funcionar rápido, não para proteger você. Ela vem com senhas padronizadas, recursos abertos e serviços que ninguém usa, mas que ficam expostos na rede.
+
+Pense no roteador como a portaria do seu prédio. Se o porteiro deixa entrar qualquer um que saiba o nome do síndico, ou pior, se a chave da portaria está embaixo do tapete, não adianta ter câmera e alarme nos apartamentos. O roteador é o primeiro equipamento que recebe o tráfego da internet e decide o que entra e o que sai da sua casa. Se ele estiver mal configurado, tudo que está conectado ali fica vulnerável, seja o notebook do trabalho, o celular com o app do banco, a TV com suas contas de streaming ou a câmera que filma a sala.
+
+Muita gente acredita que o risco é baixo porque mora em um bairro tranquilo ou porque não tem nada de importante na rede. Só que o ataque não precisa ser direcionado. Boa parte dos problemas vem de programas automáticos que varrem a internet procurando roteadores com configurações fracas. Eles não escolhem a dedo quem atacar. Eles procuram a porta aberta mais fácil e entram. Neste texto, você vai ver como transformar um roteador comum em um ponto de acesso bem mais difícil de ser invadido, com passos que qualquer pessoa consegue seguir.
+
+## Por que o roteador é um alvo tão visado
+
+O roteador tem uma posição privilegiada. Ele fica entre a internet e todos os seus aparelhos. Quem controla o roteador consegue ver o tráfego que passa por ele, redirecionar páginas, alterar o DNS e até bloquear atualizações de segurança dos seus dispositivos. É um ponto único de falha. Se ele cai, cai tudo junto.
+
+Fabricantes entregam o aparelho com uma senha de administração que costuma ser igual para todos os modelos da mesma linha. Às vezes é "admin" com "admin", às vezes é uma senha impressa numa etiqueta atrás do aparelho. Essa etiqueta é útil para você, mas também é conhecida por quem procura brechas. Existem listas públicas com milhares de combinações de usuário e senha padrão de roteadores. Um programa consegue testar essas combinações em segundos.
+
+Outro problema é o acesso remoto. Muitos roteadores vêm com a opção de administração pela internet habilitada. Isso significa que alguém de fora pode tentar acessar o painel de configuração do seu roteador digitando o seu endereço de IP. Se a senha for fraca, o invasor entra como se estivesse sentado no seu sofá. Ele pode mudar o DNS para um servidor falso, criar uma rede separada para capturar dados ou simplesmente fechar o acesso e pedir resgate.
+
+Tem ainda o problema das atualizações. Roteadores são computadores pequenos, com sistema operacional próprio, e como todo sistema, têm falhas. O fabricante corrige essas falhas com atualizações de firmware. O problema é que muita gente nunca atualiza. O aparelho fica com uma versão antiga, cheia de brechas conhecidas, e continua funcionando normalmente, o que dá uma falsa sensação de segurança.
+
+## Acesso ao painel de administração
+
+Antes de mudar qualquer coisa, você precisa entrar no painel do roteador. Normalmente basta digitar o endereço de IP na barra do navegador. Os mais comuns são 192.168.0.1 ou 192.168.1.1. A etiqueta do aparelho costuma trazer esse endereço, além do usuário e senha iniciais. Se você não sabe qual é, abra o terminal do computador ou o aplicativo de configurações do celular e veja qual é o "gateway padrão" da rede. Esse é o endereço do roteador.
+
+Ao acessar, você vai cair em uma tela de login. Se for a primeira vez, use as credenciais da etiqueta. Se alguém já configurou o aparelho antes, essas credenciais podem ter sido trocadas. Caso não saiba a senha atual, a saída é resetar o roteador segurando o botão de reset por alguns segundos. Isso apaga todas as configurações, inclusive as da operadora. Em alguns casos, o modem da operadora tem configurações próprias que não podem ser alteradas, então é bom separar o que é modem e o que é roteador. Muitos aparelhos enviados pelas operadoras fazem as duas funções ao mesmo tempo.
+
+Uma vez dentro do painel, anote em algum lugar seguro as alterações que você fizer. Roteador não tem botão de desfazer. Se você mudar uma configuração errada e não lembrar qual era a original, pode perder o acesso à internet. O reset sempre resolve, mas dá trabalho.
+
+## Trocar a senha padrão e criar uma rede separada
+
+A primeira mudança é trocar a senha de administração do roteador. Não confunda com a senha do Wi-Fi. São duas coisas diferentes. A senha de administração controla quem pode entrar no painel e mudar as configurações. A senha do Wi-Fi controla quem pode se conectar à rede sem fio. As duas precisam ser fortes, mas a de administração é ainda mais crítica.
+
+Use uma senha longa, com letras maiúsculas e minúsculas, números e símbolos. Evite datas, nomes de família, apelidos do cachorro ou sequências como 12345678. Uma boa dica é montar uma frase e usar as iniciais, misturando maiúsculas e números. Por exemplo, a frase "meu primeiro carro foi um Fiat 147" pode virar "MpCf1F147!". Fica longa, difícil de adivinhar e fácil de lembrar.
+
+Depois, mude também o nome da rede Wi-Fi. O nome padrão costuma indicar o modelo do roteador. Isso ajuda quem está procurando uma brecha, porque já sabe qual tipo de aparelho está ali. Dê um nome genérico, que não identifique a marca nem a sua casa. Nada de "Apartamento do João" ou "Casa da Praia". Prefira algo neutro.
+
+Aproveite para criar uma rede separada para visitantes. Quase todo roteador moderno tem essa função. A rede de visitantes dá internet para quem chega, mas não deixa esses aparelhos acessarem os seus dispositivos. Se um visitante tem um celular infectado, o problema fica isolado. É um recurso simples e que muita gente ignora.
+
+## Criptografia e senha do Wi-Fi
+
+A configuração de segurança do Wi-Fi deve estar em WPA2 ou, se o roteador oferecer, WPA3. O antigo WEP é fácil de quebrar e não deve ser usado de jeito nenhum. Se o seu roteador só aceita WEP, ele é antigo demais e vale considerar a troca. O WPA2 com AES é o padrão mais comum e seguro para a maioria dos aparelhos.
+
+A senha do Wi-Fi precisa ser diferente da senha de administração. Não use a mesma para as duas coisas. Se alguém descobrir a senha do Wi-Fi, não deve conseguir entrar no painel do roteador. Crie uma senha longa, de preferência com mais de 12 caracteres. Evite nomes de familiares, números de telefone ou placas de carro.
+
+Desative o WPS. Esse recurso permite conectar aparelhos apertando um botão, sem digitar senha. Parece prático, mas é uma brecha conhecida. Em muitos roteadores, o WPS permite que alguém descubra a senha do Wi-Fi em poucas horas de tentativa. Se você não usa, desligue. Se usa, saiba que está abrindo mão de segurança por conveniência.
+
+Vale também esconder o SSID, que é o nome da rede. Isso não impede um invasor determinado, mas dificulta a vida de quem só está procurando uma rede aberta para se conectar. O efeito colateral é que você precisa digitar o nome da rede manualmente em cada aparelho novo. Para a maioria das casas, o ganho é pequeno, mas não custa nada.
+
+## Atualização de firmware e serviços desnecessários
+
+O firmware é o sistema do roteador. Fabricantes lançam atualizações para corrigir falhas de segurança, melhorar o desempenho e adicionar recursos. Verifique se o seu roteador tem atualização automática. Se tiver, ative. Se não, crie o hábito de entrar no painel a cada dois ou três meses e procurar por atualizações. É rápido e resolve muitos problemas.
+
+Muitos roteadores vêm com serviços que você não usa e que ficam ativos por padrão. Exemplos comuns são o acesso remoto pela internet, o UPnP, o Telnet e o servidor de arquivos. Cada serviço aberto é uma porta de entrada. Se você não sabe para que serve, desligue. O UPnP, em especial, permite que aplicativos abram portas no roteador sem pedir permissão. Isso é útil para jogos e torrents, mas também é usado por programas maliciosos para expor serviços na sua rede.
+
+Desative o acesso remoto à administração. Você não precisa configurar o roteador estando fora de casa. Se precisar, use uma VPN, que é mais segura. O acesso remoto via HTTP ou HTTPS é um dos vetores mais explorados por ataques automáticos. Não vale o risco.
+
+Se o roteador tiver firewall, mantenha ativado. A maioria tem. Verifique também se há opção de bloqueio de sites ou de controle parental. Mesmo que você não use, saber que existe ajuda a entender o que o aparelho oferece. E se um dia precisar, já sabe onde mexer.
+
+## Rede para convidados e dispositivos inteligentes
+
+Casa moderna tem muita coisa conectada. Geladeira, televisão, câmera, lâmpada, aspirador, fechadura. Cada um desses aparelhos é um pequeno computador, e muitos têm segurança fraca. Câmeras baratas, por exemplo, são famosas por terem senhas padrão e falhas conhecidas. Se elas estão na mesma rede do seu computador, um invasor que entra pela câmera pode alcançar o resto.
+
+A solução é separar as redes. Coloque todos os dispositivos inteligentes e eletrodomésticos conectados em uma rede separada, de preferência a rede de convidados ou uma VLAN, se o roteador permitir. Assim, se um deles for comprometido, o dano fica contido. O computador onde você acessa o banco e o celular com o WhatsApp ficam em outra rede, mais protegida.
+
+Essa separação também ajuda na hora de trocar a senha do Wi-Fi principal. Se a senha vazar, você troca só a da rede principal e os aparelhos da rede de convidados continuam funcionando. Menos trabalho.
+
+## Checklist prático de configuração segura
+
+A seguir, um roteiro para você seguir na ordem. Não precisa fazer tudo de uma vez. Comece pelo mais crítico e vá avançando.
+
+- Acesse o painel do roteador pelo endereço de IP e faça login.
+
+- Troque a senha de administração por uma senha longa e única.
+
+- Mude o nome da rede Wi-Fi para algo que não identifique o modelo nem a sua casa.
+
+- Configure a criptografia do Wi-Fi em WPA2 ou WPA3.
+
+- Crie uma senha de Wi-Fi forte, diferente da senha de administração.
+
+- Desative o WPS.
+
+- Desative o acesso remoto à administração.
+
+- Desligue o UPnP, o Telnet e qualquer serviço que você não use.
+
+- Ative a atualização automática de firmware ou verifique manualmente.
+
+- Crie uma rede de convidados e mova os dispositivos inteligentes para ela.
+
+- Anote as configurações em um lugar seguro, caso precise restaurar depois.
+
+Depois de fazer isso, reinicie o roteador e teste a conexão em todos os aparelhos. Se algum não conectar, verifique se ele está usando a senha nova e se a rede está no alcance. Em geral, o processo leva menos de meia hora e resolve a maior parte dos problemas de segurança doméstica.
+
+## O que fazer depois da configuração
+
+Configurar o roteador não é algo que se faz uma vez e esquece. De tempos em tempos, vale entrar no painel e conferir se ninguém mudou nada. Veja a lista de aparelhos conectados. Se aparecer um dispositivo que você não reconhece, bloqueie e troque a senha do Wi-Fi. Isso pode indicar que alguém estava usando a sua rede.
+
+Fique atento também a mudanças no comportamento da internet. Quedas frequentes, lentidão fora do normal ou páginas que abrem em endereços estranhos podem ser sinal de roteador comprometido. Nesses casos, o mais seguro é resetar o aparelho e configurar de novo, seguindo os passos acima.
+
+Se o roteador for muito antigo, sem suporte a WPA2 ou sem atualizações há anos, considere trocar. Um aparelho novo, mesmo que simples, costuma ser mais seguro que um modelo antigo cheio de brechas. Não precisa ser o mais caro. Um roteador intermediário, na faixa dos trezentos a quinhentos reais, já atende bem a maioria das casas e traz recursos de segurança atuais.
+
+A segurança digital começa pela porta de entrada. De nada adianta usar senhas fortes nos aplicativos se o roteador está aberto para o mundo. Configurar bem o aparelho é um dos passos mais eficazes e baratos que você pode dar para proteger sua vida online. Não é complicado, não exige conhecimento técnico avançado e faz uma diferença enorme. Reserve um tempo neste fim de semana, entre no painel do seu roteador e veja o que dá para melhorar. Seu eu do futuro agradece.

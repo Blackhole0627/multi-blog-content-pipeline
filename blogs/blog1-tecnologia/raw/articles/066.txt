@@ -1,0 +1,109 @@
+Criança com tablet no colo é uma cena comum em qualquer casa brasileira. Às vezes é o único jeito de garantir alguns minutos de paz para preparar o jantar. O problema aparece quando esse tempo de tela vira horas, e o que passa na tela ninguém acompanha de perto. A internet não é um parque cercado. É uma avenida movimentada, com gente boa, gente estranha e armadilhas que nem sempre são visíveis para um adulto, imagine para uma criança de oito anos.
+
+Proteger os filhos na internet não é instalar um aplicativo e esquecer o assunto. Também não é proibir tudo, o que costuma ter efeito contrário. É uma combinação de conversa, configuração de aparelhos e presença. Nenhuma dessas três coisas funciona sozinha. Controle parental sem diálogo vira desafio a ser burlado. Diálogo sem configuração deixa portas abertas que a criança nem sabe que existem. E configuração sem presença é vigilância, não proteção.
+
+O ponto de partida é entender que cada idade pede um tipo de cuidado. Uma criança de seis anos e um adolescente de quinze não enfrentam os mesmos riscos e não respondem às mesmas estratégias. Também muda o tipo de aparelho. Celular, tablet, videogame e computador da escola têm configurações diferentes, e muitos pais só lembram do celular. Este texto organiza o que dá para fazer na prática, começando pelo básico e avançando para situações mais específicas.
+
+## O que realmente ameaça uma criança conectada
+
+Quando se fala em perigo na internet, a primeira imagem que vem à cabeça é a de um adulto mal-intencionado se passando por outra pessoa. Esse risco existe e é grave, mas não é o único. Boa parte dos problemas que aparecem no dia a dia é mais banal e, por isso mesmo, mais fácil de passar despercebido.
+
+Um deles é o conteúdo impróprio que chega sem ser buscado. Vídeos recomendados por algoritmo, comentários em jogos online, links em grupos de WhatsApp da turma da escola. Uma criança que joga um game aparentemente inocente pode ser exposta a xingamentos, ameaças e conteúdo sexual em chats de voz e texto. Isso acontece em jogos populares entre crianças brasileiras, e os pais muitas vezes não fazem ideia de que existe chat ali dentro.
+
+Outro risco é o contato com estranhos que começa de forma gradual. Não é um desconhecido que se apresenta como adulto. É alguém que entra no mesmo servidor de jogo, elogia a habilidade da criança, oferece itens virtuais, pede para migrar a conversa para um aplicativo de mensagens e vai construindo confiança aos poucos. Esse processo tem nome técnico, mas o que importa entender é a mecânica. A aproximação é lenta e parece amizade.
+
+Existe ainda o risco financeiro. Crianças fazendo compras dentro de jogos com o cartão cadastrado no celular dos pais, assinaturas que ninguém autorizou, golpes de falsos sorteios que pedem dados. E o risco de exposição da própria imagem. Uma criança que manda foto para alguém achando que é brincadeira pode perder o controle sobre essa imagem para sempre. Esse ponto merece uma conversa específica, porque envolve vergonha e medo, e a criança precisa saber que pode contar aos pais sem ser punida.
+
+Por fim, tem o efeito sobre o sono, o humor e a atenção. Não é teoria. Pais percebem quando o filho fica irritado ao ser chamado para largar o celular, quando perde a noção do tempo, quando mente sobre quanto tempo passou conectado. Isso não é só birra. É sinal de que o limite precisa ser construído com mais cuidado.
+
+## Conversar antes de configurar
+
+A tentação é começar mexendo nas configurações do aparelho. Faz sentido, mas só depois de uma conversa. Se a criança descobre o controle parental sem ter sido avisada, ela entende aquilo como desconfiança. E criança que se sente desconfiada aprende a esconder, não a se proteger.
+
+A conversa precisa ser adequada à idade. Para uma criança pequena, a ideia de estranhos na internet pode ser explicada com a mesma lógica usada para a rua. Você não fala com qualquer pessoa que te aborda na calçada, não aceita presente de desconhecido, não vai embora com quem você não conhece. Vale o mesmo na tela. Para um pré-adolescente, o foco muda. Ele já entende que existe risco, então a conversa precisa ser sobre julgamento. Como perceber quando uma conversa está ficando estranha. Como avaliar se um pedido é razoável. O que fazer quando algo dá errado.
+
+Um ponto que faz diferença é combinar que a criança pode contar qualquer coisa sem levar bronca imediata. Se ela contar que viu algo perturbador e a primeira reação for confiscar o aparelho, a próxima vez ela não conta. Proteção depende de informação circulando dentro de casa. O adulto precisa ser a pessoa a quem a criança recorre, e isso se constrói com reação calma nas primeiras situações, mesmo quando dá vontade de gritar.
+
+Também ajuda estabelecer acordos concretos em vez de regras vagas. "Não use muito o celular" não diz nada. "Celular fica na sala depois das nove da noite" é uma regra que a criança entende e que o adulto consegue cobrar. Acordos claros reduzem conflito porque não dependem de interpretação no momento da discussão.
+
+## Configurações que valem a pena em qualquer aparelho
+
+Existe um conjunto de ajustes que funciona em praticamente qualquer celular ou tablet, seja Android, seja iPhone. Não é o que resolve tudo, mas fecha as portas mais óbvias.
+
+A primeira é a conta da criança. Muitos pais deixam o filho usar o próprio celular com a conta pessoal deles logada. Isso significa que a criança tem acesso a e-mail, histórico de compras, fotos e mensagens do adulto. Pior, tudo o que a criança fizer fica registrado na conta do adulto, e vice-versa. O certo é criar uma conta própria para a criança, vinculada à conta da família. Tanto o Google quanto a Apple têm esse recurso, e ele permite aprovar compras, limitar tempo de uso e ver relatórios de atividade.
+
+A segunda é a loja de aplicativos. Bloquear a instalação de aplicativos sem senha impede que a criança baixe qualquer coisa por conta própria. Isso evita desde joguinhos que parecem inofensivos até aplicativos de mensagem que os pais nem sabem que existem no aparelho. Vale revisar de tempos em tempos quais apps estão instalados, porque alguns permitem conversas com desconhecidos.
+
+A terceira é a localização e a privacidade. Aplicativos costumam pedir acesso a localização, câmera, microfone e contatos logo na primeira abertura. Boa parte desses pedidos não é necessária para o app funcionar. Vale revisar caso a caso e negar o que não faz sentido. Um jogo de colorir não precisa saber onde a criança está.
+
+A quarta é o tempo de tela. Existe limite por aplicativo e limite geral por dia da semana. O mais útil costuma ser o limite por aplicativo, porque ataca o problema real, que é o tempo dentro de um app específico. Bloquear o celular inteiro às vezes só empurra a criança para outro aparelho.
+
+A quinta é a verificação em duas etapas nas contas da própria criança. Parece exagero, mas contas infantis também são alvo de invasão, e uma conta invadida pode ser usada para falar com os amigos dela se passando por ela.
+
+## Redes sociais, jogos e aplicativos de mensagem
+
+Cada ambiente tem suas particularidades, e vale conhecer as armadilhas mais comuns de cada um.
+
+Nas redes sociais, o ponto crítico é a configuração de privacidade. Conta de criança e adolescente deve ser fechada, visível só para quem ela aprovou. Comentários podem ser restritos, mensagens diretas de desconhecidos podem ser bloqueadas. Vale revisar quem ela segue e quem a segue, porque perfil falso que segue criança é um sinal de alerta. Também é comum a criança usar mais de uma conta, às vezes uma que os pais conhecem e outra que eles não conhecem. Não dá para impedir isso por completo, mas dá para conversar sobre o assunto e explicar por que esconder uma conta é ruim para ela mesma.
+
+Nos jogos online, o chat é o principal ponto de atenção. Muitos jogos permitem desativar o chat de voz e o chat de texto, ou limitar a conversa a amigos. Isso deveria ser o padrão para crianças. Outro ponto é o sistema de itens virtuais. Presentes dentro do jogo são uma forma clássica de aproximação. Se um desconhecido está oferecendo itens de graça para seu filho, isso merece atenção imediata. E existe ainda o risco de golpe financeiro disfarçado de promoção dentro do jogo.
+
+Nos aplicativos de mensagem, o cuidado principal é com grupos. Crianças são adicionadas a grupos da turma, do condomínio, do curso, e nesses grupos circula de tudo. Também existem aplicativos de mensagem menos conhecidos, que prometem conversas que desaparecem. Esses merecem atenção redobrada, porque a característica de apagar mensagens dificulta qualquer acompanhamento posterior. Se seu filho tem um app de mensagens que você nunca ouviu falar, vale entender por que ele está ali.
+
+## O papel da escola e da rede de apoio
+
+Nenhum pai dá conta sozinho, e nem deveria tentar. A escola é uma aliada importante, principalmente porque muitas situações de risco começam ou se manifestam lá. Conversas sobre segurança digital fazem parte do currículo em muitas escolas brasileiras, e vale saber o que a escola do seu filho aborda e como.
+
+Vale também manter contato com outros pais. Muitas vezes uma criança conta para o amigo algo que está acontecendo, e o amigo conta para os pais dele. Se existe uma rede mínima de pais que se comunicam, esse tipo de informação circula e chega a quem precisa. Isso não é fofoca. É rede de proteção.
+
+Outro ponto é o exemplo dentro de casa. Criança aprende observando. Se o adulto passa o jantar inteiro no celular, a regra de tempo de tela perde força. Se o adulto compartilha localização em tempo real com desconhecidos, a conversa sobre privacidade soa falsa. Não é sobre ser perfeito. É sobre ser coerente o suficiente para que as regras façam sentido.
+
+## Passo a passo para configurar a proteção hoje
+
+Esta parte é prática. Serve para quem quer sentar com o celular ou tablet da criança e fazer os ajustes principais em uma única sessão. Reserve uns quarenta minutos, faça junto com a criança quando a idade permitir, e explique o que está sendo mudado e por quê.
+
+- Crie uma conta infantil vinculada à sua conta de família. No Android, isso é feito pelo Family Link. No iPhone, pelo recurso de Compartilhamento Familiar com conta de criança. A partir daí, os controles ficam centralizados no seu aparelho.
+
+- Ative a aprovação de compras e downloads. Nenhum aplicativo ou compra dentro de app pode ser feito sem a sua senha. Isso resolve boa parte do problema financeiro de uma vez.
+
+- Defina limites de tempo por aplicativo. Comece pelos que mais consomem tempo, geralmente redes sociais, vídeos e jogos. Deixe o limite visível para a criança, porque regra escondida gera conflito.
+
+- Revise as permissões de cada aplicativo instalado. Localização, câmera, microfone e contatos devem ser concedidos só quando há motivo claro. Negue o resto.
+
+- Configure a privacidade das redes sociais. Perfil fechado, mensagens de desconhecidos bloqueadas, comentários restritos. Aproveite para revisar a lista de seguidores e ver se há perfis estranhos.
+
+- Desative chats de voz e texto em jogos online, ou limite a conversa a amigos conhecidos. Se o jogo não permitir essa configuração, considere se ele é adequado para a idade.
+
+- Ative a verificação em duas etapas nas contas da criança. Use o seu celular como número de recuperação, para que você receba os códigos.
+
+- Combine uma regra de horário e local para o uso. Por exemplo, nada de aparelho no quarto à noite. Carregador fica na sala. Isso melhora o sono e reduz o uso escondido.
+
+- Faça uma revisão mensal. Sente com a criança, olhe juntos o relatório de atividade, veja quais apps foram instalados, converse sobre o que apareceu. Não transforme isso em auditoria. Transforme em conversa recorrente.
+
+Depois dessa configuração inicial, o trabalho passa a ser de manutenção. Novos aplicativos aparecem, a criança cresce e pede mais liberdade, os riscos mudam de forma. O que não muda é a necessidade de o adulto continuar presente e acessível.
+
+## Quando algo dá errado
+
+Mesmo com tudo configurado, situações ruins acontecem. Pode ser um conteúdo perturbador que apareceu sem ser buscado, uma conversa estranha, uma foto compartilhada sem pensar, um golpe que quase deu certo. A reação do adulto nesse momento define muita coisa.
+
+A primeira coisa é não explodir. A criança precisa sentir que pode contar, e isso depende de a primeira reação não ser de punição imediata. Depois, é entender o que aconteceu com calma. O que foi visto, com quem falou, o que foi compartilhado, por onde começou. Anotar ajuda, porque detalhes se perdem na conversa.
+
+Se houver suspeita de crime, como aliciamento, ameaça ou produção de imagem de criança, o caminho é registrar boletim de ocorrência e procurar a delegacia especializada em crimes cibernéticos, que existe em muitas cidades brasileiras. Também vale guardar prints e não apagar conversas, porque isso serve de prova.
+
+Se o problema for emocional, como ansiedade ligada a redes sociais, comparação constante com outros, medo de ficar de fora, o caminho pode incluir ajuda profissional. Psicólogo não é exagero, é recurso. Muitas escolas têm orientação educacional que pode ajudar a encaminhar.
+
+Se o problema for vício em jogos ou redes, a abordagem costuma ser gradual. Corte total costuma gerar conflito e uso escondido. Redução combinada, com alternativas presenciais de lazer, funciona melhor. Esporte, música, encontro com amigos, qualquer coisa que dê prazer fora da tela ajuda a equilibrar.
+
+## O que não funciona
+
+Vale dizer o que costuma dar errado, para economizar tempo de quem está começando.
+
+Proibir tudo não funciona. Criança sem acesso em casa acessa na casa do amigo, na escola, na biblioteca. E perde a chance de aprender a usar com orientação.
+
+Espionar sem avisar também cobra um preço. Alguns pais instalam aplicativos de monitoramento escondidos. Quando a criança descobre, e geralmente descobre, a confiança leva anos para se reconstruir. Monitoramento aberto, combinado, é diferente de vigilância secreta.
+
+Terceirizar tudo para um aplicativo não funciona. Nenhum software substitui a conversa. O app fecha uma porta, mas não ensina a criança a reconhecer uma armadilha nova que ainda não está na lista.
+
+E ignorar o assunto porque a criança "é nova demais" também não funciona. Crianças de cinco, seis anos já usam tablet. A conversa adequada para essa idade é simples, mas precisa existir.
+
+No fim, proteger uma criança na internet é menos sobre tecnologia e mais sobre relação. As ferramentas ajudam, mas o que sustenta a proteção é a criança saber que pode contar o que acontece, e o adulto saber ouvir sem transformar tudo em crise. Isso se constrói devagar, com conversas repetidas, ajustes constantes e presença real. Não existe configuração perfeita, e não existe família que acerta sempre. Existe família que continua prestando atenção, mesmo quando o assunto é desconfortável, mesmo quando a criança reclama das regras, mesmo quando parece que não adianta. É esse cuidado contínuo, e não um aplicativo específico, que faz diferença no longo prazo.

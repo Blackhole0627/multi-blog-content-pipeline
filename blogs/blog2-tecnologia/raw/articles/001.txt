@@ -1,0 +1,101 @@
+A confusão começa cedo, geralmente numa conversa de trabalho em que alguém diz que "a empresa precisa usar IA" e todo mundo concorda sem saber exatamente o que isso significa. Na semana seguinte aparecem um sistema de recomendação, um chatbot que responde dúvidas e uma planilha que dispara e-mails automáticos. Os três são chamados de inteligência artificial, mas funcionam de formas completamente diferentes. Um aprende com dados históricos para prever o que vai acontecer. Outro cria conteúdo novo a partir de um comando de texto. E o terceiro só executa uma regra programada, sem aprender nada sozinho.
+
+Essa mistura de nomes faz muita gente tomar decisões erradas. Contrata uma ferramenta achando que ela gera textos e descobre que só classifica dados. Ou espera que um sistema aprenda sozinho, quando na verdade ele segue um fluxo fixo de "se isso, faça aquilo". Entender a diferença entre IA generativa, IA preditiva e automação simples não é preciosismo técnico. É o que separa um projeto que resolve um problema real de um projeto que só gera gasto.
+
+Cada uma dessas abordagens resolve problemas de naturezas diferentes. A automação simples lida com tarefas repetitivas e previsíveis. A IA preditiva lida com padrões escondidos em grandes volumes de dados. A IA generativa lida com criação de conteúdo novo, seja texto, imagem, áudio ou código. Usar a ferramenta errada para o problema certo é como abrir uma porta com uma chave de fenda. Funciona às vezes, mas dá muito mais trabalho do que deveria.
+
+## Automação simples, a regra que não aprende
+
+Automação simples é aquilo que a maioria das pessoas já usa sem chamar de IA. É o filtro do Gmail que joga determinados e-mails para uma pasta. É a cobrança recorrente que o banco dispara todo mês na data combinada. É o fluxo do WhatsApp Business que responde "digite 1 para boleto, 2 para suporte" antes de qualquer atendente entrar na conversa. Nada disso aprende com o tempo. O comportamento é definido por alguém, com uma lógica do tipo "se acontecer X, faça Y".
+
+O que caracteriza esse tipo de automação é a previsibilidade total. Você consegue desenhar o fluxo no papel e saber exatamente o que vai acontecer em cada situação. Se o cliente digitar 1, recebe o boleto. Se o pagamento não cair até o vencimento, o sistema envia um lembrete. Não existe margem para o sistema decidir nada fora do que foi programado. Isso é uma vantagem enorme em processos que exigem consistência, como emissão de nota fiscal, controle de estoque ou lembrete de consulta.
+
+Ferramentas como Zapier, Make, n8n e as automações nativas do Google Planilhas fazem esse trabalho bem. Um exemplo comum no Brasil é uma clínica odontológica pequena que conecta o formulário de agendamento do site a uma planilha e, a partir dela, dispara uma mensagem de confirmação no dia anterior. Não tem nada de inteligente ali, mas resolve um problema real de faltas. O custo é baixo, a manutenção é simples e qualquer pessoa com paciência consegue montar.
+
+O limite da automação simples aparece quando a tarefa exige julgamento. Um filtro de e-mail não entende ironia. Um fluxo de atendimento não percebe que o cliente está irritado e que a resposta padrão vai piorar a situação. Um sistema de cobrança não distingue o cliente que esqueceu de pagar daquele que está passando por dificuldade financeira. Quando a variação nas situações é grande, a regra fixa falha, e é aí que entram as outras duas categorias.
+
+## IA preditiva, quando o sistema aprende com o histórico
+
+IA preditiva é o que a maioria das empresas usa há mais tempo, mesmo antes de inteligência artificial virar palavra da moda. É o sistema que olha para um monte de dados do passado e tenta estimar o que vai acontecer no futuro. O exemplo mais familiar é a recomendação da Netflix ou do Spotify. Ninguém programou manualmente "se a pessoa assistiu a isso, recomende aquilo". O sistema aprendeu sozinho, a partir do comportamento de milhões de usuários, quais padrões costumam se repetir.
+
+O mesmo vale para o cartão de crédito que bloqueia uma compra suspeita. Existe um modelo treinado com milhões de transações, e ele identificou que certos horários, valores e locais estão mais associados a fraude do que outros. Quando sua compra cai num padrão estranho, o app manda uma notificação. Ninguém escreveu uma regra dizendo "bloqueie compras acima de mil reais às três da manhã". O modelo aprendeu isso dos dados. E ele não explica facilmente o porquê, só dá o resultado.
+
+Esse ponto incomoda muita gente. IA preditiva costuma ser uma caixa-preta. Você recebe uma probabilidade, do tipo "este cliente tem boa chance de cancelar o plano nos próximos meses", mas não recebe justificativa detalhada. Em setores regulados, como crédito e saúde, isso vira problema sério, porque a decisão precisa ser explicável. Por isso muitas empresas usam modelos mais simples e interpretáveis em vez de redes neurais complexas, mesmo que a performance seja um pouco menor.
+
+A IA preditiva não cria nada. Ela classifica, estima e ordena. Diz se um e-mail é spam ou não. Diz qual cliente tem maior probabilidade de comprar. Diz qual peça de uma máquina está prestes a falhar. O valor está em antecipar decisões que, sem o modelo, seriam tomadas no escuro ou com base em intuição. Uma operadora de saúde, por exemplo, pode usar esse tipo de IA para identificar pacientes com maior risco de complicações e oferecer acompanhamento preventivo. Não é diagnóstico, é priorização.
+
+O cuidado aqui é com os dados. Modelo preditivo treinado com histórico enviesado reproduz o viés. Se uma empresa historicamente contratou mais homens para determinada função, um modelo de triagem de currículos vai aprender isso e repetir o padrão. Não porque o algoritmo seja maldoso, mas porque aprendeu com exemplos ruins. Boa parte do trabalho sério com IA preditiva é limpar, balancear e auditar os dados antes de treinar qualquer coisa.
+
+## IA generativa, a que produz conteúdo novo
+
+IA generativa é a novidade que colocou o assunto na boca de todo mundo a partir de 2023. Diferente da preditiva, que estima um número ou uma classe, a generativa produz conteúdo original. Texto, imagem, áudio, vídeo, código. Você descreve o que quer em linguagem natural e o modelo gera aquilo. O ChatGPT, o Gemini, o Claude e o Copilot são os exemplos mais conhecidos, mas existem ferramentas específicas para imagem e para áudio.
+
+O funcionamento por baixo é diferente do que muita gente imagina. O modelo não consulta um banco de dados com respostas prontas. Ele aprendeu, durante o treinamento, a prever qual palavra ou pixel faz mais sentido vir depois do outro, com base em padrões estatísticos extraídos de uma quantidade gigantesca de texto e imagem. Quando você pede um resumo de um contrato, ele não entende o contrato como um advogado. Ele gera uma sequência de palavras que estatisticamente se parece com um resumo daquele tipo de documento.
+
+Isso explica tanto os acertos quanto os erros. A IA generativa é excelente em tarefas de linguagem, como reescrever um texto, traduzir, resumir, gerar ideias, criar rascunhos de e-mail e produzir variações de um mesmo anúncio. Também é boa em gerar código repetitivo, aquele que todo programador escreve. O problema é que ela inventa com confiança. Quando não sabe algo, pode produzir uma resposta plausível e errada, a chamada alucinação. Um artigo com data errada, uma jurisprudência que não existe, uma referência inventada.
+
+No dia a dia brasileiro, a IA generativa já aparece em vários lugares. O atendimento ao cliente de algumas operadoras usa modelos para sugerir respostas ao atendente em tempo real. Escritórios de contabilidade usam para redigir comunicados. Pequenos lojistas usam para gerar descrições de produto e legendas para redes sociais. Programadores usam para escrever testes e revisar código. O ganho de produtividade é real, mas exige revisão humana. Ninguém sério publica texto gerado por IA sem ler antes.
+
+## A diferença que mais confunde, prever versus gerar
+
+Muita gente trata IA preditiva e generativa como se fossem a mesma coisa, só em escalas diferentes. Não são. A preditiva responde perguntas do tipo "qual a chance disso acontecer". A generativa responde "crie algo que se pareça com isso". Uma produz um número, uma classe, uma probabilidade. A outra produz texto, imagem, som. Uma é usada para decidir. A outra é usada para criar.
+
+Um exemplo ajuda. Imagine uma corretora de seguros. Um modelo preditivo pode estimar quais clientes têm maior probabilidade de cancelar o plano nos próximos meses. Com essa lista em mãos, a equipe de retenção entra em contato. Já um modelo generativo pode escrever o e-mail personalizado para cada um desses clientes, com tom adequado ao perfil. São dois usos complementares, mas completamente diferentes. O primeiro decide quem abordar. O segundo cria o que dizer.
+
+Outro ponto que confunde é a questão do treinamento. Os dois tipos aprendem com dados, mas o objetivo do aprendizado é diferente. O preditivo aprende a mapear entradas para saídas corretas, com base em exemplos rotulados ou em padrões históricos. O generativo aprende a distribuição dos dados em si, para conseguir produzir amostras novas que sigam aquela distribuição. É por isso que a IA generativa consegue criar algo que nunca existiu, enquanto a preditiva só consegue estimar com base no que já viu.
+
+Na prática, muitas soluções modernas combinam os dois. Um sistema de recomendação pode usar IA preditiva para ranquear produtos e IA generativa para escrever a descrição personalizada que aparece para cada usuário. Um sistema de atendimento pode usar IA preditiva para classificar a intenção do cliente e IA generativa para redigir a resposta. A fronteira entre as duas está cada vez mais borrada nos produtos comerciais, mas conceitualmente continua nítida.
+
+## Automação com IA não é a mesma coisa que automação simples
+
+Existe uma quarta categoria que aparece muito em conversa de empresa e raramente é nomeada com precisão. É a automação que usa IA dentro do fluxo. Em vez de um filtro fixo que joga todo e-mail com a palavra "boleto" numa pasta, você tem um sistema que lê o e-mail, entende se é realmente uma cobrança, extrai o valor e a data de vencimento, e registra isso numa planilha. Isso não é automação simples, porque envolve compreensão de linguagem natural. Também não é puramente IA preditiva ou generativa, é uma combinação.
+
+Esse tipo de solução aparece em ferramentas de produtividade que leem documentos e extraem informações, ou em sistemas de atendimento que entendem o pedido do cliente e acionam o fluxo correto. A automação simples executa regras fixas. A automação com IA executa regras com base em interpretação. A diferença parece pequena, mas o impacto é enorme. A primeira quebra quando o formato muda. A segunda se adapta a variações.
+
+O custo também é diferente. Uma automação simples no Zapier pode sair de graça ou custar algumas dezenas de reais por mês. Uma automação com IA embutida geralmente envolve chamadas a APIs pagas, e o custo cresce com o volume de uso. Para uma pequena empresa, isso pode significar a diferença entre um projeto viável e um projeto que só faz sentido em escala. Vale sempre calcular o retorno antes de sair implementando.
+
+## Um checklist para escolher a abordagem certa
+
+Antes de contratar qualquer ferramenta ou iniciar qualquer projeto, vale passar por algumas perguntas simples. Elas ajudam a evitar o erro mais comum, que é usar IA onde uma regra simples resolveria, ou usar regra simples onde o problema exige aprendizado.
+
+- A tarefa é sempre igual, com pouca variação? Se sim, automação simples resolve, e é mais barata e mais fácil de manter.
+
+- Você precisa estimar algo com base em histórico, como risco, propensão ou prioridade? Então é caso de IA preditiva.
+
+- Você precisa criar conteúdo novo, como texto, imagem, resumo ou código? Aí entra a IA generativa.
+
+- O problema envolve entender linguagem natural em variações imprevisíveis? Provavelmente é automação com IA embutida.
+
+- Existe dado suficiente e de qualidade para treinar ou alimentar o modelo? Sem isso, IA preditiva e generativa entregam pouco.
+
+- A decisão precisa ser explicável para alguém de fora, como auditoria ou cliente? Modelos preditivos complexos podem não servir.
+
+- O custo mensal da solução cabe no orçamento e faz sentido frente ao ganho? Isso vale para qualquer uma das três.
+
+Esse checklist não é receita de bolo, mas evita os erros mais grosseiros. O mais comum é ver empresa usando IA generativa para resolver problema de classificação, quando um modelo preditivo simples faria o trabalho com muito menos custo. O contrário também acontece, gente tentando resolver com regra fixa um problema que muda toda semana e quebra a automação o tempo todo.
+
+## Onde cada uma brilha no dia a dia brasileiro
+
+Vale olhar para exemplos concretos para fixar. No varejo online, a automação simples cuida do envio de e-mail de carrinho abandonado, do controle de estoque e da emissão de nota. A IA preditiva estima quais clientes têm maior chance de comprar de novo e prioriza o time de marketing. A IA generativa cria as descrições dos produtos e as variações de anúncio para teste. Cada uma no seu papel.
+
+No setor financeiro, a automação simples processa pagamentos recorrentes. A IA preditiva analisa transações em tempo real e sinaliza possíveis fraudes. A IA generativa ajuda no atendimento, sugerindo respostas e resumindo conversas longas para o atendente. Nenhuma dessas três substitui as outras. Elas se complementam, e o erro é tratar tudo como se fosse a mesma coisa.
+
+Na saúde, a automação simples lembra o paciente da consulta. A IA preditiva identifica pacientes com maior risco de readmissão hospitalar. A IA generativa ajuda a redigir laudos e resumos de prontuário, sempre com revisão médica. Aqui o cuidado é maior, porque erro tem consequência direta. Nenhuma dessas ferramentas substitui o julgamento clínico, e qualquer uso precisa respeitar a LGPD e as normas do conselho.
+
+Na educação, a automação simples envia lembretes de prova. A IA preditiva identifica alunos com risco de evasão. A IA generativa cria exercícios personalizados e explica conteúdos de formas diferentes para cada estudante. De novo, papéis distintos, ferramentas distintas, cuidados distintos. O professor continua sendo o centro da decisão pedagógica.
+
+## O que muda quando você entende a diferença
+
+Entender a diferença entre as três muda a forma de conversar com fornecedores. Quando alguém vende "solução de IA", você consegue perguntar qual tipo de IA está por baixo. Se a resposta for vaga, provavelmente é automação simples com nome bonito. Isso não é problema, desde que o preço e a expectativa estejam alinhados. O problema é pagar preço de IA generativa por um fluxo de regras fixas.
+
+Também muda a forma de planejar projeto. Em vez de começar pela ferramenta, você começa pelo problema. Qual decisão precisa ser tomada, com que frequência, com que nível de incerteza. A partir daí fica mais claro se o caminho é uma regra, um modelo preditivo ou um modelo generativo. Muitas vezes a resposta é começar pela automação simples, medir o resultado e só depois investir em algo mais sofisticado.
+
+E muda a forma de lidar com expectativa. IA generativa não vai resolver todos os problemas da empresa. IA preditiva não vai acertar sempre. Automação simples não vai se adaptar sozinha. Cada uma tem limites claros, e reconhecer isso evita frustração. O ganho real vem de usar a ferramenta certa para o problema certo, com expectativa calibrada e revisão humana onde importa.
+
+## Fechando o mapa mental
+
+A forma mais simples de guardar tudo isso é pensar em três perguntas. A automação simples responde "o que já foi decidido que deve acontecer". A IA preditiva responde "o que provavelmente vai acontecer". A IA generativa responde "o que pode ser criado a partir daqui". São perguntas diferentes, e misturá-las é a origem de boa parte da confusão que existe hoje.
+
+Na prática, projetos maduros costumam combinar as três. Uma regra fixa dispara um fluxo. Um modelo preditivo decide a prioridade. Um modelo generativo produz o conteúdo da interação. Cada peça no seu lugar, com custo e risco controlados. Quem entende essa divisão consegue conversar de igual para igual com fornecedores, planejar melhor e evitar o clássico problema de comprar uma solução caríssima para um problema que uma planilha e um filtro resolveriam.
+
+Não existe hierarquia em que uma seja melhor que a outra. Existe adequação ao problema. Automação simples é barata, confiável e limitada. IA preditiva é poderosa, exige dados e não explica tudo. IA generativa é criativa, versátil e precisa de revisão. Saber qual usar, e quando, é a habilidade que separa quem só repete jargão de quem realmente entende o assunto.

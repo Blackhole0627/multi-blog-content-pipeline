@@ -1,0 +1,85 @@
+Quem trabalha por conta própria costuma ter uma relação diferente com o Imposto de Renda. Não existe aquele desconto automático no contracheque, nem o RH entregando o informe de rendimentos prontinho em fevereiro. Você é o seu próprio departamento pessoal. Precisa controlar entradas, guardar comprovantes, separar o que é receita do que é despesa e, no fim das contas, prestar contas à Receita Federal.
+
+A declaração de 2026, que cobre o que você ganhou em 2025, chega com algumas mudanças que mexem justamente com quem tem renda própria. Algumas são de calendário, outras de limites, e tem novidade até na forma de pagar o imposto ao longo do ano. Entender essas regras evita sustos, multas e aquela dor de cabeça de cair na malha fina por um detalhe que passou batido.
+
+## Quem é obrigado a declarar em 2026
+
+O primeiro ponto que mudou foi o valor que dispara a obrigatoriedade. Se em 2025 a Receita exigia declaração de quem tinha recebido mais de R33.888emrendimentostributaˊveis,agoraolimitesubiuparaR 33.888 em rendimentos tributáveis, agora o limite subiu para R33.888emrendimentostributaˊveis,agoraolimitesubiuparaR 35.584. Isso vale para o total acumulado no ano, não por mês. Se você somou essa quantia ou mais com serviços prestados, aluguéis, ou qualquer outra fonte tributável, está dentro.
+
+Mas não é só a renda do trabalho que obriga. Quem recebeu rendimentos isentos ou tributados exclusivamente na fonte acima de R200miltambeˊmprecisadeclarar.OmesmovaleparaquemmovimentoumaisdeR 200 mil também precisa declarar. O mesmo vale para quem movimentou mais de R200miltambeˊmprecisadeclarar.OmesmovaleparaquemmovimentoumaisdeR 40 mil na bolsa ou possuía bens e direitos que, somados, passavam de R800milnouˊltimodiade2025[citation:8][citation:19].Paraquemtrabalhacomatividaderural,otetodereceitabrutasubiuparaR 800 mil no último dia de 2025 [citation:8][citation:19]. Para quem trabalha com atividade rural, o teto de receita bruta subiu para R800milnouˊltimodiade2025[citation:8][citation:19].Paraquemtrabalhacomatividaderural,otetodereceitabrutasubiuparaR 177.920.
+
+Um detalhe importante: mesmo que você não se encaixe em nenhum desses critérios, se tiver imposto a restituir, vale a pena declarar. O dinheiro não volta sozinho. E tem uma novidade nesse campo. Contribuintes de baixo risco fiscal, com restituição de até R$ 1.000 e chave Pix vinculada ao CPF, podem receber automaticamente, sem precisar entregar a declaração. A Receita chama isso de restituição automática, mas é bom conferir se você se encaixa nessa condição antes de contar com o valor.
+
+## O Carnê-Leão e a nova faixa de isenção
+
+Se você recebe de pessoa física, o Carnê-Leão continua sendo o coração da sua vida fiscal. É por ele que você apura e paga o imposto mês a mês, sempre até o último dia útil do mês seguinte ao recebimento. Quem presta serviço para empresa não tem essa preocupação, porque a retenção na fonte já resolve. Mas se o cliente é pessoa física, a responsabilidade é toda sua.
+
+A grande novidade aqui é a ampliação da faixa de isenção, que passou a valer em 2026. Quem recebe até R5.000porme^scomoauto^nomona~opagaimpostoderendasobreessesrendimentos,desdequerespeitadasascondic\co~esdoregime[citation:3][citation:10].PararendasentreR 5.000 por mês como autônomo não paga imposto de renda sobre esses rendimentos, desde que respeitadas as condições do regime [citation:3][citation:10]. Para rendas entre R5.000porme^scomoauto^nomona~opagaimpostoderendasobreessesrendimentos,desdequerespeitadasascondic\c​o~esdoregime[citation:3][citation:10].PararendasentreR 5.000 e R$ 7.350, existe uma redução gradual, um desconto que diminui conforme o valor sobe. Isso não significa que você está dispensado de preencher o Carnê-Leão. A obrigação de registrar os rendimentos mensalmente continua. O que muda é que, dentro dessa faixa, o imposto apurado pode ser zero.
+
+Vale lembrar que o Carnê-Leão não se aplica apenas a serviços. Aluguéis recebidos de pessoa física, pensão alimentícia, rendimentos do exterior, transporte de cargas e passageiros, tudo isso passa pelo carnê. Cada um tem sua regra específica de dedução. No transporte de passageiros, por exemplo, uma parte da receita bruta é considerada isenta antes de entrar na base de cálculo.
+
+## Despesas que você pode abater (e as que não pode)
+
+Uma das vantagens de quem tem renda própria é poder deduzir despesas necessárias à atividade. Mas isso não é um cheque em branco. A Receita aceita o que estiver registrado no Livro Caixa Digital da Pessoa Física, o LCDPF. Se não está no livro, não existe para fins fiscais.
+
+O que entra nessa lista? Aluguel do escritório, conta de luz, internet, material de trabalho, salário de funcionários, contas de telefone usadas para o serviço. Para profissionais de saúde, tem ainda a possibilidade de deduzir despesas com cursos de especialização, desde que relacionados à área. O que não entra são gastos pessoais. Aquele celular que você usa para tudo, inclusive para trabalho, só pode ser deduzido na proporção do uso profissional. Na prática, a maioria dos contadores orienta a ser conservador e não tentar abater o celular inteiro.
+
+Outra confusão comum é achar que o MEI resolve tudo. O MEI é um regime empresarial, com CNPJ e tributação própria. A declaração de pessoa física é separada. O que você precisa fazer é calcular o lucro que a atividade gerou, aplicar a presunção de lucro do setor, e só a parte que ultrapassar o limite de isenção entra como rendimento tributável na sua declaração pessoal. Parece complicado, mas é uma separação que evita pagar imposto duas vezes ou cair em inconsistência.
+
+## MEI, autônomo e profissional liberal não são a mesma coisa
+
+É muito comum misturar as figuras, mas cada uma tem um tratamento fiscal distinto. O autônomo pessoa física, aquele que emite recibo e não tem CNPJ, recolhe pelo Carnê-Leão e declara os rendimentos integralmente, com as deduções do livro caixa. O profissional liberal, como médico, advogado, dentista, psicólogo, segue a mesma lógica, mas costuma ter despesas mais altas de consultório e depende ainda mais da organização do livro caixa.
+
+O MEI tem um caminho próprio. Ele paga um valor fixo mensal, o DAS, que já cobre INSS, ICMS e ISS. Na declaração de pessoa física, o que importa é o lucro que a atividade gerou. Para comércio e indústria, 8% do faturamento é considerado lucro isento. Para serviços, 32%. O restante é despesa presumida. Se o lucro apurado ultrapassar o limite de isenção da pessoa física, aí sim entra na declaração. O MEI também precisa entregar a declaração anual do MEI, a DASN-SimeI, que é outra obrigação, separada da declaração de IR pessoa física.
+
+E tem uma pegadinha importante. A isenção de até R$ 5.000 mensais que entrou em vigor não elimina a necessidade de declarar. O autônomo continua obrigado a informar todos os rendimentos, pagar o INSS como contribuinte individual, manter o livro caixa e, se for o caso, recolher o Carnê-Leão quando houver imposto devido. O que muda é o valor do imposto, que pode ser zero na faixa de isenção. Mas a obrigação acessória continua.
+
+## O que mudou na declaração em si
+
+A declaração pré-preenchida ficou mais completa neste ano. Agora ela recupera informações de pagamentos feitos via DARF, incluindo os do próprio Carnê-Leão, além de dados de renda variável e de dependentes, se eles autorizaram o compartilhamento ou foram identificados como núcleo familiar. Isso facilita bastante para quem tem renda própria, porque muitos dos recibos e informes que você teria que digitar já chegam preenchidos.
+
+Mas atenção: pré-preenchida não é sinônimo de conferida. A responsabilidade pelas informações é sempre sua. A Receita carrega o que recebeu de terceiros, e se um cliente informou errado o valor pago, isso aparece na sua declaração. A conferência contra os seus próprios recibos e extratos é obrigatória.
+
+Outra mudança é a entrada definitiva das bets na declaração. Ganhos com apostas de cota fixa agora têm campo próprio. A alíquota é de 15% sobre os prêmios líquidos que ultrapassarem a primeira faixa da tabela progressiva, e o saldo em 31 de dezembro também precisa ser informado na ficha de bens e direitos.
+
+O prazo para entregar a declaração em 2026 vai de 23 de março a 29 de maio. A restituição teve o número de lotes reduzido de cinco para quatro, com pagamentos em maio, junho, julho e agosto. A promessa é de que 80% dos contribuintes recebam nos dois primeiros lotes. Quem entrega mais cedo e usa a pré-preenchida com Pix tem prioridade na fila.
+
+## Um roteiro prático para organizar sua declaração
+
+Se você tem renda própria e está começando a organizar a papelada agora, um passo a passo ajuda a não deixar nada de fora.
+
+1. Separe os comprovantes de rendimento por fonte. Se recebeu de pessoa física, os recibos do Carnê-Leão ou os registros no sistema da Receita. Se recebeu de empresa, os informes de rendimentos que cada uma enviou.
+
+2. Reúna as despesas dedutíveis. Livro Caixa atualizado, recibos de aluguel, contas de consumo do escritório, notas de material. Tudo que estiver no nome do seu CPF e relacionado à atividade.
+
+3. Verifique o Carnê-Leão pago ao longo do ano. Esses valores aparecem na declaração como imposto já recolhido e reduzem o que você tem a pagar ou aumentam a restituição.
+
+4. Confira os limites. Renda tributável acima de R35.584?BensacimadeR 35.584? Bens acima de R35.584?BensacimadeR 800 mil? Operações em bolsa acima de R$ 40 mil? Se sim, a declaração é obrigatória.
+
+5. Baixe o programa ou acesse a declaração online. O programa da Receita está disponível para download desde março. A versão online, o Meu Imposto de Renda, permite preencher pelo navegador e até retificar declarações feitas no programa.
+
+6. Importe o Carnê-Leão. Se você usou o sistema da Receita para apurar mensalmente, os dados podem ser importados direto para a declaração, evitando digitação manual.
+
+7. Confira a pré-preenchida com desconfiança. Compare cada valor com seus próprios controles. Divergência entre o que a empresa declarou e o que você recebeu é uma das principais causas de malha fina.
+
+8. Guarde tudo por pelo menos cinco anos. A Receita pode questionar informações de declarações passadas. Ter os recibos e comprovantes organizados é a sua defesa.
+
+## Erros que mais levam autônomo para a malha fina
+
+Alguns tropeços se repetem entre quem tem renda própria. O mais comum é omitir rendimento de fonte que a Receita já sabe. Empresas declaram o que pagaram a você. Plataformas de aluguel por temporada também informam. Se você deixar de fora, a inconsistência aparece na hora.
+
+Outro erro frequente é confundir isenção com dispensa de declarar. A faixa de até R$ 5.000 mensais isenta do imposto, mas não elimina a obrigação de informar. Quem ganha nessa faixa e não declara pode até não ter imposto a pagar, mas corre o risco de ficar irregular.
+
+Também é comum tentar deduzir despesas sem comprovação. A Receita aceita o livro caixa como base, mas se for questionado, você precisa mostrar os recibos, as notas, os comprovantes de pagamento. Sem isso, a dedução cai e o imposto sobe.
+
+E tem a questão do INSS. O autônomo que não contribui como contribuinte individual pode ter dificuldade de comprovar tempo de contribuição no futuro. O Carnê-Leão é imposto de renda, não previdência. São obrigações diferentes, e as duas precisam estar em dia.
+
+## O calendário e o que fazer se perder o prazo
+
+A entrega vai de 23 de março a 29 de maio de 2026. Quem perde o prazo paga multa mínima de R$ 165,74, que pode chegar a 20% do imposto devido, com acréscimo de juros. Não vale a pena deixar para depois.
+
+Se você perdeu o prazo, ainda dá para entregar. A declaração em atraso é feita normalmente, e a multa é gerada automaticamente. O pagamento pode ser feito via DARF. Se tiver dificuldade, o ideal é procurar um contador para ajudar a regularizar e verificar se há possibilidade de redução da multa.
+
+Para quem tem renda própria, a regra de ouro é simples. Organização ao longo do ano vale mais do que pressa em maio. Guardar recibos, anotar entradas e saídas, separar o que é pessoal do que é profissional. Isso não é burocracia por burocracia. É o que faz a diferença entre uma declaração tranquila e uma dor de cabeça que se arrasta por meses.
+
+A declaração de 2026 traz mudanças que, no geral, beneficiam quem tem renda própria, com a faixa de isenção mais generosa e a pré-preenchida mais completa. Mas também exige atenção. O autônomo continua sendo o principal responsável por sua própria organização fiscal. Não tem atalho. Tem planejamento, controle e, quando necessário, uma conversa com um contador para tirar dúvidas específicas do seu caso.

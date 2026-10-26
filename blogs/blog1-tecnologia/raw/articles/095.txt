@@ -1,0 +1,115 @@
+Comprar uma smart TV virou uma tarefa complicada. Não pela falta de opções, mas pelo excesso. São dezenas de modelos nas prateleiras, cada um com uma lista de siglas que parecem feitas para confundir. HDR10, Dolby Vision, taxa de atualização, contraste, local dimming, HDMI 2.1. Você olha para a etiqueta de preço, olha para a ficha técnica, e a sensação é de que precisa de um curso técnico antes de decidir.
+
+A verdade é que boa parte dessas especificações existe para vender, não para melhorar sua experiência. Duas TVs com painéis parecidos podem ter diferenças enormes na prática, e outras com números parecidos podem decepcionar. O que decide se você vai gostar da TV daqui a três anos não é a quantidade de recursos na caixa, mas alguns poucos fatores que realmente moldam o que você vê e ouve todos os dias.
+
+Este texto não é um ranking de modelos nem uma recomendação de marca. É uma análise do que importa de verdade na hora de avaliar uma smart TV, com exemplos do que acontece na sala de casa, no sofá, com a luz acesa e o controle na mão. A ideia é te dar critério para olhar uma ficha técnica e saber o que ignorar.
+
+## O painel manda em tudo
+
+Se você só puder prestar atenção em uma coisa, preste atenção no tipo de painel. É ele que define o contraste, o nível de preto, o ângulo de visão e até a durabilidade da imagem ao longo dos anos. Existem basicamente três tecnologias no mercado brasileiro, e cada uma tem um comportamento bem diferente.
+
+O painel LED, que na verdade é LCD com iluminação por trás, é o mais comum e o mais barato. Ele ilumina a tela toda ou em zonas, e o cristal líquido controla a passagem da luz. O problema aparece nos pretos. Como a luz de fundo está sempre acesa, o preto nunca é totalmente preto, é um cinza escuro. Em cenas noturnas de filme, você percebe um brilho de fundo que deveria ser escuridão pura.
+
+O painel OLED resolve isso porque cada pixel emite a própria luz. Quando o pixel precisa mostrar preto, ele simplesmente desliga. O contraste é praticamente infinito, e o resultado salta aos olhos em cenas escuras. O preço é mais alto, e existe a preocupação com burn-in, que é a marca permanente de imagens estáticas como logos de canais ou barras de jogos. Na prática, modelos recentes lidam bem com isso no uso normal, mas quem deixa o mesmo telejornal ligado o dia inteiro deve considerar.
+
+Existe ainda o QLED, que é uma variação do LED com uma camada de pontos quânticos para melhorar cor e brilho. Não é uma tecnologia nova de emissão, é uma melhoria no filtro de cor. O resultado é uma imagem mais saturada e brilhante, ótima para ambientes claros, mas o preto continua dependendo do controle das zonas de iluminação.
+
+Para escolher, pense no seu ambiente. Sala com muita janela e luz do dia pede brilho alto, e aí QLED ou LED de boa qualidade se dão bem. Sala de cinema, com cortina fechada e luz controlada, é onde o OLED brilha de verdade. Não existe painel melhor em absoluto, existe painel mais adequado ao seu cômodo.
+
+## Contraste e nível de preto na prática
+
+Contraste é a diferença entre a parte mais clara e a mais escura da imagem. É o que dá profundidade, o que faz uma cena parecer tridimensional mesmo em tela plana. Uma TV com contraste ruim deixa tudo lavado, sem vida, e nenhum ajuste de configuração conserta isso.
+
+O nível de preto é a parte mais crítica do contraste. Quando o preto é cinza, os detalhes nas sombras somem. Você assiste a uma cena de suspense e não enxerga o que está no canto escuro do quadro. Em jogos, isso é ainda mais irritante, porque inimigos e obstáculos escondidos na penumbra simplesmente desaparecem.
+
+É aqui que o local dimming entra. Em painéis LED, essa tecnologia divide a tela em zonas que podem escurecer independentemente. Uma TV com muitas zonas de dimming consegue apagar a luz atrás das áreas escuras e manter o brilho nas áreas claras. O problema é o halo, aquele borrão de luz que vaza ao redor de objetos brilhantes em fundo escuro. Quanto menos zonas, mais visível o halo. Quanto mais zonas, melhor o resultado, mas também mais caro.
+
+Em painéis OLED, esse problema não existe, porque cada pixel controla a própria luz. O preto é absoluto e não há halo. É por isso que quem assiste a muito filme e série em ambiente escuro costuma não querer voltar atrás depois de experimentar OLED.
+
+Vale lembrar que o contraste anunciado na caixa costuma ser um número de marketing, muitas vezes medido de forma que não reflete o uso real. O contraste dinâmico, aquele número gigante tipo 1.000.000:1, é medido com a tela toda clara e depois toda escura, o que não acontece em nenhum conteúdo. Ignore esse número. Olhe o tipo de painel e, se possível, veja a TV funcionando em uma loja com uma cena escura.
+
+## Brilho, HDR e o que realmente importa
+
+HDR virou a sigla mais vendida dos últimos anos, e muita gente compra TV pensando que qualquer aparelho com HDR entrega imagem de cinema. Não entrega. HDR precisa de duas coisas para funcionar bem, e a maioria das TVs baratas falha em pelo menos uma delas.
+
+A primeira é brilho de pico alto. HDR serve para mostrar ao mesmo tempo um sol ofuscante e uma sombra profunda na mesma cena. Se a TV tem brilho máximo baixo, o HDR não tem para onde ir. A imagem fica parecida com o conteúdo comum, só um pouco mais clara. Modelos de entrada costumam ter brilho na faixa dos 300 a 400 nits, o que é pouco para HDR de verdade. TVs boas chegam fácil acima de 700 nits, e as top de linha passam de 1.000.
+
+A segunda é o mapeamento de tons. Como nenhuma TV atinge todos os níveis de brilho que o HDR pede, o aparelho precisa decidir como comprimir essa informação sem perder detalhe. Um bom processamento de imagem faz isso bem, preservando as altas luzes e as sombras ao mesmo tempo. Um processamento ruim deixa a imagem estourada, sem detalhe nas nuvens ou nas luzes da rua.
+
+Existem dois formatos principais, o HDR10 e o Dolby Vision. O HDR10 é o mais comum e usa dados fixos de brilho para toda a cena. O Dolby Vision é dinâmico, ajusta cena por cena. Na prática, a diferença é visível em conteúdo bem produzido, mas depende muito da qualidade da TV. Uma TV ruim com Dolby Vision continua ruim. Uma TV boa com HDR10 pode ser melhor que uma TV fraca com Dolby Vision.
+
+Se você assiste muita série na Netflix ou filmes no Prime Video, vale procurar uma TV que lide bem com HDR. Mas não compre só pela sigla. Procure reviews que falem de brilho real medido, não do número da caixa.
+
+## Taxa de atualização e o mito dos 120 Hz
+
+A taxa de atualização diz quantas vezes por segundo a tela redesenha a imagem. O padrão é 60 Hz. Modelos mais caros oferecem 120 Hz. E aí vem a pergunta que todo mundo faz, vale a pena pagar mais por 120 Hz?
+
+A resposta depende do que você assiste. Para filmes e séries, que são gravados em 24 quadros por segundo, 60 Hz já dá conta tranquilamente. O conteúdo não tem mais informação do que isso, então a tela de 120 Hz não vai mostrar nada de diferente em um filme comum.
+
+A coisa muda em esportes e jogos. Uma partida de futebol transmitida em 60 quadros por segundo se beneficia de uma tela de 120 Hz, porque o movimento da bola e dos jogadores fica mais fluido, com menos rastro. Em jogos, principalmente em consoles como o PlayStation 5 e o Xbox Series X, que conseguem rodar títulos a 120 quadros por segundo, a diferença é grande. A resposta do controle parece mais imediata, e a imagem em movimento fica nítida.
+
+Mas atenção a um detalhe que confunde muita gente. Existe a taxa de atualização real do painel e existe a taxa interpolada, aquela que a TV inventa criando quadros intermediários. Essa interpolação, chamada de efeito novela, deixa tudo com cara de vídeo caseiro e incomoda muita gente. É um recurso que você provavelmente vai desligar. A taxa real, essa sim, importa.
+
+Se você não joga e assiste basicamente a novela, telejornal e filmes, 60 Hz resolve bem e você pode economizar. Se você tem console de última geração ou assiste muito esporte, 120 Hz é um investimento que vale a pena.
+
+## O sistema operacional e os apps do dia a dia
+
+Aqui está a parte que mais afeta seu dia a dia e que menos gente considera na hora da compra. A smart TV é um computador disfarçado de televisor, e o sistema operacional dela define como você navega, quais apps estão disponíveis e por quanto tempo o aparelho vai continuar recebendo atualizações.
+
+No Brasil, os sistemas mais comuns são o Tizen, da Samsung, o webOS, da LG, o Google TV, usado por várias marcas, e o Roku, presente em modelos mais simples. Cada um tem uma lógica diferente de navegação e um catálogo de aplicativos que nem sempre é igual.
+
+O ponto crítico é o suporte. Um app pode sair do ar ou parar de funcionar em sistemas antigos. Aconteceu com o YouTube em algumas TVs mais velhas, e acontece com serviços de streaming que atualizam os requisitos técnicos. Se o fabricante para de atualizar o sistema, sua TV pode virar um peso de papel inteligente em poucos anos.
+
+Antes de comprar, verifique se os apps que você usa estão disponíveis, e não só os óbvios. Globoplay, Netflix, Prime Video e Disney+ estão em praticamente todos. Mas aplicativos de bancos, serviços de música regional ou plataformas menores podem faltar em alguns sistemas.
+
+Outro ponto é a velocidade do processador. Uma TV com processador lento demora para abrir apps, engasga na navegação e irrita no uso diário. Esse é um dos motivos pelos quais uma TV barata envelhece mal. Ela pode ter uma imagem decente, mas a experiência de uso trava com o tempo, conforme os apps ficam mais pesados.
+
+## Conectividade e som, os pontos esquecidos
+
+A quantidade de portas HDMI parece um detalhe chato, mas faz diferença. Duas portas é o mínimo, três é confortável, quatro é ideal se você tem console, soundbar, receptor e aparelho de streaming. Verifique também se as portas são HDMI 2.1, necessárias para jogos em 4K a 120 Hz e para recursos como VRR, que evita rasgos na imagem em jogos.
+
+O som é outro ponto que quase todo mundo subestima. TVs modernas são finas, e alto-falantes finos soam finos. Não importa o quanto a marca invista em tecnologia de áudio, física é física. Uma TV de 5 centímetros de espessura não tem espaço para graves decentes. Você vai ouvir diálogos, mas vai sentir falta de corpo.
+
+Se você assiste a filmes com frequência, uma soundbar simples já melhora muito. Não precisa ser caro. Uma soundbar de entrada, na faixa dos mil reais, supera o som da maioria das TVs. E algumas TVs têm saída HDMI ARC ou eARC, que simplifica a conexão e permite controlar o volume pelo controle da TV.
+
+A conexão de internet também merece atenção. Wi-Fi de 5 GHz é melhor que 2.4 GHz para streaming em 4K, porque tem mais largura de banda e menos interferência. Se a TV fica longe do roteador, considere usar um cabo de rede ou um repetidor. Travar no meio de um filme por causa de sinal fraco é um dos maiores incômodos.
+
+## Checklist para levar na hora da compra
+
+Antes de fechar a compra, passe por esta lista. Ela resume o que realmente muda sua experiência e evita arrependimento.
+
+- Defina o ambiente primeiro. Sala clara pede brilho alto. Sala escura pede contraste e preto bom.
+
+- Confira o tipo de painel e entenda o trade-off. LED é mais barato e tem preto pior. OLED tem preto perfeito e custa mais. QLED tem brilho alto e cor saturada.
+
+- Verifique o brilho real em reviews, não o número da caixa. Abaixo de 500 nits, HDR é mais marketing que realidade.
+
+- Pense na taxa de atualização de acordo com seu uso. 60 Hz basta para filmes e TV. 120 Hz faz diferença em jogos e esportes.
+
+- Cheque o sistema operacional e o histórico de atualizações da marca. Um sistema abandonado vira problema em poucos anos.
+
+- Veja se as portas HDMI atendem seus aparelhos. Duas é o mínimo, três ou quatro é confortável.
+
+- Considere o som desde o início. Se a TV tem som fraco, inclua uma soundbar no orçamento.
+
+- Teste a velocidade do sistema em uma loja. Navegação travada irrita todos os dias.
+
+- Desconfie de recursos empilhados na etiqueta. Muitos existem só para justificar preço mais alto.
+
+- Prefira ver a TV funcionando a confiar apenas na ficha técnica. Cena escura e cena clara dizem mais que qualquer número.
+
+## O que ninguém te conta sobre reviews de TV
+
+Reviews são úteis, mas têm limites. Muitos são feitos em ambiente controlado, com luz baixa e conteúdo de demonstração, o que não reflete sua sala. Outros são patrocinados, e o tom muda sem você perceber. O melhor review é aquele que mostra medições, mas mesmo ele não sabe como é a sua casa.
+
+Outro ponto é a variação entre unidades. Dois aparelhos do mesmo modelo podem ter painéis de fornecedores diferentes, com desempenho levemente distinto. Isso acontece mais do que se imagina, principalmente em modelos de entrada. Por isso, uma TV elogiada por um review pode decepcionar em outra unidade.
+
+O jeito mais confiável é combinar fontes. Leia reviews técnicos, veja vídeos de gente que comprou, e vá até a loja ver a TV funcionando com conteúdo que você conhece. Leve um pen drive com uma cena escura e uma cena clara, se puder. Nada substitui ver com os próprios olhos.
+
+E lembre-se de que a melhor TV é a que atende ao seu uso. Não existe aparelho perfeito para todo mundo. Existe aparelho adequado ao seu cômodo, ao seu conteúdo e ao seu bolso. Gastar mais em um recurso que você não usa é dinheiro jogado fora. Gastar menos em algo que você usa todos os dias é arrependimento garantido.
+
+## O que fazer com tudo isso
+
+Avaliar uma smart TV é separar o que é essencial do que é enfeite. Painel, contraste, brilho, taxa de atualização real, sistema operacional e som. Esses seis pontos definem quase toda a sua experiência. O resto é detalhe que pode melhorar ou piorar a imagem, mas não salva uma TV mal escolhida.
+
+Se você guardar uma ideia deste texto, que seja esta. Números grandes na etiqueta não significam imagem melhor. Uma TV com ficha técnica modesta, mas com painel adequado ao seu ambiente e sistema fluido, vai te agradar mais do que uma TV cheia de siglas que trava ao abrir um app. Compre com critério, veja funcionando quando possível, e escolha pensando nos próximos anos, não só na promoção da semana.

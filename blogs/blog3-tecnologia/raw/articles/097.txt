@@ -1,0 +1,109 @@
+Comprar uma placa de vídeo virou uma tarefa confusa. Você entra numa loja online, digita "RTX" ou "Radeon" e aparece uma lista enorme de modelos com nomes parecidos, preços que variam muito e especificações que misturam números de gerações diferentes. A tentação é olhar só o nome, tipo "RTX 4060" ou "RX 7600", e achar que isso basta para saber o que está levando. Só que não basta, e essa é a origem de muita frustração.
+
+O nome do modelo é só o começo da história. Ele diz a geração e a faixa de desempenho, mas esconde detalhes que mudam completamente a experiência no dia a dia. A mesma GPU pode aparecer em placas com quantidades diferentes de memória, larguras de barramento distintas, sistemas de refrigeração que vão do silencioso ao barulhento e preços que variam centenas de reais. Ignorar isso é aceitar pagar caro por algo que não entrega o que você esperava.
+
+Este texto é pra quem está montando o primeiro PC gamer, pra quem vai trocar a placa antiga ou pra quem simplesmente quer entender o que está comprando antes de gastar. A ideia é mostrar os pontos que realmente importam na hora da escolha, com exemplos do mercado brasileiro e sem enrolação. Você vai sair daqui sabendo olhar uma ficha técnica e identificar o que faz diferença pro seu caso.
+
+## A memória de vídeo não é só "quanto tem"
+
+Quando alguém pergunta sobre uma placa de vídeo, a primeira resposta costuma ser "tem 8 GB" ou "tem 12 GB". A quantidade de VRAM importa, mas ela sozinha não diz nada. O que define o desempenho real é a combinação entre capacidade, largura de barramento e tipo de memória.
+
+Pensa num cano de água. A capacidade é o tamanho do reservatório, a largura de barramento é o diâmetro do cano e o tipo de memória é a velocidade com que a água corre. Um reservatório grande com cano fino entrega menos água por segundo do que um reservatório médio com cano largo. É por isso que existem placas com 8 GB que se saem melhor que outras com 12 GB em determinadas situações.
+
+Um exemplo clássico é comparar modelos de entrada que usam barramento de 128 bits com versões mais caras que usam 192 ou 256 bits. A diferença aparece em resoluções mais altas, em texturas pesadas e em jogos que usam muitos efeitos. Em 1080p, talvez você não note tanto. Em 1440p, a história muda.
+
+Outro ponto é o tipo de memória. GDDR6 e GDDR6X têm velocidades diferentes, e isso afeta a largura de banda total. Duas placas com a mesma GPU e a mesma quantidade de VRAM podem ter desempenhos distintos se uma usa memória mais rápida. A fabricante não costuma gritar isso no nome do produto, então é preciso ler a ficha técnica com calma.
+
+Na prática, para jogos em 1080p, 8 GB ainda dão conta da maioria dos títulos, mas já aparecem casos em que a memória aperta. Para 1440p, 12 GB é um número mais confortável. Para 4K, você está olhando para 16 GB ou mais, e aí o barramento precisa acompanhar. Não adianta ter muita memória se ela não consegue ser acessada rápido o suficiente.
+
+## O consumo de energia e a fonte que você já tem
+
+Esse é um dos detalhes que mais pega gente de surpresa. Você compra uma placa nova, chega em casa, instala e o PC desliga no meio do jogo. Ou liga, mas a fonte começa a fazer barulho estranho. O problema quase sempre é o consumo.
+
+Cada placa tem um TDP, que é uma estimativa de quanta energia ela puxa sob carga. Modelos mais potentes podem consumir 200, 250 ou até mais de 300 watts. Some isso ao consumo do processador, da placa-mãe, dos HDs e ventoinhas, e você tem o total que a fonte precisa entregar com folga.
+
+A regra prática é ter uma fonte que aguente o pico de consumo com pelo menos 20 ou 30 por cento de margem. Se o sistema todo pede 450 watts em carga máxima, uma fonte de 550 ou 600 watts de boa qualidade é o mínimo. Fonte genérica de 500 watts com selo duvidoso não conta, porque a entrega real costuma ser bem menor do que o rótulo promete.
+
+Além da potência, tem os conectores. Placas mais novas costumam pedir cabos de 8 pinos, às vezes dois deles, e algumas já usam o conector de 12 volts de nova geração. Verificar se a sua fonte tem os cabos certos antes de comprar evita ter que trocar tudo depois. Adaptador existe, mas nem sempre é a solução ideal, principalmente em placas que puxam muita energia.
+
+Também vale olhar o consumo em idle e em tarefas leves. Se você usa o PC para trabalhar durante o dia e joga à noite, uma placa que consome pouco quando está parada ajuda na conta de luz no fim do mês. Esse dado não aparece no nome do modelo, mas está nas análises e nas fichas técnicas.
+
+## Refrigeração, ruído e tamanho físico
+
+A mesma GPU pode vir em versões de duas ou três ventoinhas, com dissipadores de tamanhos diferentes e soluções de refrigeração que mudam tudo. Isso afeta temperatura, ruído e até o espaço que a placa ocupa dentro do gabinete.
+
+Uma placa com dois fans costuma ser mais barata, mas pode esquentar mais e girar mais rápido para dar conta. Isso gera ruído. Se você usa headset, talvez não importe. Se o PC fica na sala e você joga sem fone, o barulho incomoda. Já modelos com três ventoinhas e dissipador maior tendem a ser mais silenciosos, mas ocupam mais espaço e custam mais.
+
+O tamanho físico é outro ponto que muita gente ignora. Placas de três slots podem cobrir uma entrada PCIe que você pretendia usar para outra coisa. Comprimentos acima de 30 centímetros podem não caber em gabinetes menores. Antes de comprar, meça o espaço interno do seu gabinete e confira as dimensões da placa na ficha técnica. Parece óbvio, mas é um erro comum.
+
+Tem também a questão do fluxo de ar. Placas que jogam o ar quente para dentro do gabinete precisam que ele tenha boa ventilação. Se o seu gabinete é fechado e sem fans, a temperatura sobe e a placa reduz o desempenho para se proteger. Isso se chama throttling térmico, e acontece mais do que se imagina.
+
+Por fim, tem o suporte para a placa. Modelos pesados podem entortar o slot PCIe com o tempo. Muitas placas já vêm com um reforço na estrutura, mas se a sua não tiver, um suporte simples resolve. É barato e evita dor de cabeça.
+
+## O que a GPU faz além de jogar
+
+Muita gente compra placa de vídeo pensando só em jogos, mas ela afeta outras tarefas. Se você edita vídeo, mexe com modelagem 3D, usa inteligência artificial ou faz streaming, a escolha muda de figura.
+
+Para edição de vídeo, a quantidade de VRAM e a compatibilidade com codecs importam bastante. Programas como Premiere e DaVinci Resolve se beneficiam de aceleração por hardware, mas o ganho varia conforme a GPU. Já para 3D, o que pesa é o desempenho em renderização e a quantidade de memória, porque cenas complexas podem estourar a VRAM.
+
+Em inteligência artificial, o cenário é um pouco diferente. Muitas ferramentas rodam melhor em placas com mais memória, e algumas só funcionam em GPUs específicas. Se esse é o seu caso, vale pesquisar antes de comprar, porque uma placa ótima para jogos pode não ser a ideal para o que você precisa.
+
+Streaming também merece atenção. Placas com encoder dedicado, como o NVENC nas GeForce ou o equivalente nas Radeon, aliviam o processador na hora de transmitir. Se você faz live, isso faz diferença na qualidade e no desempenho do jogo.
+
+Até o consumo de energia em tarefas do dia a dia entra nessa conta. Uma placa que roda vídeos e navegação com baixo consumo ajuda a manter o PC silencioso e a conta de luz sob controle.
+
+## Drivers, suporte e o longo prazo
+
+Comprar a placa é só o começo. O que mantém ela relevante por anos é o suporte de drivers e a otimização para jogos novos. Nesse ponto, as duas fabricantes principais têm históricos diferentes, e vale considerar isso na escolha.
+
+A Nvidia costuma ter drivers mais estáveis para uma gama maior de aplicações, além de recursos como DLSS, que melhora o desempenho em jogos compatíveis. A AMD tem evoluído bastante, com o FSR, que funciona em mais placas e não depende de hardware específico. Cada uma tem vantagens e limitações, e a escolha depende do que você joga e usa.
+
+O suporte a longo prazo também importa. Placas mais antigas eventualmente deixam de receber otimizações para jogos novos. Isso não significa que param de funcionar, mas o desempenho relativo cai com o tempo. Se você pretende ficar com a placa por quatro ou cinco anos, vale considerar modelos mais recentes, mesmo que custem um pouco mais agora.
+
+Outro ponto é a garantia. No Brasil, o prazo varia conforme a marca e a loja. Três anos é comum em modelos mais caros, um ano em alguns de entrada. Guardar a nota fiscal e conferir a política de RMA é essencial, porque acionar garantia sem documento é dor de cabeça.
+
+Tem também a questão de revenda. Placas de marcas conhecidas e com boa reputação tendem a manter mais valor. Modelos obscuros ou com histórico de problemas podem ser difíceis de vender depois.
+
+## Como escolher na prática, um passo a passo
+
+Agora que você já sabe o que olhar, vamos organizar isso num roteiro simples. A ideia é evitar comprar por impulso e ter certeza de que a placa faz sentido pro seu caso.
+
+- Defina a resolução e a taxa de quadros que você quer. 1080p a 60 fps, 1440p a 144 fps, 4K a 60 fps. Isso muda completamente a faixa de placas que fazem sentido.
+
+- Verifique a fonte que você tem. Potência, conectores e idade. Se for trocar, inclua isso no orçamento.
+
+- Meça o espaço no gabinete. Comprimento, altura e número de slots ocupados.
+
+- Confira o processador. Uma placa muito potente com um processador fraco gera gargalo e você não aproveita o que pagou.
+
+- Leia análises da versão específica que você vai comprar. Não basta ver o desempenho da GPU em geral, porque cada fabricante monta a placa de um jeito.
+
+- Compare preços entre lojas e marcas. A mesma GPU pode variar bastante de preço conforme a versão.
+
+- Verifique a garantia e a reputação da marca no Brasil.
+
+- Compre só depois de checar tudo isso. A pressa é a maior inimiga de uma boa compra.
+
+Esse roteiro leva uns vinte minutos, mas evita arrependimento. Se você seguir cada passo, a chance de comprar algo errado cai bastante.
+
+## Erros comuns que custam caro
+
+Tem alguns erros que aparecem com frequência e que vale mencionar. O primeiro é comprar pela quantidade de VRAM sem olhar o resto. Já falamos disso, mas vale reforçar. Memória sozinha não garante desempenho.
+
+O segundo é ignorar a fonte. Muita gente gasta tudo na placa e economiza na fonte, o que é um risco. Fonte ruim pode danificar o sistema inteiro, não só a placa.
+
+O terceiro é não considerar o processador. Um processador antigo ou de entrada limita o desempenho da placa, e você paga por algo que não usa. O ideal é equilibrar os dois.
+
+O quarto é comprar a versão mais barata sem olhar a refrigeração. Economizar cem reais e ficar com uma placa barulhenta e quente não vale a pena na maioria dos casos.
+
+O quinto é não pesquisar a garantia. Marcas com histórico ruim de suporte podem transformar um problema simples numa novela.
+
+E o sexto é comprar por impulso em promoção relâmpago. Promoção boa é aquela que você já estava esperando, não a que aparece do nada e te pressiona a decidir em cinco minutos.
+
+## O que realmente importa no fim das contas
+
+No fim, escolher uma placa de vídeo é equilibrar o que você quer, o que você tem e quanto você pode gastar. O nome do modelo é o ponto de partida, não o critério final. Memória, barramento, consumo, refrigeração, tamanho, drivers e garantia entram todos na conta.
+
+Você não precisa decorar especificações nem virar especialista. Precisa saber fazer as perguntas certas e ler a ficha técnica com atenção. Com o roteiro deste texto, dá pra tomar uma decisão consciente e evitar pagar caro por algo que não entrega o que você espera.
+
+Lembrando que em saúde e em finanças o cuidado é sempre maior, e aqui não é diferente. Informação de qualidade é o que separa uma compra tranquila de uma dor de cabeça. Pesquise, compare e só então decida.

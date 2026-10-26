@@ -1,0 +1,125 @@
+Você já viu a cena. Alguém derruba o celular na piscina, todo mundo prende a respiração, a pessoa pega o aparelho e solta um "ainda bem que é à prova d'água". Só que essa confiança toda costuma vir de uma etiqueta que quase ninguém entende de verdade. O tal do IP68 virou selo de garantia na cabeça do consumidor, mas ele não quer dizer o que a maioria imagina.
+
+A verdade é que a classificação IP mede resistência a água e poeira em condições bem específicas de laboratório. Ela não cobre água salgada, não cobre refrigerante derramado, não cobre vapor de banho quente e muito menos garante que o aparelho vai sobreviver a uma queda na privada seguida de três anos de uso. O selo é um ponto de partida, não uma apólice de seguro.
+
+Entender o que cada número significa muda a forma como você cuida do seu celular no dia a dia. E também evita aquela frustração de descobrir, na hora do conserto, que o dano por líquido não está coberto pela garantia mesmo com o aparelho tendo selo de resistência. Vamos destrinchar isso com calma.
+
+## O que a sigla IP quer dizer de verdade
+
+IP vem de "Ingress Protection", algo como proteção contra entrada. É uma norma técnica internacional que classifica o quanto um equipamento consegue impedir que sólidos e líquidos entrem nele. A sigla sempre aparece com dois números depois. O primeiro é sobre poeira e partículas sólidas. O segundo é sobre água.
+
+Quando você vê IP68, o 6 é o nível máximo para sólidos. Significa que o aparelho é totalmente vedado contra poeira. O 8 é o segundo nível mais alto para água, e é aí que mora a confusão. Muita gente acha que o número maior sempre quer dizer melhor, mas a escala de água não funciona exatamente assim.
+
+O nível 8 é definido pelo fabricante em conjunto com o laboratório. A norma exige que o produto seja testado em condições mais severas que o nível 7, mas não define exatamente quanto tempo e em qual profundidade. Isso fica a critério de quem testa. Em geral, os celulares com IP68 aguentam ficar submersos a cerca de um metro e meio por até trinta minutos. Mas esse número varia de marca para marca, e o manual é o único lugar onde você encontra a informação real.
+
+Já o IP67 indica que o aparelho aguenta submersão de até um metro por trinta minutos, com margem menor. E o IPX4, ou IP54, que aparece em modelos mais simples, significa apenas respingos. Nada de submergir o aparelho. Uma chuva leve na rua, tudo bem. Uma queda na piscina, já era.
+
+## Por que o IP68 não é uma garantia
+
+Aqui está o ponto que mais gera briga entre consumidor e assistência técnica. A resistência à água é testada em aparelhos novos, com as vedações intactas, em água doce e limpa, com temperatura controlada. Seu celular depois de dois anos de uso não é mais aquele aparelho do teste.
+
+Com o tempo, as borrachas de vedação envelhecem. O adesivo que cola a tela ao chassi resseca. Uma queda, mesmo que sem quebrar a tela, pode criar uma microfissura que deixa a água passar. Calor também castiga esses materiais, e celular vive esquentando no bolso ou no carregador. Ou seja, a proteção degrada naturalmente.
+
+Tem ainda a questão química. Água do mar, refrigerante, café com leite, suco de laranja, cerveja e água de piscina com cloro são líquidos diferentes da água doce do teste. Eles têm sais, açúcares e ácidos que atacam as vedações e, quando secam, deixam resíduo condutivo dentro do aparelho. Isso pode oxidar a placa mesmo que não entre muita água.
+
+Por isso as fabricantes colocam no manual que o dano por líquido não é coberto pela garantia. É uma cláusula chata, mas faz sentido do ponto de vista técnico. O selo atesta que o aparelho foi projetado para resistir, não que ele está imune para sempre. A maioria das marcas trata a resistência como proteção contra acidentes, não como permissão para uso subaquático.
+
+## A diferença entre resistente e à prova d'água
+
+Essas duas expressões são usadas como sinônimo no dia a dia, mas não são a mesma coisa. À prova d'água sugere que nada de água entra, em qualquer situação, o que simplesmente não existe para um celular com alto-falante, microfone e conectores expostos. Resistente à água é o termo correto. Quer dizer que o aparelho dificulta a entrada de água em condições específicas.
+
+Essa diferença parece papo de advogado, mas tem consequência prática. Quem acredita que o celular é à prova d'água tende a levar o aparelho para a praia, gravar vídeo dentro do mar, usar na sauna, lavar na torneira. Cada uma dessas situações tem risco real. A areia, por exemplo, é um abrasivo que pode danificar as vedações e entupir as grades do alto-falante. A sauna combina calor e vapor, que penetram mais fácil que água líquida.
+
+As fabricantes sabem disso e mudam o discurso conforme o mercado. Algumas destacam nos anúncios que o aparelho aguenta uma piscina, mas no manual escrevem que ele não deve ser usado para gravação subaquática. Outras chegam a alertar que a resistência vale apenas para água doce e corrente. Ler o manual é chato, mas é o único documento que protege você numa discussão com a assistência.
+
+## Os cenários do dia a dia que testam o selo
+
+Pensar em situações reais ajuda mais que decorar a norma. Vamos passar por algumas.
+
+Chuva na rua. Se você está com um IP67 ou IP68 no bolso e começa a chover, o aparelho aguenta numa boa, desde que você seque depois. O problema é a água que fica acumulada nas aberturas, como a saída do alto-falante e a entrada USB. Se você plugar o carregador com o conector molhado, pode dar curto e o próprio celular costuma avisar que há umidade na porta.
+
+Piscina. Um mergulho rápido para tirar uma foto, com o aparelho novo, geralmente não dá problema. Mas água de piscina tem cloro, e o cloro ataca as vedações. Se o celular ficar muito tempo submerso ou cair no fundo e demorar para ser resgatado, o risco sobe. O ideal é enxaguar com água doce depois e secar bem, mas isso não é consenso entre fabricantes.
+
+Praia. Esse é um dos piores cenários. Água salgada é condutiva e corrosiva. A areia gruda e penetra. Mesmo aparelhos com IP68 não foram testados para isso. Se levar o celular na praia, o mais seguro é manter longe da água e usar uma capa protetora.
+
+Banheiro e vapor. A resistência à água não cobre vapor. As partículas de vapor são menores que as gotas de água líquida e conseguem atravessar as vedações com mais facilidade. Por isso usar o celular no banho quente é uma péssima ideia, mesmo que o aparelho tenha selo alto.
+
+Cozinha. Derramar água, refrigerante ou café é comum. O líquido em si, se for água, tem risco moderado. Refrigerante e café são piores por causa do açúcar e da acidez. Além disso, a queda do celular na pia pode quebrar a tela, e tela quebrada compromete a vedação, mesmo que o dano por líquido não tenha acontecido.
+
+## Um passo a passo para lidar com o celular molhado
+
+Se o seu aparelho caiu na água ou levou um banho forte, a forma como você reage faz diferença. Siga esta sequência.
+
+- Desligue o aparelho imediatamente, se ele ainda estiver ligado. Não tente testar se está funcionando. Energia elétrica mais água dentro do circuito é o que causa a maior parte dos danos.
+
+- Seque a parte externa com um pano macio e absorvente. Não sacuda o celular, isso só espalha a água para dentro.
+
+- Remova a capinha e, se o aparelho tiver gaveta de chip ou cartão de memória, abra com cuidado. Isso ajuda a ventilação.
+
+- Deixe o aparelho em local seco e ventilado, com as aberturas viradas para baixo, por pelo menos 24 horas. Um ventilador em temperatura ambiente ajuda, mas nada de secador de cabelo.
+
+- Não coloque arroz. O arroz não absorve a umidade interna de forma eficaz e ainda solta pó, que pode entrar nos conectores.
+
+- Não carregue enquanto houver suspeita de umidade. Espere o tempo de secagem e observe se aparece aviso de umidade na tela.
+
+- Se o aparelho for resistente à água e apenas levou respingo, seque bem antes de usar. Se caiu em água salgada, suja ou açucarada, a recomendação é procurar assistência técnica mesmo que ele pareça funcionar.
+
+- Depois de ligar, fique atento a sintomas estranhos. Tela com manchas, alto-falante abafado, câmera embaçada e aquecimento fora do normal são sinais de que entrou líquido.
+
+Esse roteiro não substitui uma avaliação técnica, mas evita que você piore a situação na hora do desespero.
+
+## O que ninguém te conta sobre a garantia
+
+A parte mais frustrante para quem compra um celular com IP68 é descobrir que a garantia não cobre dano por líquido. Isso é padrão na maioria das marcas. A justificativa é que o teste de laboratório não consegue reproduzir o uso real, e a fabricante não tem como saber se o aparelho foi exposto além do que a norma permite.
+
+Na prática, isso significa que o selo serve como proteção contra acidentes leves e como argumento de marketing. Ele não é uma cobertura. Se o seu celular molhou e parou de funcionar, a assistência vai avaliar e provavelmente vai cobrar o conserto, mesmo com o IP68 na caixa.
+
+Existe uma exceção que vale conhecer. Alguns países têm leis de defesa do consumidor que consideram abusiva a recusa de garantia quando o aparelho foi vendido com apelo de resistência à água. No Brasil, o Código de Defesa do Consumidor pode ser invocado em casos assim, mas depende de análise. O ideal é guardar o manual, a nota fiscal e, se possível, registros da situação. Não é garantia de vitória, mas ajuda.
+
+## Escolhendo um celular pensando em resistência
+
+Na hora de comprar, o selo IP é só um dos fatores. Um aparelho com IP68 e construção frágil pode durar menos que um com IP67 e bom acabamento. Vale olhar a qualidade dos materiais, a reputação da marca em assistência e a política de garantia.
+
+Também faz diferença pensar no seu uso. Se você trabalha na rua, pega chuva, anda de moto, o selo mais alto ajuda. Se o celular fica na mesa do escritório, um IP54 pode bastar. Não faz sentido pagar caro por um recurso que você não vai usar.
+
+Capa e película ainda são aliados. Uma capa boa absorve impacto e reduz a chance de a tela quebrar, o que indiretamente protege a vedação. Película de vidro ajuda contra riscos. Nenhum desses acessórios substitui o selo, mas somam.
+
+Outro ponto é a bateria. Aparelhos com bateria selada e sem tampa removível costumam ter vedação melhor. Modelos com tampa traseira removível, que eram comuns antigamente, tinham mais pontos de entrada de água. Hoje quase todos são selados, mas vale conferir.
+
+E fique de olho no tempo de uso. Se você pretende ficar anos com o mesmo celular, lembre que a resistência cai com o tempo. Trocar a bateria em uma assistência não autorizada, por exemplo, pode comprometer a vedação. Serviço autorizado costuma refazer as vedações, mas nem sempre.
+
+## Mitos que circulam por aí
+
+Tem muita informação errada sobre o assunto. Vamos limpar algumas.
+
+Mito um. Celular com IP68 pode ser usado no mar. Falso. Água salgada é corrosiva e não está no teste padrão.
+
+Mito dois. Se cair na água e ligar, está tudo bem. Falso. O dano por corrosão pode levar dias ou semanas para aparecer. O aparelho ligar não significa que está ileso.
+
+Mito três. Arroz resolve. Falso. O arroz não seca o interior e ainda deixa resíduo. O melhor é deixar secar naturalmente e, se possível, levar a uma assistência.
+
+Mito quatro. IP68 é melhor que IP69. Depende. O IP69 é testado contra jatos de água quente em alta pressão, o que é útil em ambiente industrial, mas não significa submersão mais profunda. São testes diferentes.
+
+Mito cinco. Todo celular com IP68 tem a mesma resistência. Falso. Cada fabricante define o teste dentro das margens da norma. Um pode aguentar mais que o outro.
+
+Mito seis. Carregar o celular molhado é tranquilo. Falso. Água no conector USB pode causar curto e danificar a porta de carga. Espere secar.
+
+Mito sete. Se a tela trincou, mas o celular tem IP68, ainda está protegido. Falso. Trinca compromete a vedação. A partir daí, qualquer respingo é risco.
+
+## Como cuidar para a proteção durar mais
+
+Alguns hábitos simples ajudam a manter a resistência por mais tempo. Evite expor o aparelho a calor extremo, como deixar no painel do carro sob o sol. Isso resseca as vedações. Evite quedas, mesmo pequenas, porque impacto pode comprometer a estrutura sem quebrar nada visível.
+
+Se o celular molhar, seque bem antes de carregar. Use capa e película. Não abra o aparelho por conta própria nem leve em assistência não autorizada para trocar bateria ou tela, porque isso costuma destruir a vedação original.
+
+Na praia, prefira levar o celular em bolsa térmica ou saco plástico próprio para eletrônicos. Se usar na beira da água, cuidado com respingos de água salgada. Depois, passe um pano levemente úmido com água doce para remover o sal, mas sem exagerar na umidade.
+
+No banheiro, deixe o celular longe da área do chuveiro. O vapor é um inimigo silencioso. Na cozinha, mantenha longe da pia e de líquidos quentes.
+
+Por fim, leia o manual. Cada aparelho tem recomendações específicas, e a fabricante costuma listar o que a resistência cobre e o que não cobre. Isso vale mais que qualquer vídeo de internet.
+
+A classificação IP é uma ferramenta útil, mas não é mágica. Ela indica que o aparelho foi projetado para resistir a certas condições, e não que ele é imune. Entender os limites evita prejuízo e frustração.
+
+Se você trata o celular como um equipamento eletrônico que não gosta de água, e não como um peixe, ele vai durar mais. O selo ajuda, mas o cuidado no dia a dia é o que realmente protege. Guarde essas informações e use o bom senso. Água e eletrônica continuam sendo uma combinação delicada, por mais avançada que a tecnologia esteja.
+
+No fim das contas, o IP68 é um voto de confiança, não uma promessa. Ele diz que o fabricante fez um esforço para proteger o aparelho, mas não elimina o risco. Saber disso muda a forma como você age em um acidente e pode economizar um bom dinheiro em conserto. E se o celular cair na água, mantenha a calma, siga o passo a passo e, na dúvida, procure assistência. Melhor prevenir do que lamentar depois.

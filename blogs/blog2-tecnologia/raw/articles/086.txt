@@ -1,0 +1,133 @@
+Comprar um hub USB-C virou uma daquelas tarefas que parecem simples e viram dor de cabeça. Você vê dezenas de modelos parecidos, todos com fotos bonitas, todos prometendo transformar seu notebook em uma estação de trabalho completa. Aí chega em casa, pluga tudo e descobre que o monitor pisca, o HD externo desconecta sozinho e a internet cai quando você transfere um arquivo grande. O problema quase nunca é o seu computador. É o hub.
+
+A verdade é que existe uma diferença enorme entre o que está escrito na caixa e o que o chip interno realmente entrega. Muita gente compra um hub de R80esperandoodesempenhodeumdockdeR 80 esperando o desempenho de um dock de R80esperandoodesempenhodeumdockdeR 800, e a frustração é garantida. Mas também tem muito produto caro que não justifica o preço, com especificações infladas e conexões que compartilham a mesma banda de dados de um jeito que trava tudo.
+
+Nesta análise, vou destrinchar o que importa de verdade em um hub USB-C. Vou falar de velocidade real, alimentação, aquecimento, compatibilidade com Windows, macOS e Android, e dos detalhes que ninguém coloca na descrição do produto. A ideia é que você consiga olhar a ficha técnica de qualquer hub e saber, em poucos minutos, se ele presta ou não.
+
+## O que um hub USB-C realmente faz
+
+Um hub USB-C é basicamente um ponto de distribuição de dados e energia. Ele pega o sinal que sai da sua porta USB-C e divide entre várias saídas. HDMI, USB-A, cartão SD, Ethernet, entrada de energia. Parece mágica, mas é só engenharia. E como toda engenharia, tem limites.
+
+O primeiro limite é a banda. A porta USB-C do seu notebook tem uma capacidade máxima de transferência, e o hub divide essa capacidade entre tudo que estiver conectado. Se você pluga um monitor 4K a 60 Hz, isso já consome uma fatia enorme. Se junto tiver um SSD externo e um pendrive, todos vão competir pelo mesmo espaço.
+
+O segundo limite é a energia. Cada porta USB-A precisa alimentar o dispositivo conectado. Um mouse consome pouco, mas um HD externo de 2,5 polegadas pode pedir quase 1 ampère. Se o hub não tiver uma fonte de energia própria, ele vai depender só do que o notebook manda, e isso muitas vezes não basta.
+
+Tem também a questão do chip controlador. É ele que faz a tradução entre os protocolos. Chips bons custam mais caro e entregam estabilidade. Chips ruins esquentam, perdem pacotes de dados e causam aquelas desconexões misteriosas que você jura que são culpa do Windows.
+
+## Velocidade de dados, o número que quase sempre engana
+
+Quando você vê "USB 3.0" na caixa, pode significar várias coisas. A nomenclatura da USB é uma bagunça proposital. USB 3.0, 3.1, 3.2 Gen 1, 3.2 Gen 2, tudo isso se mistura e confunde. O que importa é a velocidade real.
+
+USB 3.2 Gen 1 entrega até 5 Gbps. USB 3.2 Gen 2 chega a 10 Gbps. USB 3.2 Gen 2x2 alcança 20 Gbps, mas é raro em hubs e quase inexistente em notebooks. E tem ainda o Thunderbolt, que trabalha com 40 Gbps, mas exige certificação e custa caro.
+
+Na prática, um hub com porta USB-A marcada como 5 Gbps raramente entrega os 5 Gbps cheios. O motivo é simples. O hub divide a banda da porta USB-C do notebook entre todas as saídas. Se você tem quatro portas USB-A em um hub conectado a uma única porta USB-C de 10 Gbps, a soma de tudo não passa de 10 Gbps.
+
+Teste real que você pode fazer. Conecte um SSD externo direto no notebook e copie um arquivo grande de 20 GB. Anote o tempo. Depois faça o mesmo pelo hub. Se a diferença for de mais de 30 por cento, o hub está limitando. Isso é normal em modelos baratos, mas inaceitável em hubs que custam acima de R$ 300.
+
+Outro detalhe. Portas USB-A azuis geralmente indicam 5 Gbps ou mais. Portas pretas costumam ser 480 Mbps, a velha USB 2.0. Se o hub tem porta preta, ela serve para mouse e teclado, não para armazenamento.
+
+## HDMI e DisplayPort, o que funciona de verdade
+
+Aqui é onde a maioria dos hubs falha feio. Muita gente compra um hub com HDMI esperando ligar dois monitores externos no notebook. Chega em casa e descobre que só um funciona, ou que o segundo monitor fica a 30 Hz, com aquele movimento travado que dá dor de cabeça.
+
+O problema tem nome. DisplayLink versus DP Alt Mode. O DP Alt Mode é o modo nativo, em que a porta USB-C do notebook já manda sinal de vídeo direto. Funciona sem driver, é estável e entrega alta resolução. Mas depende do notebook suportar esse modo. A maioria dos notebooks modernos suporta, mas alguns modelos de entrada não.
+
+Já o DisplayLink é uma tecnologia de compressão que permite vídeo por USB comum, sem precisar do modo nativo. Funciona em quase qualquer notebook, mas exige driver instalado e consome mais processamento. Em jogos e edição de vídeo, o atraso é perceptível.
+
+Quando você vê um hub anunciando "suporta dois monitores 4K", desconfie. Verifique se ele usa DisplayLink ou DP Alt Mode. Se for DP Alt Mode, o notebook precisa suportar DisplayPort over USB-C, e nem todos suportam dois streams independentes.
+
+Outro ponto. HDMI 1.4 suporta 4K a 30 Hz. HDMI 2.0 suporta 4K a 60 Hz. HDMI 2.1 suporta 4K a 120 Hz e 8K a 60 Hz. Se o hub tem HDMI 1.4 e você pluga um monitor 4K, vai ficar a 30 Hz. Isso é ruim para trabalhar, porque o mouse fica arrastado. Para escritório e navegação, 30 Hz é sofrível.
+
+Resolução e taxa de atualização andam juntas. Um hub que promete 4K a 60 Hz precisa de banda suficiente. Se ele também tem Ethernet, USB 3.0 e leitor de cartão ativos ao mesmo tempo, pode ser que a taxa caia para 30 Hz. É a famosa compartilha de banda.
+
+## Alimentação e carregamento, onde mora a maior confusão
+
+Pass-through charging é o nome bonito para a capacidade do hub de receber energia da fonte e repassar para o notebook enquanto alimenta os periféricos. É uma função essencial, mas cheia de pegadinhas.
+
+O padrão USB Power Delivery permite até 100 W pela porta USB-C. Mas o hub precisa ser compatível com a voltagem e amperagem corretas. Se você tem um notebook que pede 65 W e pluga um carregador de 65 W no hub, o notebook pode receber apenas 45 W, porque o próprio hub consome uma parte. E se o hub não tiver um chip PD decente, pode receber ainda menos.
+
+Notebooks mais exigentes, como os usados para edição de vídeo e jogos, pedem 90 W ou mais. Um hub que só repassa 60 W vai fazer seu notebook carregar devagar ou nem carregar enquanto você usa. Isso é frustrante.
+
+Tem também a questão da energia para os periféricos. Um hub sem fonte externa depende do notebook para alimentar tudo. Se você pluga um HD externo, um teclado com iluminação e um cooler, a conta não fecha. O notebook limita a saída de energia pela porta USB-C, e o hub começa a desconectar dispositivos.
+
+A solução é simples. Para uso pesado, prefira hubs com fonte de energia própria. Eles custam mais, mas entregam estabilidade. Para uso leve, com mouse, teclado e um pendrive, um hub sem fonte resolve.
+
+## Aquecimento, o inimigo silencioso
+
+Hub USB-C esquenta. Isso é normal. O chip controlador trabalha intensamente convertendo sinais e distribuindo energia. Mas tem aquecimento aceitável e tem aquecimento que indica problema.
+
+Um hub que fica morno depois de horas de uso está dentro do esperado. Um hub que fica quente a ponto de você não conseguir segurar por mais de dois segundos está mal projetado. O calor excessivo degrada os componentes internos, e com o tempo as portas começam a falhar.
+
+Hubs de alumínio dissipam melhor o calor do que hubs de plástico. Mas o alumínio também transmite mais calor para a mão. Então um hub de alumínio morno pode ser normal, enquanto um hub de plástico quente é sinal de alerta.
+
+O aquecimento também afeta a velocidade. Chips quentes reduzem a taxa de transferência para se proteger. Se você percebe que a cópia de arquivos começa rápida e vai ficando lenta, pode ser throttling térmico. Nesse caso, o hub não está entregando o prometido de forma consistente.
+
+Uma dica prática. Evite deixar o hub embaixo de outros equipamentos ou em cima de superfícies que esquentam, como o próprio notebook. Dê espaço para ventilação. E se o hub tiver corpo metálico, ele ajuda a dissipar, mas não resolve milagrosamente um projeto ruim.
+
+## Compatibilidade com Windows, macOS e Android
+
+Nem todo hub funciona igual em todos os sistemas. Isso é importante porque muita gente compra pensando no notebook e depois quer usar no tablet ou no celular.
+
+No Windows, a compatibilidade costuma ser ampla. A maioria dos hubs é reconhecida automaticamente, sem driver. Mas recursos avançados, como dois monitores via DisplayLink, exigem instalação de software. E alguns hubs baratos têm problemas com portas USB que entram em modo de suspensão seletiva, desconectando dispositivos quando o notebook hiberna.
+
+No macOS, a situação é mais delicada. Macs com chip Apple Silicon, como o M1 e o M2, têm suporte limitado a múltiplos monitores externos. Um hub que promete dois monitores pode entregar apenas um, a menos que use DisplayLink. Além disso, o macOS é mais rigoroso com consumo de energia. Hubs que não seguem o padrão USB PD direito podem não carregar o MacBook.
+
+No Android, o suporte depende do celular. Modelos com USB-C que suportam DisplayPort Alt Mode conseguem espelhar a tela. Outros só transferem dados. E a alimentação também varia. Alguns celulares aceitam carregamento pelo hub, outros não.
+
+No Linux, a compatibilidade é surpreendentemente boa para hubs simples, mas recursos como DisplayLink podem exigir drivers de terceiros e configuração manual.
+
+Antes de comprar, verifique se o fabricante lista compatibilidade com o seu sistema. E se possível, procure relatos de usuários com o mesmo notebook ou celular que o seu.
+
+## Como avaliar um hub antes de comprar, passo a passo
+
+Aqui vai um roteiro prático para você não errar na escolha.
+
+- Verifique a velocidade das portas USB-A. Se estiver escrito apenas "USB 3.0" sem especificar Gbps, desconfie. O ideal é USB 3.2 Gen 1 ou superior. Portas USB 2.0 servem apenas para periféricos simples.
+
+- Confira o padrão HDMI. HDMI 1.4 limita 4K a 30 Hz. HDMI 2.0 entrega 4K a 60 Hz. Se você usa monitor 4K, não aceite menos que HDMI 2.0.
+
+- Cheque o suporte a DisplayPort Alt Mode. Se o hub não especifica, pergunte ao fabricante. Sem isso, vídeo por USB-C pode não funcionar no seu notebook.
+
+- Veja a potência do pass-through charging. Se seu notebook pede 65 W, o hub precisa repassar pelo menos 60 W. Se pede 90 W, busque hubs que repassem 85 W ou mais.
+
+- Avalie a construção. Corpo metálico ajuda na dissipação. Cabo reforçado evita quebra na saída. Portas bem encaixadas não soltam com facilidade.
+
+- Leia avaliações de usuários. Procure relatos de desconexão, aquecimento excessivo e incompatibilidade com seu modelo de notebook.
+
+- Prefira hubs com fonte de energia se for usar muitos periféricos. A estabilidade compensa o custo extra.
+
+- Evite hubs sem marca conhecida. Chips baratos são a principal causa de falhas intermitentes.
+
+Esse roteiro não elimina todos os riscos, mas reduz muito a chance de você comprar algo que não entrega o que promete.
+
+## Alternativas e quando um dock faz mais sentido
+
+Se você precisa de muitas conexões, um hub simples pode não bastar. Docks maiores, com fonte de energia dedicada e suporte a dois monitores 4K a 60 Hz, custam na faixa dos mil reais, mas entregam muito mais estabilidade.
+
+A diferença entre hub e dock não é só o preço. Docks geralmente têm chipset mais robusto, melhor dissipação e mais portas. São indicados para quem usa o notebook como estação de trabalho fixa, com monitor, teclado, mouse, Ethernet e armazenamento externo conectados ao mesmo tempo.
+
+Hubs são melhores para mobilidade. Cabem na mochila, não precisam de fonte e resolvem o básico. Mas se você força o hub além do que ele aguenta, a experiência é ruim.
+
+Tem também a opção de adaptadores individuais. Um adaptador USB-C para HDMI, outro para USB-A, outro para Ethernet. É mais barato, mas vira uma bagunça de cabos e ocupa todas as portas do notebook. Para quem tem apenas uma porta USB-C, o hub é quase obrigatório.
+
+## O que ninguém te conta sobre hubs baratos
+
+Hubs muito baratos, na faixa de R50aR 50 a R50aR 100, costumam usar chips genéricos que não seguem especificações rigorosas. Eles funcionam para tarefas leves, mas falham em uso intenso.
+
+Um problema comum é a falta de isolamento entre as portas. Quando você pluga um dispositivo que consome muita energia, as outras portas oscilam. Isso pode fazer um HD externo desconectar no meio de uma transferência, o que é um risco real de perda de dados.
+
+Outro problema é a compatibilidade com carregadores rápidos. Alguns hubs baratos não negociam corretamente a voltagem e podem carregar o notebook muito devagar, ou nem carregar.
+
+Tem ainda a questão da durabilidade. Cabos que se rompem facilmente, portas que folgam depois de poucos meses, plástico que trinca. Um hub barato pode durar menos de um ano, e aí você compra outro. No fim, sai mais caro do que ter comprado um modelo decente desde o início.
+
+Isso não significa que todo hub caro é bom. Existem modelos caros com especificações infladas e desempenho medíocre. Por isso a análise caso a caso é importante.
+
+## O veredito sobre hubs USB-C
+
+Um bom hub USB-C não é o que tem mais portas. É o que entrega estabilidade, velocidade consistente e compatibilidade real com o seu equipamento. Se você usa o notebook para tarefas básicas, um hub intermediário, na faixa de R200aR 200 a R200aR 400, resolve bem. Se trabalha com vídeo, múltiplos monitores e armazenamento externo pesado, invista em um dock com fonte própria.
+
+Desconfie de promessas exageradas. "Dois monitores 4K a 60 Hz" em um hub de R$ 150 é impossível com a tecnologia atual. "Carregamento de 100 W" sem fonte dedicada é conversa de marketing. "USB 3.2 Gen 2" em todas as portas é raro, e quando existe, custa caro.
+
+A regra é simples. Leia a ficha técnica com atenção, procure o padrão HDMI, a velocidade real das portas, a potência do pass-through e a existência de fonte externa. Se o fabricante não informa esses detalhes, é sinal de que tem algo a esconder.
+
+Hubs USB-C são ferramentas úteis, mas não são mágicos. Eles têm limites físicos e elétricos. Entender esses limites é o que separa quem compra bem de quem compra duas vezes. Com as informações certas, você consegue escolher um modelo que realmente entrega o que promete, sem pagar caro por especificações que nunca vão se realizar na prática.

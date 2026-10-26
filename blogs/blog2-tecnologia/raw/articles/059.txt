@@ -1,0 +1,115 @@
+Você já viu isso acontecer. Um celular novo é anunciado com meses de antecedência, a página do fabricante ganha um contador regressivo e, de repente, aparece o botão "reservar agora". Aquele lançamento de tênis esgotado em minutos, o console que some do estoque antes mesmo de chegar às lojas, o carro elétrico que você configura no site e só recebe no ano seguinte. Todos esses casos têm algo em comum. Eles passaram por um pré-lançamento, e a reserva foi a ferramenta que transformou expectativa em fila organizada.
+
+Entender como esse mecanismo funciona ajuda em dois sentidos. Se você é consumidor, passa a enxergar o que está comprando de verdade quando paga uma reserva, quais são seus direitos e onde ficam as armadilhas. Se você trabalha com produto, marketing ou vendas, enxerga uma engrenagem que pode gerar caixa antes do estoque existir, mas que também cobra um preço alto quando é mal executada.
+
+A ideia central é simples. O pré-lançamento cria desejo e mede demanda antes de o produto estar disponível. A reserva é o compromisso, do cliente e da empresa, de que aquele interesse vai virar entrega em algum momento. O que complica é o intervalo entre esses dois pontos, e é aí que mora quase tudo o que você precisa saber.
+
+## O que é pré-lançamento, afinal
+
+Pré-lançamento é a fase em que a empresa já fala publicamente sobre um produto, mas ainda não o entrega. Isso pode durar dias, semanas ou muitos meses. Durante esse período, o fabricante ou a loja trabalha três frentes ao mesmo tempo. Gera curiosidade, coleta dados sobre quem se interessa e se prepara para produzir ou estocar na quantidade certa.
+
+Repare que pré-lançamento não é a mesma coisa que venda antecipada. Na venda antecipada, o produto já existe, só não chegou ao cliente. No pré-lançamento, muitas vezes o produto ainda está em fase final de testes, ajuste de embalagem, certificação ou definição de preço. A empresa sabe o que vai lançar, mas ainda não sabe exatamente quando nem por quanto.
+
+Um exemplo comum no Brasil é o setor de games. Quando um estúdio anuncia a data de um jogo muito esperado, as lojas digitais e as varejistas físicas abrem a compra antecipada na mesma hora. O jogo já está pronto ou quase pronto, e a reserva funciona como garantia de acesso no primeiro minuto. Já no setor automotivo, o pré-lançamento costuma ser mais longo. A montadora apresenta o modelo, abre configuração no site e coleta intenção de compra antes de a linha de produção estar rodando a plena capacidade.
+
+Essa diferença importa porque muda o risco para quem reserva. Quanto mais cedo você entra, maior a chance de o prazo escorregar, de a configuração mudar ou de aparecer uma versão melhor antes da sua entrega.
+
+## Por que as empresas apostam tanto nesse formato
+
+A primeira razão é caixa. Uma reserva, mesmo quando é só uma fila sem pagamento, já sinaliza demanda. Quando envolve um valor, a empresa financia parte da operação com dinheiro do próprio cliente. Isso reduz a necessidade de capital de giro e diminui o risco de produzir demais.
+
+A segunda razão é informação. Estoque parado é prejuízo. Se a empresa lança um produto sem saber quantas pessoas querem comprar, ela aposta. Se ela abre uma lista de reservas, ela mede. Aquele número de interessados ajuda a definir quantas unidades produzir, em quais cidades distribuir primeiro e qual versão do produto vai ter mais saída.
+
+A terceira razão é marketing. Uma fila visível vira prova social. Quando você vê que milhares de pessoas reservaram, o produto parece mais desejável. Isso alimenta um ciclo. A escassez percebida aumenta a procura, que aumenta a escassez. É por isso que muitas empresas limitam artificialmente o número de reservas ou criam lotes numerados.
+
+A quarta razão é logística. Distribuir um lançamento grande de uma vez é complicado. Escalonar entregas por ordem de reserva permite que a operação respire. O cliente que reservou primeiro recebe primeiro, e a empresa ganha tempo para ajustar transporte, estoque e atendimento.
+
+## Como funciona a reserva na prática
+
+Existem três modelos principais, e quase toda loja usa um deles ou uma mistura.
+
+O primeiro é a reserva gratuita. Você entra numa lista, deixa seu e-mail ou telefone e recebe um aviso quando o produto estiver disponível. Não há pagamento, não há garantia de unidade. É o modelo mais comum em lançamentos de eletrônicos e em listas de espera de serviços. A vantagem para o cliente é o risco zero. A desvantagem é que a fila pode não valer nada se o estoque for pequeno.
+
+O segundo é a reserva com sinal. Você paga um valor, geralmente uma fração do preço, para garantir sua unidade. Esse valor é abatido do total ou devolvido se você desistir, dependendo da política da loja. É o formato mais usado em automóveis, imóveis na planta e produtos de alto valor. Aqui já existe um contrato, mesmo que informal, e as regras de devolução precisam estar claras.
+
+O terceiro é a compra antecipada com entrega futura. Você paga o valor cheio ou parcela, e o produto chega depois. Nesse caso, não é bem uma reserva, é uma venda com prazo. O Código de Defesa do Consumidor se aplica com força, e a empresa precisa informar a data de entrega de forma objetiva.
+
+Um detalhe prático que muita gente esquece. A reserva costuma ser transferível ou não, e isso muda tudo. Em alguns casos, você pode passar sua posição na fila para outra pessoa. Em outros, o contrato proíbe. Em lançamentos muito concorridos, essa regra define se vai existir mercado paralelo de reservas, o que acontece bastante com ingressos e produtos limitados.
+
+## O que o Código de Defesa do Consumidor garante
+
+Essa parte interessa a quem compra. O CDC trata a reserva como uma relação de consumo, mesmo quando não há pagamento. A partir do momento em que a empresa oferece condições, prazos e características, ela se vincula ao que prometeu.
+
+Se você pagou um sinal e a empresa não entrega na data combinada, você pode exigir o cumprimento, aceitar outro produto equivalente ou pedir o dinheiro de volta com correção. Se não houver data combinada, aplica-se o prazo razoável, que varia conforme o produto e a região. Para itens importados ou sob encomenda, esse prazo costuma ser maior, mas precisa estar informado antes da compra.
+
+O direito de arrependimento vale quando a compra acontece fora do estabelecimento comercial, ou seja, pela internet, telefone ou catálogo. Nesses casos, você tem até sete dias corridos após o recebimento para desistir e receber tudo de volta, inclusive o frete. Na reserva feita online, esse direito costuma valer a partir da confirmação da compra, e não da entrega, mas há discussão sobre o tema. O mais seguro é guardar prints, e-mails e o regulamento da promoção.
+
+Outro ponto sensível é a alteração de preço. Se a empresa anunciou um valor e você reservou com base nele, ela não pode simplesmente subir o preço na hora da entrega. Pode haver reajuste por custo, mas precisa estar previsto e justificado. Aumento arbitrário dá direito a cancelamento sem multa.
+
+Vale lembrar que essas garantias valem para lojas estabelecidas. Em reservas feitas com vendedores informais, grupos de mensagem ou perfis sem reputação, o risco é seu. Boa parte dos golpes de lançamento acontece justamente aí, com gente cobrando sinal por produto que nunca vai existir.
+
+## Os riscos para quem reserva
+
+O primeiro risco é o prazo. Datas de lançamento mudam. Atraso de fábrica, problema de importação, greve, crise de componente. Tudo isso empurra a entrega. Quem reservou cedo fica preso a uma expectativa que pode se estender por meses.
+
+O segundo é a versão do produto. Em muitos lançamentos, a primeira leva tem configuração diferente da segunda. Pode ser uma cor exclusiva, uma capacidade de armazenamento maior ou um acessório que vem na caixa. Quem reserva muito cedo corre o risco de receber uma versão que já nasceu desatualizada em relação ao que a concorrência oferece na mesma faixa de preço.
+
+O terceiro é o preço. Reservar cedo nem sempre é mais barato. Às vezes a empresa dá um desconto para quem entra na lista, às vezes cobra o preço cheio e depois lança promoção para o público geral. Sem uma regra clara de preço garantido, você pode pagar mais do que quem esperou.
+
+O quarto é a financeira. Se a loja quebra ou some, o dinheiro do sinal pode virar pó. Isso acontece com importadoras pequenas e revendedores sem estrutura. Antes de pagar qualquer valor, vale checar CNPJ, reputação em sites de reclamação e tempo de mercado.
+
+O quinto é o arrependimento. Você reserva num impulso, movido pela empolgação do anúncio, e meses depois percebe que não precisa daquilo. Se a reserva tiver multa ou não for reembolsável, o prejuízo é seu. Ler o regulamento antes de clicar é chato, mas evita dor de cabeça.
+
+## O outro lado, os riscos para quem lança
+
+Empresas também erram nesse jogo. O erro mais comum é prometer mais do que consegue entregar. Abrir reservas para um produto que ainda depende de fornecedor externo é apostar. Se o fornecedor falha, a empresa fica com uma fila enorme de clientes irritados e sem produto.
+
+Outro erro é subestimar a demanda. Se a reserva estoura e a produção não acompanha, o lançamento vira problema de imagem. Cliente que espera meses e vê o produto sendo vendido mais caro no mercado paralelo dificilmente volta a comprar daquela marca.
+
+Tem também o risco de canibalização. Se a empresa anuncia um produto novo enquanto o antigo ainda tem estoque, as reservas do novo travam a venda do velho. Isso é comum em celulares e notebooks. O lançamento precisa ser coordenado com a liquidação do modelo anterior, senão sobra estoque encalhado.
+
+E existe o risco jurídico. Regulamento mal escrito, prazo vago, política de reembolso confusa. Tudo isso vira reclamação no Procon e processo pequeno. Empresas grandes já aprenderam a blindar esse processo com contratos claros e atendimento dedicado. Empresas pequenas costumam aprender na dor.
+
+## Um roteiro para avaliar uma reserva antes de pagar
+
+Quando bater a vontade de garantir um lançamento, vale seguir este checklist. Ele serve para qualquer tipo de produto, de celular a curso, de carro a ingresso.
+
+- Leia o regulamento inteiro. Procure prazo de entrega, política de reembolso, regra de transferência e o que acontece em caso de atraso. Se não houver regulamento, desconfie.
+
+- Verifique quem está vendendo. Confira CNPJ, endereço, histórico em sites de reclamação e presença nas redes. Loja sem rastro não merece seu sinal.
+
+- Entenda o que você está pagando. É sinal, é entrada, é valor cheio? O valor é abatido do total ou é taxa separada? Pergunte por escrito e guarde a resposta.
+
+- Compare o preço da reserva com o preço estimado do lançamento. Se o desconto for pequeno e o prazo longo, talvez não valha a pena entrar cedo.
+
+- Pense no seu uso real. Você precisa do produto no lançamento ou pode esperar a segunda leva, mais barata e com eventuais correções de fábrica?
+
+- Confirme a data de entrega. Se a empresa não dá nem uma janela aproximada, isso é sinal de que o produto ainda está longe de existir.
+
+- Guarde tudo. Prints da página, e-mails de confirmação, comprovante de pagamento, conversas com o atendimento. Em caso de problema, é isso que sustenta sua reclamação.
+
+- Tenha um plano B. Se o atraso passar do limite que você aceita, saiba de antemão se vai cancelar e como. Reservar sem plano de saída é entregar o controle para a empresa.
+
+Esse roteiro leva dez minutos e evita meses de frustração. A regra geral é simples. Quanto mais barato o produto e mais curto o prazo, menor o risco. Quanto mais caro e mais distante a entrega, maior a necessidade de ler as letras miúdas.
+
+## Como as marcas usam a espera a favor delas
+
+Existe uma engenharia emocional por trás do pré-lançamento. A empresa não está apenas vendendo um produto, está vendendo a participação em um evento. Quem reserva não compra só o objeto, compra a sensação de estar entre os primeiros, de pertencer a um grupo, de ter acesso privilegiado.
+
+Isso explica por que tanta gente aceita esperar meses. O valor simbólico da antecipação compensa o custo da espera. As marcas sabem disso e trabalham cada etapa. O teaser, a contagem regressiva, o lote limitado, o brinde exclusivo para quem reservou. Cada elemento aumenta o comprometimento de quem já entrou e atrai quem ficou de fora.
+
+No Brasil, esse roteiro ficou muito visível em lançamentos de celulares, tênis e consoles. As lojas criam páginas de "avise-me", depois abrem a pré-venda, depois soltam lotes extras. Quem acompanha percebe que a escassez nem sempre é real. Muitas vezes é uma decisão de marketing para sustentar o preço e a percepção de valor.
+
+Não há nada de errado nisso, desde que as regras sejam claras. O problema começa quando a empresa simula escassez que não existe, esconde o prazo real ou trata o cliente que reservou como cliente de segunda categoria, entregando primeiro para quem paga mais no mercado paralelo.
+
+## O que muda com o passar do tempo
+
+A tendência é que o pré-lançamento fique cada vez mais comum, em mais setores. Já existe reserva para carro elétrico, para apartamento na planta, para videogame, para curso online, para equipamento de academia e até para alimento de edição limitada. A lógica é sempre a mesma, medir demanda antes de gastar com produção.
+
+Para o consumidor, isso significa duas coisas. Mais acesso antecipado, o que é bom, e mais decisões tomadas no impulso, o que é ruim. A educação financeira passa a incluir esse tipo de compra. Saber esperar, comparar e ler contrato vale tanto quanto saber economizar.
+
+Para quem vende, o recado é que a reserva não é brincadeira. Ela cria uma promessa pública. Cumprir essa promessa é o que separa uma marca que lança bem de uma que queima reputação a cada novidade. O pré-lançamento é uma ferramenta poderosa, mas exige planejamento, transparência e respeito com quem confiou antes de o produto existir.
+
+No fim das contas, reservar é um ato de confiança. Você entrega dinheiro ou atenção por algo que ainda não viu, baseado no que a empresa prometeu. Essa confiança pode ser recompensada com um lançamento bem feito ou destruída por um atraso sem explicação. A diferença raramente está na sorte. Está no quanto cada lado leu, perguntou e se preparou antes de apertar o botão.
+
+Se você chegou até aqui, já tem o mapa. Sabe o que é pré-lançamento, como a reserva funciona, quais modelos existem, o que a lei garante, quais riscos corre e como avaliar cada oportunidade. Na próxima vez que aparecer aquele botão piscando na tela, você não vai clicar no escuro. Vai olhar o regulamento, checar quem está vendendo, comparar o preço e decidir com calma se vale entrar na fila ou esperar a poeira baixar. Essa calma, no fim, é o que separa o consumidor que aproveita um bom lançamento do consumidor que só alimenta a pressa de ter primeiro.

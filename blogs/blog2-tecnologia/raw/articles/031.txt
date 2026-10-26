@@ -1,0 +1,125 @@
+Você entra numa partida de Valorant, olha os nicknames e percebe que tem gente do seu nível, mas também alguém que parece jogar desde o beta. A partida acaba 13 a 2, e a sensação é de que o jogo simplesmente não fez sentido. Isso acontece com todo mundo que joga competitivo, e quase sempre a culpa não é do servidor nem da sua internet. É do matchmaking, o sistema que decide com quem você joga.
+
+Entender como esse sistema funciona muda a forma como você enxerga suas derrotas e vitórias. Não é mágica, não é sorte e também não é um algoritmo malicioso querendo te derrubar de propósito. É uma engrenagem feita de números, filas, regiões e decisões de design que variam de jogo para jogo.
+
+Neste texto, a ideia é abrir essa caixa preta. Você vai ver o que existe por trás daquela tela de "procurando partida", por que às vezes demora, por que às vezes parece injusto e o que dá pra fazer pra melhorar sua experiência sem cair em promessa de elo garantido.
+
+## O que o matchmaking realmente tenta resolver
+
+Todo jogo competitivo tem um problema central. Se você junta pessoas aleatoriamente, a maioria das partidas vira massacre. Um time destruído, outro passeando, ninguém aprende nada e a comunidade reclama. O matchmaking existe pra evitar isso, montando partidas em que os dois lados tenham chance parecida de vencer.
+
+Só que "chance parecida" não significa 50% exato. Significa que o sistema estima o nível de cada jogador e tenta cruzar perfis semelhantes. Essa estimativa é o que chamamos de MMR, uma sigla para rating de habilidade. Ele é um número interno, quase nunca visível, que sobe quando você ganha e desce quando você perde.
+
+O detalhe é que esse número não mede só vitória e derrota. Ele considera contra quem você ganhou, com quem jogou e como foi a partida. Ganhar de um time muito mais forte vale mais do que ganhar de um time fraco. Perder de um time forte machuca menos do que perder de um time fraco. É uma lógica parecida com o cálculo de Elo no xadrez, adaptada pra times de cinco ou dez pessoas.
+
+A partir daí, cada jogo toma decisões próprias. Uns priorizam partidas rápidas, outros priorizam qualidade. Uns escondem o MMR, outros mostram. Uns usam ligas visíveis, outros usam só um número escondido. Mas a base é sempre essa, estimar habilidade e cruzar perfis.
+
+## MMR, elo e rank não são a mesma coisa
+
+Muita gente usa esses três termos como sinônimos, e isso gera confusão. O rank é a parte visível, aquela insígnia de Bronze, Prata, Ouro, Diamante. O elo é um sistema de pontuação clássico, usado em xadrez, que inspirou boa parte dos jogos atuais. O MMR é o número interno que o sistema usa pra decidir suas partidas.
+
+O rank costuma ser uma tradução do MMR, mas com atraso. Em League of Legends, por exemplo, você pode ter MMR de Platina e ainda estar no Ouro, porque o sistema exige uma sequência de resultados pra confirmar que você merece subir. Isso existe pra evitar que uma pessoa suba de divisão por sorte em três partidas e depois caia feito pedra.
+
+Em Counter-Strike, o sistema é mais fechado. Você vê o rank, mas não vê o número. Em Valorant, o rank aparece e o MMR fica escondido, com um detalhe importante. O jogo usa um MMR separado pra fila solo e pra fila em grupo, porque jogar com amigos muda o desempenho. Quem joga sempre em cinco costuma ter um MMR de grupo diferente do solo.
+
+Essa separação é uma das razões pelas quais às vezes você sente que a fila solo é mais difícil. Não é impressão. O sistema tem dados diferentes sobre você em cada contexto e ajusta as partidas de acordo.
+
+## Como o sistema monta uma partida na prática
+
+Quando você clica em procurar partida, acontece uma sequência de etapas. Primeiro, o sistema verifica seu MMR e o de quem está na fila naquele momento. Depois, tenta agrupar jogadores com ratings próximos. Em seguida, considera a região, o ping e o tempo de espera.
+
+A ordem dessas prioridades muda conforme a fila enche. Se tem muita gente online, o sistema consegue ser exigente e juntar ratings bem próximos. Se são três da manhã de terça, ele relaxa os critérios pra não te deixar esperando vinte minutos. É aí que nascem as partidas desequilibradas.
+
+Existe também a questão das funções. Em jogos com roles fixas, como League of Legends, o sistema precisa encaixar um topo, um caçador, um meio, um atirador e um suporte em cada time. Isso limita as combinações possíveis. Às vezes o rating bate, mas as roles não, e o sistema precisa escolher entre qualidade de partida e velocidade.
+
+Em jogos de tiro como Valorant e CS, a função importa menos, mas o sistema ainda considera se você joga com amigos, se está em duo, trio ou cinco. Filas em grupo costumam ter regras especiais pra evitar que um time de cinco muito forte caia em cima de cinco aleatórios.
+
+## Por que algumas partidas parecem tão injustas
+
+A sensação de partida roubada tem várias causas. Uma delas é o smurf, jogador experiente usando conta nova pra enfrentar gente mais fraca. Outra é o boosting, quando alguém paga pra outro jogador subir de elo na conta dele. Os dois casos bagunçam o MMR e criam partidas desequilibradas.
+
+Existe também o efeito da fila em grupo. Um time de cinco amigos com MMR médio pode ter um jogador muito acima e outro muito abaixo. O sistema calcula a média e às vezes coloca esse time contra cinco solos de MMR parecido com a média. Na prática, o jogador forte carrega e o time adversário não entende o que aconteceu.
+
+Tem ainda o fator humano. Você joga melhor em alguns dias e pior em outros. O sistema não sabe se você dormiu mal, se está tiltado ou se acabou de comer uma pizza inteira. Ele só vê o histórico. Então uma sequência de derrotas pode ser só você num dia ruim, não um complô do algoritmo.
+
+E existe o viés de memória. A gente lembra das partidas horríveis e esquece das equilibradas. Uma noite com quatro jogos razoáveis e um massacre fica marcada como "noite terrível". Isso distorce a percepção de como o matchmaking está funcionando.
+
+## O papel do tempo de espera e da região
+
+Tempo de espera é um dos maiores inimigos da qualidade de partida. Quanto mais o sistema demora pra te encaixar, mais ele relaxa os critérios de MMR. É por isso que filas longas às vezes entregam partidas piores. O sistema prefere te colocar em algum lugar do que te deixar esperando indefinidamente.
+
+A região também pesa. No Brasil, a fila de alguns jogos é muito menor do que na Europa ou na América do Norte. Isso significa menos gente disponível, menos combinações possíveis e mais chance de cair com alguém fora do seu nível. Em horários de pico, melhora. De madrugada, piora.
+
+Servidores dedicados ajudam, mas não resolvem tudo. O jogador brasileiro muitas vezes cai em servidores com ping alto porque a fila local está vazia. Aí o problema deixa de ser só o matchmaking e vira também conexão.
+
+## O que muda quando você joga em grupo
+
+Jogar com amigos é uma das melhores formas de melhorar, mas também muda como o sistema te enxerga. A maioria dos jogos trata fila solo e fila em grupo como contextos separados. Isso significa que seu desempenho em duo não conta pro seu MMR solo da mesma forma.
+
+Em geral, quando você entra em grupo, o sistema calcula uma média de MMR do time. Se você é Ouro e seu amigo é Diamante, a média fica em algum lugar entre os dois. O time adversário também terá uma média parecida, mas a distribuição interna pode ser bem diferente. Isso gera partidas em que um jogador carrega e o outro sofre.
+
+Existe também um limite de diferença de rank pra jogar junto em muitos jogos. Valorant, por exemplo, restringe duos e trios com base na diferença de elo. League of Legends tem regras parecidas. Isso existe justamente pra evitar que um Diamante entre num time de Prata e destrua a partida.
+
+## Um passo a passo pra melhorar sua experiência com o matchmaking
+
+Não existe fórmula mágica pra subir de elo, mas dá pra reduzir o ruído e jogar em condições melhores. O roteiro abaixo é prático e serve pra qualquer jogo competitivo.
+
+- Jogue nos horários de pico da sua região. Mais gente na fila significa partidas mais equilibradas e menor chance de cair com alguém muito fora do seu nível.
+
+- Evite filas muito longas. Se passou de cinco ou seis minutos, cancele e tente de novo. Fila longa costuma significar que o sistema está relaxando critérios.
+
+- Aqueça antes de entrar em partida ranqueada. Jogar uma ou duas casuais antes ajuda a aquecer a mira e a cabeça, e reduz a chance de você ser o elo mais fraco da sala.
+
+- Pare depois de duas ou três derrotas seguidas. Continuar tiltado só piora seu desempenho e derruba seu MMR mais rápido.
+
+- Revise suas partidas. Assistir replay, anotar erros e comparar com jogadores melhores ajuda o sistema a te colocar no lugar certo, porque seu desempenho individual melhora.
+
+- Cuide da conexão. Ping alto e perda de pacote fazem você parecer pior do que é, e o sistema só vê resultado.
+
+- Jogue com pessoas do seu nível. Duo com alguém muito acima ou muito abaixo bagunça a média e cria partidas estranhas pra todo mundo.
+
+Esse roteiro não garante vitória, mas melhora a qualidade das partidas que você joga. E partida de qualidade é o que faz você evoluir de verdade.
+
+## Desempenho individual conta, mas nem sempre como você pensa
+
+Muita gente acha que o matchmaking só olha vitória e derrota. Em alguns jogos, isso é quase verdade. Em outros, o sistema analisa estatísticas como abates, mortes, assistências, dano, cura, objetivo e até posicionamento.
+
+Valorant, por exemplo, considera seu desempenho individual pra ajustar o MMR, especialmente nas primeiras partidas ranqueadas. League of Legends também usa métricas além do resultado, principalmente em partidas com pouca amostra. A ideia é identificar jogadores que estão jogando bem mas sendo carregados por times ruins.
+
+Só que isso tem limite. Se você tem KDA alto mas perde todas, o sistema pode até te dar um MMR melhor, mas não vai te promover sozinho. Em algum momento, o resultado precisa aparecer. E tem o outro lado. Um jogador que ganha sempre sendo carregado pode subir de elo sem merecer, e depois sofrer muito nas partidas seguintes.
+
+O equilíbrio entre resultado e desempenho é uma das decisões mais delicadas no design de matchmaking. Cada jogo escolhe um ponto diferente nessa balança.
+
+## O que os jogos escondem e por que escondem
+
+A maioria dos jogos competitivos não mostra o MMR exato. Isso é proposital. Quando as pessoas veem o número, elas começam a calcular, reclamar e tentar manipular o sistema. Além disso, o MMR muda a cada partida e mostrar isso em tempo real geraria ansiedade e confusão.
+
+Outra coisa escondida é a composição das partidas. Você vê o rank dos outros jogadores, mas não vê o MMR real nem o histórico. Isso evita que alguém entre numa partida já derrotado por achar que o time adversário é muito melhor.
+
+Existe também a questão do sigilo sobre os algoritmos. Empresas não divulgam os detalhes porque isso abriria espaço pra manipulação. Se você souber exatamente como o sistema calcula, pode tentar burlar. Então a caixa preta é, em parte, uma medida de proteção.
+
+Isso não significa que o sistema é perfeito. Significa que a falta de transparência tem motivos, mesmo que nem sempre sejam bons pra comunidade.
+
+## Smurfs, boosting e o problema que ninguém resolveu
+
+Smurf é um dos maiores problemas do matchmaking em qualquer jogo competitivo. Um jogador experiente cria conta nova, passa pelas partidas iniciais destruindo novatos e sobe rápido. O sistema tenta identificar isso por desempenho fora da curva, mas não é fácil.
+
+Boosting é quando alguém paga pra outro jogador subir de elo na conta dele. Isso cria uma conta com MMR alto e dono de habilidade baixa. Quando o dono volta a jogar, ele cai feito pedra e arrasta os times com ele.
+
+Os jogos combatem isso com detecção de padrões, banimento de contas e restrições de fila. Mas é uma corrida sem linha de chegada. Sempre aparece gente disposta a burlar, e o sistema sempre corre atrás.
+
+Pra você, que joga limpo, o impacto é real. Uma partida com smurf do seu lado ou do lado adversário é uma partida que não mede seu nível de verdade. Isso desequilibra o MMR e cria aquela sensação de que o jogo está contra você.
+
+## O futuro do matchmaking e o que esperar
+
+A tendência é que os sistemas fiquem mais sofisticados. Com mais dados e mais poder de processamento, os jogos conseguem analisar padrões de jogo, não só resultados. Isso pode significar partidas mais equilibradas e ranks mais justos.
+
+Outra direção é a personalização. Em vez de um MMR único, o sistema pode ter vários ratings pra contextos diferentes. Um pra fila solo, um pra duo, um pra cada função, um pra cada mapa. Isso já acontece em parte, mas deve se aprofundar.
+
+Existe também a discussão sobre transparência. Alguns jogos estão testando mostrar mais informações sobre o MMR e sobre a composição das partidas. A ideia é dar ao jogador mais controle e mais confiança no sistema.
+
+No fim, nenhum matchmaking vai ser perfeito. Sempre vai ter partida desequilibrada, smurf e reclamação. Mas entender como o sistema funciona tira você da posição de vítima e te coloca na posição de quem joga com estratégia. E isso, por si só, já muda a experiência.
+
+Agora que você entende o que existe por trás da tela de "procurando partida", fica mais fácil lidar com as derrotas e aproveitar as vitórias. O matchmaking não é um inimigo, é uma ferramenta. Como toda ferramenta, tem limites e falhas.
+
+O que está no seu controle é o que você faz com isso. Jogar nos horários certos, cuidar da cabeça, revisar partidas e escolher bem com quem jogar faz diferença real. O sistema vai continuar tentando te encaixar no lugar certo. Cabe a você mostrar pra ele, partida após partida, onde você realmente pertence.

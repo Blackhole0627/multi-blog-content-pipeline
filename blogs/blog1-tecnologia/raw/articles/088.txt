@@ -1,0 +1,129 @@
+Você já viu aquela cena. Uma sala pequena, mesa comprida, alguém do outro lado olhando o celular enquanto você fala. São dez minutos para apresentar a empresa que você construiu por meses ou anos. A pessoa interrompe, faz uma pergunta sobre número de clientes, outra sobre concorrência, e no fim agradece dizendo que vai pensar. Duas semanas depois vem o silêncio. O problema quase nunca foi a ideia. Foi a forma como ela chegou até o investidor.
+
+Montar um pitch que convence não é sobre decorar um discurso brilhante. É sobre organizar informação de um jeito que a outra pessoa consiga entender rápido o que você faz, por que aquilo importa agora e quanto dinheiro existe no fim da linha. Investidor recebe dezenas de apresentações por semana. Ele não está procurando a empresa perfeita, está procurando motivo para dizer não e seguir para a próxima. Seu trabalho é tirar todos os motivos fáceis de recusa da mesa.
+
+Neste texto vou mostrar como estruturar esse material, o que entra em cada parte, os erros que aparecem em quase toda reunião de captação e um roteiro prático para você montar e ensaiar o seu. A ideia é que, ao terminar a leitura, você consiga sentar e escrever a primeira versão sem travar.
+
+## O que um investidor realmente quer saber
+
+Antes de falar de slides, vale entender a cabeça de quem está do outro lado. Um investidor profissional, seja de fundo ou anjo, tem um recurso limitado que é o tempo dele. Cada reunião compete com dezenas de outras. Então ele avalia tudo por uma lente simples. Isso pode virar um negócio grande? E se virar, eu consigo participar desse crescimento?
+
+Repare que a pergunta não é se a sua solução é bonita ou se a tecnologia é sofisticada. Claro que isso conta, mas como meio, não como fim. Ele quer ver um mercado que se move, um time que aguenta o tranco e um caminho plausível para o dinheiro voltar multiplicado. Se você não responde a essas três coisas nos primeiros minutos, ele perde o interesse mesmo que continue educado até o fim.
+
+Outro ponto importante é o momento. Investidor de venture capital sabe que a maior parte dos negócios vai dar errado. Ele aposta em poucos que compensam o resto. Por isso, ele procura sinais de que aquele negócio específico tem algo diferente, seja tração, seja um time com histórico, seja um mercado mal atendido que ninguém percebeu. Seu pitch precisa deixar esses sinais visíveis, não escondidos atrás de jargão.
+
+Também existe a questão da confiança. Ele quer sentir que você entende o negócio melhor do que ele. Se você gagueja nos números, não sabe dizer quem é seu cliente principal ou não tem clareza sobre quanto custa adquirir uma pessoa, a percepção cai rápido. Não porque o investidor seja cruel, mas porque ele já viu gente animada com planilha frágil demais vezes.
+
+## A história antes dos slides
+
+Muita gente acha que pitch é um documento. Não é. Pitch é uma conversa estruturada, e o documento é só o apoio. Se você começar montando slides, vai acabar com uma colcha de retalhos. O caminho certo é primeiro escrever a narrativa, em texto corrido, como se estivesse contando para um amigo que entende do assunto mas não conhece seu setor.
+
+Essa narrativa tem um arco básico. Começa com um problema real, que dói em alguém específico. Depois mostra como esse problema é resolvido hoje, de forma ruim ou cara. Em seguida apresenta sua solução e por que ela é melhor. Aí entra o mercado, o time, os números e o pedido. Cada parte puxa a próxima, sem salto.
+
+Escreva esse texto em uma página. Sem bullets, sem slide, só prosa. Isso força você a perceber onde a lógica quebra. Se em algum ponto você precisar explicar demais, é sinal de que falta clareza ali. Depois de escrever, leia em voz alta. O que soa confuso no ouvido vai soar confuso na reunião.
+
+Um teste útil é pedir para alguém de fora do seu setor ler e contar de volta o que entendeu. Se a pessoa errar o problema ou o cliente, seu texto ainda não está pronto. Essa etapa parece lenta, mas economiza horas de ajuste em slide depois.
+
+## Problema e solução sem clichê
+
+A seção de problema é onde a maioria dos pitches morre. As pessoas escrevem algo genérico do tipo "o setor de saúde é burocrático" ou "pequenos comerciantes têm dificuldade de gestão". Isso não diz nada. Investidor já sabe que setores têm problemas. Ele quer ver o problema específico, com nome, com cena, com consequência.
+
+Uma boa forma é descrever uma situação concreta. Imagine uma costureira que vende pelo WhatsApp e perde pedido porque não consegue organizar encomenda e prazo. Ou um motorista de aplicativo que gasta tempo demais calculando se vale aceitar uma corrida depois de descontar combustível. Quando você pinta a cena, a pessoa enxerga o problema sem esforço.
+
+Depois do problema vem a solução, mas cuidado com o excesso de detalhe técnico. Ninguém precisa saber qual linguagem você usou ou qual banco de dados escolheu. O que importa é o que muda na vida do cliente. Se a costureira passa a fechar mais pedido por semana, diga isso. Se o motorista economiza combustível, diga quanto em média, sem inventar número exato.
+
+Um erro comum é listar funcionalidades como se fosse catálogo. "Temos chat, relatório, integração, painel e notificação." Isso não é solução, é lista de recursos. Solução é a transformação que o cliente sente. Recursos entram depois, e só se sustentarem essa transformação.
+
+## Mercado com tamanho crível
+
+Toda apresentação precisa responder quanto dinheiro existe nesse mercado. Mas aqui existe uma armadilha. Muita gente pega um número gigante de relatório internacional e diz que vai capturar uma fração mínima dele. Isso soa vazio. Investidor experiente já viu essa conta mil vezes e sabe que ela não significa quase nada.
+
+O caminho mais honesto é construir o número de baixo para cima. Quantos clientes potenciais existem no Brasil, ou na sua região, que têm exatamente o problema que você resolve? Quanto cada um paga hoje, ou quanto gastaria com uma solução como a sua? Multiplique. Se o resultado for grande o suficiente, você tem um mercado. Se for pequeno, talvez o negócio seja bom mas não seja venture.
+
+Também vale mostrar o movimento do mercado. Está crescendo, encolhendo, mudando de comportamento? Se as pessoas estão migrando para o digital, isso ajuda. Se uma regra nova abriu espaço, mencione. O que importa é dar ao investidor uma razão para acreditar que existe vento a favor.
+
+Evite dizer "não temos concorrência". Isso quase nunca é verdade e passa insegurança. Melhor mostrar quem são os concorrentes diretos, os indiretos e o que você faz diferente. Saber o terreno mostra maturidade.
+
+## Time que aguenta o tranco
+
+Investidor aposta muito no time, às vezes mais do que na ideia. Faz sentido. Ideia muda, pivô acontece, e o que sustenta a empresa é a capacidade das pessoas de resolver problema. Então essa seção não pode ser um currículo corrido. Precisa mostrar por que aquele grupo específico é o certo para aquele desafio.
+
+Destaque as experiências que têm a ver com o problema que você resolve. Se alguém do time trabalhou anos no setor, diga. Se alguém já construiu e vendeu uma empresa antes, diga. Se ninguém tem esse histórico, mostre o que vocês já fizeram juntos, quanto tempo estão no problema, o que aprenderam na prática.
+
+Um ponto delicado é admitir lacunas. Se falta alguém de tecnologia no time, ou de vendas, é melhor falar do plano para contratar do que esconder. Investidor nota ausência e vai perguntar de qualquer forma. Antecipar mostra que você pensou no assunto.
+
+Outra coisa que pesa é a dinâmica do grupo. Ele quer ver se vocês se conhecem bem, se dividem responsabilidade, se não tem briga societária mal resolvida. Em reunião, isso aparece no jeito como um complementa o outro. Se um só fala e o outro fica mudo, isso acende alerta.
+
+## Tração e números sem enfeite
+
+Aqui é onde o discurso encontra a realidade. Tração é qualquer evidência de que o negócio funciona fora da sua cabeça. Pode ser número de clientes, receita, retenção, crescimento mês a mês, parceria fechada, lista de espera. O tipo de tração depende do estágio. Uma empresa que ainda não fatura pode mostrar usuários ativos ou contratos assinados.
+
+O importante é apresentar os números com contexto. Dizer que cresceu bastante não diz nada. Dizer que dobrou de um mês para o outro, e explicar o que causou isso, diz muito. Se o crescimento veio de uma ação específica, conte. Se parou depois, conte também e explique o que aprendeu.
+
+Receita é o número mais olhado, mas não é o único. Custo de adquirir cliente, tempo até o retorno do investimento, taxa de cancelamento, margem. Cada um desses mostra uma parte da saúde do negócio. Não precisa ter todos, mas os que tiver devem estar claros.
+
+Um erro frequente é maquiar número ruim. Investidor percebe. Se a retenção está baixa, melhor dizer que está e apresentar o plano para melhorar do que fingir que está tudo bem. Honestidade constrói confiança, e confiança é o que faz a conversa continuar.
+
+## Quanto pedir e para que
+
+Todo pitch termina com um pedido. Quanto você quer captar, para que vai usar esse dinheiro e o que espera alcançar com ele. Parece simples, mas muita gente erra por pedir valor sem plano ou por pedir demais para o estágio atual.
+
+O valor deve estar ligado a um objetivo concreto. Por exemplo, contratar duas pessoas de vendas e chegar a certo número de clientes em doze meses. O investidor precisa ver que aquele dinheiro compra um avanço específico, que vai deixar a empresa mais valiosa para a próxima rodada.
+
+Também vale dizer quanto tempo esse dinheiro dura. Isso mostra que você pensou no fluxo de caixa. Se o valor cobre dezoito meses de operação, diga. Se cobre seis, diga e explique o que acontece depois.
+
+Evite pedir valor redondo demais sem justificativa. A conta precisa fazer sentido. Some contratações, marketing, infraestrutura, reserva. O número final deve ser resultado dessa soma, não um chute.
+
+## Erros que derrubam uma apresentação
+
+Existe um conjunto de erros que aparecem em quase toda reunião ruim de captação. O primeiro é falar demais. Muita gente usa os dez minutos para explicar cada detalhe e não sobra tempo para o que importa. O pitch é uma seleção, não um resumo completo. Corte sem piedade.
+
+O segundo é usar jargão. Termo técnico do seu setor pode até impressionar, mas cansa. Se você precisa explicar a palavra, ela não devia estar ali. Fale como se estivesse contando para alguém inteligente que não conhece seu mercado.
+
+O terceiro é não saber responder pergunta difícil. Investidor vai testar. Vai perguntar sobre concorrência, sobre risco regulatório, sobre o que acontece se o maior player copiar. Não ter resposta pronta não é crime, mas improvisar mal é. Estude as objeções prováveis antes.
+
+O quarto é visual poluído. Slide cheio de texto, gráfico sem legenda, cor demais. A apresentação serve para apoiar, não para competir com você. Menos é mais. Uma ideia por slide, número grande, frase curta.
+
+E o quinto, talvez o mais fatal, é não deixar claro o que você quer. Se ao fim da reunião o investidor não sabe se você quer dinheiro, parceria ou conselho, a conversa não avança. Termine sempre com o pedido explícito e o próximo passo.
+
+## Roteiro prático para montar o seu
+
+Agora a parte que interessa. Um passo a passo para você sair do zero e ter um pitch apresentável.
+
+- Escreva a narrativa em uma página, em prosa, sem slide. Comece pelo problema e termine no pedido.
+
+- Leia em voz alta e marque onde trava. Reescreva esses trechos até ficarem naturais.
+
+- Peça para alguém de fora do setor ler e contar de volta o que entendeu. Corrija o que ficou confuso.
+
+- Separe a narrativa em blocos. Cada bloco vira um slide, com uma ideia central e o mínimo de texto.
+
+- Monte os slides com número grande, frase curta e um gráfico por vez. Nada de parede de texto.
+
+- Prepare as objeções. Liste as dez perguntas mais difíceis que podem te fazer e escreva a resposta de cada uma.
+
+- Ensaios cronometrados. Grave no celular, assista, corte o que soa artificial.
+
+- Simule a reunião com alguém que faça perguntas duras. Treine interrupção e retomada.
+
+- Revise os números uma última vez. Todo dado precisa ter origem que você consiga explicar.
+
+- Defina o próximo passo. O que você quer que aconteça depois da reunião? Deixe isso claro no fim.
+
+Esse roteiro não precisa ser seguido na ordem exata, mas pular etapas costuma custar caro. A narrativa antes do slide é a parte que mais gente ignora e a que mais faz diferença.
+
+## Depois do não e do talvez
+
+Nem toda reunião termina com sim. A maioria termina com talvez, e uma boa parte com não. Isso é normal. O que separa quem capta de quem desiste é o que acontece depois.
+
+Se o investidor disse não, tente entender o motivo. Foi o mercado, o time, o número, o momento? Pergunte com sinceridade. Muita gente dá feedback útil quando sente que você está ouvindo de verdade. Anote e use na próxima conversa.
+
+Se disse talvez, mantenha contato com atualização periódica. Um e-mail a cada dois ou três meses com avanço concreto, sem pressão. Investidor acompanha empresa por muito tempo antes de decidir. Relacionamento importa tanto quanto o pitch.
+
+E se disse sim, cuidado com a empolgação. Termo de investimento tem cláusula, tem valuation, tem direito. Leia com calma, busque alguém que já passou por isso. Fechar rápido demais pode custar caro depois.
+
+Captar é processo, não evento. Cada reunião ensina algo sobre o negócio e sobre você. O pitch melhora a cada versão, e a versão boa é aquela que já foi testada muitas vezes.
+
+Montar um pitch que convence investidores é menos sobre talento de palco e mais sobre clareza. Quem entende o próprio negócio consegue explicar em poucos minutos, com número honesto e pedido direto. O resto é treino. Comece pela narrativa, ajuste com feedback, ensaie até soar natural. A reunião deixa de ser um susto e vira conversa.
+
+No fim, o investidor não está procurando perfeição. Está procurando alguém que saiba onde está, para onde vai e o que precisa para chegar lá. Se você mostrar isso com honestidade e preparo, já está à frente da maioria.

@@ -1,0 +1,151 @@
+Trabalhar só com a tela do notebook funciona por um tempo. Mas chega uma hora que a sensação é de estar sempre espremido, com planilha cortada, aba escondida e aquela dorzinha no fim do dia. Um monitor externo resolve boa parte disso, e não precisa ser caro nem complicado. O problema é que a prateleira da loja tem tanta opção que dá até um nó na cabeça.
+
+A escolha começa pelo que você faz no dia a dia. Quem passa horas em texto, planilha e navegador tem necessidades bem diferentes de quem edita vídeo, joga ou mexe com design. E tem a parte chata, mas decisiva, que é a compatibilidade com o seu notebook. Um monitor bonito que não conecta direito ou que trava a resolução vira peso de papel caro.
+
+Este guia vai te ajudar a montar esse quebra-cabeça na ordem certa. Primeiro o que importa de verdade, depois o que é marketing, e no fim um passo a passo pra você bater o martelo sem arrependimento.
+
+## Comece pelo tamanho e pela distância que você fica da tela
+
+A primeira decisão é o tamanho da tela. A regra prática é simples. Quanto mais perto você senta, menor pode ser o monitor. Quem trabalha encostado, a uns sessenta centímetros, fica bem com 24 polegadas. Quem gosta de recostar na cadeira, a oitenta centímetros ou mais, aproveita melhor um de 27 polegadas pra cima.
+
+Passar de 27 polegadas exige cuidado. Em mesas estreitas, um monitor grande demais obriga você a girar a cabeça o tempo todo pra ler as pontas. Isso cansa o pescoço. O ganho de espaço some quando a tela fica fora do seu campo de visão confortável.
+
+Outra coisa que muda tudo é a resolução, ou seja, quantos pontinhos a tela tem. Em 24 polegadas, a resolução Full HD, chamada de 1920 por 1080, dá conta do recado. Em 27 polegadas, o Full HD começa a mostrar os pixels e o texto fica menos nítido. Nesse tamanho, vale subir pra Quad HD, a faixa de 2560 por 1440.
+
+Tem um número que resume isso bem, que é a densidade de pixels. Quanto maior, mais suave o texto parece. Se você passa o dia lendo documento e planilha, essa nitidez importa mais do que qualquer recurso de imagem colorida. Um texto limpo cansa menos a vista.
+
+Pra quem só quer uma segunda tela pra deixar o e-mail aberto, um Full HD de 24 polegadas já resolve. Pra quem vai usar o monitor como tela principal, com o notebook fechado, é melhor pensar em 27 polegadas com resolução mais alta. Isso evita a troca logo depois.
+
+## Painel, a peça que quase ninguém explica direito
+
+Todo monitor tem um painel por dentro, e ele define a qualidade da imagem. Existem três tipos que você vai encontrar nas lojas. O mais comum é o IPS. Ele tem cores fiéis e um ângulo de visão generoso, o que significa que a imagem não distorce quando você olha de lado. É a escolha segura pra trabalho, estudo e uso geral.
+
+O painel VA tem contraste melhor, com preto mais profundo. Isso ajuda em filmes e em ambientes escuros. Em compensação, o ângulo de visão é menor. Se você se mexe muito na cadeira, a imagem pode escurecer nas bordas.
+
+Já o painel TN é o mais barato e o mais rápido em tempo de resposta. Por muito tempo foi o queridinho dos jogadores competitivos. O lado ruim é o ângulo de visão curto e as cores mais apagadas. Pra quem só joga e quer o menor atraso possível, ainda faz sentido. Pra trabalho com texto e imagem, o IPS costuma agradar mais.
+
+Tem também o painel OLED, que traz preto perfeito e cores vibrantes. Só que o preço sobe bastante e ainda existe a preocupação com imagem fixa na tela, aquela marca que fica quando o mesmo elemento aparece por horas. Pra uso de escritório, com barra de tarefas parada o dia inteiro, é bom pensar duas vezes.
+
+Na prática, pra maioria das pessoas que quer um monitor externo pra notebook, o IPS é o ponto de equilíbrio. Não é o mais barato nem o mais caro, e entrega o que importa no dia a dia.
+
+## Resolução, taxa de atualização e o que o seu notebook aguenta
+
+Aqui muita gente se empolga e compra um monitor top, sem checar se o notebook acompanha. O resultado é uma tela cara rodando abaixo do potencial. Então vale entender três coisas antes de decidir.
+
+A primeira é a saída de vídeo do seu notebook. Olhe as laterais e veja quais portas ele tem. As mais comuns hoje são HDMI e USB-C. Alguns modelos mais antigos só têm VGA, e aí você precisa de adaptador. O tipo de porta limita a resolução e a taxa de atualização que dá pra usar.
+
+A segunda é a versão da porta. Um HDMI antigo não entrega a mesma coisa que um HDMI mais novo. O USB-C é o mais versátil, porque muitas vezes carrega o notebook e transmite imagem ao mesmo tempo, com um cabo só. Isso deixa a mesa bem mais limpa.
+
+A terceira é a taxa de atualização, medida em hertz. Um monitor de 60 hertz atualiza a imagem sessenta vezes por segundo. Um de 144 hertz faz isso mais que o dobro de vezes. Pra texto e planilha, 60 hertz basta. Pra jogos, principalmente os rápidos, 144 hertz faz diferença real na fluidez.
+
+Só que de nada adianta o monitor ter 144 hertz se o notebook não consegue gerar tantos quadros por segundo. Em jogos pesados, a placa de vídeo do notebook vira o limite antes do monitor. Então combine as duas coisas. Se o seu notebook é simples, um monitor de 75 hertz já é um bom upgrade sem gastar demais.
+
+Resolução alta também pesa no desempenho. Rodar um monitor 4K exige mais do notebook, principalmente se você joga ou edita vídeo. Pra trabalho de escritório, tudo bem. Pra tarefas pesadas, confira se a máquina dá conta antes de investir numa tela muito exigente.
+
+## Conexões, cabos e a bagunça que você quer evitar
+
+A parte de conexão é onde a compra dá errado com mais frequência. Um monitor pode ter várias portas e você acabar usando a errada. Vamos por partes.
+
+O HDMI é o mais popular e está em quase todo monitor e notebook. Funciona bem pra maioria dos casos. A limitação aparece quando você quer resoluções muito altas com taxas altas ao mesmo tempo.
+
+O DisplayPort é comum em monitores mais parrudos e em computadores de mesa. Ele lida bem com resoluções altas e taxas de atualização maiores. Se o seu notebook não tem essa porta, existe cabo de DisplayPort pra USB-C.
+
+O USB-C é o queridinho da vez. Com um cabo só, você transmite imagem, carrega o notebook e ainda usa as portas USB do monitor, como mouse e pendrive. Isso só funciona se a porta do notebook tiver suporte a vídeo e a carregamento. Nem toda porta USB-C faz isso. Confira no manual ou no site do fabricante.
+
+Tem também o USB-C com Thunderbolt, que é ainda mais completo, mas aparece mais em notebooks premium. Se o seu tem, aproveite. Se não tem, não se preocupe, dá pra viver bem com HDMI.
+
+Sobre cabos, um conselho que economiza dor de cabeça. Use o cabo que veio com o monitor ou um de qualidade conhecida. Cabo barato demais costuma dar tela piscando, chuvisco ou perda de sinal em resoluções altas. E confira se o cabo suporta a resolução que você quer. Um cabo HDMI antigo pode limitar tudo.
+
+Se o seu notebook só tem USB-C e você quer ligar dois monitores, aí entra uma dock ou hub. Ela multiplica as saídas, mas também tem limite de banda. Nem toda dock entrega duas telas em resolução alta ao mesmo tempo.
+
+## Ergonomia, o detalhe que decide se você vai gostar da compra
+
+Monitor bom é monitor que não te machuca. Depois de horas na frente da tela, a diferença entre um ajuste certo e um errado é enorme. Então preste atenção em alguns pontos.
+
+O primeiro é a altura. A borda superior da tela deve ficar mais ou menos na altura dos seus olhos. Assim você olha levemente pra baixo, o que relaxa o pescoço. Se o monitor não sobe o suficiente, você pode usar um suporte ou até uns livros embaixo, mas o ideal é que ele já venha com ajuste de altura.
+
+O segundo é a inclinação e a rotação. Conseguir inclinar a tela pra frente e pra trás ajuda a evitar reflexo. Poder girar pra vertical é ótimo pra quem lê documento longo ou mexe com código. Nem todo monitor tem esse recurso, e ele costuma aparecer nos modelos um pouco mais caros.
+
+O terceiro é o suporte. Muitos monitores vêm com um pé simples, que só inclina. Se você quer mais liberdade, procure um que seja compatível com suporte articulado, aquele braço que prende na mesa. Ele libera espaço embaixo e permite posicionar a tela onde quiser. Verifique se o monitor tem os furos de encaixe no padrão comum, que é o VESA.
+
+Tem ainda a questão da luz. Um monitor muito brilhante num ambiente escuro cansa a vista. Procure modelos com ajuste de brilho fácil e, se possível, com recurso que reduz a luz azul. Não é milagre, mas ajuda no fim do dia.
+
+## O que é útil e o que é só enfeite na ficha técnica
+
+A ficha técnica de um monitor vem cheia de termos. Muitos são úteis, outros existem mais pra impressionar. Vale separar o joio do trigo.
+
+Contraste é útil. Ele mede a diferença entre o preto mais escuro e o branco mais claro. Quanto maior, melhor a imagem parece, principalmente em cena escura. Mas cuidado com números absurdos de contraste dinâmico, que são medidos de um jeito que não reflete o uso real.
+
+Tempo de resposta, medido em milissegundos, importa pra jogos. Quanto menor, menos borrão aparece em movimento rápido. Pra trabalho, não é decisivo.
+
+Cores, medidas em cobertura de gama, importam pra quem edita foto e vídeo. Se esse é o seu caso, procure um monitor que cubra bem o padrão sRGB. Pra uso comum, isso passa longe de ser prioridade.
+
+Recursos como HDR de entrada costumam ser mais marketing do que ganho real. HDR bom exige tela cara e conteúdo compatível. Em monitor barato, o efeito costuma ser fraco.
+
+Alto-falantes embutidos são convenientes pra uma reunião rápida, mas a qualidade é modesta. Se você ouve música ou joga, um par de caixas separado faz muito mais diferença.
+
+Ajuste de altura e rotação, como já falamos, valem mais do que muitos números bonitos na caixa. É um recurso que você sente todo dia.
+
+Entrada USB no monitor é útil pra ligar mouse, teclado e pendrive. Deixa a mesa mais organizada e evita ficar tateando as portas do notebook.
+
+Uma coisa que quase ninguém lembra é o consumo de energia e o calor. Monitores grandes esquentam e gastam mais. Não é um fator decisivo, mas vale ter em mente se você trabalha num quarto pequeno e fechado.
+
+## Passo a passo pra escolher sem se arrepender
+
+Chegou a hora de organizar tudo isso numa sequência prática. Siga na ordem e você reduz muito a chance de errar.
+
+- Meça o espaço da sua mesa e a distância que você fica da tela. Anote a largura disponível e a profundidade. Isso define o tamanho máximo do monitor.
+
+- Veja quais portas de vídeo o seu notebook tem. Olhe as laterais e confira no manual se a porta USB-C transmite imagem e carrega. Isso limita suas opções.
+
+- Defina o uso principal. Texto e planilha pedem nitidez e conforto. Jogos pedem taxa alta e tempo de resposta baixo. Edição de imagem pede cores fiéis.
+
+- Escolha o tamanho. Até 24 polegadas pra quem senta perto. 27 polegadas ou mais pra quem senta longe e quer tela principal.
+
+- Escolha a resolução. Full HD em 24 polegadas. Quad HD em 27 polegadas ou mais. Só vá de 4K se o notebook aguentar e você realmente precisar.
+
+- Prefira painel IPS pra uso geral. VA se você quer contraste e assiste muito filme. TN só se o foco for jogar e economizar. OLED se o orçamento permitir e você aceitar os cuidados.
+
+- Confira a taxa de atualização. 60 ou 75 hertz pra trabalho. 144 hertz ou mais pra jogos, desde que o notebook acompanhe.
+
+- Cheque os ajustes físicos. Altura, inclinação e rotação fazem diferença no dia a dia. Veja se o monitor aceita suporte articulado.
+
+- Verifique as conexões. HDMI, DisplayPort ou USB-C. Confirme se vem cabo na caixa e se ele suporta a resolução que você quer.
+
+- Leia avaliações de gente comum, não só de especialista. Procure relatos sobre tela piscando, vazamento de luz e durabilidade.
+
+Esse roteiro parece longo, mas dá pra percorrer em meia hora de pesquisa. O importante é não deixar pra decidir na loja, com o vendedor apressando você.
+
+## Quanto gastar e onde procurar
+
+Não existe um preço único, mas dá pra pensar em faixas. Um monitor simples de 24 polegadas Full HD fica na faixa dos setecentos a mil reais. Um modelo de 27 polegadas Quad HD com bom painel costuma ficar na casa dos mil e quinhentos a dois mil e quinhentos. Já um monitor grande, com resolução alta e recursos avançados, passa fácil dos três mil.
+
+O que define o valor é a combinação de tamanho, resolução, painel e ajustes. Um monitor de 27 polegadas IPS, Quad HD e com ajuste de altura é o ponto doce pra muita gente. Não é o mais barato nem o mais caro, e atende bem trabalho e lazer.
+
+Vale olhar lojas conhecidas, sites de fabricante e marketplaces confiáveis. Compare o mesmo modelo em lugares diferentes, porque a variação de preço é grande. Fique de olho em promoções sazonais, como datas de liquidação. E desconfie de oferta boa demais, principalmente de marca desconhecida.
+
+Se o orçamento está apertado, considere um monitor usado em bom estado. Muita gente troca de tela por upgrade e vende a antiga funcionando bem. Só teste antes de comprar e verifique se não tem pixel morto nem manchas na tela.
+
+Uma alternativa pra quem tem pouco espaço é um monitor portátil, que é fininho e liga por USB-C. Ele não substitui um monitor de mesa em qualidade, mas quebra um galho em viagem e em home office improvisado. A faixa de preço costuma ser parecida com a de um monitor comum de 24 polegadas, às vezes até mais, dependendo do modelo.
+
+Vale lembrar que o monitor é um investimento de alguns anos. Comprar um pouco acima do que você precisa hoje costuma sair mais barato do que trocar em um ano. Mas isso não significa gastar sem sentido. Um bom IPS de 27 polegadas dura tranquilamente uma boa temporada.
+
+## Erros comuns que fazem a compra virar frustração
+
+Tem alguns tropeços que aparecem toda hora em relato de quem comprou monitor. O primeiro é não checar a porta do notebook. A pessoa compra um monitor com USB-C esperando cabo único, e descobre que a porta do notebook não transmite vídeo. Aí precisa de adaptador e a mesa fica cheia de fio.
+
+O segundo é subestimar a mesa. Monitor grande numa mesa estreita deixa você sem espaço pro teclado e ainda obriga a girar a cabeça. Meça antes, sem preguiça.
+
+O terceiro é comprar só pelo preço. Monitor muito barato costuma ter painel fraco, suporte que não ajusta e cores sem graça. Não precisa gastar uma fortuna, mas evite o mais barato da prateleira sem olhar a ficha.
+
+O quarto é ignorar a ergonomia. Um monitor que não sobe nem inclina vai te fazer sentir dor no pescoço em pouco tempo. Se o modelo que você quer não tem ajuste, considere comprar um suporte junto.
+
+O quinto é esquecer o cabo. Muita gente compra o monitor e descobre na hora de ligar que o cabo certo não veio ou que o que tem em casa é antigo demais. Já deixe isso resolvido antes.
+
+Por fim, tem o erro de comprar por impulso. Monitor é item que você vai olhar todo dia. Vale a pesquisa de meia hora. Ela economiza meses de arrependimento.
+
+## Fechando com o essencial
+
+Escolher um monitor externo pra notebook é menos complicado do que parece quando você ataca na ordem certa. Comece pelo espaço da mesa e pelas portas do notebook. Depois defina uso, tamanho e resolução. Só então entre em painel, taxa de atualização e conexões. Os detalhes de ergonomia e os recursos da ficha vêm por último, mas não são menos importantes.
+
+Na prática, pra maioria das pessoas, um monitor de 27 polegadas, painel IPS, resolução Quad HD, com ajuste de altura e uma porta USB-C que carrega o notebook, resolve quase tudo. Se o orçamento for menor, um 24 polegadas Full HD IPS com HDMI já melhora muito o dia a dia. O importante é que ele encaixe no seu uso, na sua mesa e no seu notebook.

@@ -1,0 +1,99 @@
+Montar um computador do zero pela primeira vez assusta menos do que parece. A parte mais difícil não é encaixar as peças, é escolher componentes que conversem entre si e não gastar dinheiro à toa. Quem nunca fez isso costuma imaginar que precisa de conhecimento técnico avançado, solda ou algo do tipo. Na prática, é quase tudo encaixe, parafuso e atenção a alguns detalhes que fazem toda a diferença.
+
+A boa notícia é que o processo virou bem mais amigável nos últimos anos. As placas-mãe vêm com manuais ilustrados, os cabos têm encaixes que só entram de um jeito, e a internet está cheia de gente mostrando o passo a passo em vídeo. Mesmo assim, algumas decisões ainda pesam bastante no resultado final. Escolher o processador errado para a placa-mãe, subdimensionar a fonte ou esquecer do air flow são erros comuns de quem está começando.
+
+Este texto é um guia realista para quem quer montar a primeira máquina. Vamos passar por escolha de peças, compatibilidade, ferramentas necessárias, ordem de montagem e os primeiros testes. Sem prometer que vai ser trivial, mas também sem tratar você como se precisasse de um diploma de engenharia para parafusar uma placa de vídeo.
+
+## Antes de comprar qualquer peça, defina o uso
+
+A pergunta mais importante não é "qual o melhor processador do momento", e sim "para que eu vou usar essa máquina". Um PC para estudar, navegar e usar planilhas tem exigências completamente diferentes de um PC para jogar em resolução alta ou editar vídeo em 4K. Definir isso antes de abrir qualquer site de loja economiza muito dinheiro e evita comprar peças que você não vai aproveitar.
+
+Se o uso é básico, um processador com vídeo integrado já resolve muita coisa. Você não precisa de placa de vídeo dedicada para assistir vídeos, usar o pacote Office ou navegar com várias abas abertas. Isso corta um custo grande do orçamento. Já para jogos, a placa de vídeo costuma ser o componente mais caro da lista, e ela precisa de uma fonte decente e de um gabinete com espaço suficiente.
+
+Vale pensar também no futuro. Você pretende trocar peças daqui a dois ou três anos? Se sim, escolher uma placa-mãe com mais slots de memória e uma fonte com folga de potência facilita upgrades. Comprar tudo no limite do orçamento agora pode significar trocar metade das peças depois. Não é obrigatório pensar assim, mas ajuda quem quer evitar gastos duplicados.
+
+## As peças essenciais e o que cada uma faz
+
+Todo computador precisa de um conjunto mínimo de componentes. O processador, ou CPU, é o cérebro. Ele executa as instruções do sistema e dos programas. A placa-mãe é a base onde tudo se conecta. Ela define quais processadores são compatíveis, quantos pentes de memória você pode usar e quais portas vão estar disponíveis na parte de trás.
+
+A memória RAM é o espaço de trabalho temporário. Quando você abre um programa, ele carrega pedaços dele na RAM. Pouca memória deixa o sistema travando quando muitas coisas rodam ao mesmo tempo. O armazenamento, hoje quase sempre um SSD, guarda o sistema operacional, os programas e seus arquivos. Um SSD deixa o sistema ligar em segundos, enquanto um HD tradicional ainda funciona, mas é bem mais lento.
+
+A fonte de alimentação converte a energia da tomada na voltagem que os componentes usam. Ela é uma peça que muita gente subestima. Fonte ruim pode queimar componentes caros e causar travamentos misteriosos. O gabinete abriga tudo e influencia na refrigeração. Por último, a placa de vídeo, também chamada de GPU, cuida do processamento gráfico. Ela é essencial para jogos e edição pesada, mas opcional para uso básico.
+
+## Compatibilidade, a parte que mais confunde quem está começando
+
+O maior medo de quem monta o primeiro PC é comprar peças incompatíveis. Isso acontece principalmente entre processador e placa-mãe. Cada geração de CPU usa um soquete específico, e a placa-mãe precisa ter esse soquete. Além disso, a placa-mãe pode precisar de uma atualização de BIOS para reconhecer processadores mais novos. Esse detalhe pega muita gente desprevenida.
+
+A memória RAM também tem tipos diferentes. DDR4 e DDR5 não são compatíveis entre si, e cada placa-mãe aceita apenas um dos dois. A frequência da memória importa menos do que o tipo e a capacidade, mas vale conferir se a placa suporta a velocidade que você está comprando. Comprar um pente mais rápido do que a placa aguenta não estraga nada, só faz ele rodar mais devagar.
+
+A fonte precisa ter potência suficiente para alimentar tudo, com uma margem de segurança. Existem calculadoras online que estimam o consumo com base nas peças escolhidas. A placa de vídeo é o componente que mais consome, então ela dita boa parte da exigência da fonte. O gabinete, por sua vez, precisa comportar o tamanho da placa-mãe, o comprimento da placa de vídeo e a altura do cooler do processador.
+
+## Ferramentas e cuidados antes de começar
+
+Você não precisa de muita coisa para montar um PC. Uma chave Phillips pequena resolve quase tudo. Muitos gabinetes já vêm com parafusos e algumas peças de fixação. Uma pulseira antiestática é útil, mas não obrigatória. Se não tiver, basta tocar em uma superfície metálica aterrada antes de mexer nos componentes. Evite montar em cima de tapete ou com roupa que gera muita estática.
+
+Separe um espaço limpo e bem iluminado. Mesa grande ajuda bastante, porque você vai espalhar peças e cabos. Guarde as caixas e os plásticos até terminar a montagem. Se algo der errado, você pode devolver ou trocar a peça com mais facilidade. Tenha o manual da placa-mãe por perto, seja impresso ou no celular. Ele mostra onde cada cabo entra e qual slot usar para a memória.
+
+Não force nada. Componentes de computador encaixam com pouca resistência. Se algo parece exigir muita força, provavelmente está no lugar errado ou invertido. Esse é o conselho mais repetido por quem monta PCs há anos, e é verdade. Forçar um processador no soquete pode entortar pinos e inutilizar a placa-mãe.
+
+## Passo a passo da montagem, na ordem que funciona
+
+A ordem abaixo é a mais usada por quem monta PCs com frequência. Ela facilita o acesso aos componentes antes de tudo estar preso dentro do gabinete.
+
+- Prepare a bancada. Coloque a placa-mãe em cima da caixa dela ou de uma superfície antiestática. Não monte direto sobre tapete ou mesa de metal.
+
+- Instale o processador. Levante a alavanca do soquete, alinhe a seta do processador com a seta do soquete e encaixe sem pressionar. Baixe a alavanca devagar.
+
+- Coloque o cooler do processador. Se for o cooler que veio com a CPU, ele já tem pasta térmica aplicada. Se for um cooler separado, aplique uma pequena quantidade de pasta no centro do processador.
+
+- Encaixe a memória RAM. Abra as travas dos slots, alinhe o encaixe do pente com o da placa e pressione até ouvir o clique. Se for usar dois pentes, consulte o manual para saber quais slots usar.
+
+- Instale o SSD M.2, se for usar. Ele entra em um ângulo leve e é parafusado na placa. Se for SSD SATA ou HD, deixe para instalar depois de fixar a placa no gabinete.
+
+- Encaixe a placa-mãe no gabinete. Confira se os espaçadores estão nos lugares certos e parafuse sem apertar demais.
+
+- Instale a fonte. Posicione conforme o gabinete pede, geralmente com a ventoinha para baixo, e parafuse.
+
+- Conecte os cabos de energia. O cabo de 24 pinos vai na placa-mãe, o de 8 pinos alimenta o processador. A placa de vídeo usa cabos próprios, que variam conforme o modelo.
+
+- Ligue os cabos de painel. São os fios pequenos que conectam botão de ligar, reset e LEDs. O manual da placa-mãe mostra a posição exata.
+
+- Instale a placa de vídeo. Ela entra no slot PCIe mais próximo do processador. Empurre até travar e parafuse na lateral do gabinete.
+
+Depois de tudo conectado, revise antes de ligar. Confira se nenhum cabo está preso em ventoinha, se a memória está bem encaixada e se a fonte está no interruptor certo. Ligue o PC e veja se a tela de BIOS aparece. Se não aparecer, não entre em pânico. Na maioria das vezes é um cabo mal encaixado ou memória fora do lugar.
+
+## O primeiro boot e a instalação do sistema
+
+Quando a tela de BIOS aparece, você já passou da parte mais difícil. Essa tela mostra se o processador, a memória e o armazenamento foram reconhecidos. Se algum item não aparece, desligue, reencaixe a peça e tente de novo. Aproveite para conferir se a memória está rodando na frequência esperada. Muitas placas ativam um perfil de desempenho que precisa ser habilitado manualmente.
+
+Com tudo reconhecido, é hora de instalar o sistema operacional. Você vai precisar de um pendrive com o instalador, criado a partir do site oficial do sistema que escolher. Conecte o pendrive, reinicie o PC e entre no menu de boot. A instalação em si é guiada e leva menos de meia hora na maioria dos casos. Depois, instale os drivers da placa-mãe e da placa de vídeo, que geralmente estão no site do fabricante.
+
+Vale instalar um programa para monitorar temperaturas. Isso ajuda a perceber se o cooler está funcionando direito ou se o gabinete precisa de mais ventoinhas. Temperaturas muito altas em uso leve indicam problema de montagem ou de fluxo de ar. Não precisa virar especialista em refrigeração, só acompanhar de vez em quando nos primeiros dias.
+
+## Erros comuns de quem monta o primeiro PC
+
+O erro mais clássico é esquecer o cabo de energia do processador. Ele é separado do cabo principal da placa-mãe e muita gente acha que só o de 24 pinos basta. Sem ele, o PC liga as ventoinhas mas não dá vídeo. Outro erro comum é instalar a memória nos slots errados quando se usa dois pentes. Isso pode fazer o computador não ligar ou rodar em canal único, perdendo desempenho.
+
+Comprar fonte barata demais é uma economia que sai caro. Fonte de marca desconhecida pode não entregar a potência prometida e colocar em risco todos os outros componentes. Não precisa comprar a fonte mais cara, mas escolher uma marca com reputação e certificação de eficiência é um seguro barato. O mesmo vale para o gabinete. Um modelo muito apertado dificulta a montagem e atrapalha a refrigeração.
+
+Esquecer de remover o plástico do cooler é outro clássico. Muitos coolers vêm com uma película protetora na base, e se ela não for retirada, o processador esquenta demais. Também é comum apertar demais os parafusos da placa-mãe ou do cooler, o que pode danificar a placa. Aperte até sentir resistência e pare. Não precisa fazer força de torquímetro.
+
+## Como escolher peças sem gastar demais
+
+Montar um PC é uma questão de equilíbrio. Não adianta colocar um processador top de linha com uma placa de vídeo fraca, porque um vai limitar o outro. O ideal é distribuir o orçamento conforme o uso. Para jogos, a placa de vídeo costuma levar a maior fatia. Para trabalho com edição, o processador e a memória pesam mais. Para uso básico, o SSD é o que traz a maior sensação de velocidade no dia a dia.
+
+Comprar peças de gerações anteriores pode ser uma boa economia. Um processador de uma ou duas gerações atrás ainda dá conta de muita coisa e costuma custar bem menos. O mesmo vale para placas de vídeo. O risco é encontrar peças usadas em mau estado, então vale comprar de vendedores confiáveis e testar tudo assim que chegar. Se possível, peça nota fiscal, mesmo em compra usada.
+
+Monte a lista em um site de comparação de preços e acompanhe por algumas semanas. Preços de hardware oscilam bastante, e promoções aparecem com frequência. Não precisa esperar meses, mas comprar tudo de uma vez sem comparar costuma sair mais caro. Se uma peça essencial está muito acima do orçamento, veja se dá para começar com uma configuração mais simples e fazer upgrade depois.
+
+## Depois de montar, o que fazer nos primeiros dias
+
+Nos primeiros dias, use o PC normalmente e fique atento a barulhos estranhos. Ventoinha batendo em cabo, ruído de vibração no gabinete ou apitos vindos da fonte são sinais de que algo precisa de ajuste. Verifique as temperaturas depois de algumas horas de uso. Se estiverem muito altas, reabra o gabinete e confira se o cooler está bem preso e se a pasta térmica foi aplicada direito.
+
+Atualize os drivers e o sistema operacional. Isso melhora o desempenho e corrige problemas de compatibilidade. Faça backup dos arquivos importantes desde o começo. Um SSD pode falhar como qualquer outro componente, e perder trabalho por falta de backup é uma dor que dá para evitar. Se o PC for para jogos, instale os programas de monitoramento e ajuste as configurações gráficas conforme a capacidade da máquina.
+
+Guarde as caixas e os manuais por um tempo. Se precisar acionar a garantia de alguma peça, eles ajudam. Também é útil anotar a configuração completa em algum lugar, com modelo de cada componente. Isso facilita pedir ajuda em fóruns ou grupos quando surgir algum problema. A comunidade de montagem de PCs no Brasil é bem ativa e costuma responder rápido.
+
+Montar o primeiro computador é uma experiência que mistura nervosismo e satisfação. No começo parece que são peças demais e informação demais, mas conforme você vai encaixando cada componente, o processo fica intuitivo. O importante é não ter pressa, conferir a compatibilidade antes de comprar e aceitar que algum ajuste vai ser necessário. Ninguém acerta tudo de primeira, e isso não é motivo para desanimar.
+
+Depois que a máquina liga e o sistema carrega, a sensação de ter feito isso com as próprias mãos compensa. Você passa a entender melhor o que está dentro do gabinete, o que facilita upgrades e pequenos consertos no futuro. E se algo der errado, a maior parte dos problemas tem solução simples, um cabo, um encaixe, uma configuração de BIOS. Com calma e atenção, a primeira montagem vira só o começo de uma habilidade útil por muitos anos.

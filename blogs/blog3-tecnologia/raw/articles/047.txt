@@ -1,0 +1,115 @@
+Você já viu essa cena. Chega o fim de semana, alguém sugere um churrasco na laje, na garagem do prédio ou na casa da praia, e surge a pergunta inevitável. Quem leva a caixa de som? Aí começa a procura. O dono do aparelho olha a etiqueta na caixa, vê aquele número grande em watts, pensa "isso deve ser bom" e leva. Quando o volume sobe e a festa engrena, o som começa a distorcer, o grave some no meio da multidão e a bateria morre antes do bolo.
+
+A potência estampada na caixa é só um pedaço da história. Ela diz muito pouco sobre como o aparelho vai se comportar num ambiente cheio de gente, com vento, com paredes, com celular tocando música por Bluetooth a dez metros de distância. Tem uma série de detalhes que fazem diferença real entre uma caixa que anima a festa e uma que vira peso de carregar.
+
+Pensa na caixa de som como um carro. A potência é o cavalo no papel. Mas ninguém compra carro só olhando isso. Você quer saber se cabe a mala, se o consumo é razoável, se o câmbio responde bem, se o ar-condicionado dá conta no verão. Com caixa de som é igual. Vou te mostrar o que olhar de verdade antes de decidir, com exemplos que você encontra no dia a dia brasileiro.
+
+## O que a potência realmente significa
+
+Watts é uma medida de energia elétrica, não de volume percebido. Quando você vê "500W" numa caixa, isso pode significar coisas bem diferentes dependendo de como o fabricante mediu. Existe potência RMS, potência de pico, potência musical e por aí vai. A RMS é a mais honesta, porque indica o quanto a caixa aguenta tocar de forma contínua sem distorcer. A de pico é aquele número inflado que aparece na embalagem só pra impressionar.
+
+Uma caixa com 50W RMS bem projetada pode tocar mais alto e mais limpo do que uma com 200W de pico mal construída. Isso acontece porque eficiência importa. Um alto-falante sensível transforma energia em som com menos esforço. Já um alto-falante ruim precisa de muito mais watts pra chegar no mesmo volume, e ainda distorce no caminho.
+
+Tem outro ponto. A potência sozinha não te diz nada sobre a qualidade do som. Uma caixa pode tocar alto e ainda assim soar abafada, com aquele grave embolado que parece que a música está tocando dentro de um balde. O que importa é o conjunto. Alto-falante, amplificador, gabinete, bateria, tudo trabalhando junto.
+
+Então quando você for comparar duas caixas, procure o valor RMS. Se a embalagem só mostra "1000W" sem especificar, desconfie. É provável que seja pico. E pico é só um piscar de olhos, não o que a caixa entrega durante a festa inteira.
+
+## Tamanho do alto-falante e resposta de frequência
+
+O tamanho do alto-falante tem relação direta com a capacidade de reproduzir graves. Um woofer de 6 polegadas não vai te dar aquele grave que você sente no peito. Um de 10 ou 12 polegadas, sim, desde que o gabinete seja bem feito e o amplificador dê conta. Mas tem um detalhe. Alto-falante grande em caixa pequena e mal projetada pode soar pior do que um médio bem ajustado.
+
+A resposta de frequência te diz quais notas a caixa consegue reproduzir. O ouvido humano percebe mais ou menos de 20 Hz a 20 kHz. Uma caixa que desce até 50 Hz já entrega um grave razoável pra música popular. Se ela só chega a 80 Hz, o bumbo da bateria e o baixo vão soar fracos, sem peso.
+
+Você não precisa decorar números. Basta prestar atenção em como a caixa soa. Leva uma música que você conhece bem, de preferência uma que tenha batida forte e vocal limpo. Ouve com atenção. O grave está presente sem embolar? O vocal está claro ou parece que a pessoa está cantando com a mão na frente da boca? O agudo fere o ouvido ou é suave?
+
+Esses testes valem mais do que qualquer ficha técnica. E se você puder ouvir a caixa numa loja antes de comprar, melhor ainda. Coloca no volume que você usaria numa festa e vê se ela aguenta sem distorcer.
+
+## Bateria, autonomia e o famoso "acabou no meio da festa"
+
+Esse é provavelmente o ponto que mais estraga festa. A caixa toca bem, o som é gostoso, mas depois de três horas ela pede ar. A bateria acaba e a música para. Se a festa tem tomada por perto, tudo bem. Mas se é na praia, no parque ou no quintal longe da tomada, você depende da bateria.
+
+A autonomia anunciada costuma ser medida em condições ideais. Volume médio, luz apagada, Bluetooth conectado sem obstáculos. Na vida real, com volume alto, luz acesa e celular longe, a bateria dura menos. Então se a caixa promete 12 horas, conte com umas 6 ou 7 tocando forte.
+
+Outra coisa. Bateria de chumbo é mais barata e mais pesada. Bateria de lítio é mais leve, dura mais e custa mais caro. Se você vai carregar a caixa na mão por aí, o peso faz diferença. Uma caixa de 15 kg cansa depois de dois quarteirões.
+
+Vale também olhar se a caixa carrega enquanto toca. Algumas permitem usar na tomada e carregar ao mesmo tempo. Outras não. Se você pretende usar na tomada por longos períodos, isso importa. E fique de olho no tempo de recarga. Se leva 6 horas pra carregar e só toca 4, é um sinal de que a bateria não é o forte.
+
+## Conectividade, entradas e o que você vai plugar
+
+Bluetooth é padrão hoje, mas nem todo Bluetooth é igual. Versões mais recentes têm alcance maior, consomem menos bateria e sofrem menos interferência. Se você vai deixar o celular longe da caixa, ou se tem muita gente com celular por perto, isso conta. Uma caixa com Bluetooth 4.2 pode falhar onde uma com 5.0 vai bem.
+
+Mas não é só Bluetooth. Olha as entradas. Tem entrada P10 pra microfone? Tem entrada RCA ou P2 pra ligar um notebook, um mixer, um instrumento? Tem entrada USB pra pendrive? Tem slot pra cartão de memória? Cada uma dessas pode salvar sua festa em situações específicas.
+
+Se você canta, a entrada de microfone com controle de eco e volume separado é quase obrigatória. Sem isso, o vocal some no meio da música. Se você é DJ amador, uma entrada RCA ou P10 pra ligar a controladora faz diferença. Se você só quer tocar playlist do celular, Bluetooth resolve.
+
+Tem também a questão do pareamento. Algumas caixas permitem conectar duas ao mesmo tempo, criando som estéreo ou dobrando o volume. Isso é ótimo pra festas maiores. Outras têm função de link entre várias unidades, formando um sistema de som espalhado pelo ambiente. Se você pretende crescer depois, vale considerar.
+
+E não esquece do alcance. Bluetooth de celular pra caixa costuma funcionar bem até uns 10 metros sem parede no meio. Com parede, cai pra 5 ou 6. Se a caixa fica no canto e você circula pela casa, pode falhar. Algumas caixas têm receptor mais potente e aguentam mais.
+
+## Resistência, peso e transporte
+
+Se a festa é na praia, na piscina ou na chuva, a resistência à água e poeira é essencial. A sigla IP seguida de dois números indica isso. IPX4 aguenta respingos. IPX7 aguenta imersão temporária. IP67 aguenta poeira e imersão. Não precisa ser à prova de água se você só usa em ambiente coberto, mas se for levar pra fora, pense nisso.
+
+O peso é outro fator que muita gente ignora na hora da compra. Uma caixa de 20 kg parece tranquila na loja. Depois de carregar do carro até a casa da praia, subir escada, desviar de móvel, ela vira um problema. Se você vai transportar com frequência, procure algo abaixo de 10 kg. Se fica fixa na garagem, pode ser mais pesada.
+
+Alças e rodinhas ajudam. Algumas caixas vêm com alça de ombro, outras com rodinhas tipo mala. Se você vai carregar sozinho, isso é alívio. E olha o formato. Caixas muito largas são difíceis de abraçar. Caixas cilíndricas rolam no porta-malas. Caixas retangulares com alça no topo são mais fáceis de equilibrar.
+
+Tem também a questão da proteção. Uma capa de transporte evita arranhão e poeira. Algumas caixas já vêm com capa, outras vendem separado. Se você guarda a caixa na garagem, uma capa simples já resolve.
+
+## Marcas, preço e o que esperar em cada faixa
+
+Não vou citar modelo específico porque as linhas mudam rápido e o que vale hoje pode não valer amanhã. Mas dá pra falar em faixas de preço. Caixas de entrada, na faixa dos trezentos a seiscentos reais, costumam ter potência modesta, bateria curta e construção simples. Servem pra uso leve, quarto, quintal pequeno, reunião de poucos amigos.
+
+Na faixa dos mil a dois mil reais, você encontra caixas com melhor acabamento, bateria maior, som mais equilibrado e entradas variadas. É onde mora a maioria das opções boas pra festa de fim de semana. Acima disso, você entra em som profissional, com potência de verdade, alto-falantes maiores e construção robusta. Mas aí o peso e o preço sobem junto.
+
+Marcas conhecidas no Brasil têm assistência técnica espalhada e peças de reposição. Marcas desconhecidas podem ser mais baratas, mas se der problema, você fica na mão. Vale pesquisar se a marca tem representante no país, se vende peça, se tem autorizada perto de você.
+
+E não caia na tentação de comprar só pelo número de watts. Uma caixa de 300W RMS de marca boa pode ser melhor que uma de 1000W de marca duvidosa. O barato às vezes sai caro, principalmente quando a caixa começa a distorcer na primeira festa e você percebe que o som não presta.
+
+## Passo a passo pra escolher sua caixa
+
+Antes de comprar, faz uma lista do que você precisa. Responde essas perguntas com honestidade.
+
+- Onde você vai usar? Sala, quintal, praia, carro, churrasco na laje?
+
+- Quantas pessoas costumam estar na festa? Cinco, vinte, cinquenta?
+
+- Vai ter microfone? Vai ter instrumento? Vai ter DJ?
+
+- Tem tomada no local ou depende de bateria?
+
+- Você vai carregar sozinho? Tem escada no caminho?
+
+- Pretende usar na chuva ou perto de piscina?
+
+- Qual seu orçamento real, sem estourar o cartão?
+
+Com as respostas na mão, vá pra loja ou site e filtre. Olhe a potência RMS, não a de pico. Veja o tamanho do alto-falante. Confira a autonomia real, não a ideal. Veja se tem as entradas que você precisa. Pese a caixa na mão se possível. Ouça com uma música que você conhece.
+
+Se não puder ouvir na loja, procure vídeos de gente testando. Mas cuidado. Vídeo no YouTube comprime o áudio e você não sente o grave de verdade. Use o vídeo pra ver as funções, não pra julgar o som.
+
+Depois de comprar, teste em casa antes da festa. Coloca no volume que você pretende usar e vê se distorce. Verifica o alcance do Bluetooth. Testa a bateria. Assim você descobre os limites antes de precisar deles.
+
+E lembra de uma coisa. Caixa de som não é só volume. É conforto, é praticidade, é confiabilidade. Uma caixa que toca um pouco menos, mas nunca falha, vale mais do que uma que toca alto e morre no meio da festa.
+
+## Erros comuns que você pode evitar
+
+Tem uma lista de armadilhas que aparece sempre. A primeira é comprar pelo watts de pico. Já falei disso, mas vale reforçar. O número grande na caixa é marketing. O RMS é engenharia.
+
+A segunda é ignorar o ambiente. Caixa pequena em salão grande não rende. Caixa grande em quarto pequeno embola o som. O espaço manda no resultado. Se você vai usar em lugares diferentes, procure algo versátil, com equalização ajustável.
+
+A terceira é esquecer os cabos. Bluetooth é prático, mas se a bateria do celular acabar, você precisa de P2 ou RCA. Leva cabo na mochila. Leva adaptador. Leva carregador portátil.
+
+A quarta é não testar antes. Muita gente compra, guarda na caixa e só abre no dia da festa. Aí descobre que a caixa não pareia, que o microfone chia, que a bateria não segura. Testa com antecedência.
+
+A quinta é comprar por impulso. Promoção relâmpago, cupom, frete grátis. Tudo isso é bom, mas não pode ser o único critério. Pesquisa antes, compara depois, compra com calma.
+
+## O que realmente importa no fim
+
+No fim das contas, a caixa de som certa é aquela que resolve o seu problema. Não existe melhor caixa do mundo, existe caixa adequada pro seu uso. Se você faz festa pequena, uma caixa média com boa bateria resolve. Se você faz festa grande, precisa de potência real, alto-falante grande e construção robusta.
+
+O som é uma experiência. Você sente no corpo, não só no ouvido. Uma caixa boa te faz querer dançar, conversar, ficar. Uma caixa ruim te faz querer desligar. A diferença não está só no número de watts. Está no conjunto, no cuidado, no projeto.
+
+Então da próxima vez que alguém perguntar "quantos watts tem?", você pode responder com outra pergunta. "Quantos watts RMS? Qual o tamanho do woofer? Quanto dura a bateria? Tem entrada de microfone? Aguenta respingo?" Aí a conversa fica interessante.
+
+Escolher caixa de som pra festa é menos sobre especificação e mais sobre entender o que você precisa. Leva tempo, dá trabalho, mas o resultado vale. Uma festa com som bom é outra coisa. E você merece isso.

@@ -1,0 +1,109 @@
+Quando você começa a investir em renda fixa, logo esbarra em uma escolha que parece simples, mas muda bastante o resultado lá na frente. Prefixada ou pós-fixada? As duas opções existem nos mesmos lugares, CDBs, LCIs, LCAs, títulos do Tesouro, debêntures incentivadas, e ainda assim funcionam de formas bem diferentes. A decisão não é sobre qual é melhor de forma absoluta, e sim sobre qual combina com o seu momento, seu objetivo e o que você espera que aconteça com a economia brasileira nos próximos meses e anos.
+
+Muita gente erra essa escolha por impulso. Vê uma taxa de 14% ao ano em um título prefixado e acha que é dinheiro fácil. Ou ouve falar que o pós-fixado rende mais quando a Selic sobe e corre para ele sem entender o que está comprando. O problema é que cada um desses títulos tem um comportamento próprio quando os juros mudam, e essa diferença pode significar ganhar bem mais ou ficar preso a um rendimento ruim por muito tempo.
+
+A ideia aqui é destravar essa escolha de um jeito prático. Você vai entender como cada tipo funciona na prática, o que influencia o rendimento, quais riscos existem e em que situações cada um costuma fazer mais sentido. Sem promessa de retorno, sem fórmula mágica, só o raciocínio que você precisa para decidir com a própria cabeça.
+
+## O que realmente significa prefixada e pós-fixada
+
+A diferença central está no que você sabe no momento da compra. Na renda fixa prefixada, a taxa é combinada antes. Se você aplica em um CDB prefixado a 12% ao ano, esse é o número que vai valer até o vencimento, independentemente do que aconteça com a Selic, a inflação ou o dólar. Você sabe desde o primeiro dia quanto vai receber se levar o título até o fim. Isso traz uma sensação de controle que muita gente valoriza.
+
+Já na renda fixa pós-fixada, você não sabe a taxa final. O que existe é uma referência, geralmente a Selic ou o CDI, e o título paga essa referência mais um adicional, ou um percentual dela. Um CDB que paga 102% do CDI, por exemplo, vai render conforme o CDI se mover ao longo do tempo. Se o CDI subir, seu rendimento sobe. Se cair, seu rendimento cai. Você só vai saber o total no fim, ou acompanhando mês a mês.
+
+Existe ainda um terceiro grupo, o híbrido, que mistura uma parte prefixada com a inflação. O Tesouro IPCA+ é o exemplo mais conhecido. Ele paga a variação da inflação mais uma taxa fixa contratada. Vale conhecer porque, em muitas decisões, ele aparece como alternativa tanto à prefixada quanto à pós-fixada, mas o foco aqui é a escolha entre as duas primeiras.
+
+## Por que a Selic muda tudo nessa história
+
+A Selic é a taxa básica de juros da economia brasileira. Ela influencia praticamente todos os outros juros, do crédito ao rendimento dos títulos públicos. Quando o Banco Central sobe a Selic para segurar a inflação, os títulos pós-fixados atrelados ao CDI ou à própria Selic passam a render mais automaticamente. Quem estava neles se beneficia sem fazer nada.
+
+Com os prefixados é diferente. A taxa que você contratou fica congelada. Se a Selic subir depois da sua compra, seu título continua pagando aquela taxa antiga, que agora pode parecer baixa perto do que o mercado oferece. Por outro lado, se a Selic cair, o prefixado vira uma vantagem, porque você garantiu um rendimento que os novos títulos não pagam mais.
+
+Essa dinâmica explica por que o prefixado costuma ser visto como uma aposta na queda dos juros, enquanto o pós-fixado é mais confortável em momentos de incerteza, quando ninguém sabe direito para onde a Selic vai. Não é uma regra rígida, mas ajuda a entender o comportamento dos dois.
+
+## O que acontece se você precisar vender antes do vencimento
+
+Esse é um ponto que muita gente ignora e depois se arrepende. Se você leva o título até o vencimento, o prefixado entrega exatamente a taxa combinada e o pós-fixado entrega a referência acumulada mais o adicional. Sem surpresa.
+
+Mas se você precisa do dinheiro antes, entra no mercado secundário, e aí a história muda. Títulos prefixados sofrem marcação a mercado. Isso significa que o preço deles oscila conforme os juros e as expectativas mudam. Se a Selic subiu depois da sua compra, o seu prefixado antigo tende a valer menos se você tentar vender antes do prazo. Você pode até ter prejuízo em relação ao que investiu, mesmo o título sendo seguro.
+
+Os pós-fixados sofrem menos com isso, porque a taxa deles acompanha o momento. A oscilação de preço é bem menor. Em troca, você abre mão de saber antecipadamente quanto vai ganhar. É um trade-off clássico entre previsibilidade e flexibilidade.
+
+## Quando o prefixado costuma fazer sentido
+
+O prefixado brilha quando você tem um objetivo com data definida e acredita que os juros vão cair. Pensa em alguém que vai precisar de dinheiro daqui a três anos para dar entrada em um apartamento. Se essa pessoa trava uma taxa de 13% ao ano em um título prefixado e a Selic cai para 9% no período, ela garantiu um rendimento que o mercado não oferece mais. Sai ganhando.
+
+Outro caso é quando você quer saber exatamente quanto vai receber. Tem gente que se planeja melhor assim. Saber que daqui a dois anos terá um valor específico ajuda a organizar metas, mesmo que abra mão de ganhos maiores caso os juros subam. É uma escolha de conforto psicológico tanto quanto financeira.
+
+O prefixado também pode ser interessante quando a curva de juros está inclinada, ou seja, quando as taxas para prazos mais longos estão bem acima das curtas. Isso costuma acontecer quando o mercado espera queda de juros no futuro. Travar essas taxas altas pode ser vantajoso, mas exige estômago, porque até o vencimento o título pode oscilar bastante.
+
+## Quando o pós-fixado costuma fazer sentido
+
+O pós-fixado é o porto seguro de quem não quer apostar. Se você não tem certeza sobre o rumo dos juros, ele acompanha o movimento e pronto. Em momentos de Selic alta, como o Brasil viveu em vários períodos recentes, ele entrega rendimentos bons sem exigir nenhuma previsão.
+
+Ele também é ótimo para a reserva de emergência. Aquele dinheiro que você pode precisar a qualquer momento precisa de liquidez e baixa oscilação. Um CDB de liquidez diária que paga 100% do CDI ou mais cumpre esse papel sem sustos. Você resgata quando quiser, sem se preocupar com marcação a mercado pesada.
+
+Quem está começando também costuma se dar bem com pós-fixados. A curva de aprendizado é menor, o risco de errar a aposta é praticamente nulo, e você vai entendendo na prática como os juros se movem enquanto o dinheiro rende. Depois, com mais experiência, dá para explorar prefixados com mais segurança.
+
+## O papel da inflação nessa escolha
+
+Tem um detalhe que muda o jogo. Prefixado e pós-fixado protegem de coisas diferentes. O prefixado trava a taxa nominal, mas não te protege da inflação. Se você contrata 12% ao ano e a inflação vem a 8%, seu ganho real é pequeno. Se a inflação dispara para 15%, você perde poder de compra mesmo recebendo os 12%.
+
+O pós-fixado atrelado à Selic também não é proteção automática contra inflação, mas costuma acompanhar melhor os ciclos. Quando a inflação sobe, o Banco Central tende a subir a Selic, e seu rendimento sobe junto. Não é uma garantia, mas é uma correlação que ajuda.
+
+Se o seu objetivo é proteger poder de compra no longo prazo, o Tesouro IPCA+ costuma ser mais indicado do que os dois. Ele soma a inflação oficial mais uma taxa fixa. Mas se a escolha é só entre prefixado e pós-fixado, vale pensar em qual cenário você teme mais. Inflação descontrolada ou juros em queda? A resposta ajuda a decidir.
+
+## Riscos que você precisa considerar nos dois casos
+
+Renda fixa não é renda sem risco. No prefixado, o principal risco é a marcação a mercado se você vender antes. Também existe o risco de crédito, se o emissor quebrar. Um CDB de banco pequeno paga mais, mas tem mais chance de dar problema do que um título do Tesouro Nacional. O FGC cobre até um limite por CPF e por instituição, o que ajuda, mas não elimina a necessidade de olhar quem está emitindo.
+
+No pós-fixado, o risco de mercado é menor, mas o risco de crédito continua igual. E tem um risco que muita gente esquece, o de reinvestimento. Se a Selic cai, quando seu título vencer, você vai reinvestir a uma taxa menor. No prefixado, você já garantiu a taxa lá atrás. No pós-fixado, você fica exposto ao que o futuro reserva.
+
+Existe também o risco de liquidez. Alguns títulos só permitem resgate no vencimento. Se você precisar do dinheiro antes, pode não conseguir ou conseguir em condições ruins. Sempre leia as regras do título antes de aplicar.
+
+## Como montar uma estratégia que mistura os dois
+
+Você não precisa escolher um lado para sempre. A maioria dos investidores que pensa a longo prazo acaba combinando os dois tipos. Uma parte em pós-fixado para a reserva e para a parcela que precisa de flexibilidade. Outra parte em prefixado para objetivos com data marcada e para aproveitar taxas altas quando elas aparecem.
+
+Uma forma prática de pensar é dividir por finalidade. Dinheiro de emergência vai para pós-fixado com liquidez diária. Dinheiro de metas de médio prazo, tipo viagem ou entrada de imóvel, pode ir para prefixado se a taxa estiver atraente e você não precisar mexer antes. Dinheiro de aposentadoria, que tem horizonte longo, costuma se beneficiar do IPCA+, mas isso já é outra conversa.
+
+O importante é não deixar a ansiedade do momento decidir por você. Ver uma taxa de 15% no prefixado e correr para ela sem pensar no prazo e na liquidez é um erro comum. Assim como deixar tudo no pós-fixado e nunca travar taxas boas quando elas aparecem também tem seu custo de oportunidade.
+
+## Checklist prático para decidir hoje
+
+Antes de aplicar, passe por estas perguntas. Elas ajudam a clarear a escolha sem complicação.
+
+- Qual é o objetivo desse dinheiro e quando você vai precisar dele?
+
+- Você aguenta ver o valor do título oscilar se precisar vender antes do vencimento?
+
+- Você tem uma opinião sobre o rumo da Selic nos próximos meses ou prefere não apostar?
+
+- Esse dinheiro faz parte da sua reserva de emergência ou é um investimento de prazo maior?
+
+- O emissor do título é sólido? Você conferiu se está dentro da cobertura do FGC, se for o caso?
+
+- A liquidez é diária, no vencimento ou existe uma janela específica de resgate?
+
+- Você já tem outros investimentos? Como esse novo encaixa no que você já montou?
+
+Respondendo isso com honestidade, a escolha costuma aparecer sozinha. Se você precisa de flexibilidade e não quer apostar, pós-fixado. Se tem prazo definido e acredita em queda de juros, prefixado. Se quer os dois, divida. Não existe resposta certa universal, existe resposta certa para o seu caso.
+
+## A escolha depende do seu cenário
+
+Um erro frequente é comparar taxas sem olhar o prazo. Um prefixado de 13% para dez anos não é melhor do que um pós-fixado de 100% do CDI para dois anos. São coisas diferentes, com riscos e liquidez diferentes. Comparar só o número leva a decisões ruins.
+
+Outro erro é ignorar o imposto de renda. Em renda fixa, o IR segue uma tabela regressiva. Quanto mais tempo o dinheiro fica aplicado, menor a alíquota, até um piso. Isso vale para os dois tipos, mas muda o cálculo de quem resgata cedo. Se você pretende sair em seis meses, o imposto come uma parte boa do rendimento.
+
+Tem também quem confunda CDI com Selic. Eles andam juntos, mas não são idênticos. O CDI costuma ficar muito próximo da Selic, mas com pequena diferença. Em prazos longos, isso pesa. Ler o regulamento do título e entender a referência exata evita surpresa.
+
+E existe o clássico, aplicar tudo em um só tipo e só perceber o problema quando o cenário muda. Diversificar entre prefixado e pós-fixado, e às vezes incluir um IPCA+, é uma forma de não depender de uma única aposta dar certo.
+
+## O que fazer na prática nos próximos meses
+
+Se você está começando agora, uma boa sequência é montar primeiro a reserva de emergência em pós-fixado com liquidez diária. Depois, com essa base pronta, começar a olhar prefixados para objetivos específicos, sempre conferindo se a taxa faz sentido para o prazo e se você não vai precisar do dinheiro antes.
+
+Acompanhar a Selic e as expectativas do mercado ajuda, mas não precisa virar obsessão. O Boletim Focus, divulgado pelo Banco Central, traz as projeções de juros e inflação. Ler de vez em quando dá noção do cenário sem exigir que você acerte previsões. Ninguém acerta sempre, e a estratégia boa é aquela que funciona mesmo quando você erra.
+
+Se surgir uma taxa prefixada que parece muito boa, pergunte por que ela está tão alta. Às vezes é oportunidade, às vezes é sinal de risco maior ou de prazo longo demais para o seu perfil. Taxa alta sem contexto é armadilha.
+
+Renda fixa prefixada ou pós-fixada não é uma disputa com vencedor fixo. É uma ferramenta para encaixar no seu plano. Quem entende o que cada uma faz, quando rende mais e quais riscos carrega, decide com mais tranquilidade e menos arrependimento. O resto é ajuste conforme a vida acontece e os juros mudam.
